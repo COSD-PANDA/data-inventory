@@ -84,7 +84,9 @@
             "describedBy": "http://seshat.datasd.org/sde/addrapn/address_apn_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "references": "null",
-            "keyword": ["GIS"]
+            "keyword": [
+                "GIS"
+            ]
         },
         {
             "title": "Bike Master Plan",
@@ -166,7 +168,9 @@
             "describedBy": "http://seshat.datasd.org/sde/bike_master_plan/bike_master_plan_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "references": "null",
-            "keyword": ["GIS"]
+            "keyword": [
+                "GIS"
+            ]
         },
         {
             "title": "Bike Routes",
@@ -248,7 +252,9 @@
             "describedBy": "http://seshat.datasd.org/sde/bike_route/bike_routes_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "references": "null",
-            "keyword": ["GIS"]
+            "keyword": [
+                "GIS"
+            ]
         },
         {
             "title": "Accounts in the City's Annual Budget",
@@ -290,7 +296,9 @@
             "describedBy": "http://seshat.datasd.org/budget/budget_reference_accounts_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "references": "null",
-            "keyword": ["Budget"]
+            "keyword": [
+                "Budget"
+            ]
         },
         {
             "title": "Departments in the City's Annual Budget",
@@ -332,7 +340,9 @@
             "describedBy": "http://seshat.datasd.org/budget/budget_reference_depts_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "references": "null",
-            "keyword": ["Budget"]
+            "keyword": [
+                "Budget"
+            ]
         },
         {
             "title": "Funds in the City's Annual Budget",
@@ -374,7 +384,9 @@
             "describedBy": "http://seshat.datasd.org/budget/budget_reference_funds_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "references": "null",
-            "keyword": ["Budget"]
+            "keyword": [
+                "Budget"
+            ]
         },
         {
             "title": "Projects in the City's Annual Budget",
@@ -416,7 +428,9 @@
             "describedBy": "http://seshat.datasd.org/budget/budget_reference_projects_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "references": "null",
-            "keyword": ["Budget"]
+            "keyword": [
+                "Budget"
+            ]
         },
         {
             "title": "Business Improvement Districts",
@@ -498,7 +512,9 @@
             "describedBy": "http://seshat.datasd.org/sde/bus_improvement_districts/bids_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "references": "null",
-            "keyword": ["GIS"]
+            "keyword": [
+                "GIS"
+            ]
         },
         {
             "title": "Business Tax Certificates",
@@ -634,7 +650,10 @@
             "describedBy": "http://seshat.datasd.org/campaign_fin/financial_support_recipients_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "references": "null",
-            "keyword": ["Campaign Finance", "Election"]
+            "keyword": [
+                "Campaign Finance",
+                "Election"
+            ]
         },
         {
             "title": "Capital Improvement Projects Actuals by Fiscal Year",
@@ -754,7 +773,9 @@
             "describedBy": "http://seshat.datasd.org/budget/capital_actuals_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "references": "null",
-            "keyword": ["Budget"]
+            "keyword": [
+                "Budget"
+            ]
         },
         {
             "title": "Capital Improvement Projects Actuals Project-to-Date",
@@ -874,7 +895,9 @@
             "describedBy": "http://seshat.datasd.org/budget/capital_actuals_ptd_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "references": "null",
-            "keyword": ["Budget"]
+            "keyword": [
+                "Budget"
+            ]
         },
         {
             "title": "Capital Improvement Projects Budget by Fiscal Year",
@@ -1007,7 +1030,9 @@
             "describedBy": "http://seshat.datasd.org/budget/capital_budget_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "references": "null",
-            "keyword": ["Budget"]
+            "keyword": [
+                "Budget"
+            ]
         },
         {
             "title": "Capital Improvement Projects Budget Project-to-Date",
@@ -1153,7 +1178,9 @@
             "describedBy": "http://seshat.datasd.org/budget/capital_budget_ptd_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "references": "null",
-            "keyword": ["Budget"]
+            "keyword": [
+                "Budget"
+            ]
         },
         {
             "title": "City Council Districts",
@@ -1234,7 +1261,9 @@
             "describedBy": "http://seshat.datasd.org/sde/council/council_districts_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "references": "null",
-            "keyword": ["GIS"]
+            "keyword": [
+                "GIS"
+            ]
         },
         {
             "title": "City-Owned Properties",
@@ -1486,7 +1515,9 @@
             "describedBy": "http://seshat.datasd.org/sde/block_grants/block_grants_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "references": "null",
-            "keyword": ["GIS"]
+            "keyword": [
+                "GIS"
+            ]
         },
         {
             "title": "Community Planning Districts",
@@ -1568,7 +1599,9 @@
             "describedBy": "http://seshat.datasd.org/sde/cmty_plan/cmty_plan_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "references": "null",
-            "keyword": ["GIS"]
+            "keyword": [
+                "GIS"
+            ]
         },
         {
             "title": "Complaints Evaluated by the Community Review Board on Police Practices",
@@ -2021,7 +2054,10 @@
             "describedBy": "http://seshat.datasd.org/campaign_fin/financial_support_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "references": "null",
-            "keyword": ["Campaign Finance", "Election"]
+            "keyword": [
+                "Campaign Finance",
+                "Election"
+            ]
         },
         {
             "title": "Fire Battalion Districts",
@@ -2102,7 +2138,9 @@
             "describedBy": "http://seshat.datasd.org/sde/fire_battalion/fire_battalion_districts_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "references": "null",
-            "keyword": ["GIS"]
+            "keyword": [
+                "GIS"
+            ]
         },
         {
             "title": "Fire/EMS Incident Problem Counts",
@@ -2423,7 +2461,9 @@
             "describedBy": "http://seshat.datasd.org/sde/fire_stations/fire_stations_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "references": "null",
-            "keyword": ["GIS"]
+            "keyword": [
+                "GIS"
+            ]
         },
         {
             "title": "General Plan Land Use",
@@ -2504,14 +2544,16 @@
             "describedBy": "http://seshat.datasd.org/sde/gp_land_use/gp_land_use_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "references": "null",
-            "keyword": ["GIS"]
+            "keyword": [
+                "GIS"
+            ]
         },
         {
             "title": "Get It Done Reports",
             "identifier": "get_it_done_reports",
             "@type": "dcat:Dataset",
             "issued": "2016-05-26",
-            "modified": "2019-09-17",
+            "modified": "2019-10-03",
             "accessLevel": "public",
             "publisher": {
                 "@type": "org:department",
@@ -2600,7 +2642,9 @@
             "references": [
                 "http://seshat.datasd.org/get_it_done_311/get_it_done_311_services_datasd.csv"
             ],
-            "keyword": ["Get It Done"]
+            "keyword": [
+                "Get It Done"
+            ]
         },
         {
             "title": "Get It Done Reports - 72-hour Parking Violation",
@@ -2642,7 +2686,9 @@
             "describedBy": "http://seshat.datasd.org/get_it_done_311/get_it_done_311_requests_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "references": "null",
-            "keyword": ["Get It Done"]
+            "keyword": [
+                "Get It Done"
+            ]
         },
         {
             "title": "Get It Done Reports - Graffiti",
@@ -2684,7 +2730,9 @@
             "describedBy": "http://seshat.datasd.org/get_it_done_311/get_it_done_311_requests_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "references": "null",
-            "keyword": ["Get It Done"]
+            "keyword": [
+                "Get It Done"
+            ]
         },
         {
             "title": "Get It Done Reports - Illegal Dumping",
@@ -2726,7 +2774,9 @@
             "describedBy": "http://seshat.datasd.org/get_it_done_311/get_it_done_311_requests_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "references": "null",
-            "keyword": ["Get It Done"]
+            "keyword": [
+                "Get It Done"
+            ]
         },
         {
             "title": "Get It Done Reports - Potholes",
@@ -2768,7 +2818,9 @@
             "describedBy": "http://seshat.datasd.org/get_it_done_311/get_it_done_311_requests_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "references": "null",
-            "keyword": ["Get It Done"]
+            "keyword": [
+                "Get It Done"
+            ]
         },
         {
             "title": "Historical Districts",
@@ -2849,7 +2901,9 @@
             "describedBy": "http://seshat.datasd.org/sde/historic_districts/historic_districts_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "references": "null",
-            "keyword": ["GIS"]
+            "keyword": [
+                "GIS"
+            ]
         },
         {
             "title": "Joint Use Parks",
@@ -2931,7 +2985,9 @@
             "describedBy": "http://seshat.datasd.org/sde/joint_use/joint_use_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "references": "null",
-            "keyword": ["GIS"]
+            "keyword": [
+                "GIS"
+            ]
         },
         {
             "title": "Libraries",
@@ -3013,7 +3069,9 @@
             "describedBy": "http://seshat.datasd.org/sde/library/libraries_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "references": "null",
-            "keyword": ["GIS"]
+            "keyword": [
+                "GIS"
+            ]
         },
         {
             "title": "Lifeguard Stations",
@@ -3094,7 +3152,9 @@
             "describedBy": "http://seshat.datasd.org/sde/lifeguard_stations/lifeguard_stations_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "references": "null",
-            "keyword": ["GIS"]
+            "keyword": [
+                "GIS"
+            ]
         },
         {
             "title": "Maintenance Assessment Districts",
@@ -3256,7 +3316,9 @@
             "describedBy": "http://seshat.datasd.org/sde/mhpa/mhpa_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "references": "null",
-            "keyword": ["GIS"]
+            "keyword": [
+                "GIS"
+            ]
         },
         {
             "title": "Monitoring of Indicator Bacteria in Drinking Water",
@@ -3477,7 +3539,9 @@
             "describedBy": "http://seshat.datasd.org/budget/operating_actuals_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "references": "null",
-            "keyword": ["Budget"]
+            "keyword": [
+                "Budget"
+            ]
         },
         {
             "title": "Operating Budgets",
@@ -3623,7 +3687,9 @@
             "describedBy": "http://seshat.datasd.org/budget/operating_budget_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "references": "null",
-            "keyword": ["Budget"]
+            "keyword": [
+                "Budget"
+            ]
         },
         {
             "title": "Parks",
@@ -3705,7 +3771,9 @@
             "describedBy": "http://seshat.datasd.org/sde/parks/parks_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "references": "null",
-            "keyword": ["Budget"]
+            "keyword": [
+                "Budget"
+            ]
         },
         {
             "title": "Parking Meter Locations",
@@ -4054,7 +4122,9 @@
             "describedBy": "http://seshat.datasd.org/sde/pd/pd_divisions_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "references": "null",
-            "keyword": ["GIS"]
+            "keyword": [
+                "GIS"
+            ]
         },
         {
             "title": "Police Neighborhoods",
@@ -4135,7 +4205,9 @@
             "describedBy": "http://seshat.datasd.org/sde/pd/pd_neighborhoods_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "references": "null",
-            "keyword": ["GIS"]
+            "keyword": [
+                "GIS"
+            ]
         },
         {
             "title": "Permits for Development Projects",
@@ -4336,7 +4408,9 @@
             "describedBy": "http://seshat.datasd.org/sde/pd/pd_beats_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "references": "null",
-            "keyword": ["GIS"]
+            "keyword": [
+                "GIS"
+            ]
         },
         {
             "title": "Police Calls for Service",
@@ -5213,7 +5287,9 @@
             "describedBy": "http://seshat.datasd.org/sde/addrapn/pz/promise_zone_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "references": "null",
-            "keyword": ["GIS"]
+            "keyword": [
+                "GIS"
+            ]
         },
         {
             "title": "Locations of Artwork in the Civic Art Collection",
@@ -5255,7 +5331,9 @@
             "describedBy": "http://seshat.datasd.org/public_art/public_art_locations_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "references": "null",
-            "keyword": ["GIS"]
+            "keyword": [
+                "GIS"
+            ]
         },
         {
             "title": "Recreation Centers",
@@ -5336,7 +5414,9 @@
             "describedBy": "http://seshat.datasd.org/sde/rec_centers/rec_centers_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "references": "null",
-            "keyword": ["GIS"]
+            "keyword": [
+                "GIS"
+            ]
         },
         {
             "title": "Resident Satisfaction Survey Results",
@@ -5472,7 +5552,9 @@
             "describedBy": "http://seshat.datasd.org/sde/sd_revloan/rev_loan_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "references": "null",
-            "keyword": ["GIS"]
+            "keyword": [
+                "GIS"
+            ]
         },
         {
             "title": "Right-of-Way Parcels",
@@ -5553,7 +5635,9 @@
             "describedBy": "http://seshat.datasd.org/sde/right_of_way/right_of_way_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "references": "null",
-            "keyword": ["GIS"]
+            "keyword": [
+                "GIS"
+            ]
         },
         {
             "title": "Roads",
@@ -5634,7 +5718,9 @@
             "describedBy": "http://seshat.datasd.org/sde/roads_all/roads_lines_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "references": "null",
-            "keyword": ["GIS"]
+            "keyword": [
+                "GIS"
+            ]
         },
         {
             "title": "San Diego City Boundary",
@@ -5715,7 +5801,9 @@
             "describedBy": "http://seshat.datasd.org/sde/city_boundary/san_diego_boundary_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "references": "null",
-            "keyword": ["GIS"]
+            "keyword": [
+                "GIS"
+            ]
         },
         {
             "title": "Special Events",
@@ -5757,7 +5845,9 @@
             "describedBy": "http://seshat.datasd.org/special_events/special_events_list_dictionary.csv",
             "describedByType": "text/csv",
             "references": "null",
-            "keyword": ["GIS"]
+            "keyword": [
+                "GIS"
+            ]
         },
         {
             "title": "Street Sweeping Schedule",
@@ -5844,7 +5934,9 @@
             "describedBy": "http://seshat.datasd.org/streetlight_inventory/streetlight_locations_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "references": "null",
-            "keyword": ["GIS"]
+            "keyword": [
+                "GIS"
+            ]
         },
         {
             "title": "Streets Overall Condition Index",
@@ -5986,7 +6078,9 @@
             "describedBy": "http://seshat.datasd.org/tsw/repair_segment_lines_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "references": "null",
-            "keyword": ["GIS"]
+            "keyword": [
+                "GIS"
+            ]
         },
         {
             "title": "Traffic Volumes",
@@ -6109,7 +6203,9 @@
             "describedBy": "http://seshat.datasd.org/sde/transit_routes_gtfs/transit_routes_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "references": "null",
-            "keyword": ["GIS"]
+            "keyword": [
+                "GIS"
+            ]
         },
         {
             "title": "Transit Stops",
@@ -6190,7 +6286,9 @@
             "describedBy": "http://seshat.datasd.org/sde/transit_stops_gtfs/transit_stops_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "references": "null",
-            "keyword": ["GIS"]
+            "keyword": [
+                "GIS"
+            ]
         },
         {
             "title": "Zoning",
@@ -6271,7 +6369,9 @@
             "describedBy": "http://seshat.datasd.org/sde/zoning/zoning_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "references": "null",
-            "keyword": ["GIS"]
+            "keyword": [
+                "GIS"
+            ]
         }
     ]
 }
