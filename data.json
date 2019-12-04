@@ -4488,7 +4488,7 @@
             "identifier": "traffic_collisions",
             "@type": "dcat:Dataset",
             "issued": "2017-05-03",
-            "modified": "2019-12-02",
+            "modified": "2019-12-03",
             "accessLevel": "public",
             "publisher": {
                 "@type": "org:department",
