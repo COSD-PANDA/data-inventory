@@ -5810,7 +5810,7 @@
             "identifier": "special_events",
             "@type": "dcat:Dataset",
             "issued": "2016-05-09",
-            "modified": "2019-12-13",
+            "modified": "2019-12-14",
             "accessLevel": "public",
             "publisher": {
                 "@type": "org:department",
