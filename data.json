@@ -3780,7 +3780,7 @@
             "identifier": "parking_meters_locations",
             "@type": "dcat:Dataset",
             "issued": "2016-05-18",
-            "modified": "2020-02-24",
+            "modified": "2020-02-25",
             "accessLevel": "public",
             "publisher": {
                 "@type": "org:department",
@@ -4365,7 +4365,6 @@
                     "describedBy": "null",
                     "describedByType": "text/csv"
                 }
-                
             ],
             "accrualPeriodicity": "R/P1W",
             "spatial": "null",
