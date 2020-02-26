@@ -4210,11 +4210,11 @@
             ]
         },
         {
-            "title": "Permits for Development Projects",
-            "identifier": "permits_for_development",
+            "title": "Development Project Permits, set 2 of 2",
+            "identifier": "development_permits_set2",
             "@type": "dcat:Dataset",
-            "issued": "2019-09-03",
-            "modified": "2019-09-03",
+            "issued": "2020-04-04",
+            "modified": "2020-04-04",
             "accessLevel": "public",
             "publisher": {
                 "@type": "org:department",
@@ -4230,101 +4230,147 @@
             "license": "http://www.opendefinition.org/licenses/odc-pddl",
             "distribution": [
                 {
-                    "title": "Permits for Development Projects 2019",
+                    "title": "Active Permits",
                     "@type": "dcat:Distribution",
-                    "downloadURL": "http://seshat.datasd.org/dsd/dsd_permits_2019_datasd_v1.csv",
+                    "downloadURL": "http://seshat.datasd.org/dsd/permits_set2_active_datasd.csv",
                     "accessURL": "null",
                     "mediaType": "text/csv",
                     "format": "csv",
-                    "rows": "11959",
-                    "columns": "32",
-                    "size": "7013302",
-                    "describedBy": "http://seshat.datasd.org/dictionaries/dsd_permits_2019_datasd_v1_dict.csv",
+                    "rows": "null",
+                    "columns": "null",
+                    "size": "null",
+                    "describedBy": "null",
                     "describedByType": "text/csv"
                 },
                 {
-                    "title": "Permits for Development Projects 2018",
+                    "title": "Closed Permits",
                     "@type": "dcat:Distribution",
-                    "downloadURL": "http://seshat.datasd.org/dsd/dsd_permits_2018_datasd_v1.csv",
+                    "downloadURL": "http://seshat.datasd.org/dsd/permits_set2_closed_datasd.csv",
                     "accessURL": "null",
                     "mediaType": "text/csv",
                     "format": "csv",
-                    "rows": "15629",
-                    "columns": "32",
-                    "size": "10745167",
-                    "describedBy": "http://seshat.datasd.org/dictionaries/dsd_permits_2018_datasd_v1_dict.csv",
-                    "describedByType": "text/csv"
-                },
-                {
-                    "title": "Permits for Development Projects 2017",
-                    "@type": "dcat:Distribution",
-                    "downloadURL": "http://seshat.datasd.org/dsd/dsd_permits_2017_datasd_v1.csv",
-                    "accessURL": "null",
-                    "mediaType": "text/csv",
-                    "format": "csv",
-                    "rows": "16179",
-                    "columns": "32",
-                    "size": "11190637",
-                    "describedBy": "http://seshat.datasd.org/dictionaries/dsd_permits_2017_datasd_v1_dict.csv",
-                    "describedByType": "text/csv"
-                },
-                {
-                    "title": "Permits for Development Projects 2016",
-                    "@type": "dcat:Distribution",
-                    "downloadURL": "http://seshat.datasd.org/dsd/dsd_permits_2016_datasd_v1.csv",
-                    "accessURL": "null",
-                    "mediaType": "text/csv",
-                    "format": "csv",
-                    "rows": "15640",
-                    "columns": "32",
-                    "size": "10757298",
-                    "describedBy": "http://seshat.datasd.org/dictionaries/dsd_permits_2016_datasd_v1_dict.csv",
-                    "describedByType": "text/csv"
-                },
-                {
-                    "title": "Permits for Development Projects 2015",
-                    "@type": "dcat:Distribution",
-                    "downloadURL": "http://seshat.datasd.org/dsd/dsd_permits_2015_datasd_v1.csv",
-                    "accessURL": "null",
-                    "mediaType": "text/csv",
-                    "format": "csv",
-                    "rows": "16111",
-                    "columns": "32",
-                    "size": "11110114",
-                    "describedBy": "http://seshat.datasd.org/dictionaries/dsd_permits_2015_datasd_v1_dict.csv",
-                    "describedByType": "text/csv"
-                },
-                {
-                    "title": "Permits for Development Projects 2014",
-                    "@type": "dcat:Distribution",
-                    "downloadURL": "http://seshat.datasd.org/dsd/dsd_permits_2014_datasd_v1.csv",
-                    "accessURL": "null",
-                    "mediaType": "text/csv",
-                    "format": "csv",
-                    "rows": "16000",
-                    "columns": "32",
-                    "size": "11185258",
-                    "describedBy": "http://seshat.datasd.org/dictionaries/dsd_permits_2014_datasd_v1_dict.csv",
-                    "describedByType": "text/csv"
-                },
-                {
-                    "title": "Permits for Development Projects 2013",
-                    "@type": "dcat:Distribution",
-                    "downloadURL": "http://seshat.datasd.org/dsd/dsd_permits_2013_datasd_v1.csv",
-                    "accessURL": "null",
-                    "mediaType": "text/csv",
-                    "format": "csv",
-                    "rows": "14759",
-                    "columns": "32",
-                    "size": "10322777",
-                    "describedBy": "http://seshat.datasd.org/dictionaries/dsd_permits_2013_datasd_v1_dict.csv",
+                    "rows": "null",
+                    "columns": "null",
+                    "size": "null",
+                    "describedBy": "null",
                     "describedByType": "text/csv"
                 }
             ],
             "accrualPeriodicity": "R/P1W",
-            "spatial": "-117.281681,32.542334999999994,-116.629432,33.100495",
-            "temporal": "2013-01-02 07:38:35/2019-09-20 16:08:00",
-            "describedBy": "http://seshat.datasd.org/dsd/permits_activity_dictionary_datasd.csv",
+            "spatial": "null",
+            "temporal": "null",
+            "describedBy": "null",
+            "describedByType": "text/csv",
+            "references": "null",
+            "keyword": []
+        },
+        {
+            "title": "Development Project Permits, set 1 of 2",
+            "identifier": "development_permits_set1",
+            "@type": "dcat:Dataset",
+            "issued": "2020-04-04",
+            "modified": "2020-04-04",
+            "accessLevel": "public",
+            "publisher": {
+                "@type": "org:department",
+                "name": "Development Services"
+            },
+            "category": [
+                "Economy & Community"
+            ],
+            "contactPoint": {
+                "fn": "City of San Diego",
+                "hasEmail": "data@sandiego.gov"
+            },
+            "license": "http://www.opendefinition.org/licenses/odc-pddl",
+            "distribution": [
+                {
+                    "title": "Active Permits",
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "http://seshat.datasd.org/dsd/permits_set1_active_datasd.csv",
+                    "accessURL": "null",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "rows": "null",
+                    "columns": "null",
+                    "size": "null",
+                    "describedBy": "null",
+                    "describedByType": "text/csv"
+                },
+                {
+                    "title": "Closed Permits, since 2019",
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "http://seshat.datasd.org/dsd/permits_set1_closed_datasd.csv",
+                    "accessURL": "null",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "rows": "null",
+                    "columns": "null",
+                    "size": "null",
+                    "describedBy": "null",
+                    "describedByType": "text/csv"
+                },
+                {
+                    "title": "Closed Permits, 2003 through 2018",
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "http://seshat.datasd.org/dsd/permits_set1_closed_historical_datasd.csv",
+                    "accessURL": "null",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "rows": "null",
+                    "columns": "null",
+                    "size": "null",
+                    "describedBy": "null",
+                    "describedByType": "text/csv"
+                }
+            ],
+            "accrualPeriodicity": "R/P1W",
+            "spatial": "null",
+            "temporal": "null",
+            "describedBy": "null",
+            "describedByType": "text/csv",
+            "references": "null",
+            "keyword": []
+        },
+        {
+            "title": "Development Project Permits Tags",
+            "identifier": "development_permits_tags",
+            "@type": "dcat:Dataset",
+            "issued": "2020-04-04",
+            "modified": "2020-04-04",
+            "accessLevel": "public",
+            "publisher": {
+                "@type": "org:department",
+                "name": "Development Services"
+            },
+            "category": [
+                "Economy & Community"
+            ],
+            "contactPoint": {
+                "fn": "City of San Diego",
+                "hasEmail": "data@sandiego.gov"
+            },
+            "license": "http://www.opendefinition.org/licenses/odc-pddl",
+            "distribution": [
+                {
+                    "title": "Permit Project Tags",
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "http://seshat.datasd.org/dsd/permits_set1_project_tags.csv",
+                    "accessURL": "null",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "rows": "null",
+                    "columns": "null",
+                    "size": "null",
+                    "describedBy": "null",
+                    "describedByType": "text/csv"
+                }
+                
+            ],
+            "accrualPeriodicity": "R/P1W",
+            "spatial": "null",
+            "temporal": "null",
+            "describedBy": "null",
             "describedByType": "text/csv",
             "references": "null",
             "keyword": []
