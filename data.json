@@ -1270,7 +1270,7 @@
             "identifier": "city_owned_properties",
             "@type": "dcat:Dataset",
             "issued": "2016-06-01",
-            "modified": "2020-02-04",
+            "modified": "2020-02-25",
             "accessLevel": "public",
             "publisher": {
                 "@type": "org:department",
@@ -1312,7 +1312,7 @@
             "identifier": "leases_city_owned_properties",
             "@type": "dcat:Dataset",
             "issued": "2016-06-01",
-            "modified": "2020-02-03",
+            "modified": "2020-02-25",
             "accessLevel": "public",
             "publisher": {
                 "@type": "org:department",
@@ -1354,7 +1354,7 @@
             "identifier": "city_owned_property_parcels",
             "@type": "dcat:Dataset",
             "issued": "2016-06-01",
-            "modified": "2020-02-04",
+            "modified": "2020-02-25",
             "accessLevel": "public",
             "publisher": {
                 "@type": "org:department",
@@ -1863,7 +1863,7 @@
             "identifier": "financial_trans_election_comms",
             "@type": "dcat:Dataset",
             "issued": "2016-05-05",
-            "modified": "2020-02-04",
+            "modified": "2020-02-23",
             "accessLevel": "public",
             "publisher": {
                 "@type": "org:department",
@@ -2147,7 +2147,7 @@
             "identifier": "fire_ems_problem_counts",
             "@type": "dcat:Dataset",
             "issued": "2019-01-09",
-            "modified": "2020-02-04",
+            "modified": "2020-02-25",
             "accessLevel": "public",
             "publisher": {
                 "@type": "org:department",
@@ -2189,7 +2189,7 @@
             "identifier": "fire_ems_incidents",
             "@type": "dcat:Dataset",
             "issued": "2016-05-26",
-            "modified": "2020-02-04",
+            "modified": "2020-02-25",
             "accessLevel": "public",
             "publisher": {
                 "@type": "org:department",
@@ -2553,7 +2553,7 @@
             "identifier": "get_it_done_reports",
             "@type": "dcat:Dataset",
             "issued": "2016-05-26",
-            "modified": "2020-02-04",
+            "modified": "2020-02-26",
             "accessLevel": "public",
             "publisher": {
                 "@type": "org:department",
@@ -3325,7 +3325,7 @@
             "identifier": "indicator_bacteria_monitoring",
             "@type": "dcat:Dataset",
             "issued": "2016-05-11",
-            "modified": "2020-02-04",
+            "modified": "2020-02-25",
             "accessLevel": "public",
             "publisher": {
                 "@type": "org:department",
@@ -3780,7 +3780,7 @@
             "identifier": "parking_meters_locations",
             "@type": "dcat:Dataset",
             "issued": "2016-05-18",
-            "modified": "2019-12-07",
+            "modified": "2020-02-24",
             "accessLevel": "public",
             "publisher": {
                 "@type": "org:department",
@@ -3823,7 +3823,7 @@
             "identifier": "parking_meters_transactions",
             "@type": "dcat:Dataset",
             "issued": "2016-05-02",
-            "modified": "2020-02-04",
+            "modified": "2020-02-25",
             "accessLevel": "public",
             "publisher": {
                 "@type": "org:department",
@@ -4463,7 +4463,7 @@
             "identifier": "police_calls_for_service",
             "@type": "dcat:Dataset",
             "issued": "2016-05-02",
-            "modified": "2017-08-14",
+            "modified": "2020-02-25",
             "accessLevel": "public",
             "publisher": {
                 "@type": "org:department",
@@ -4534,7 +4534,7 @@
             "identifier": "traffic_collisions",
             "@type": "dcat:Dataset",
             "issued": "2017-05-03",
-            "modified": "2020-02-04",
+            "modified": "2020-02-25",
             "accessLevel": "public",
             "publisher": {
                 "@type": "org:department",
@@ -4576,7 +4576,7 @@
             "identifier": "hate_crimes",
             "@type": "dcat:Dataset",
             "issued": "2018-11-08",
-            "modified": "2019-10-09",
+            "modified": "2020-02-06",
             "accessLevel": "public",
             "publisher": {
                 "@type": "org:department",
@@ -5342,7 +5342,7 @@
             "identifier": "civic_art_collection",
             "@type": "dcat:Dataset",
             "issued": "2018-09-11",
-            "modified": "2020-02-02",
+            "modified": "2020-02-25",
             "accessLevel": "public",
             "publisher": {
                 "@type": "org:department",
@@ -5856,7 +5856,7 @@
             "identifier": "special_events",
             "@type": "dcat:Dataset",
             "issued": "2016-05-09",
-            "modified": "2020-02-04",
+            "modified": "2020-02-25",
             "accessLevel": "public",
             "publisher": {
                 "@type": "org:department",
@@ -6045,7 +6045,7 @@
             "identifier": "streets_repair_projects",
             "@type": "dcat:Dataset",
             "issued": "2016-09-16",
-            "modified": "2020-02-04",
+            "modified": "2020-02-26",
             "accessLevel": "public",
             "publisher": {
                 "@type": "org:department",
