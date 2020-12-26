@@ -1863,7 +1863,7 @@
             "identifier": "financial_trans_election_comms",
             "@type": "dcat:Dataset",
             "issued": "2016-05-05",
-            "modified": "2020-12-25",
+            "modified": "2020-12-26",
             "accessLevel": "public",
             "publisher": {
                 "@type": "org:department",
