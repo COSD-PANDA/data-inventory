@@ -5855,7 +5855,7 @@
             "identifier": "special_events",
             "@type": "dcat:Dataset",
             "issued": "2016-05-09",
-            "modified": "2020-12-30",
+            "modified": "2020-12-31",
             "accessLevel": "public",
             "publisher": {
                 "@type": "org:department",
