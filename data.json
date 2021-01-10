@@ -1312,7 +1312,7 @@
             "identifier": "leases_city_owned_properties",
             "@type": "dcat:Dataset",
             "issued": "2016-06-01",
-            "modified": "2021-01-09",
+            "modified": "2021-01-10",
             "accessLevel": "public",
             "publisher": {
                 "@type": "org:department",
