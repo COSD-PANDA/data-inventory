@@ -5341,7 +5341,7 @@
             "identifier": "civic_art_collection",
             "@type": "dcat:Dataset",
             "issued": "2018-09-11",
-            "modified": "2021-03-16",
+            "modified": "2021-03-17",
             "accessLevel": "public",
             "publisher": {
                 "@type": "org:department",
