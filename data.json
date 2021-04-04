@@ -4533,7 +4533,7 @@
             "identifier": "traffic_collisions",
             "@type": "dcat:Dataset",
             "issued": "2017-05-03",
-            "modified": "2021-04-02",
+            "modified": "2021-04-03",
             "accessLevel": "public",
             "publisher": {
                 "@type": "org:department",
