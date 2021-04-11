@@ -6132,7 +6132,7 @@
             "identifier": "traffic_volumes",
             "@type": "dcat:Dataset",
             "issued": "2016-05-17",
-            "modified": "2021-04-03",
+            "modified": "2021-04-10",
             "accessLevel": "public",
             "publisher": {
                 "@type": "org:department",
