@@ -3325,7 +3325,7 @@
             "identifier": "indicator_bacteria_monitoring",
             "@type": "dcat:Dataset",
             "issued": "2016-05-11",
-            "modified": "2021-04-20",
+            "modified": "2021-04-21",
             "accessLevel": "public",
             "publisher": {
                 "@type": "org:department",
