@@ -1270,7 +1270,7 @@
             "identifier": "city_owned_properties",
             "@type": "dcat:Dataset",
             "issued": "2016-06-01",
-            "modified": "2021-04-30",
+            "modified": "2021-05-01",
             "accessLevel": "public",
             "publisher": {
                 "@type": "org:department",
