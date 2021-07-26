@@ -1354,7 +1354,7 @@
             "identifier": "city_owned_property_parcels",
             "@type": "dcat:Dataset",
             "issued": "2016-06-01",
-            "modified": "2021-07-25",
+            "modified": "2021-07-26",
             "accessLevel": "public",
             "publisher": {
                 "@type": "org:department",
