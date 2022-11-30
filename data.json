@@ -4575,7 +4575,7 @@
             "identifier": "hate_crimes",
             "@type": "dcat:Dataset",
             "issued": "2018-11-08",
-            "modified": "2020-05-19",
+            "modified": "2022-11-29",
             "accessLevel": "public",
             "publisher": {
                 "@type": "org:department",
