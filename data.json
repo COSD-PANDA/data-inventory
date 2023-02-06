@@ -3823,7 +3823,7 @@
             "identifier": "parking_meters_transactions",
             "@type": "dcat:Dataset",
             "issued": "2016-05-02",
-            "modified": "2023-02-05",
+            "modified": "2023-02-06",
             "accessLevel": "public",
             "publisher": {
                 "@type": "org:department",
