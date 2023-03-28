@@ -1017,7 +1017,7 @@
                "modified": "2023-03-21",
                "publisher": {
                     "@type": "org:Organization",
-                    "name": "Transportation & Storm Water",
+                    "name": "Transportation Department",
                     "subOrganizationOf": {
                          "@type": "org:Organization",
                          "name": "City of San Diego"
@@ -1785,7 +1785,7 @@
                "modified": "2023-03-21",
                "publisher": {
                     "@type": "org:Organization",
-                    "name": "Transportation & Storm Water",
+                    "name": "Transportation Department",
                     "subOrganizationOf": {
                          "@type": "org:Organization",
                          "name": "City of San Diego"
@@ -2937,7 +2937,7 @@
                "modified": "2016-07-05",
                "publisher": {
                     "@type": "org:Organization",
-                    "name": "Transportation & Storm Water",
+                    "name": "Storm Water Department",
                     "subOrganizationOf": {
                          "@type": "org:Organization",
                          "name": "City of San Diego"
@@ -2969,7 +2969,7 @@
                "modified": "2017-01-17",
                "publisher": {
                     "@type": "org:Organization",
-                    "name": "Transportation & Storm Water",
+                    "name": "Transportation Department",
                     "subOrganizationOf": {
                          "@type": "org:Organization",
                          "name": "City of San Diego"
@@ -3001,7 +3001,7 @@
                "modified": "2023-03-27",
                "publisher": {
                     "@type": "org:Organization",
-                    "name": "Transportation & Storm Water",
+                    "name": "Transportation Department",
                     "subOrganizationOf": {
                          "@type": "org:Organization",
                          "name": "City of San Diego"
@@ -3150,18 +3150,18 @@
                     "fn": "Data & Analtyics",
                     "hasEmail": "data@sandiego.gov"
                },
-               "describedBy": "traffic_volumes/traffic_volumes_dictionary.csv",
+               "describedBy": "traffic_adt_counts/traffic_adt_counts_dictionary.csv",
                "describedByType": "text/csv",
                "description": "The census count of vehicles on city streets is normally reported in the form\nof Average Daily Traffic (ADT) counts.",
                "distribution": null,
-               "identifier": "traffic_volumes",
+               "identifier": "traffic_adt_counts",
                "issued": "2016-05-17",
                "keyword": null,
                "license": "https://opendefinition.org/licenses/odc-pddl/",
                "modified": "2023-03-25",
                "publisher": {
                     "@type": "org:Organization",
-                    "name": "Transportation & Storm Water",
+                    "name": "Transportation Department",
                     "subOrganizationOf": {
                          "@type": "org:Organization",
                          "name": "City of San Diego"
@@ -3171,7 +3171,7 @@
                "rights": null,
                "spatial": null,
                "temporal": null,
-               "title": "Traffic Volumes"
+               "title": "Traffic Counts"
           }
      ]
 }
