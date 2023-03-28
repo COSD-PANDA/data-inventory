@@ -782,7 +782,7 @@
                 "fn": "Data & Analtyics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "get_it_done_graffiti/get_it_done_graffiti_dictionary.csv",
+            "describedBy": "get_it_done_reports/get_it_done_reports_dictionary.csv",
             "describedByType": "text/csv",
             "description": "Requests for graffiti removal made by residents via the Get It Done applications and phone.",
             "distribution": null,
@@ -814,7 +814,7 @@
                 "fn": "Data & Analtyics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "get_it_done_illegal_dumping/get_it_done_illegal_dumping_dictionary.csv",
+            "describedBy": "get_it_done_reports/get_it_done_reports_dictionary.csv",
             "describedByType": "text/csv",
             "description": "Notifications for illegal dumping made by residents via the Get It Done applications and phone.",
             "distribution": null,
@@ -846,11 +846,11 @@
                 "fn": "Data & Analtyics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "get_it_done_parking_viol/get_it_done_parking_viol_dictionary.csv",
+            "describedBy": "get_it_done_reports/get_it_done_reports_dictionary.csv",
             "describedByType": "text/csv",
             "description": "Requests for abandoned vehicle removal made by residents via the Get It Done applications and phone.",
             "distribution": null,
-            "identifier": "get_it_done_parking_viol",
+            "identifier": "get_it_done_parking_violations",
             "issued": "2017-06-13",
             "keyword": null,
             "license": "https://opendefinition.org/licenses/odc-pddl/",
@@ -878,7 +878,7 @@
                 "fn": "Data & Analtyics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "get_it_done_potholes/get_it_done_potholes_dictionary.csv",
+            "describedBy": "get_it_done_reports/get_it_done_reports_dictionary.csv",
             "describedByType": "text/csv",
             "description": "Requests for pothole repair made by residents via the Get It Done applications and phone.",
             "distribution": null,
