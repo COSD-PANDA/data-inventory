@@ -499,7 +499,7 @@
             ],
             "identifier": "development_permits_set2",
             "issued": "2020-03-10",
-            "keyword": ['Building construction','Housing'],
+            "keyword": ["Building construction","Housing"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2023-07-22T05:01:29-0700",
             "publisher": {
@@ -1911,7 +1911,7 @@
             ],
             "identifier": "gis_transit_stops",
             "issued": "2016-05-09",
-            "keyword": ['GTFS'],
+            "keyword": ["GTFS"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2023-07-18T03:07:09-0700",
             "publisher": {
