@@ -209,7 +209,15 @@
             "describedBy": "city_owned_properties/city_owned_properties_dictionary.csv",
             "describedByType": "text/csv",
             "description": "Data about property the City of San Diego owns, including the cost,\nmonth and year of purchase and the acreage and usage of the site.",
-            "distribution": null,
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "City Owned Properties - Details",
+                    "downloadURL": "https://seshat.datasd.org/read/city_property_details_datasd_v1.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                }
+            ],
             "identifier": "city_owned_properties",
             "issued": "2016-06-01",
             "keyword": null,
@@ -305,10 +313,18 @@
             "describedBy": "civic_art_collection/civic_art_collection_dictionary.csv",
             "describedByType": "text/csv",
             "description": "Point locations of artwork in the collection.",
-            "distribution": null,
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Locations of artwork",
+                    "downloadURL": "https://seshat.datasd.org/public_art/public_art_locations_datasd_v1.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                }
+            ],
             "identifier": "civic_art_collection",
             "issued": "2018-09-11",
-            "keyword": null,
+            "keyword": ["Civic art"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2023-07-22T04:03:27-0700",
             "publisher": {
@@ -464,11 +480,26 @@
             },
             "describedBy": "development_permits_set2/development_permits_set2_dictionary.csv",
             "describedByType": "text/csv",
-            "description": "Approvals for permits, maps, agreements, and other applications processed by Development Services Department\u2019s current cloud-based permitting system. Approval types began migrating to the current system in 2018. Data from the legacy system can be found in this dataset .",
-            "distribution": null,
+            "description": "Approvals for permits, maps, agreements, and other applications processed by Development Services Department\u2019s current cloud-based permitting system.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Active approvals",
+                    "downloadURL": "https://seshat.datasd.org/dsd/permits_set2_active_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Closed approvals",
+                    "downloadURL": "https://seshat.datasd.org/dsd/permits_set2_closed_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                }
+            ],
             "identifier": "development_permits_set2",
             "issued": "2020-03-10",
-            "keyword": null,
+            "keyword": ['Building construction','Housing'],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2023-07-22T05:01:29-0700",
             "publisher": {
@@ -482,7 +513,7 @@
             "references": null,
             "rights": null,
             "spatial": null,
-            "temporal": null,
+            "temporal": "2018-01-15/2023-07-21",
             "title": "Development Permits"
         },
         {
@@ -1841,10 +1872,46 @@
             "describedBy": "gis_transit_stops/gis_transit_stops_dictionary.csv",
             "describedByType": "text/csv",
             "description": "Public transit stops and stations covering the County of San Diego.",
-            "distribution": null,
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Transit Stops Locations",
+                    "downloadURL": "https://seshat.datasd.org/sde/transit_stops_gtfs/transit_stops_datasd.zip",
+                    "mediaType": "application/octet-stream",
+                    "format": "shp"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Transit Stops Locations",
+                    "downloadURL": "https://seshat.datasd.org/sde/transit_stops_gtfs/transit_stops_datasd.pbf",
+                    "mediaType": "application/octet-stream",
+                    "format": "pbf"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Transit Stops Locations",
+                    "downloadURL": "https://seshat.datasd.org/sde/transit_stops_gtfs/transit_stops_datasd.topo.json",
+                    "mediaType": "application/json",
+                    "format": "topojson"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Transit Stops Locations",
+                    "downloadURL": "https://seshat.datasd.org/sde/transit_stops_gtfs/transit_stops_datasd.geojson",
+                    "mediaType": "application/json",
+                    "format": "geojson"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Transit Stops Attribute Table",
+                    "downloadURL": "https://seshat.datasd.org/sde/transit_stops_gtfs/transit_stops_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                }
+            ],
             "identifier": "gis_transit_stops",
             "issued": "2016-05-09",
-            "keyword": null,
+            "keyword": ['GTFS'],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2023-07-18T03:07:09-0700",
             "publisher": {
@@ -2000,11 +2067,26 @@
             },
             "describedBy": "monitoring_indicator_bacteria/monitoring_indicator_bacteria_dictionary.csv",
             "describedByType": "text/csv",
-            "description": "Here are individual test results from the water monitoring database,\nplus the monthly totals reported to the state to demonstrate MCL compliance.\nThis dataset does not include results of tests for chemical parameters.",
-            "distribution": null,
+            "description": "Here are individual test results from the water monitoring database, plus the monthly totals reported to the state to demonstrate MCL compliance. This dataset does not include results of tests for chemical parameters.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Latest Drinking Water Tests (Bacteria)",
+                    "downloadURL": "https://seshat.datasd.org/water_testing/latest_indicator_bac_tests_datasd_v1.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "All Drinking Water Tests (Bacteria)",
+                    "downloadURL": "https://seshat.datasd.org/water_testing/indicator_bacteria_tests_datasd_v1.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                }
+            ],
             "identifier": "monitoring_indicator_bacteria",
             "issued": "2016-05-11",
-            "keyword": null,
+            "keyword": ["Water quality"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2023-07-22T01:05:01-0700",
             "publisher": {
@@ -2736,11 +2818,19 @@
             },
             "describedBy": "police_ripa_stops/police_ripa_stops_dictionary.csv",
             "describedByType": "text/csv",
-            "description": "All stops made by the San Diego Police Department. Data collected from these stops conforms to requirements set forth in Government Code section 12525.5 that was enacted as a result of the Racial and Identity Profiling Act of 2015 (AB 953). RIPA stops data collection began on July 1, 2018. Data on stops made before July is limited to vehicle stops and can be found in the police vehicle stops dataset",
-            "distribution": null,
+            "description": "All stops made by the San Diego Police Department. Data collected from these stops conforms to requirements set forth in Government Code section 12525.5 that was enacted as a result of the Racial and Identity Profiling Act of 2015 (AB 953).",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Stop details",
+                    "downloadURL": "https://seshat.datasd.org/pd/ripa_stops_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                }
+            ],
             "identifier": "police_ripa_stops",
             "issued": "2019-04-16",
-            "keyword": null,
+            "keyword": ["AB 953","Racial and Identity Profiling Act"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2023-07-19T11:35:29-0700",
             "publisher": {
@@ -3152,11 +3242,19 @@
             },
             "describedBy": "traffic_adt_counts/traffic_adt_counts_dictionary.csv",
             "describedByType": "text/csv",
-            "description": "The census count of vehicles on city streets is normally reported in the form\nof Average Daily Traffic (ADT) counts.",
-            "distribution": null,
+            "description": "The census count of vehicles on city streets is normally reported in the form of Average Daily Traffic (ADT) counts.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Traffic Counts",
+                    "downloadURL": "https://seshat.datasd.org/traffic_counts/traffic_counts_datasd_v1.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                }
+            ],
             "identifier": "traffic_adt_counts",
             "issued": "2016-05-17",
-            "keyword": null,
+            "keyword": ["Vehicle counts"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2023-03-25",
             "publisher": {
