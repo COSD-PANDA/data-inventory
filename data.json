@@ -298,10 +298,13 @@
                          "title": "Properties",
                          "downloadURL": "https://seshat.datasd.org/city_owned_properties/city_property_details_datasd.csv",
                          "mediaType": "text/csv",
-                         "format": "csv"
+                         "format": "csv",
+                         "byteSize": null,
+                         "compressFormat": null
                     }
                ],
                "identifier": "city_owned_properties",
+               "isPartOf": null,
                "issued": "2016-06-01",
                "keyword": null,
                "license": "https://opendefinition.org/licenses/odc-pddl/",
@@ -418,10 +421,13 @@
                          "title": "Locations of artwork",
                          "downloadURL": "https://seshat.datasd.org/civic_art_collection/public_art_locations_datasd.csv",
                          "mediaType": "text/csv",
-                         "format": "csv"
+                         "format": "csv",
+                         "byteSize": null,
+                         "compressFormat": null
                     }
                ],
                "identifier": "civic_art_collection",
+               "isPartOf": null,
                "issued": "2018-09-11",
                "keyword": null,
                "license": "https://opendefinition.org/licenses/odc-pddl/",
@@ -1333,8 +1339,52 @@
                "accrualPeriodicity": "R/P1D",
                "contactPoint": {
                     "@type": "vcard:Contact",
-                    "fn": "Data & Analytics",
-                    "hasEmail": "data@sandiego.gov"
+                    "fn": "Performance & Analytics Technology & Innovation section",
+                    "hasEmail": "pandatech@sandiego.gov"
+               },
+               "describedBy": "https://seshat.datasd.org/get_it_done_reports/get_it_done_requests_dictionary_datasd.csv",
+               "describedByType": "text/csv",
+               "description": "Reports of encampments received by the Get It Done program.",
+               "distribution": [
+                    {
+                         "@type": "dcat:Distribution",
+                         "title": "Homeless Outreach / Encampment reports",
+                         "description": "Filtered: service_name contains the values 'Encampment' or 'Homeless Outreach'",
+                         "downloadURL": "https://seshat.datasd.org/get_it_done_encampments/get_it_done_encampment_requests_datasd.csv",
+                         "mediaType": "text/csv",
+                         "format": "csv",
+                         "byteSize": 36703289,
+                         "compressFormat": null,
+                    }
+               ],
+               "identifier": "get_it_done_encampments",
+               "isPartOf": "get_it_done_reports",
+               "issued": "2023-11-01",
+               "keyword": ["311","Get it Done"],
+               "license": "https://opendefinition.org/licenses/odc-pddl/",
+               "modified": null,
+               "publisher": {
+                    "@type": "org:Organization",
+                    "name": "Performance & Analytics",
+                    "subOrganizationOf": {
+                         "@type": "org:Organization",
+                         "name": "City of San Diego"
+                    }
+               },
+               "references": null,
+               "rights": null,
+               "spatial": "San Diego",
+               "temporal": "2018-08-22/2023-10-01",
+               "title": "Homeless Outreach / Encampment reports"
+          },
+          {
+               "@type": "dcat:Dataset",
+               "accessLevel": "public",
+               "accrualPeriodicity": "R/P1D",
+               "contactPoint": {
+                    "@type": "vcard:Contact",
+                    "fn": "Performance & Analytics Technology & Innovation section",
+                    "hasEmail": "pandatech@sandiego.gov"
                },
                "describedBy": "https://seshat.datasd.org/get_it_done_reports/get_it_done_requests_dictionary_datasd.csv",
                "describedByType": "text/csv",
@@ -1343,14 +1393,18 @@
                     {
                          "@type": "dcat:Distribution",
                          "title": "Graffiti Removal Requests",
+                         "description": "Filtered: service_name contains the value 'Graffiti'",
                          "downloadURL": "https://seshat.datasd.org/get_it_done_graffiti/get_it_done_graffiti_requests_datasd.csv",
                          "mediaType": "text/csv",
-                         "format": "csv"
+                         "format": "csv",
+                         "byteSize": 36703289,
+                         "compressFormat": null,
                     }
                ],
                "identifier": "get_it_done_graffiti",
+               "isPartOf": "get_it_done_reports",
                "issued": "2017-06-13",
-               "keyword": null,
+               "keyword": ["311","Get it Done"],
                "license": "https://opendefinition.org/licenses/odc-pddl/",
                "modified": "2023-09-09T00:11:50-0700",
                "publisher": {
@@ -1363,8 +1417,8 @@
                },
                "references": null,
                "rights": null,
-               "spatial": null,
-               "temporal": null,
+               "spatial": "San Diego",
+               "temporal": "2016-06-17/2023-10-02",
                "title": "Graffiti Removal Requests"
           },
           {
@@ -1373,8 +1427,8 @@
                "accrualPeriodicity": "R/P1D",
                "contactPoint": {
                     "@type": "vcard:Contact",
-                    "fn": "Data & Analytics",
-                    "hasEmail": "data@sandiego.gov"
+                    "fn": "Performance & Analytics Technology & Innovation section",
+                    "hasEmail": "pandatech@sandiego.gov"
                },
                "describedBy": "https://seshat.datasd.org/get_it_done_reports/get_it_done_requests_dictionary_datasd.csv",
                "describedByType": "text/csv",
@@ -1383,14 +1437,18 @@
                     {
                          "@type": "dcat:Distribution",
                          "title": "Illegal Dumping Notifications",
+                         "description": "Filtered: service_name contains the value 'Illegal Dumping'",
                          "downloadURL": "https://seshat.datasd.org/get_it_done_illegal_dumping/get_it_done_illegal_dumping_requests_datasd.csv",
                          "mediaType": "text/csv",
-                         "format": "csv"
+                         "format": "csv",
+                         "byteSize": 47291120,
+                         "compressFormat": null
                     }
                ],
                "identifier": "get_it_done_illegal_dumping",
+               "isPartOf": "get_it_done_reports",
                "issued": "2017-06-13",
-               "keyword": null,
+               "keyword": ["311","Get it Done"],
                "license": "https://opendefinition.org/licenses/odc-pddl/",
                "modified": "2023-09-09T00:06:34-0700",
                "publisher": {
@@ -1403,8 +1461,8 @@
                },
                "references": null,
                "rights": null,
-               "spatial": null,
-               "temporal": null,
+               "spatial": "San Diego",
+               "temporal": "2018-07-13/2023-10-02",
                "title": "Illegal Dumping Notifications"
           },
           {
@@ -1413,24 +1471,28 @@
                "accrualPeriodicity": "R/P1D",
                "contactPoint": {
                     "@type": "vcard:Contact",
-                    "fn": "Data & Analytics",
-                    "hasEmail": "data@sandiego.gov"
+                    "fn": "Performance & Analytics Technology & Innovation section",
+                    "hasEmail": "pandatech@sandiego.gov"
                },
                "describedBy": "https://seshat.datasd.org/get_it_done_reports/get_it_done_requests_dictionary_datasd.csv",
                "describedByType": "text/csv",
-               "description": "Requests for abandoned vehicle removal received by the Get It Done program.",
+               "description": "Requests for parking enforcement on a vehicle parked longer than 72 hours received by the Get It Done program.",
                "distribution": [
                     {
                          "@type": "dcat:Distribution",
                          "title": "72-hour Parking Violation Notifications",
+                         "description": "Filtered: service_name contains the value '72 Hour Violation'",
                          "downloadURL": "https://seshat.datasd.org/get_it_done_parking_violations/get_it_done_72_hour_violation_requests_datasd.csv",
                          "mediaType": "text/csv",
-                         "format": "csv"
+                         "format": "csv",
+                         "byteSize": 33638542,
+                         "compressFormat": null
                     }
                ],
                "identifier": "get_it_done_parking_violations",
+               "isPartOf": "get_it_done_reports",
                "issued": "2017-06-13",
-               "keyword": null,
+               "keyword": ["311","Get it Done"],
                "license": "https://opendefinition.org/licenses/odc-pddl/",
                "modified": "2023-03-27",
                "publisher": {
@@ -1443,8 +1505,8 @@
                },
                "references": null,
                "rights": null,
-               "spatial": null,
-               "temporal": null,
+               "spatial": "San Diego",
+               "temporal": "2019-09-20/2023-06-27",
                "title": "72-hour Parking Violation Notifications"
           },
           {
@@ -1453,8 +1515,8 @@
                "accrualPeriodicity": "R/P1D",
                "contactPoint": {
                     "@type": "vcard:Contact",
-                    "fn": "Data & Analytics",
-                    "hasEmail": "data@sandiego.gov"
+                    "fn": "Performance & Analytics Technology & Innovation section",
+                    "hasEmail": "pandatech@sandiego.gov"
                },
                "describedBy": "https://seshat.datasd.org/get_it_done_reports/get_it_done_requests_dictionary_datasd.csv",
                "describedByType": "text/csv",
@@ -1463,14 +1525,18 @@
                     {
                          "@type": "dcat:Distribution",
                          "title": "Pothole Repair Requests",
+                         "description": "Filtered: service_name contains the value 'graffiti'",
                          "downloadURL": "https://seshat.datasd.org/get_it_done_potholes/get_it_done_pothole_requests_datasd.csv",
                          "mediaType": "text/csv",
-                         "format": "csv"
+                         "format": "csv",
+                         "byteSize": 20044536,
+                         "compressFormat": null
                     }
                ],
                "identifier": "get_it_done_potholes",
+               "isPartOf": "get_it_done_reports",
                "issued": "2017-06-13",
-               "keyword": null,
+               "keyword": ["311","Get it Done"],
                "license": "https://opendefinition.org/licenses/odc-pddl/",
                "modified": "2023-09-09T00:06:35-0700",
                "publisher": {
@@ -1483,8 +1549,8 @@
                },
                "references": null,
                "rights": null,
-               "spatial": null,
-               "temporal": null,
+               "spatial": "San Diego",
+               "temporal": "2017-01-09/2023-10-02",
                "title": "Pothole Repair Requests"
           },
           {
@@ -1493,8 +1559,8 @@
                "accrualPeriodicity": "R/P1D",
                "contactPoint": {
                     "@type": "vcard:Contact",
-                    "fn": "Data & Analytics",
-                    "hasEmail": "data@sandiego.gov"
+                    "fn": "Performance & Analytics Technology & Innovation section",
+                    "hasEmail": "pandatech@sandiego.gov"
                },
                "describedBy": "https://seshat.datasd.org/get_it_done_reports/get_it_done_requests_dictionary_datasd.csv",
                "describedByType": "text/csv",
@@ -1502,71 +1568,279 @@
                "distribution": [
                     {
                          "@type": "dcat:Distribution",
-                         "title": "Open Get It Done Requests",
+                         "title": "Get it Done Reports",
+                         "description": "Full dataset",
+                         "downloadURL": "https://seshat.datasd.org/get_it_done_reports/get_it_done_reports_datasd.zip",
+                         "mediaType": "text/csv",
+                         "format": "csv",
+                         "byteSize": 764931271,
+                         "compressFormat": "application/zip"
+                    },
+                    {
+                         "@type": "dcat:Distribution",
+                         "title": "Open",
+                         "description": "Filtered: status is not Closed or Referred",
                          "downloadURL": "https://seshat.datasd.org/get_it_done_reports/get_it_done_requests_open_datasd.csv",
                          "mediaType": "text/csv",
-                         "format": "csv"
+                         "format": "csv",
+                         "byteSize": 26563503,
+                         "compressFormat": null
                     },
                     {
                          "@type": "dcat:Distribution",
-                         "title": "Get It Done Requests closed in 2023",
+                         "title": "Closed in 2023",
+                         "description": "Filtered: status is Closed or Referred; date_closed is in 2023",
                          "downloadURL": "https://seshat.datasd.org/get_it_done_reports/get_it_done_requests_closed_2023_datasd.csv",
                          "mediaType": "text/csv",
-                         "format": "csv"
+                         "format": "csv",
+                         "byteSize": 109108787,
+                         "compressFormat": null
                     },
                     {
                          "@type": "dcat:Distribution",
-                         "title": "Get It Done Requests closed in 2022",
+                         "title": "Closed in 2022",
+                         "description": "Filtered: status is Closed or Referred; date_closed is in 2022",
                          "downloadURL": "https://seshat.datasd.org/get_it_done_reports/get_it_done_requests_closed_2022_datasd.csv",
                          "mediaType": "text/csv",
-                         "format": "csv"
+                         "format": "csv",
+                         "byteSize": 117402907,
+                         "compressFormat": null
                     },
                     {
                          "@type": "dcat:Distribution",
-                         "title": "Get It Done Requests closed in 2021",
+                         "title": "Closed in 2021",
+                         "description": "Filtered: status is Closed or Referred; date_closed is in 2021",
                          "downloadURL": "https://seshat.datasd.org/get_it_done_reports/get_it_done_requests_closed_2021_datasd.csv",
                          "mediaType": "text/csv",
-                         "format": "csv"
+                         "format": "csv",
+                         "byteSize": 122133290,
+                         "compressFormat": null
                     },
                     {
                          "@type": "dcat:Distribution",
-                         "title": "Get It Done Requests closed in 2020",
+                         "title": "Closed in 2020",
+                         "description": "Filtered: status is Closed or Referred; date_closed is in 2020",
                          "downloadURL": "https://seshat.datasd.org/get_it_done_reports/get_it_done_requests_closed_2020_datasd.csv",
                          "mediaType": "text/csv",
-                         "format": "csv"
+                         "format": "csv",
+                         "byteSize": 113887129,
+                         "compressFormat": null
                     },
                     {
                          "@type": "dcat:Distribution",
-                         "title": "Get It Done Requests closed in 2019",
+                         "title": "Closed in 2019",
+                         "description": "Filtered: status is Closed or Referred; date_closed is in 2019",
                          "downloadURL": "https://seshat.datasd.org/get_it_done_reports/get_it_done_requests_closed_2019_datasd.csv",
                          "mediaType": "text/csv",
-                         "format": "csv"
+                         "format": "csv",
+                         "byteSize": 123516071,
+                         "compressFormat": null
                     },
                     {
                          "@type": "dcat:Distribution",
-                         "title": "Get It Done Requests closed in 2018",
+                         "title": "Closed in 2018",
+                         "description": "Filtered: status is Closed or Referred; date_closed is in 2018",
                          "downloadURL": "https://seshat.datasd.org/get_it_done_reports/get_it_done_requests_closed_2018_datasd.csv",
                          "mediaType": "text/csv",
-                         "format": "csv"
+                         "format": "csv",
+                         "byteSize": 75142969,
+                         "compressFormat": null
                     },
                     {
                          "@type": "dcat:Distribution",
-                         "title": "Get It Done Requests closed in 2017",
+                         "title": "Closed in 2017",
+                         "description": "Filtered: status is Closed or Referred; date_closed is in 2017",
                          "downloadURL": "https://seshat.datasd.org/get_it_done_reports/get_it_done_requests_closed_2017_datasd.csv",
                          "mediaType": "text/csv",
-                         "format": "csv"
+                         "format": "csv",
+                         "byteSize": 62253051,
+                         "compressFormat": null
                     },
                     {
                          "@type": "dcat:Distribution",
-                         "title": "Get It Done Requests closed in 2016",
+                         "title": "Closed in 2016",
+                         "description": "Filtered: status is Closed or Referred; date_closed is in 2016",
                          "downloadURL": "https://seshat.datasd.org/get_it_done_reports/get_it_done_requests_closed_2016_datasd.csv",
                          "mediaType": "text/csv",
-                         "format": "csv"
-                    }
+                         "format": "csv",
+                         "byteSize": 14923564,
+                         "compressFormat": null
+                    },
+                    {
+                         "@type": "dcat:Distribution",
+                         "title": "Reported in Council District 1",
+                         "description": "Filtered: council_district is 1",
+                         "downloadURL": "https://seshat.datasd.org/get_it_done_reports/get_it_done_reports_council_district_1_datasd",
+                         "mediaType": "text/csv",
+                         "format": "csv",
+                         "byteSize": null,
+                         "compressFormat": null
+                    },
+                    {
+                         "@type": "dcat:Distribution",
+                         "title": "Reported in Council District 2",
+                         "description": "Filtered: council_district is 2",
+                         "downloadURL": "https://seshat.datasd.org/get_it_done_reports/get_it_done_reports_council_district_2_datasd",
+                         "mediaType": "text/csv",
+                         "format": "csv",
+                         "byteSize": null,
+                         "compressFormat": null
+                    },
+                    {
+                         "@type": "dcat:Distribution",
+                         "title": "Reported in Council District 3",
+                         "description": "Filtered: council_district is 3",
+                         "downloadURL": "https://seshat.datasd.org/get_it_done_reports/get_it_done_reports_council_district_3_datasd.csv",
+                         "mediaType": "text/csv",
+                         "format": "csv",
+                         "byteSize": null,
+                         "compressFormat": null
+                    },
+                    {
+                         "@type": "dcat:Distribution",
+                         "title": "Reported in Council District 4",
+                         "description": "Filtered: council_district is 4",
+                         "downloadURL": "https://seshat.datasd.org/get_it_done_reports/get_it_done_reports_council_district_4_datasd.csv",
+                         "mediaType": "text/csv",
+                         "format": "csv",
+                         "byteSize": null,
+                         "compressFormat": null
+                    },
+                    {
+                         "@type": "dcat:Distribution",
+                         "title": "Reported in Council District 5",
+                         "description": "Filtered: council_district is 5",
+                         "downloadURL": "https://seshat.datasd.org/get_it_done_reports/get_it_done_reports_council_district_5_datasd.csv",
+                         "mediaType": "text/csv",
+                         "format": "csv",
+                         "byteSize": null,
+                         "compressFormat": null
+                    },
+                    {
+                         "@type": "dcat:Distribution",
+                         "title": "Reported in Council District 6",
+                         "description": "Filtered: council_district is 6",
+                         "downloadURL": "https://seshat.datasd.org/get_it_done_reports/get_it_done_reports_council_district_6_datasd.csv",
+                         "mediaType": "text/csv",
+                         "format": "csv",
+                         "byteSize": null,
+                         "compressFormat": null
+                    },
+                    {
+                         "@type": "dcat:Distribution",
+                         "title": "Reported in Council District 7",
+                         "description": "Filtered: council_district is 7",
+                         "downloadURL": "https://seshat.datasd.org/get_it_done_reports/get_it_done_reports_council_district_7_datasd.csv",
+                         "mediaType": "text/csv",
+                         "format": "csv",
+                         "byteSize": null,
+                         "compressFormat": null
+                    },
+                    {
+                         "@type": "dcat:Distribution",
+                         "title": "Reported in Council District 8",
+                         "description": "Filtered: council_district is 8",
+                         "downloadURL": "https://seshat.datasd.org/get_it_done_reports/get_it_done_reports_council_district_8_datasd.csv",
+                         "mediaType": "text/csv",
+                         "format": "csv",
+                         "byteSize": null,
+                         "compressFormat": null
+                    },
+                    {
+                         "@type": "dcat:Distribution",
+                         "title": "Reported in Council District 9",
+                         "description": "Filtered: council_district is 9",
+                         "downloadURL": "https://seshat.datasd.org/get_it_done_reports/get_it_done_reports_council_district_9_datasd.csv",
+                         "mediaType": "text/csv",
+                         "format": "csv",
+                         "byteSize": null,
+                         "compressFormat": null
+                    },
+                    {
+                         "@type": "dcat:Distribution",
+                         "title": "Opened in 2016",
+                         "description": "Filtered: date_requested is in 2016",
+                         "downloadURL": "https://seshat.datasd.org/get_it_done_reports/get_it_done_reports_opened_2016_datasd.csv",
+                         "mediaType": "text/csv",
+                         "format": "csv",
+                         "byteSize": null,
+                         "compressFormat": null
+                    },
+                    {
+                         "@type": "dcat:Distribution",
+                         "title": "Opened in 2017",
+                         "description": "Filtered: date_requested is in 2017",
+                         "downloadURL": "https://seshat.datasd.org/get_it_done_reports/get_it_done_reports_opened_2017_datasd.csv",
+                         "mediaType": "text/csv",
+                         "format": "csv",
+                         "byteSize": null,
+                         "compressFormat": null
+                    },
+                    {
+                         "@type": "dcat:Distribution",
+                         "title": "Opened in 2018",
+                         "description": "Filtered: date_requested is in 2018",
+                         "downloadURL": "https://seshat.datasd.org/get_it_done_reports/get_it_done_reports_opened_2018_datasd.csv",
+                         "mediaType": "text/csv",
+                         "format": "csv",
+                         "byteSize": null,
+                         "compressFormat": null
+                    },
+                    {
+                         "@type": "dcat:Distribution",
+                         "title": "Opened in 2019",
+                         "description": "Filtered: date_requested is in 2019",
+                         "downloadURL": "https://seshat.datasd.org/get_it_done_reports/get_it_done_reports_opened_2019_datasd.csv",
+                         "mediaType": "text/csv",
+                         "format": "csv",
+                         "byteSize": null,
+                         "compressFormat": null
+                    },
+                    {
+                         "@type": "dcat:Distribution",
+                         "title": "Opened in 2020",
+                         "description": "Filtered: date_requested is in 2020",
+                         "downloadURL": "https://seshat.datasd.org/get_it_done_reports/get_it_done_reports_opened_2020_datasd.csv",
+                         "mediaType": "text/csv",
+                         "format": "csv",
+                         "byteSize": null,
+                         "compressFormat": null
+                    },
+                    {
+                         "@type": "dcat:Distribution",
+                         "title": "Opened in 2021",
+                         "description": "Filtered: date_requested is in 2021",
+                         "downloadURL": "https://seshat.datasd.org/get_it_done_reports/get_it_done_reports_opened_2021_datasd.csv",
+                         "mediaType": "text/csv",
+                         "format": "csv",
+                         "byteSize": null,
+                         "compressFormat": null
+                    },
+                    {
+                         "@type": "dcat:Distribution",
+                         "title": "Opened in 2022",
+                         "description": "Filtered: date_requested is in 2022",
+                         "downloadURL": "https://seshat.datasd.org/get_it_done_reports/get_it_done_reports_opened_2022_datasd.csv",
+                         "mediaType": "text/csv",
+                         "format": "csv",
+                         "byteSize": null,
+                         "compressFormat": null
+                    },
+                    {
+                         "@type": "dcat:Distribution",
+                         "title": "Opened in 2023",
+                         "description": "Filtered: date_requested is in 2023",
+                         "downloadURL": "https://seshat.datasd.org/get_it_done_reports/get_it_done_reports_opened_2023_datasd.csv",
+                         "mediaType": "text/csv",
+                         "format": "csv",
+                         "byteSize": null,
+                         "compressFormat": null
+                    },
                ],
                "identifier": "get_it_done_reports",
+               "isPartOf": null,
                "issued": "2016-05-26",
-               "keyword": null,
+               "keyword": ["311","Get it Done"],
                "license": "https://opendefinition.org/licenses/odc-pddl/",
                "modified": "2023-09-09T00:06:26-0700",
                "publisher": {
@@ -1579,8 +1853,8 @@
                },
                "references": null,
                "rights": null,
-               "spatial": null,
-               "temporal": null,
+               "spatial": "San Diego",
+               "temporal": "2016-05-20/2023-10-01",
                "title": "Reports of non-emergency problems submitted to Get It Done"
           },
           {
@@ -1983,6 +2257,210 @@
                "spatial": null,
                "temporal": null,
                "title": "San Diego city boundary"
+          },
+          {
+               "@type": "dcat:Dataset",
+               "accessLevel": "public",
+               "accrualPeriodicity": "R/P1W",
+               "contactPoint": {
+                    "@type": "vcard:Contact",
+                    "fn": "Data & Analytics",
+                    "hasEmail": "data@sandiego.gov"
+               },
+               "describedBy": null,
+               "describedByType": "text/csv",
+               "description": "CIP projects that can be represented by line project alignments. These CIP line projects include the construction or repair of water and sewer infrastructure, utilities, storm drain, and other various improvements.",
+               "distribution": [
+                    {
+                         "@type": "dcat:Distribution",
+                         "title": "Capital Improvements Program (CIP) lines attribute table",
+                         "downloadURL": "https://seshat.datasd.org/gis_cip_lines/gis_cip_lines_datasd.csv",
+                         "mediaType": "text/csv",
+                         "format": "csv"
+                    },
+                    {
+                         "@type": "dcat:Distribution",
+                         "title": "Capital Improvements Program (CIP) lines",
+                         "downloadURL": "https://seshat.datasd.org/gis_cip_lines/gis_cip_lines_datasd.geojson",
+                         "mediaType": "application/json",
+                         "format": "geojson"
+                    },
+                    {
+                         "@type": "dcat:Distribution",
+                         "title": "Capital Improvements Program (CIP) lines",
+                         "downloadURL": "https://seshat.datasd.org/gis_cip_lines/gis_cip_lines_datasd.pbf",
+                         "mediaType": "application/octet-stream",
+                         "format": "pbf"
+                    },
+                    {
+                         "@type": "dcat:Distribution",
+                         "title": "Capital Improvements Program (CIP) lines",
+                         "downloadURL": "https://seshat.datasd.org/gis_cip_lines/gis_cip_lines_datasd.topo.json",
+                         "mediaType": "application/octet-stream",
+                         "format": "topojson"
+                    },
+                    {
+                         "@type": "dcat:Distribution",
+                         "title": "Capital Improvements Program (CIP) lines",
+                         "downloadURL": "https://seshat.datasd.org/gis_cip_lines/gis_cip_lines_datasd.zip",
+                         "mediaType": "application/octet-stream",
+                         "format": "shp"
+                    }
+               ],
+               "identifier": "gis_cip_lines",
+               "issued": "2017-06-30",
+               "keyword": null,
+               "license": "https://opendefinition.org/licenses/odc-pddl/",
+               "modified": "2023-09-05T03:07:43-0700",
+               "publisher": {
+                    "@type": "org:Organization",
+                    "name": "SanGIS",
+                    "subOrganizationOf": {
+                         "@type": "org:Organization",
+                         "name": "City of San Diego"
+                    }
+               },
+               "references": null,
+               "rights": null,
+               "spatial": null,
+               "temporal": null,
+               "title": "Capital Improvements Program (CIP) lines"
+          },
+          {
+               "@type": "dcat:Dataset",
+               "accessLevel": "public",
+               "accrualPeriodicity": "R/P1W",
+               "contactPoint": {
+                    "@type": "vcard:Contact",
+                    "fn": "Data & Analytics",
+                    "hasEmail": "data@sandiego.gov"
+               },
+               "describedBy": null,
+               "describedByType": "text/csv",
+               "description": "CIP projects that can be represented by point project alignments. These CIP polygon projects include the construction or repair of pump stations, street lights, ADA curb ramps, and other various improvements.",
+               "distribution": [
+                    {
+                         "@type": "dcat:Distribution",
+                         "title": "Capital Improvements Program (CIP) points attribute table",
+                         "downloadURL": "https://seshat.datasd.org/gis_cip_points/gis_cip_points_datasd.csv",
+                         "mediaType": "text/csv",
+                         "format": "csv"
+                    },
+                    {
+                         "@type": "dcat:Distribution",
+                         "title": "Capital Improvements Program (CIP) points",
+                         "downloadURL": "https://seshat.datasd.org/gis_cip_points/gis_cip_points_datasd.geojson",
+                         "mediaType": "application/json",
+                         "format": "geojson"
+                    },
+                    {
+                         "@type": "dcat:Distribution",
+                         "title": "Capital Improvements Program (CIP) points",
+                         "downloadURL": "https://seshat.datasd.org/gis_cip_points/gis_cip_points_datasd.pbf",
+                         "mediaType": "application/octet-stream",
+                         "format": "pbf"
+                    },
+                    {
+                         "@type": "dcat:Distribution",
+                         "title": "Capital Improvements Program (CIP) points",
+                         "downloadURL": "https://seshat.datasd.org/gis_cip_points/gis_cip_points_datasd.topo.json",
+                         "mediaType": "application/octet-stream",
+                         "format": "topojson"
+                    },
+                    {
+                         "@type": "dcat:Distribution",
+                         "title": "Capital Improvements Program (CIP) points",
+                         "downloadURL": "https://seshat.datasd.org/gis_cip_points/gis_cip_points_datasd.zip",
+                         "mediaType": "application/octet-stream",
+                         "format": "shp"
+                    }
+               ],
+               "identifier": "gis_cip_points",
+               "issued": "2017-06-30",
+               "keyword": null,
+               "license": "https://opendefinition.org/licenses/odc-pddl/",
+               "modified": "2023-09-05T03:07:43-0700",
+               "publisher": {
+                    "@type": "org:Organization",
+                    "name": "SanGIS",
+                    "subOrganizationOf": {
+                         "@type": "org:Organization",
+                         "name": "City of San Diego"
+                    }
+               },
+               "references": null,
+               "rights": null,
+               "spatial": null,
+               "temporal": null,
+               "title": "Capital Improvements Program (CIP) points"
+          },
+          {
+               "@type": "dcat:Dataset",
+               "accessLevel": "public",
+               "accrualPeriodicity": "R/P1W",
+               "contactPoint": {
+                    "@type": "vcard:Contact",
+                    "fn": "Data & Analytics",
+                    "hasEmail": "data@sandiego.gov"
+               },
+               "describedBy": null,
+               "describedByType": "text/csv",
+               "description": "CIP projects that can be represented by polygon project alignments. These CIP polygon projects include the construction or repair of parks, freeway ramps, road widenings, and other various improvements.",
+               "distribution": [
+                    {
+                         "@type": "dcat:Distribution",
+                         "title": "Capital Improvements Program (CIP) polygons attribute table",
+                         "downloadURL": "https://seshat.datasd.org/gis_cip_poly/gis_cip_poly_datasd.csv",
+                         "mediaType": "text/csv",
+                         "format": "csv"
+                    },
+                    {
+                         "@type": "dcat:Distribution",
+                         "title": "Capital Improvements Program (CIP) polygons",
+                         "downloadURL": "https://seshat.datasd.org/gis_cip_poly/gis_cip_poly_datasd.geojson",
+                         "mediaType": "application/json",
+                         "format": "geojson"
+                    },
+                    {
+                         "@type": "dcat:Distribution",
+                         "title": "Capital Improvements Program (CIP) polygons",
+                         "downloadURL": "https://seshat.datasd.org/gis_cip_poly/gis_cip_poly_datasd.pbf",
+                         "mediaType": "application/octet-stream",
+                         "format": "pbf"
+                    },
+                    {
+                         "@type": "dcat:Distribution",
+                         "title": "Capital Improvements Program (CIP) polygons",
+                         "downloadURL": "https://seshat.datasd.org/gis_cip_poly/gis_cip_poly_datasd.topo.json",
+                         "mediaType": "application/octet-stream",
+                         "format": "topojson"
+                    },
+                    {
+                         "@type": "dcat:Distribution",
+                         "title": "Capital Improvements Program (CIP) polygons",
+                         "downloadURL": "https://seshat.datasd.org/gis_cip_poly/gis_cip_poly_datasd.zip",
+                         "mediaType": "application/octet-stream",
+                         "format": "shp"
+                    }
+               ],
+               "identifier": "gis_cip_poly",
+               "issued": "2017-06-30",
+               "keyword": null,
+               "license": "https://opendefinition.org/licenses/odc-pddl/",
+               "modified": "2023-09-05T03:07:43-0700",
+               "publisher": {
+                    "@type": "org:Organization",
+                    "name": "SanGIS",
+                    "subOrganizationOf": {
+                         "@type": "org:Organization",
+                         "name": "City of San Diego"
+                    }
+               },
+               "references": null,
+               "rights": null,
+               "spatial": null,
+               "temporal": null,
+               "title": "Capital Improvements Program (CIP) polygons"
           },
           {
                "@type": "dcat:Dataset",
@@ -3498,38 +3976,49 @@
                          "title": "Transit Stops Attribute Table",
                          "downloadURL": "https://seshat.datasd.org/gis_transit_stops/transit_stops_datasd.csv",
                          "mediaType": "text/csv",
-                         "format": "csv"
+                         "format": "csv",
+                         "byteSize": null,
+                         "compressFormat": null
                     },
                     {
                          "@type": "dcat:Distribution",
                          "title": "Transit Stops Locations",
                          "downloadURL": "https://seshat.datasd.org/gis_transit_stops/transit_stops_datasd.geojson",
                          "mediaType": "application/json",
-                         "format": "geojson"
+                         "format": "geojson",
+                         "byteSize": null,
+                         "compressFormat": null
                     },
                     {
                          "@type": "dcat:Distribution",
                          "title": "Transit Stops Locations",
                          "downloadURL": "https://seshat.datasd.org/gis_transit_stops/transit_stops_datasd.pbf",
                          "mediaType": "application/octet-stream",
-                         "format": "pbf"
+                         "format": "pbf",
+                         "byteSize": null,
+                         "compressFormat": null
                     },
                     {
                          "@type": "dcat:Distribution",
                          "title": "Transit Stops Locations",
                          "downloadURL": "https://seshat.datasd.org/gis_transit_stops/transit_stops_datasd.topo.json",
                          "mediaType": "application/octet-stream",
-                         "format": "topojson"
+                         "format": "topojson",
+                         "byteSize": null,
+                         "compressFormat": null
                     },
                     {
                          "@type": "dcat:Distribution",
                          "title": "Transit Stops Locations",
                          "downloadURL": "https://seshat.datasd.org/gis_transit_stops/transit_stops_datasd.zip",
                          "mediaType": "application/octet-stream",
-                         "format": "shp"
+                         "format": "shp",
+                         "byteSize": null,
+                         "compressFormat": null
                     }
                ],
                "identifier": "gis_transit_stops",
+               "isPartOf": null,
                "issued": "2016-05-09",
                "keyword": null,
                "license": "https://opendefinition.org/licenses/odc-pddl/",
@@ -3754,10 +4243,13 @@
                          "title": "All Drinking Water Tests (Bacteria)",
                          "downloadURL": "https://seshat.datasd.org/monitoring_indicator_bacteria/indicator_bacteria_tests_datasd.csv",
                          "mediaType": "text/csv",
-                         "format": "csv"
+                         "format": "csv",
+                         "byteSize": null,
+                         "compressFormat": null
                     }
                ],
                "identifier": "monitoring_indicator_bacteria",
+               "isPartOf": null,
                "issued": "2016-05-11",
                "keyword": null,
                "license": "https://opendefinition.org/licenses/odc-pddl/",
@@ -5437,10 +5929,13 @@
                          "title": "Stop details",
                          "downloadURL": "https://seshat.datasd.org/police_ripa_stops/ripa_stops_datasd.csv",
                          "mediaType": "text/csv",
-                         "format": "csv"
+                         "format": "csv",
+                         "byteSize": null,
+                         "compressFormat": null
                     }
                ],
                "identifier": "police_ripa_stops",
+               "isPartOf": null,
                "issued": "2019-04-16",
                "keyword": null,
                "license": "https://opendefinition.org/licenses/odc-pddl/",
@@ -6042,10 +6537,13 @@
                          "title": "Traffic Counts",
                          "downloadURL": "https://seshat.datasd.org/traffic_adt_counts/traffic_counts_datasd.csv",
                          "mediaType": "text/csv",
-                         "format": "csv"
+                         "format": "csv",
+                         "byteSize": null,
+                         "compressFormat": null
                     }
                ],
                "identifier": "traffic_adt_counts",
+               "isPartOf": null,
                "issued": "2016-05-17",
                "keyword": null,
                "license": "https://opendefinition.org/licenses/odc-pddl/",
