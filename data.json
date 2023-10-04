@@ -6417,10 +6417,13 @@
                          "title": "Active certificates",
                          "downloadURL": "https://seshat.datasd.org/tot_establishments/tot_establishments_datasd.csv",
                          "mediaType": "text/csv",
-                         "format": "csv"
+                         "format": "csv",
+                         "byteSize": null,
+                         "compressFormat": null
                     }
                ],
                "identifier": "tot_establishments",
+               "isPartOf": null,
                "issued": "2022-05-11",
                "keyword": null,
                "license": "https://opendefinition.org/licenses/odc-pddl/",
