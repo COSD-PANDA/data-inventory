@@ -1354,7 +1354,7 @@
                          "mediaType": "text/csv",
                          "format": "csv",
                          "byteSize": 36703289,
-                         "compressFormat": null,
+                         "compressFormat": null
                     }
                ],
                "identifier": "get_it_done_encampments",
@@ -1398,7 +1398,7 @@
                          "mediaType": "text/csv",
                          "format": "csv",
                          "byteSize": 36703289,
-                         "compressFormat": null,
+                         "compressFormat": null
                     }
                ],
                "identifier": "get_it_done_graffiti",
@@ -1835,7 +1835,7 @@
                          "format": "csv",
                          "byteSize": null,
                          "compressFormat": null
-                    },
+                    }
                ],
                "identifier": "get_it_done_reports",
                "isPartOf": null,
