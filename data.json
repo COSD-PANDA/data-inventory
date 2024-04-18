@@ -5069,7 +5069,7 @@
             },
             "describedBy": "https://seshat.datasd.org/police_nibrs/pd_nibrs_dictionary.csv",
             "describedByType": "text/csv",
-            "description": "The National Incident-Based Reporting System (NIBRS) was implemented in 2021 to improve the overall quality of crime data collected by law enforcement.",
+            "description": "In 2021, the San Diego Police Department began reporting to the FBI’s National Incident-Based Reporting System (NIBRS) for statistics. NIBRS collects data on all crimes reported to law enforcement agencies, not just the highest charges within those crimes.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
