@@ -5067,6 +5067,46 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
+            "describedBy": "https://seshat.datasd.org/police_nibrs/pd_nibrs_dictionary.csv",
+            "describedByType": "text/csv",
+            "description": "In 2021, the San Diego Police Department began reporting to the FBI’s National Incident-Based Reporting System (NIBRS) for statistics. NIBRS collects data on all crimes reported to law enforcement agencies, not just the highest charges within those crimes.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Police NIBRS Crime Offenses",
+                    "downloadURL": "https://seshat.datasd.org/police_nibrs/pd_nibrs_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                }
+            ],
+            "identifier": "police_nibrs",
+            "issued": "2024-04-18",
+            "keyword": null,
+            "license": "https://opendefinition.org/licenses/odc-pddl/",
+            "modified": "2024-04-09T00:00:00-0700",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Police",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "City of San Diego"
+                }
+            },
+            "references": null,
+            "rights": null,
+            "spatial": null,
+            "temporal": null,
+            "title": "Police NIBRS Crime Offenses"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "R/P3M",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Data & Analytics",
+                "hasEmail": "data@sandiego.gov"
+            },
             "describedBy": "https://seshat.datasd.org/police_ripa_actions_taken/ripa_actions_taken_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "description": "Actions an officer took toward a person stopped by the San Diego Police Department.",
