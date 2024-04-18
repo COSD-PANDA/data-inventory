@@ -5069,7 +5069,7 @@
             },
             "describedBy": "https://seshat.datasd.org/police_nibrs/pd_nibrs_dictionary.csv",
             "describedByType": "text/csv",
-            "description": "In 2021, the San Diego Police Department began reporting to the FBI’s National Incident-Based Reporting System (NIBRS) for statistics. NIBRS collects data on all crimes reported to law enforcement agencies, not just the highest charges within those crimes.",
+            "description": "In 2021, the San Diego Police Department began reporting to the FBI\u2019s National Incident-Based Reporting System (NIBRS) for statistics. NIBRS collects data on all crimes reported to law enforcement agencies, not just the highest charges within those crimes.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -5971,7 +5971,7 @@
             "issued": "2023-01-19",
             "keyword": null,
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2024-04-18T10:04:54-0700",
+            "modified": "2024-04-18T11:04:24-0700",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "City Treasurer",
