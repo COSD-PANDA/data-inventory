@@ -1677,13 +1677,6 @@
                 {
                     "@type": "dcat:Distribution",
                     "title": "Bike Master Plan route lines",
-                    "downloadURL": "https://seshat.datasd.org/gis_bike_master_plan/bike_master_plan_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Bike Master Plan route lines",
                     "downloadURL": "https://seshat.datasd.org/gis_bike_master_plan/bike_master_plan_datasd.topo.json",
                     "mediaType": "application/octet-stream",
                     "format": "topojson"
