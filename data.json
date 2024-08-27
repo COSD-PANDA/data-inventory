@@ -2470,13 +2470,6 @@
                 {
                     "@type": "dcat:Distribution",
                     "title": "Lifeguard station points",
-                    "downloadURL": "https://seshat.datasd.org/gis_lifeguard_stations/lifeguard_stations_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Lifeguard station points",
                     "downloadURL": "https://seshat.datasd.org/gis_lifeguard_stations/lifeguard_stations_datasd.topo.json",
                     "mediaType": "application/octet-stream",
                     "format": "topojson"
@@ -2534,13 +2527,6 @@
                     "downloadURL": "https://seshat.datasd.org/gis_maintenance_assessment_districts/maintenance_assessment_districts_datasd.geojson",
                     "mediaType": "application/json",
                     "format": "geojson"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Maintenance assessment districts",
-                    "downloadURL": "https://seshat.datasd.org/gis_maintenance_assessment_districts/maintenance_assessment_districts_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -2606,13 +2592,6 @@
                 {
                     "@type": "dcat:Distribution",
                     "title": "MHPA",
-                    "downloadURL": "https://seshat.datasd.org/gis_mhpa_areas/mhpa_areas_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "MHPA",
                     "downloadURL": "https://seshat.datasd.org/gis_mhpa_areas/mhpa_areas_datasd.topo.json",
                     "mediaType": "application/octet-stream",
                     "format": "topojson"
@@ -2670,13 +2649,6 @@
                     "downloadURL": "https://seshat.datasd.org/gis_park_locations/parks_datasd.geojson",
                     "mediaType": "application/json",
                     "format": "geojson"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Park points",
-                    "downloadURL": "https://seshat.datasd.org/gis_park_locations/parks_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
                 },
                 {
                     "@type": "dcat:Distribution",
