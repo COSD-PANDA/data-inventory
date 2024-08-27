@@ -2287,13 +2287,6 @@
                 {
                     "@type": "dcat:Distribution",
                     "title": "Historical districts",
-                    "downloadURL": "https://seshat.datasd.org/gis_historical_districts/historic_districts_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Historical districts",
                     "downloadURL": "https://seshat.datasd.org/gis_historical_districts/historic_districts_datasd.topo.json",
                     "mediaType": "application/octet-stream",
                     "format": "topojson"
@@ -2355,13 +2348,6 @@
                 {
                     "@type": "dcat:Distribution",
                     "title": "Joint use parks",
-                    "downloadURL": "https://seshat.datasd.org/gis_joint_use_parks/joint_use_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Joint use parks",
                     "downloadURL": "https://seshat.datasd.org/gis_joint_use_parks/joint_use_datasd.topo.json",
                     "mediaType": "application/octet-stream",
                     "format": "topojson"
@@ -2419,13 +2405,6 @@
                     "downloadURL": "https://seshat.datasd.org/gis_library_locations/libraries_datasd.geojson",
                     "mediaType": "application/json",
                     "format": "geojson"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Library points",
-                    "downloadURL": "https://seshat.datasd.org/gis_library_locations/libraries_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
                 },
                 {
                     "@type": "dcat:Distribution",
