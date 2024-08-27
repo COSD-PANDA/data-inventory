@@ -2043,13 +2043,6 @@
                 {
                     "@type": "dcat:Distribution",
                     "title": "Community planning districts",
-                    "downloadURL": "https://seshat.datasd.org/gis_community_planning_districts/cmty_plan_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Community planning districts",
                     "downloadURL": "https://seshat.datasd.org/gis_community_planning_districts/cmty_plan_datasd.topo.json",
                     "mediaType": "application/octet-stream",
                     "format": "topojson"
@@ -2107,13 +2100,6 @@
                     "downloadURL": "https://seshat.datasd.org/gis_fire_battalion_districts/fire_battalion_districts_datasd.geojson",
                     "mediaType": "application/json",
                     "format": "geojson"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Fire battalion districts",
-                    "downloadURL": "https://seshat.datasd.org/gis_fire_battalion_districts/fire_battalion_districts_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -2179,13 +2165,6 @@
                 {
                     "@type": "dcat:Distribution",
                     "title": "Fire station points",
-                    "downloadURL": "https://seshat.datasd.org/gis_fire_stations/fire_stations_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Fire station points",
                     "downloadURL": "https://seshat.datasd.org/gis_fire_stations/fire_stations_datasd.topo.json",
                     "mediaType": "application/octet-stream",
                     "format": "topojson"
@@ -2243,13 +2222,6 @@
                     "downloadURL": "https://seshat.datasd.org/gis_general_plan_land_use/gp_land_use_datasd.geojson",
                     "mediaType": "application/json",
                     "format": "geojson"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "General Plan polygons",
-                    "downloadURL": "https://seshat.datasd.org/gis_general_plan_land_use/gp_land_use_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
                 },
                 {
                     "@type": "dcat:Distribution",
