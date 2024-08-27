@@ -3021,13 +3021,6 @@
                 {
                     "@type": "dcat:Distribution",
                     "title": "Revolving Loan Fund coverage boundaries",
-                    "downloadURL": "https://seshat.datasd.org/gis_revolving_loan_fund_coverage/rev_loan_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Revolving Loan Fund coverage boundaries",
                     "downloadURL": "https://seshat.datasd.org/gis_revolving_loan_fund_coverage/rev_loan_datasd.topo.json",
                     "mediaType": "application/octet-stream",
                     "format": "topojson"
@@ -3085,13 +3078,6 @@
                     "downloadURL": "https://seshat.datasd.org/gis_roads_all/roads_datasd.geojson",
                     "mediaType": "application/json",
                     "format": "geojson"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Roads lines",
-                    "downloadURL": "https://seshat.datasd.org/gis_roads_all/roads_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -3157,13 +3143,6 @@
                 {
                     "@type": "dcat:Distribution",
                     "title": "Right-of-way parcels",
-                    "downloadURL": "https://seshat.datasd.org/gis_row/right_of_way_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Right-of-way parcels",
                     "downloadURL": "https://seshat.datasd.org/gis_row/right_of_way_datasd.topo.json",
                     "mediaType": "application/octet-stream",
                     "format": "topojson"
@@ -3221,13 +3200,6 @@
                     "downloadURL": "https://seshat.datasd.org/gis_streets_repair_segs/sd_paving_segs_datasd.geojson",
                     "mediaType": "application/json",
                     "format": "geojson"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Street segment lines",
-                    "downloadURL": "https://seshat.datasd.org/gis_streets_repair_segs/sd_paving_segs_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -3293,13 +3265,6 @@
                 {
                     "@type": "dcat:Distribution",
                     "title": "Transit routes",
-                    "downloadURL": "https://seshat.datasd.org/gis_transit_routes/transit_routes_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Transit routes",
                     "downloadURL": "https://seshat.datasd.org/gis_transit_routes/transit_routes_datasd.topo.json",
                     "mediaType": "application/octet-stream",
                     "format": "topojson"
@@ -3361,13 +3326,6 @@
                 {
                     "@type": "dcat:Distribution",
                     "title": "Transit Stops Locations",
-                    "downloadURL": "https://seshat.datasd.org/gis_transit_stops/transit_stops_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Transit Stops Locations",
                     "downloadURL": "https://seshat.datasd.org/gis_transit_stops/transit_stops_datasd.topo.json",
                     "mediaType": "application/octet-stream",
                     "format": "topojson"
@@ -3425,13 +3383,6 @@
                     "downloadURL": "https://seshat.datasd.org/gis_zoning/zoning_datasd.geojson",
                     "mediaType": "application/json",
                     "format": "geojson"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Zoning",
-                    "downloadURL": "https://seshat.datasd.org/gis_zoning/zoning_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -5663,13 +5614,6 @@
                     "downloadURL": "https://seshat.datasd.org/gis_street_sweeping/street_sweeping_datasd.geojson",
                     "mediaType": "application/json",
                     "format": "json"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Street Sweeping schedule by street",
-                    "downloadURL": "https://seshat.datasd.org/gis_street_sweeping/street_sweeping_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
                 },
                 {
                     "@type": "dcat:Distribution",
