@@ -2714,13 +2714,6 @@
                 {
                     "@type": "dcat:Distribution",
                     "title": "Police beats",
-                    "downloadURL": "https://seshat.datasd.org/gis_police_beats/pd_beats_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Police beats",
                     "downloadURL": "https://seshat.datasd.org/gis_police_beats/pd_beats_datasd.topo.json",
                     "mediaType": "application/octet-stream",
                     "format": "topojson"
@@ -2780,13 +2773,6 @@
                     "downloadURL": "https://seshat.datasd.org/gis_police_divisions/pd_divisions_datasd.geojson",
                     "mediaType": "application/json",
                     "format": "geojson"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Police divisions",
-                    "downloadURL": "https://seshat.datasd.org/gis_police_divisions/pd_divisions_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -2852,13 +2838,6 @@
                 {
                     "@type": "dcat:Distribution",
                     "title": "Police neighborhoods",
-                    "downloadURL": "https://seshat.datasd.org/gis_police_neighborhoods/pd_neighborhoods_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Police neighborhoods",
                     "downloadURL": "https://seshat.datasd.org/gis_police_neighborhoods/pd_neighborhoods_datasd.topo.json",
                     "mediaType": "application/octet-stream",
                     "format": "topojson"
@@ -2920,13 +2899,6 @@
                 {
                     "@type": "dcat:Distribution",
                     "title": "Promise Zone boundary",
-                    "downloadURL": "https://seshat.datasd.org/gis_promise_zone/promise_zone_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Promise Zone boundary",
                     "downloadURL": "https://seshat.datasd.org/gis_promise_zone/promise_zone_datasd.topo.json",
                     "mediaType": "application/octet-stream",
                     "format": "topojson"
@@ -2984,13 +2956,6 @@
                     "downloadURL": "https://seshat.datasd.org/gis_recreation_center/rec_centers_datasd.geojson",
                     "mediaType": "application/json",
                     "format": "geojson"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Recreation center points",
-                    "downloadURL": "https://seshat.datasd.org/gis_recreation_center/rec_centers_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
                 },
                 {
                     "@type": "dcat:Distribution",
