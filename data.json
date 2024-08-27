@@ -1860,13 +1860,6 @@
                 {
                     "@type": "dcat:Distribution",
                     "title": "Census tracts eligible for CDBG",
-                    "downloadURL": "https://seshat.datasd.org/gis_cdbg_census_tracts/block_grants_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Census tracts eligible for CDBG",
                     "downloadURL": "https://seshat.datasd.org/gis_cdbg_census_tracts/block_grants_datasd.topo.json",
                     "mediaType": "application/octet-stream",
                     "format": "topojson"
@@ -1928,13 +1921,6 @@
                 {
                     "@type": "dcat:Distribution",
                     "title": "San Diego boundary",
-                    "downloadURL": "https://seshat.datasd.org/gis_city_boundary/san_diego_boundary_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "San Diego boundary",
                     "downloadURL": "https://seshat.datasd.org/gis_city_boundary/san_diego_boundary_datasd.topo.json",
                     "mediaType": "application/octet-stream",
                     "format": "topojson"
@@ -1992,13 +1978,6 @@
                     "downloadURL": "https://seshat.datasd.org/gis_city_council_districts/council_districts_datasd.geojson",
                     "mediaType": "application/json",
                     "format": "geojson"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "City Council districts",
-                    "downloadURL": "https://seshat.datasd.org/gis_city_council_districts/council_districts_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
                 },
                 {
                     "@type": "dcat:Distribution",
