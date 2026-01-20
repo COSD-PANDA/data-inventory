@@ -768,15 +768,15 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Active approvals",
-                    "downloadURL": "https://seshat.datasd.org/development_permits_set1/permits_set1_active_datasd.csv",
+                    "title": "Approved permits",
+                    "downloadURL": "development_permits-nested-milestone~Approved-year-2025.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Closed approvals, since 2003",
-                    "downloadURL": "https://seshat.datasd.org/development_permits_set1/permits_set1_closed_datasd.csv",
+                    "title": "Issued permits",
+                    "downloadURL": "development_permits-nested-milestone~Issued-year~2025.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 }
