@@ -473,7 +473,7 @@
                     "downloadURL": "https://seshat.datasd.org/code_enforcement_violations/code_enf_remedies_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
-                },
+                }
             ],
             "identifier": "code_enforcement_violations",
             "issued": "2016-06-21",
@@ -572,7 +572,7 @@
                     "downloadURL": "https://seshat.datasd.org/cpp_complaints_complainants/2024_crb_complainants_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
-                },
+                }
             ],
             "identifier": "cpp_complaints_evaluated",
             "issued": "2019-09-04",
@@ -5605,7 +5605,7 @@
                     "downloadURL": "https://seshat.datasd.org/police_nibrs/pd_nibrs_2020_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
-                },
+                }
             ],
             "identifier": "police_nibrs",
             "issued": "2024-04-18",
