@@ -459,6 +459,20 @@
                     "downloadURL": "https://seshat.datasd.org/code_enforcement_violations/code_enf_past_3_yr_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Complaint Type Codes",
+                    "downloadURL": "https://seshat.datasd.org/code_enforcement_violations/complaint_types_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Code Enforcement Remedies",
+                    "downloadURL": "https://seshat.datasd.org/code_enforcement_violations/code_enf_remedies_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
                 }
             ],
             "identifier": "code_enforcement_violations",
@@ -497,30 +511,65 @@
             "description": "Commission on Police Practices cases. CPP is an independent body that investigates officer-involved shootings, in-custody deaths, & other significant incidents in a process that is transparent and accountable to the community.",
             "distribution": [
                 {
-                    "title": "Cases FY22",
+                    "title": "Cases FY25",
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_evaluated/crb_cases_fy2022_datasd.csv",
+                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_evaluated/2025_crb_cases_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
-                    "title": "Cases FY21",
+                    "title": "Allegations FY25",
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_evaluated/crb_cases_fy2021_datasd.csv",
+                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_allegations/2025_crb_allegations_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
-                    "title": "Cases FY20",
+                    "title": "Body worn camera details FY25",
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_evaluated/crb_cases_fy2020_datasd.csv",
+                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_body_worn_camera/2025_crb_cases_bwc_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
-                    "title": "Cases and allegations, FY19",
+                    "title": "Complainants FY25",
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_evaluated/crb_cases_fy19_datasd.csv",
+                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_complainants/2025_crb_complainants_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "title": "Dictionary FY25",
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_evaluated/dictionary_FY25.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "title": "Cases FY20-FY24",
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_evaluated/2024_crb_cases_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "title": "Allegations FY20-FY24",
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_allegations/2024_crb_allegations_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "title": "Body worn camera details FY20-FY24",
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_body_worn_camera/2024_crb_cases_bwc_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "title": "Complainants FY20-FY24",
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_complainants/2024_crb_complainants_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 }
@@ -739,6 +788,53 @@
             "keyword": null,
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-03-05T04:30:34-0800",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Development Services",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "City of San Diego"
+                }
+            },
+            "references": null,
+            "rights": null,
+            "spatial": null,
+            "temporal": null,
+            "title": "Development Permits legacy data"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "R/P1D",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Data & Analytics",
+                "hasEmail": "data@sandiego.gov"
+            },
+            "describedBy": "https://seshat.datasd.org/development_permits_set1/permits_set1_datasd_dict.csv",
+            "describedByType": "text/csv",
+            "description": "Approvals for permits, maps, agreements, and other applications processed by Development Services Department legacy permitting system. The legacy system contains applications submitted in paper or through a hybrid process. Approval types began migrating to the current cloud-based system in 2018.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Approved permits",
+                    "downloadURL": "development_permits-nested-milestone~Approved-year-2025.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Issued permits",
+                    "downloadURL": "development_permits-nested-milestone~Issued-year~2025.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                }
+            ],
+            "identifier": "development_permits",
+            "issued": "2020-03-10",
+            "keyword": null,
+            "license": "https://opendefinition.org/licenses/odc-pddl/",
+            "modified": "2026-01-08T04:39:23-0800",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Development Services",
@@ -1043,7 +1139,7 @@
             "issued": "2016-08-01",
             "keyword": null,
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2023-07-13",
+            "modified": "2027-07-13",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Information Technology",
@@ -1111,6 +1207,27 @@
             "describedByType": "text/csv",
             "description": "Fire and EMS calls dispatched by the San Diego Fire Communications Center.",
             "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Fire Incidents 2026",
+                    "downloadURL": "https://seshat.datasd.org/fire_ems_incidents/fd_incidents_2026_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Fire Incidents 2025",
+                    "downloadURL": "https://seshat.datasd.org/fire_ems_incidents/fd_incidents_2025_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Fire Incidents 2024",
+                    "downloadURL": "https://seshat.datasd.org/fire_ems_incidents/fd_incidents_2024_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
                 {
                     "@type": "dcat:Distribution",
                     "title": "Fire Incidents 2023",
@@ -1507,6 +1624,27 @@
                     "@type": "dcat:Distribution",
                     "title": "Open Get It Done Requests",
                     "downloadURL": "https://seshat.datasd.org/get_it_done_reports/get_it_done_requests_open_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Get It Done Requests closed in 2026",
+                    "downloadURL": "https://seshat.datasd.org/get_it_done_reports/get_it_done_requests_closed_2026_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Get It Done Requests closed in 2025",
+                    "downloadURL": "https://seshat.datasd.org/get_it_done_reports/get_it_done_requests_closed_2025_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Get It Done Requests closed in 2024",
+                    "downloadURL": "https://seshat.datasd.org/get_it_done_reports/get_it_done_requests_closed_2024_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
@@ -2818,6 +2956,13 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
+                    "title": "Police beats code-to-neighborhood list",
+                    "downloadURL": "https://seshat.datasd.org/gis_police_beats/pd_beat_codes_list_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
                     "title": "Police beats attribute table",
                     "downloadURL": "https://seshat.datasd.org/gis_police_beats/pd_beats_datasd.csv",
                     "mediaType": "text/csv",
@@ -3759,6 +3904,13 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
+                    "title": "Latest Drinking Water Tests (Bacteria)",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_indicator_bacteria/latest_indicator_bac_tests_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
                     "title": "All Drinking Water Tests (Bacteria)",
                     "downloadURL": "https://seshat.datasd.org/monitoring_indicator_bacteria/indicator_bacteria_tests_datasd.csv",
                     "mediaType": "text/csv",
@@ -3805,6 +3957,13 @@
                     "downloadURL": "https://seshat.datasd.org/monitoring_ocean_benthic_invertebrates/benthic_invertebrates_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Sediment Quality Sampling Station Locations",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_benthic_invertebrates/reference_stations_benthic.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
                 }
             ],
             "identifier": "monitoring_ocean_benthic_invertebrates",
@@ -3847,6 +4006,13 @@
                     "downloadURL": "https://seshat.datasd.org/monitoring_ocean_fish_tissue/fish_tissue_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Fish Tissue Sampling Station Locations",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_fish_tissue/reference_stations_fish_tissue.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
                 }
             ],
             "identifier": "monitoring_ocean_fish_tissue",
@@ -3885,8 +4051,15 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Contaminants in Fish Tissue",
+                    "title": "ROTV Sample Results",
                     "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rotv/rotv_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "ROTV Parameter Definitions",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rotv/rotv_parameter_definitions_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 }
@@ -3925,6 +4098,20 @@
             "describedByType": "text/csv",
             "description": "Ocean chemistry measurements collected by Real-time Oceanographic Mooring System (RTOMS). Ocean chemistry parameters include dissolved oxygen, fraction dissolved carbon dioxide (xCO2), nitrate + nitrite, and total pH.",
             "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Point Loma Ocean Outfall (PLOO) 2023 RTOMS ocean chemistry measurements",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_ocean_chemistry/PLOO_ocean_chemistry_2023_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "South Bay Ocean Outfall (SBOO) 2023 RTOMS ocean chemistry measurements",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_ocean_chemistry/SBOO_ocean_chemistry_2023_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
                 {
                     "@type": "dcat:Distribution",
                     "title": "Point Loma Ocean Outfall (PLOO) 2022 RTOMS ocean chemistry measurements",
@@ -3966,6 +4153,20 @@
                     "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_ocean_chemistry/SBOO_ocean_chemistry_2020_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Parameter dictionary",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms/rtoms_parameter_dictionary_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Qualifier dictionary",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms/rtoms_qualifier_dictionary_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
                 }
             ],
             "identifier": "monitoring_ocean_rtoms_ocean_chemistry",
@@ -4003,6 +4204,20 @@
             "describedByType": "text/csv",
             "description": "Salinity measurements collected by Real-time Oceanographic Mooring System (RTOMS).",
             "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Point Loma Ocean Outfall (PLOO) 2023 RTOMS salinity measurements",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_salinity/PLOO_salinity_2023_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "South Bay Ocean Outfall (SBOO) 2023 RTOMS salinity measurements",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_salinity/SBOO_salinity_2023_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
                 {
                     "@type": "dcat:Distribution",
                     "title": "Point Loma Ocean Outfall (PLOO) 2022 RTOMS salinity measurements",
@@ -4044,6 +4259,20 @@
                     "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_salinity/SBOO_salinity_2020_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Parameter dictionary",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms/rtoms_parameter_dictionary_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Qualifier dictionary",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms/rtoms_qualifier_dictionary_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
                 }
             ],
             "identifier": "monitoring_ocean_rtoms_salinity",
@@ -4081,6 +4310,20 @@
             "describedByType": "text/csv",
             "description": "Water quality measurements collected by Real-time Oceanographic Mooring System (RTOMS). Quality parameters include Biological oxygen demand (BOD) equivalent, Chlorophyll fluorescence, Colored dissolved organic matter (CDOM) fluorescence equivalent, and Turbidity.",
             "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Point Loma Ocean Outfall (PLOO) 2023 RTOMS water quality measurements",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_water_quality/PLOO_water_quality_2023_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "South Bay Ocean Outfall (SBOO) 2023 RTOMS water quality measurements",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_water_quality/SBOO_water_quality_2023_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
                 {
                     "@type": "dcat:Distribution",
                     "title": "Point Loma Ocean Outfall (PLOO) 2022 RTOMS water quality measurements",
@@ -4122,6 +4365,20 @@
                     "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_water_quality/SBOO_water_quality_2020_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Parameter dictionary",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms/rtoms_parameter_dictionary_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Qualifier dictionary",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms/rtoms_qualifier_dictionary_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
                 }
             ],
             "identifier": "monitoring_ocean_rtoms_water_quality",
@@ -4159,6 +4416,20 @@
             "describedByType": "text/csv",
             "description": "Water temperature measurements collected by Real-time Oceanographic Mooring System (RTOMS).",
             "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Point Loma Ocean Outfall (PLOO) 2023 RTOMS water temperature measurements",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_water_temperature/PLOO_water_temperature_2023_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "South Bay Ocean Outfall (SBOO) 2023 RTOMS water temperature measurements",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_water_temperature/SBOO_water_temperature_2023_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
                 {
                     "@type": "dcat:Distribution",
                     "title": "Point Loma Ocean Outfall (PLOO) 2022 RTOMS water temperature measurements",
@@ -4200,6 +4471,20 @@
                     "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_water_temperature/SBOO_water_temperature_2020_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Parameter dictionary",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms/rtoms_parameter_dictionary_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Qualifier dictionary",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms/rtoms_qualifier_dictionary_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
                 }
             ],
             "identifier": "monitoring_ocean_rtoms_water_temperature",
@@ -4239,8 +4524,15 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Contaminants in Fish Tissue",
+                    "title": "Sediment Quality Sample Results",
                     "downloadURL": "https://seshat.datasd.org/monitoring_ocean_sediment/sediment_quality_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Sediment Quality Sampling Station Locations",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_sediment/reference_stations_sediment_quality.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 }
@@ -4290,6 +4582,20 @@
                     "downloadURL": "https://seshat.datasd.org/monitoring_ocean_trawl_fish/trawl_fish_summary_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Fish Trawl Sampling Locations",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_trawl_fish/reference_stations_fish_trawl.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Dictionary, class size",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_trawl_fish/trawl_fish_dictionary_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
                 }
             ],
             "identifier": "monitoring_ocean_trawl_fish",
@@ -4332,6 +4638,13 @@
                     "downloadURL": "https://seshat.datasd.org/monitoring_ocean_trawl_invertebrates/trawl_invertebrates_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Invertebrate Trawl Sampling Station Locations",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_trawl_invertebrates/reference_stations_invertebrate_trawls.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
                 }
             ],
             "identifier": "monitoring_ocean_trawl_invertebrates",
@@ -4370,8 +4683,8 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Parameter Results, 2020 - 2021",
-                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_water_quality/water_quality_2020_2021_datasd.csv",
+                    "title": "Parameter Results, 2020 - 2029",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_water_quality/water_quality_2020_2029_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
@@ -4393,6 +4706,13 @@
                     "@type": "dcat:Distribution",
                     "title": "Parameter Results, 1990 - 1999",
                     "downloadURL": "https://seshat.datasd.org/monitoring_ocean_water_quality/water_quality_1990_1999_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Parameter Testing Station Locations",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_water_quality/reference_stations_water_quality.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 }
@@ -4671,6 +4991,48 @@
                     "downloadURL": "https://seshat.datasd.org/parking_citations/parking_citations_2023_part1_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Parking Citations 2023, July-Dec",
+                    "downloadURL": "https://seshat.datasd.org/parking_citations/parking_citations_2023_part2_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Parking Citations 2024, Jan-June",
+                    "downloadURL": "https://seshat.datasd.org/parking_citations/parking_citations_2024_part1_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Parking Citations 2024, July-Dec",
+                    "downloadURL": "https://seshat.datasd.org/parking_citations/parking_citations_2024_part2_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Parking Citations 2025, Jan-June",
+                    "downloadURL": "https://seshat.datasd.org/parking_citations/parking_citations_2025_part1_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Parking Citations 2025, July-Dec",
+                    "downloadURL": "https://seshat.datasd.org/parking_citations/parking_citations_2025_part2_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Parking Citations 2026, Jan-June",
+                    "downloadURL": "https://seshat.datasd.org/parking_citations/parking_citations_2026_part1_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
                 }
             ],
             "identifier": "parking_citations",
@@ -4707,7 +5069,14 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Parking Meters Locations",
+                    "title": "Parking Meters Locations - Active",
+                    "downloadURL": "https://seshat.datasd.org/parking_meters_locations/parking_meters_current.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Parking Meters Locations - Historic",
                     "downloadURL": "https://seshat.datasd.org/parking_meters_locations/treas_parking_meters_loc_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
@@ -4745,6 +5114,27 @@
             "describedByType": "text/csv",
             "description": "All parking meter transactions",
             "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Parking meters transactions 2026",
+                    "downloadURL": "https://seshat.datasd.org/parking_meters_transactions/treas_parking_payments_2026_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Parking meters transactions 2025",
+                    "downloadURL": "https://seshat.datasd.org/parking_meters_transactions/treas_parking_payments_2025_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Parking meters transactions 2024",
+                    "downloadURL": "https://seshat.datasd.org/parking_meters_transactions/treas_parking_payments_2024_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
                 {
                     "@type": "dcat:Distribution",
                     "title": "Parking meters transactions 2023",
@@ -4822,6 +5212,27 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
+                    "title": "Parking meters transactions 2026",
+                    "downloadURL": "https://seshat.datasd.org/parking_meters_transactions_monthly/treas_meters_2026_pole_by_month_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Parking meters transactions 2025",
+                    "downloadURL": "https://seshat.datasd.org/parking_meters_transactions_monthly/treas_meters_2025_pole_by_month_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Parking meters transactions 2024",
+                    "downloadURL": "https://seshat.datasd.org/parking_meters_transactions_monthly/treas_meters_2024_pole_by_month_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
                     "title": "Parking meters transactions 2023",
                     "downloadURL": "https://seshat.datasd.org/parking_meters_transactions_monthly/treas_meters_2023_pole_by_month_datasd.csv",
                     "mediaType": "text/csv",
@@ -4897,6 +5308,27 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
+                    "title": "Parking meters transactions 2026",
+                    "downloadURL": "https://seshat.datasd.org/parking_meters_transactions_daily/treas_meters_2026_pole_by_mo_day_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Parking meters transactions 2025",
+                    "downloadURL": "https://seshat.datasd.org/parking_meters_transactions_daily/treas_meters_2025_pole_by_mo_day_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Parking meters transactions 2024",
+                    "downloadURL": "https://seshat.datasd.org/parking_meters_transactions_daily/treas_meters_2024_pole_by_mo_day_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
                     "title": "Parking meters transactions 2023",
                     "downloadURL": "https://seshat.datasd.org/parking_meters_transactions_daily/treas_meters_2023_pole_by_mo_day_datasd.csv",
                     "mediaType": "text/csv",
@@ -4960,6 +5392,53 @@
         {
             "@type": "dcat:Dataset",
             "accessLevel": "public",
+            "accrualPeriodicity": "R/P3M",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Data & Analytics",
+                "hasEmail": "data@sandiego.gov"
+            },
+            "describedBy": "https://seshat.datasd.org/pavement_condition_assessment/pavement_condition_assessment_dictionary_datasd.csv",
+            "describedByType": "text/csv",
+            "description": "The Pavement Condition Index (PCI) is the most widely used method for assessing and reporting street pavement conditions.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Pavement Condition Assessment (2023)",
+                    "downloadURL": "https://seshat.datasd.org/pavement_condition_assessment/pavement_condition_assessment_2023_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Pavement Condition Assessment (2016)",
+                    "downloadURL": "https://seshat.datasd.org/pavement_condition_assessment/pavement_condition_assessment_2016_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                }
+            ],
+            "identifier": "pavement_condition_assessment",
+            "issued": "2019-04-16",
+            "keyword": null,
+            "license": "https://opendefinition.org/licenses/odc-pddl/",
+            "modified": "2026-02-22T14:33:35-0700",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Transportation Department",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "City of San Diego"
+                }
+            },            
+            "references": null,
+            "rights": null,
+            "spatial": null,
+            "temporal": null,
+            "title": "Pavement Condition Assessments"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
             "accrualPeriodicity": "R/P1D",
             "contactPoint": {
                 "@type": "vcard:Contact",
@@ -4970,6 +5449,27 @@
             "describedByType": "text/csv",
             "description": "Calls dispatched by the San Diego Police Department\u2019s communications\ndispatch center.",
             "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Police Calls for Service 2026",
+                    "downloadURL": "https://seshat.datasd.org/police_calls_for_service/pd_calls_for_service_2026_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Police Calls for Service 2025",
+                    "downloadURL": "https://seshat.datasd.org/police_calls_for_service/pd_calls_for_service_2025_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Police Calls for Service 2024",
+                    "downloadURL": "https://seshat.datasd.org/police_calls_for_service/pd_calls_for_service_2024_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
                 {
                     "@type": "dcat:Distribution",
                     "title": "Police Calls for Service 2023",
@@ -5073,8 +5573,50 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Police NIBRS Crime Offenses",
-                    "downloadURL": "https://seshat.datasd.org/police_nibrs/pd_nibrs_datasd.csv",
+                    "title": "Police NIBRS Crime Offenses - 2026",
+                    "downloadURL": "https://seshat.datasd.org/police_nibrs/pd_nibrs_2026_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Police NIBRS Crime Offenses - 2025",
+                    "downloadURL": "https://seshat.datasd.org/police_nibrs/pd_nibrs_2025_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Police NIBRS Crime Offenses - 2024",
+                    "downloadURL": "https://seshat.datasd.org/police_nibrs/pd_nibrs_2024_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Police NIBRS Crime Offenses - 2023",
+                    "downloadURL": "https://seshat.datasd.org/police_nibrs/pd_nibrs_2023_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Police NIBRS Crime Offenses - 2022",
+                    "downloadURL": "https://seshat.datasd.org/police_nibrs/pd_nibrs_2022_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Police NIBRS Crime Offenses - 2021",
+                    "downloadURL": "https://seshat.datasd.org/police_nibrs/pd_nibrs_2021_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Police NIBRS Crime Offenses - 2020",
+                    "downloadURL": "https://seshat.datasd.org/police_nibrs/pd_nibrs_2020_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 }
@@ -5117,6 +5659,13 @@
                     "downloadURL": "https://seshat.datasd.org/police_ripa_actions_taken/ripa_actions_taken_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Actions taken - Historic",
+                    "downloadURL": "https://seshat.datasd.org/police_ripa_actions_taken/ripa_actions_taken_historic.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
                 }
             ],
             "identifier": "police_ripa_actions_taken",
@@ -5155,6 +5704,13 @@
                     "@type": "dcat:Distribution",
                     "title": "Contraband and/or evidence found",
                     "downloadURL": "https://seshat.datasd.org/police_ripa_contraband_evid/ripa_contraband_evid_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Contraband and/or evidence found - Historic",
+                    "downloadURL": "https://seshat.datasd.org/police_ripa_contraband_evid/ripa_contraband_evid_historic.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 }
@@ -5197,6 +5753,13 @@
                     "downloadURL": "https://seshat.datasd.org/police_ripa_disability/ripa_disability_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Disability of persons - Historic",
+                    "downloadURL": "https://seshat.datasd.org/police_ripa_disability/ripa_disability_historic.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
                 }
             ],
             "identifier": "police_ripa_disability",
@@ -5227,14 +5790,61 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
+            "describedBy": "https://seshat.datasd.org/police_ripa_force_actions/ripa_force_actions_dictionary_datasd.csv",
+            "describedByType": "text/csv",
+            "description": "Force-Related Actions an officer took toward a person stopped by the San Diego Police Department.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Force Actions",
+                    "downloadURL": "https://seshat.datasd.org/police_ripa_force_actions/ripa_force_actions_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                }
+            ],
+            "identifier": "police_ripa_force_actions",
+            "issued": "2019-04-16",
+            "keyword": null,
+            "license": "https://opendefinition.org/licenses/odc-pddl/",
+            "modified": "2026-02-22T14:33:35-0700",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Police",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "City of San Diego"
+                }
+            },            
+            "references": null,
+            "rights": null,
+            "spatial": null,
+            "temporal": null,
+            "title": "RIPA police force actions data"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "R/P3M",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Data & Analytics",
+                "hasEmail": "data@sandiego.gov"
+            },
             "describedBy": "https://seshat.datasd.org/police_ripa_gender/ripa_gender_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "description": "The gender of persons stopped by the San Diego Police Department, as perceived by the officer conducting the stop.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Gender of persons",
+                    "title": "(Deprecated) Gender of persons",
                     "downloadURL": "https://seshat.datasd.org/police_ripa_gender/ripa_gender_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Gender of persons - Historic",
+                    "downloadURL": "https://seshat.datasd.org/police_ripa_gender/ripa_gender_historic.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 }
@@ -5267,6 +5877,46 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
+            "describedBy": "https://seshat.datasd.org/police_ripa_nonforce_actions/ripa_nonforce_actions_dictionary_datasd.csv",
+            "describedByType": "text/csv",
+            "description": "Non-Force-Related Actions an officer took toward a person stopped by the San Diego Police Department.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Non-Force Actions",
+                    "downloadURL": "https://seshat.datasd.org/police_ripa_nonforce_actions/ripa_nonforce_actions_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                }
+            ],
+            "identifier": "police_ripa_nonforce_actions",
+            "issued": "2019-04-16",
+            "keyword": null,
+            "license": "https://opendefinition.org/licenses/odc-pddl/",
+            "modified": "2026-02-22T14:33:35-0700",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Police",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "City of San Diego"
+                }
+            },            
+            "references": null,
+            "rights": null,
+            "spatial": null,
+            "temporal": null,
+            "title": "RIPA police non-force actions data"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "R/P3M",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Data & Analytics",
+                "hasEmail": "data@sandiego.gov"
+            },
             "describedBy": "https://seshat.datasd.org/police_ripa_prop_seize_basis/ripa_prop_seize_basis_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "description": "Basis for seizing property from persons stopped by the San Diego Police Department.",
@@ -5275,6 +5925,13 @@
                     "@type": "dcat:Distribution",
                     "title": "Basis for property seizure",
                     "downloadURL": "https://seshat.datasd.org/police_ripa_prop_seize_basis/ripa_prop_seize_basis_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Basis for property seizure - Historic",
+                    "downloadURL": "https://seshat.datasd.org/police_ripa_prop_seize_basis/ripa_prop_seize_basis_historic.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 }
@@ -5317,6 +5974,13 @@
                     "downloadURL": "https://seshat.datasd.org/police_ripa_prop_seize_type/ripa_prop_seize_type_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Property seized - Historic",
+                    "downloadURL": "https://seshat.datasd.org/police_ripa_prop_seize_type/ripa_prop_seize_type_historic.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
                 }
             ],
             "identifier": "police_ripa_prop_seize_type",
@@ -5355,6 +6019,13 @@
                     "@type": "dcat:Distribution",
                     "title": "Race of persons",
                     "downloadURL": "https://seshat.datasd.org/police_ripa_race/ripa_race_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Race of persons - Historic",
+                    "downloadURL": "https://seshat.datasd.org/police_ripa_race/ripa_race_historic.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 }
@@ -5397,6 +6068,13 @@
                     "downloadURL": "https://seshat.datasd.org/police_ripa_search_basis/ripa_search_basis_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Basis for searches conducted - Historic",
+                    "downloadURL": "https://seshat.datasd.org/police_ripa_search_basis/ripa_search_basis_historic.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
                 }
             ],
             "identifier": "police_ripa_search_basis",
@@ -5435,6 +6113,13 @@
                     "@type": "dcat:Distribution",
                     "title": "Reason for stop",
                     "downloadURL": "https://seshat.datasd.org/police_ripa_stop_reason/ripa_stop_reason_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Reason for stop - Historic",
+                    "downloadURL": "https://seshat.datasd.org/police_ripa_stop_reason/ripa_stop_reason_historic.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 }
@@ -5477,6 +6162,13 @@
                     "downloadURL": "https://seshat.datasd.org/police_ripa_stop_result/ripa_stop_result_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Result of stop - Historic",
+                    "downloadURL": "https://seshat.datasd.org/police_ripa_stop_result/ripa_stop_result_historic.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
                 }
             ],
             "identifier": "police_ripa_stop_result",
@@ -5515,6 +6207,13 @@
                     "@type": "dcat:Distribution",
                     "title": "Stop details",
                     "downloadURL": "https://seshat.datasd.org/police_ripa_stops/ripa_stops_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Stop details - Historic",
+                    "downloadURL": "https://seshat.datasd.org/police_ripa_stops/ripa_stops_historic.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 }
@@ -5585,6 +6284,13 @@
                     "downloadURL": "https://seshat.datasd.org/police_vehicle_stops/vehicle_stops_2014_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Vehicle Stops Race Codes",
+                    "downloadURL": "https://seshat.datasd.org/police_vehicle_stops/vehicle_stops_race_codes.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
                 }
             ],
             "identifier": "police_vehicle_stops",
@@ -5646,6 +6352,13 @@
                     "@type": "dcat:Distribution",
                     "title": "Vehicle Stops Search Details (2014)",
                     "downloadURL": "https://seshat.datasd.org/police_vehicle_stops_search_details/vehicle_stops_search_details_2014_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Police Vehicle Stops Search Details",
+                    "downloadURL": "https://seshat.datasd.org/police_vehicle_stops_search_details/vehicle_stops_search_details_description_list.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 }
@@ -5965,6 +6678,13 @@
                     "downloadURL": "https://seshat.datasd.org/stro_licenses/stro_licenses_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Tier definitions",
+                    "downloadURL": "https://seshat.datasd.org/stro_licenses/stro_licenses_tier_definitions_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
                 }
             ],
             "identifier": "stro_licenses",
@@ -6045,6 +6765,13 @@
                     "@type": "dcat:Distribution",
                     "title": "Traffic collisions details (2015 through year-to-date)",
                     "downloadURL": "https://seshat.datasd.org/traffic_collision_details/pd_collisions_details_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "person_veh_type dictionary",
+                    "downloadURL": "https://seshat.datasd.org/traffic_collision_details/person_veh_type_dictionary_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 }
