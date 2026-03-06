@@ -4418,6 +4418,20 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
+                    "title": "Point Loma Ocean Outfall (PLOO) 2023 RTOMS water temperature measurements",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_water_temperature/PLOO_water_temperature_2023_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "South Bay Ocean Outfall (SBOO) 2023 RTOMS water temperature measurements",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_water_temperature/SBOO_water_temperature_2023_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
                     "title": "Point Loma Ocean Outfall (PLOO) 2022 RTOMS water temperature measurements",
                     "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_water_temperature/PLOO_water_temperature_2022_datasd.csv",
                     "mediaType": "text/csv",
