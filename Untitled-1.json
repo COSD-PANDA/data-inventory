@@ -1,0 +1,47 @@
+{
+    "@type": "dcat:Dataset",
+    "accessLevel": "public",
+    "accrualPeriodicity": "R/P3M",
+    "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "Data & Analytics",
+        "hasEmail": "data@sandiego.gov"
+    },
+    "describedBy": "https://seshat.datasd.org/pavement_condition_assessment/pavement_condition_assessment_dictionary_datasd.csv",
+    "describedByType": "text/csv",
+    "description": "The Pavement Condition Index (PCI) is the most widely used method for assessing and reporting street pavement conditions.",
+    "distribution": [
+        {
+            "@type": "dcat:Distribution",
+            "title": "Pavement Condition Assessment (2023)",
+            "downloadURL": "https://seshat.datasd.org/pavement_condition_assessment/pavement_condition_assessment_2023_datasd.csv",
+            "mediaType": "text/csv",
+            "format": "csv"
+        },
+        {
+            "@type": "dcat:Distribution",
+            "title": "Pavement Condition Assessment (2016)",
+            "downloadURL": "https://seshat.datasd.org/pavement_condition_assessment/pavement_condition_assessment_2016_datasd.csv",
+            "mediaType": "text/csv",
+            "format": "csv"
+        }
+    ],
+    "identifier": "pavement_condition_assessment",
+    "issued": "2019-04-16",
+    "keyword": null,
+    "license": "https://opendefinition.org/licenses/odc-pddl/",
+    "modified": "2026-02-22T14:33:35-0700",
+    "publisher": {
+        "@type": "org:Organization",
+        "name": "Transportation Department",
+        "subOrganizationOf": {
+            "@type": "org:Organization",
+            "name": "City of San Diego"
+        }
+    },            
+    "references": null,
+    "rights": null,
+    "spatial": null,
+    "temporal": null,
+    "title": "Pavement Condition Assessments"
+},

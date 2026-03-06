@@ -5371,6 +5371,53 @@
         {
             "@type": "dcat:Dataset",
             "accessLevel": "public",
+            "accrualPeriodicity": "R/P3M",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Data & Analytics",
+                "hasEmail": "data@sandiego.gov"
+            },
+            "describedBy": "https://seshat.datasd.org/pavement_condition_assessment/pavement_condition_assessment_dictionary_datasd.csv",
+            "describedByType": "text/csv",
+            "description": "The Pavement Condition Index (PCI) is the most widely used method for assessing and reporting street pavement conditions.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Pavement Condition Assessment (2023)",
+                    "downloadURL": "https://seshat.datasd.org/pavement_condition_assessment/pavement_condition_assessment_2023_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Pavement Condition Assessment (2016)",
+                    "downloadURL": "https://seshat.datasd.org/pavement_condition_assessment/pavement_condition_assessment_2016_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                }
+            ],
+            "identifier": "pavement_condition_assessment",
+            "issued": "2019-04-16",
+            "keyword": null,
+            "license": "https://opendefinition.org/licenses/odc-pddl/",
+            "modified": "2026-02-22T14:33:35-0700",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Transportation Department",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "City of San Diego"
+                }
+            },            
+            "references": null,
+            "rights": null,
+            "spatial": null,
+            "temporal": null,
+            "title": "Pavement Condition Assessments"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
             "accrualPeriodicity": "R/P1D",
             "contactPoint": {
                 "@type": "vcard:Contact",
@@ -5591,6 +5638,13 @@
                     "downloadURL": "https://seshat.datasd.org/police_ripa_actions_taken/ripa_actions_taken_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Actions taken - Historic",
+                    "downloadURL": "https://seshat.datasd.org/police_ripa_actions_taken/ripa_actions_taken_historic.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
                 }
             ],
             "identifier": "police_ripa_actions_taken",
@@ -5629,6 +5683,13 @@
                     "@type": "dcat:Distribution",
                     "title": "Contraband and/or evidence found",
                     "downloadURL": "https://seshat.datasd.org/police_ripa_contraband_evid/ripa_contraband_evid_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Contraband and/or evidence found - Historic",
+                    "downloadURL": "https://seshat.datasd.org/police_ripa_contraband_evid/ripa_contraband_evid_historic.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 }
@@ -5671,6 +5732,13 @@
                     "downloadURL": "https://seshat.datasd.org/police_ripa_disability/ripa_disability_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Disability of persons - Historic",
+                    "downloadURL": "https://seshat.datasd.org/police_ripa_disability/ripa_disability_historic.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
                 }
             ],
             "identifier": "police_ripa_disability",
@@ -5691,6 +5759,46 @@
             "spatial": null,
             "temporal": null,
             "title": "RIPA police stop data - disability of persons stopped"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "R/P3M",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Data & Analytics",
+                "hasEmail": "data@sandiego.gov"
+            },
+            "describedBy": "https://seshat.datasd.org/police_ripa_force_actions/ripa_force_actions_dictionary_datasd.csv",
+            "describedByType": "text/csv",
+            "description": "Force-Related Actions an officer took toward a person stopped by the San Diego Police Department.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Force Actions",
+                    "downloadURL": "https://seshat.datasd.org/police_ripa_force_actions/ripa_force_actions_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                }
+            ],
+            "identifier": "police_ripa_force_actions",
+            "issued": "2019-04-16",
+            "keyword": null,
+            "license": "https://opendefinition.org/licenses/odc-pddl/",
+            "modified": "2026-02-22T14:33:35-0700",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Police",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "City of San Diego"
+                }
+            },            
+            "references": null,
+            "rights": null,
+            "spatial": null,
+            "temporal": null,
+            "title": "RIPA police force actions data"
         },
         {
             "@type": "dcat:Dataset",
@@ -5738,6 +5846,46 @@
             "spatial": null,
             "temporal": null,
             "title": "RIPA police stop data - gender of persons stopped"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "R/P3M",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Data & Analytics",
+                "hasEmail": "data@sandiego.gov"
+            },
+            "describedBy": "https://seshat.datasd.org/police_ripa_nonforce_actions/ripa_nonforce_actions_dictionary_datasd.csv",
+            "describedByType": "text/csv",
+            "description": "Non-Force-Related Actions an officer took toward a person stopped by the San Diego Police Department.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Non-Force Actions",
+                    "downloadURL": "https://seshat.datasd.org/police_ripa_nonforce_actions/ripa_nonforce_actions_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                }
+            ],
+            "identifier": "police_ripa_nonforce_actions",
+            "issued": "2019-04-16",
+            "keyword": null,
+            "license": "https://opendefinition.org/licenses/odc-pddl/",
+            "modified": "2026-02-22T14:33:35-0700",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Police",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "City of San Diego"
+                }
+            },            
+            "references": null,
+            "rights": null,
+            "spatial": null,
+            "temporal": null,
+            "title": "RIPA police non-force actions data"
         },
         {
             "@type": "dcat:Dataset",
@@ -5805,6 +5953,13 @@
                     "downloadURL": "https://seshat.datasd.org/police_ripa_prop_seize_type/ripa_prop_seize_type_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Property seized - Historic",
+                    "downloadURL": "https://seshat.datasd.org/police_ripa_prop_seize_type/ripa_prop_seize_type_historic.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
                 }
             ],
             "identifier": "police_ripa_prop_seize_type",
@@ -5843,6 +5998,13 @@
                     "@type": "dcat:Distribution",
                     "title": "Race of persons",
                     "downloadURL": "https://seshat.datasd.org/police_ripa_race/ripa_race_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Race of persons - Historic",
+                    "downloadURL": "https://seshat.datasd.org/police_ripa_race/ripa_race_historic.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 }
@@ -5885,6 +6047,13 @@
                     "downloadURL": "https://seshat.datasd.org/police_ripa_search_basis/ripa_search_basis_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Basis for searches conducted - Historic",
+                    "downloadURL": "https://seshat.datasd.org/police_ripa_search_basis/ripa_search_basis_historic.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
                 }
             ],
             "identifier": "police_ripa_search_basis",
@@ -5923,6 +6092,13 @@
                     "@type": "dcat:Distribution",
                     "title": "Reason for stop",
                     "downloadURL": "https://seshat.datasd.org/police_ripa_stop_reason/ripa_stop_reason_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Reason for stop - Historic",
+                    "downloadURL": "https://seshat.datasd.org/police_ripa_stop_reason/ripa_stop_reason_historic.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 }
@@ -5965,6 +6141,13 @@
                     "downloadURL": "https://seshat.datasd.org/police_ripa_stop_result/ripa_stop_result_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Result of stop - Historic",
+                    "downloadURL": "https://seshat.datasd.org/police_ripa_stop_result/ripa_stop_result_historic.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
                 }
             ],
             "identifier": "police_ripa_stop_result",
@@ -6003,6 +6186,13 @@
                     "@type": "dcat:Distribution",
                     "title": "Stop details",
                     "downloadURL": "https://seshat.datasd.org/police_ripa_stops/ripa_stops_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Stop details - Historic",
+                    "downloadURL": "https://seshat.datasd.org/police_ripa_stops/ripa_stops_historic.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 }
