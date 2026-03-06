@@ -2956,6 +2956,13 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
+                    "title": "Police beats code-to-neighborhood list",
+                    "downloadURL": "https://seshat.datasd.org/gis_police_beats/pd_beat_codes_list_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
                     "title": "Police beats attribute table",
                     "downloadURL": "https://seshat.datasd.org/gis_police_beats/pd_beats_datasd.csv",
                     "mediaType": "text/csv",
@@ -6333,6 +6340,13 @@
                     "downloadURL": "https://seshat.datasd.org/police_vehicle_stops_search_details/vehicle_stops_search_details_2014_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Police Vehicle Stops Search Details",
+                    "downloadURL": "https://seshat.datasd.org/police_vehicle_stops_search_details/vehicle_stops_search_details_description_list.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
                 }
             ],
             "identifier": "police_vehicle_stops_search_details",
@@ -6648,6 +6662,13 @@
                     "@type": "dcat:Distribution",
                     "title": "Active licenses",
                     "downloadURL": "https://seshat.datasd.org/stro_licenses/stro_licenses_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Tier definitions",
+                    "downloadURL": "https://seshat.datasd.org/stro_licenses/stro_licenses_tier_definitions_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 }
