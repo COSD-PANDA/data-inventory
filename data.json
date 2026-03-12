@@ -596,128 +596,6 @@
         {
             "@type": "dcat:Dataset",
             "accessLevel": "public",
-            "accrualPeriodicity": "R/P1Y",
-            "contactPoint": {
-                "@type": "vcard:Contact",
-                "fn": "Data & Analytics",
-                "hasEmail": "data@sandiego.gov"
-            },
-            "describedBy": "https://seshat.datasd.org/cpp_complaints_allegations/dictionary.csv",
-            "describedByType": "text/csv",
-            "description": "Commission on Police Practices case allegations. CPP is an independent body that investigates officer-involved shootings, in-custody deaths, & other significant incidents in a process that is transparent and accountable to the community.",
-            "distribution": [
-                {
-                    "title": "Allegations FY22",
-                    "@type": "dcat:Distribution",
-                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_allegations/crb_allegations_fy2022_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "title": "Allegations FY21",
-                    "@type": "dcat:Distribution",
-                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_allegations/crb_allegations_fy2021_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "title": "Allegations FY20",
-                    "@type": "dcat:Distribution",
-                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_allegations/crb_allegations_fy2020_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "title": "Cases and allegations, FY19",
-                    "@type": "dcat:Distribution",
-                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_evaluated/crb_cases_fy19_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                }
-            ],
-            "identifier": "cpp_complaints_allegations",
-            "issued": "2019-09-04",
-            "keyword": null,
-            "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2022-12-02",
-            "publisher": {
-                "@type": "org:Organization",
-                "name": "Commission on Police Practices",
-                "subOrganizationOf": {
-                    "@type": "org:Organization",
-                    "name": "City of San Diego"
-                }
-            },
-            "references": null,
-            "rights": null,
-            "spatial": null,
-            "temporal": null,
-            "title": "Allegations in Cases Evaluated by the Commission on Police Practices"
-        },
-        {
-            "@type": "dcat:Dataset",
-            "accessLevel": "public",
-            "accrualPeriodicity": "R/P1Y",
-            "contactPoint": {
-                "@type": "vcard:Contact",
-                "fn": "Data & Analytics",
-                "hasEmail": "data@sandiego.gov"
-            },
-            "describedBy": "https://seshat.datasd.org/cpp_complaints_body_worn_camera/dictionary.csv",
-            "describedByType": "text/csv",
-            "description": "Commission on Police Practices case details for Body-Worn Cameras. CPP is an independent body that investigates officer-involved shootings, in-custody deaths, & other significant incidents in a process that is transparent and accountable to the community.",
-            "distribution": [
-                {
-                    "title": "Body worn camera details FY22",
-                    "@type": "dcat:Distribution",
-                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_body_worn_camera/crb_cases_bwc_fy2022_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "title": "Body worn camera details FY21",
-                    "@type": "dcat:Distribution",
-                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_body_worn_camera/crb_cases_bwc_fy2021_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "title": "Body worn camera details FY20",
-                    "@type": "dcat:Distribution",
-                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_body_worn_camera/crb_cases_bwc_fy2020_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "title": "Body worn camera details FY19",
-                    "@type": "dcat:Distribution",
-                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_body_worn_camera/crb_cases_bwc_fy19_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                }
-            ],
-            "identifier": "cpp_complaints_body_worn_camera",
-            "issued": "2019-09-04",
-            "keyword": null,
-            "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2022-12-02",
-            "publisher": {
-                "@type": "org:Organization",
-                "name": "Commission on Police Practices",
-                "subOrganizationOf": {
-                    "@type": "org:Organization",
-                    "name": "City of San Diego"
-                }
-            },
-            "references": null,
-            "rights": null,
-            "spatial": null,
-            "temporal": null,
-            "title": "Body-Worn Camera Details in Cases Evaluated by the Commission on Police Practices"
-        },
-        {
-            "@type": "dcat:Dataset",
-            "accessLevel": "public",
             "accrualPeriodicity": "irregular",
             "contactPoint": {
                 "@type": "vcard:Contact",
@@ -5206,7 +5084,7 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/parking_meters_transactions_monthly/meters_transactions_dictionary_datasd.csv",
+            "describedBy": "https://seshat.datasd.org/parking_meters_transactions/meters_transactions_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "description": "Parking meter monthly transaction totals",
             "distribution": [
@@ -5302,7 +5180,7 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/parking_meters_transactions_daily/meters_transactions_dictionary_datasd.csv",
+            "describedBy": "https://seshat.datasd.org/parking_meters_transactions/meters_transactions_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "description": "All parking meter transactions",
             "distribution": [
@@ -6571,53 +6449,6 @@
             "spatial": null,
             "temporal": null,
             "title": "Street Sweeping Schedule"
-        },
-        {
-            "@type": "dcat:Dataset",
-            "accessLevel": "public",
-            "accrualPeriodicity": "irregular",
-            "contactPoint": {
-                "@type": "vcard:Contact",
-                "fn": "Data & Analytics",
-                "hasEmail": "data@sandiego.gov"
-            },
-            "describedBy": "https://seshat.datasd.org/streets_oci/oci_dictionary_datasd.csv",
-            "describedByType": "text/csv",
-            "description": "The City performs street condition surveys and assigns an Overall Condition Index (OCI) number to each street.",
-            "distribution": [
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Overall Condition Index (2015)",
-                    "downloadURL": "https://seshat.datasd.org/streets_oci/oci_2015_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Overall Condition Index (2011)",
-                    "downloadURL": "https://seshat.datasd.org/streets_oci/oci_2011_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                }
-            ],
-            "identifier": "streets_oci",
-            "issued": "2016-09-16",
-            "keyword": null,
-            "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2017-01-17",
-            "publisher": {
-                "@type": "org:Organization",
-                "name": "Transportation Department",
-                "subOrganizationOf": {
-                    "@type": "org:Organization",
-                    "name": "City of San Diego"
-                }
-            },
-            "references": null,
-            "rights": null,
-            "spatial": null,
-            "temporal": null,
-            "title": "Streets Overall Condition Index (OCI)"
         },
         {
             "@type": "dcat:Dataset",
