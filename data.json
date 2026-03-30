@@ -5720,6 +5720,46 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
+            "describedBy": "https://seshat.datasd.org/risk_claims/risk_claims_dictionary_datasd.csv",
+            "describedByType": "text/csv",
+            "description": "Claims filed against the City",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Claims filed against the City",
+                    "downloadURL": "https://seshat.datasd.org/risk_claims/risk_claims_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                }
+            ],
+            "identifier": "risk_claims",
+            "issued": "2024-05-10",
+            "keyword": null,
+            "license": "https://opendefinition.org/licenses/odc-pddl/",
+            "modified": "2024-05-09T04:30:38-0700",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Risk Management",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "City of San Diego"
+                }
+            },
+            "references": null,
+            "rights": null,
+            "spatial": null,
+            "temporal": null,
+            "title": "Claims filed against the City"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "R/P1D",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Data & Analytics",
+                "hasEmail": "data@sandiego.gov"
+            },
             "describedBy": "https://seshat.datasd.org/rtax_accounts/rtax_accounts_datasd_dict.csv",
             "describedByType": "text/csv",
             "description": "Account number and property address for Rental Unit Business Tax accounts that have a balance of $0 as a result of payment of Rental Unit Business Taxes or currently has an exemption on file.",
