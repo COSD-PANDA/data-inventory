@@ -28,7 +28,7 @@
             ],
             "identifier": "accounts_city_budget",
             "issued": "2017-06-30",
-            "keyword": null,
+            "keyword": ["Budget","Capital Improvements Program","CIP","Finances"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2025-07-25T10:10:39-0700",
             "publisher": {
@@ -103,7 +103,7 @@
             ],
             "identifier": "business_tax_certificates",
             "issued": "2016-05-09",
-            "keyword": null,
+            "keyword": ["Local businesses","Taxes and fees","Finances"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-08T01:07:36-0800",
             "publisher": {
@@ -143,7 +143,7 @@
             ],
             "identifier": "cip_fy_actuals",
             "issued": "2018-10-15",
-            "keyword": null,
+            "keyword": ["Actuals","Capital Improvements Program","CIP","Finances"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2025-07-25T10:01:50-0700",
             "publisher": {
@@ -183,7 +183,7 @@
             ],
             "identifier": "cip_ptd_actuals",
             "issued": "2018-10-15",
-            "keyword": null,
+            "keyword": ["Actuals","Capital Improvements Program","CIP","Finances"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2025-07-25T10:07:53-0700",
             "publisher": {
@@ -223,7 +223,7 @@
             ],
             "identifier": "cip_fy_budget",
             "issued": "2017-06-30",
-            "keyword": null,
+            "keyword": ["Budget","Capital Improvements Program","CIP","Finances"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2025-07-25T10:00:58-0700",
             "publisher": {
@@ -263,7 +263,7 @@
             ],
             "identifier": "cip_ptd_budget",
             "issued": "2017-06-30",
-            "keyword": null,
+            "keyword": ["Budget","Capital Improvements Program","CIP","Finances"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2025-07-25T10:03:46-0700",
             "publisher": {
@@ -303,7 +303,7 @@
             ],
             "identifier": "city_owned_properties",
             "issued": "2016-06-01",
-            "keyword": null,
+            "keyword": ["Properties"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-08T00:01:22-0800",
             "publisher": {
@@ -343,7 +343,7 @@
             ],
             "identifier": "city_owned_properties_leases",
             "issued": "2016-06-01",
-            "keyword": null,
+            "keyword": ["Properties","Leases"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2023-03-27",
             "publisher": {
@@ -383,7 +383,7 @@
             ],
             "identifier": "city_owned_properties_parcels",
             "issued": "2016-06-01",
-            "keyword": null,
+            "keyword": ["Properties","Parcels"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2023-03-27",
             "publisher": {
@@ -423,7 +423,7 @@
             ],
             "identifier": "civic_art_collection",
             "issued": "2018-09-11",
-            "keyword": null,
+            "keyword": ["Assets","Art"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-08T03:03:37-0800",
             "publisher": {
@@ -477,7 +477,7 @@
             ],
             "identifier": "code_enforcement_violations",
             "issued": "2016-06-21",
-            "keyword": null,
+            "keyword": ["Code enforcement"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2018-01-19",
             "publisher": {
@@ -506,7 +506,7 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/cpp_complaints_evaluated/dictionary.csv",
+            "describedBy": "https://seshat.datasd.org/cpp_complaints_evaluated/dictionary_FY25.csv",
             "describedByType": "text/csv",
             "description": "Commission on Police Practices cases. CPP is an independent body that investigates officer-involved shootings, in-custody deaths, & other significant incidents in a process that is transparent and accountable to the community.",
             "distribution": [
@@ -518,65 +518,16 @@
                     "format": "csv"
                 },
                 {
-                    "title": "Allegations FY25",
-                    "@type": "dcat:Distribution",
-                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_allegations/2025_crb_allegations_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "title": "Body worn camera details FY25",
-                    "@type": "dcat:Distribution",
-                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_body_worn_camera/2025_crb_cases_bwc_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "title": "Complainants FY25",
-                    "@type": "dcat:Distribution",
-                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_complainants/2025_crb_complainants_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "title": "Dictionary FY25",
-                    "@type": "dcat:Distribution",
-                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_evaluated/dictionary_FY25.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
                     "title": "Cases FY20-FY24",
                     "@type": "dcat:Distribution",
                     "downloadURL": "https://seshat.datasd.org/cpp_complaints_evaluated/2024_crb_cases_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "title": "Allegations FY20-FY24",
-                    "@type": "dcat:Distribution",
-                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_allegations/2024_crb_allegations_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "title": "Body worn camera details FY20-FY24",
-                    "@type": "dcat:Distribution",
-                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_body_worn_camera/2024_crb_cases_bwc_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "title": "Complainants FY20-FY24",
-                    "@type": "dcat:Distribution",
-                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_complainants/2024_crb_complainants_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 }
             ],
             "identifier": "cpp_complaints_evaluated",
             "issued": "2019-09-04",
-            "keyword": null,
+            "keyword": ["Commission on Police Practices","CPP","Police oversight"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2022-12-02",
             "publisher": {
@@ -591,7 +542,148 @@
             "rights": null,
             "spatial": null,
             "temporal": null,
-            "title": "Cases Evaluated by the Commission on Police Practices"
+            "title": "Commission on Police Practices Cases"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "R/P1Y",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Data & Analytics",
+                "hasEmail": "data@sandiego.gov"
+            },
+            "describedBy": "https://seshat.datasd.org/cpp_complaints_allegations/dictionary.csv",
+            "describedByType": "text/csv",
+            "description": "Commission on Police Practices case allegations. CPP is an independent body that investigates officer-involved shootings, in-custody deaths, & other significant incidents in a process that is transparent and accountable to the community.",
+            "distribution": [
+                {
+                    "title": "Allegations FY25",
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_allegations/2025_crb_allegations_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "title": "Allegations FY20-FY24",
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_allegations/2024_crb_allegations_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                }
+            ],
+            "identifier": "cpp_complaints_evaluated_allegations",
+            "issued": "2019-09-04",
+            "keyword": ["Commission on Police Practices","CPP","Police oversight"],
+            "license": "https://opendefinition.org/licenses/odc-pddl/",
+            "modified": "2022-12-02",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Commission on Police Practices",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "City of San Diego"
+                }
+            },
+            "references": null,
+            "rights": null,
+            "spatial": null,
+            "temporal": null,
+            "title": "Commission on Police Practices Case Allegations"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "R/P1Y",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Data & Analytics",
+                "hasEmail": "data@sandiego.gov"
+            },
+            "describedBy": "https://seshat.datasd.org/cpp_complaints_body_worn_camera/dictionary.csv",
+            "describedByType": "text/csv",
+            "description": "Body-worn camera details in cases evaluated by the Commission on Police Practices. CPP is an independent body that investigates officer-involved shootings, in-custody deaths, & other significant incidents in a process that is transparent and accountable to the community.",
+            "distribution": [
+                {
+                    "title": "Body worn camera details FY25",
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_body_worn_camera/2025_crb_cases_bwc_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "title": "Body worn camera details FY20-FY24",
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_body_worn_camera/2024_crb_cases_bwc_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                }
+            ],
+            "identifier": "cpp_complaints_evaluated_bwc",
+            "issued": "2019-09-04",
+            "keyword": ["Commission on Police Practices","CPP","Police oversight","Body-worn cameras"],
+            "license": "https://opendefinition.org/licenses/odc-pddl/",
+            "modified": "2022-12-02",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Commission on Police Practices",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "City of San Diego"
+                }
+            },
+            "references": null,
+            "rights": null,
+            "spatial": null,
+            "temporal": null,
+            "title": "Commission on Police Practices Case Body-worn Camera Details"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "R/P1Y",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Data & Analytics",
+                "hasEmail": "data@sandiego.gov"
+            },
+            "describedBy": "https://seshat.datasd.org/cpp_complaints_complainants/dictionary.csv",
+            "describedByType": "text/csv",
+            "description": "Complainants in cases evaluated by the Commission on Police Practices. CPP is an independent body that investigates officer-involved shootings, in-custody deaths, & other significant incidents in a process that is transparent and accountable to the community.",
+            "distribution": [
+                {
+                    "title": "Complainants FY25",
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_complainants/2025_crb_complainants_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "title": "Complainants FY20-FY24",
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_complainants/2024_crb_complainants_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                }
+            ],
+            "identifier": "cpp_complaints_evaluated_complainants",
+            "issued": "2019-09-04",
+            "keyword": ["Commission on Police Practices","CPP","Police oversight","Body-worn cameras"],
+            "license": "https://opendefinition.org/licenses/odc-pddl/",
+            "modified": "2022-12-02",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Commission on Police Practices",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "City of San Diego"
+                }
+            },
+            "references": null,
+            "rights": null,
+            "spatial": null,
+            "temporal": null,
+            "title": "Commission on Police Practices Case Complainants"
         },
         {
             "@type": "dcat:Dataset",
@@ -616,7 +708,7 @@
             ],
             "identifier": "departments_city_budget",
             "issued": "2017-06-30",
-            "keyword": null,
+            "keyword": ["Budget","Departments","Finances"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2025-07-25T10:00:51-0700",
             "publisher": {
@@ -642,103 +734,9 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/development_permits_set1/permits_set1_datasd_dict.csv",
-            "describedByType": "text/csv",
-            "description": "Approvals for permits, maps, agreements, and other applications processed by Development Services Department legacy permitting system. The legacy system contains applications submitted in paper or through a hybrid process. Approval types began migrating to the current cloud-based system in 2018.",
-            "distribution": [
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Active approvals",
-                    "downloadURL": "https://seshat.datasd.org/development_permits_set1/permits_set1_active_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Closed approvals, since 2003",
-                    "downloadURL": "https://seshat.datasd.org/development_permits_set1/permits_set1_closed_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                }
-            ],
-            "identifier": "development_permits_set1",
-            "issued": "2020-03-10",
-            "keyword": null,
-            "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-01-08T04:39:23-0800",
-            "publisher": {
-                "@type": "org:Organization",
-                "name": "Development Services",
-                "subOrganizationOf": {
-                    "@type": "org:Organization",
-                    "name": "City of San Diego"
-                }
-            },
-            "references": null,
-            "rights": null,
-            "spatial": null,
-            "temporal": null,
-            "title": "Development Permits legacy data"
-        },
-        {
-            "@type": "dcat:Dataset",
-            "accessLevel": "public",
-            "accrualPeriodicity": "R/P1D",
-            "contactPoint": {
-                "@type": "vcard:Contact",
-                "fn": "Data & Analytics",
-                "hasEmail": "data@sandiego.gov"
-            },
-            "describedBy": "https://seshat.datasd.org/development_permits_set1/permits_set1_datasd_dict.csv",
-            "describedByType": "text/csv",
-            "description": "Approvals for permits, maps, agreements, and other applications processed by Development Services Department legacy permitting system. The legacy system contains applications submitted in paper or through a hybrid process. Approval types began migrating to the current cloud-based system in 2018.",
-            "distribution": [
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Approved permits",
-                    "downloadURL": "development_permits-nested-milestone~Approved-year-2025.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Issued permits",
-                    "downloadURL": "development_permits-nested-milestone~Issued-year~2025.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                }
-            ],
-            "identifier": "development_permits",
-            "issued": "2020-03-10",
-            "keyword": null,
-            "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-01-08T04:39:23-0800",
-            "publisher": {
-                "@type": "org:Organization",
-                "name": "Development Services",
-                "subOrganizationOf": {
-                    "@type": "org:Organization",
-                    "name": "City of San Diego"
-                }
-            },
-            "references": null,
-            "rights": null,
-            "spatial": null,
-            "temporal": null,
-            "title": "Development Permits legacy data"
-        },
-        {
-            "@type": "dcat:Dataset",
-            "accessLevel": "public",
-            "accrualPeriodicity": "R/P1D",
-            "contactPoint": {
-                "@type": "vcard:Contact",
-                "fn": "Data & Analytics",
-                "hasEmail": "data@sandiego.gov"
-            },
             "describedBy": "https://seshat.datasd.org/development_permits_set2/permits_set2_datasd_dict.csv",
             "describedByType": "text/csv",
-            "description": "Approvals for permits, maps, agreements, and other applications processed by Development Services Department's current cloud-based permitting system. Approval types began migrating to the current system in 2018.",
+            "description": "Approvals for permits, maps, agreements, and other applications processed by Development Services Department.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -755,9 +753,9 @@
                     "format": "csv"
                 }
             ],
-            "identifier": "development_permits_set2",
+            "identifier": "development_permits",
             "issued": "2020-03-10",
-            "keyword": null,
+            "keyword": ["Construction","Permits","Housing"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-08T04:30:36-0800",
             "publisher": {
@@ -785,7 +783,7 @@
             },
             "describedBy": "https://seshat.datasd.org/development_permits_tags/permits_set1_project_tags_datasd_dict.csv",
             "describedByType": "text/csv",
-            "description": "Tags associated with development projects permitted by Development Services Department. Join tags to the current or legacy permits datasets. Tags are for informational purposes only and should not be used for official reporting purposes.",
+            "description": "Tags associated with development projects permitted by Development Services Department.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -797,7 +795,7 @@
             ],
             "identifier": "development_permits_tags",
             "issued": "2020-03-10",
-            "keyword": null,
+            "keyword": ["Construction","Permits","Housing"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-08T04:01:29-0800",
             "publisher": {
@@ -813,46 +811,6 @@
             "spatial": null,
             "temporal": null,
             "title": "Development Services Department Project Tags"
-        },
-        {
-            "@type": "dcat:Dataset",
-            "accessLevel": "public",
-            "accrualPeriodicity": "irregular",
-            "contactPoint": {
-                "@type": "vcard:Contact",
-                "fn": "Data & Analytics",
-                "hasEmail": "data@sandiego.gov"
-            },
-            "describedBy": "https://seshat.datasd.org/election_committees/financial_support_recipients_dictionary_datasd.csv",
-            "describedByType": "text/csv",
-            "description": "Election committees and candidates for office who received donations, goods and services, or loans, or had money spent independently in support, according to campaign finance data reported to the City Clerk. This is a companion dataset to the campaign finance transactions dataset and was created by compiling the unique recipients from all years of financial transactions.",
-            "distribution": [
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Candidates and Ballot Measures",
-                    "downloadURL": "https://seshat.datasd.org/election_committees/financial_support_recipients_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                }
-            ],
-            "identifier": "election_committees",
-            "issued": "2017-06-14",
-            "keyword": null,
-            "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2017-06-14",
-            "publisher": {
-                "@type": "org:Organization",
-                "name": "City Clerk",
-                "subOrganizationOf": {
-                    "@type": "org:Organization",
-                    "name": "City of San Diego"
-                }
-            },
-            "references": null,
-            "rights": null,
-            "spatial": null,
-            "temporal": null,
-            "title": "Election Committees"
         },
         {
             "@type": "dcat:Dataset",
@@ -975,7 +933,7 @@
             ],
             "identifier": "election_committees_transactions",
             "issued": "2016-05-05",
-            "keyword": null,
+            "keyword": ["Elections","Financial disclosure","Campaign finance"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2024-03-12T15:00:14-0700",
             "publisher": {
@@ -1015,7 +973,7 @@
             ],
             "identifier": "enterprise_system_information",
             "issued": "2016-08-01",
-            "keyword": null,
+            "keyword": ["Information technology","Software"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2027-07-13",
             "publisher": {
@@ -1055,12 +1013,12 @@
             ],
             "identifier": "fci_city_buildings",
             "issued": "2017-06-30",
-            "keyword": null,
+            "keyword": ["Assets","Properties"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2017-07-17",
             "publisher": {
                 "@type": "org:Organization",
-                "name": "Real Estate Assets",
+                "name": "General Services",
                 "subOrganizationOf": {
                     "@type": "org:Organization",
                     "name": "City of San Diego"
@@ -1161,74 +1119,11 @@
                     "downloadURL": "https://seshat.datasd.org/fire_ems_incidents/fd_incidents_2016_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Fire Incidents 2015",
-                    "downloadURL": "https://seshat.datasd.org/fire_ems_incidents/fd_incidents_2015_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Fire Incidents 2014",
-                    "downloadURL": "https://seshat.datasd.org/fire_ems_incidents/fd_incidents_2014_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Fire Incidents 2013",
-                    "downloadURL": "https://seshat.datasd.org/fire_ems_incidents/fd_incidents_2013_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Fire Incidents 2012",
-                    "downloadURL": "https://seshat.datasd.org/fire_ems_incidents/fd_incidents_2012_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Fire Incidents 2011",
-                    "downloadURL": "https://seshat.datasd.org/fire_ems_incidents/fd_incidents_2011_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Fire Incidents 2010",
-                    "downloadURL": "https://seshat.datasd.org/fire_ems_incidents/fd_incidents_2010_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Fire Incidents 2009",
-                    "downloadURL": "https://seshat.datasd.org/fire_ems_incidents/fd_incidents_2009_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Fire Incidents 2008",
-                    "downloadURL": "https://seshat.datasd.org/fire_ems_incidents/fd_incidents_2008_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Fire Incidents 2007",
-                    "downloadURL": "https://seshat.datasd.org/fire_ems_incidents/fd_incidents_2007_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
                 }
             ],
             "identifier": "fire_ems_incidents",
             "issued": "2016-05-26",
-            "keyword": null,
+            "keyword": ["EMS","911 calls"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-08T00:01:15-0800",
             "publisher": {
@@ -1268,7 +1163,7 @@
             ],
             "identifier": "fire_ems_problem_counts",
             "issued": "2019-01-09",
-            "keyword": null,
+            "keyword": ["EMS","911 calls"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-08T00:01:26-0800",
             "publisher": {
@@ -1308,7 +1203,7 @@
             ],
             "identifier": "funds_city_budget",
             "issued": "2017-06-30",
-            "keyword": null,
+            "keyword": ["Budget","Capital Improvements Program","CIP","Finances"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2025-07-25T10:00:45-0700",
             "publisher": {
@@ -1348,7 +1243,7 @@
             ],
             "identifier": "get_it_done_graffiti",
             "issued": "2017-06-13",
-            "keyword": null,
+            "keyword": ["311","Services","Surveys"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-07T23:09:21-0800",
             "publisher": {
@@ -1388,7 +1283,7 @@
             ],
             "identifier": "get_it_done_illegal_dumping",
             "issued": "2017-06-13",
-            "keyword": null,
+            "keyword": ["311","Services","Surveys","Trash"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-07T23:09:23-0800",
             "publisher": {
@@ -1428,7 +1323,7 @@
             ],
             "identifier": "get_it_done_parking_violations",
             "issued": "2017-06-13",
-            "keyword": null,
+            "keyword": ["311","Services","Surveys","Parking"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2023-03-27",
             "publisher": {
@@ -1468,7 +1363,7 @@
             ],
             "identifier": "get_it_done_potholes",
             "issued": "2017-06-13",
-            "keyword": null,
+            "keyword": ["311","Services","Surveys","Parking"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-07T23:09:18-0800",
             "publisher": {
@@ -1585,7 +1480,7 @@
             ],
             "identifier": "get_it_done_reports",
             "issued": "2016-05-26",
-            "keyword": null,
+            "keyword": ["311","Services","Surveys","Parking"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-07T23:08:58-0800",
             "publisher": {
@@ -1624,21 +1519,28 @@
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Address points",
+                    "title": "Address points REST URL",
+                    "downloadURL":"https://geo.sandag.org/server/rest/services/Hosted/Address_Points/FeatureServer/query",
+                    "mediaType": "text/csv",
+                    "format": "API"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Address points geojson",
                     "downloadURL": "https://seshat.datasd.org/gis_address_points_apn/addrapn_datasd.geojson",
                     "mediaType": "application/json",
                     "format": "geojson"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Address points",
+                    "title": "Address points topojson",
                     "downloadURL": "https://seshat.datasd.org/gis_address_points_apn/addrapn_datasd.topo.json",
                     "mediaType": "application/octet-stream",
                     "format": "topojson"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Address points",
+                    "title": "Address points shapefile",
                     "downloadURL": "https://seshat.datasd.org/gis_address_points_apn/addrapn_datasd.zip",
                     "mediaType": "application/octet-stream",
                     "format": "shp"
@@ -1646,7 +1548,8 @@
             ],
             "identifier": "gis_address_points_apn",
             "issued": "2016-05-09",
-            "keyword": null,
+            "keyword": ["SanGIS","Geospatial","GIS","Parcels"],
+            "landingPage": ["https://geo.sandag.org/portal/home/item.html?id=e58eba41d6a349dd92e97e64b4e62074"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-06T02:20:45-0800",
             "publisher": {
@@ -1685,10 +1588,17 @@
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Bike Master Plan route lines",
+                    "title": "Bike Master Plan route lines geojson",
                     "downloadURL": "https://seshat.datasd.org/gis_bike_master_plan/bike_master_plan_datasd.geojson",
                     "mediaType": "application/json",
                     "format": "geojson"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Bike Master Plan route lines REST URL",
+                    "downloadURL": "https://geo.sandag.org/server/rest/services/Hosted/Bike_Master_Plan_SD/FeatureServer/query",
+                    "mediaType": "application/json",
+                    "format": "API"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -1714,7 +1624,8 @@
             ],
             "identifier": "gis_bike_master_plan",
             "issued": "2017-06-30",
-            "keyword": null,
+            "keyword": ["SanGIS","Geospatial","GIS","Transit","Bike"],
+            "landingPage": "https://geo.sandag.org/portal/home/item.html?id=9d7cc43f3d9b47a89c1ecac691c19c8d",
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-06T02:08:15-0800",
             "publisher": {
@@ -1746,35 +1657,28 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Existing bike route lines attribute table",
+                    "title": "Existing bike route lines attribute table ",
                     "downloadURL": "https://seshat.datasd.org/gis_bike_routes/bike_routes_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Existing bike route lines",
+                    "title": "Existing bike route lines geojson",
                     "downloadURL": "https://seshat.datasd.org/gis_bike_routes/bike_routes_datasd.geojson",
                     "mediaType": "application/json",
                     "format": "geojson"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Existing bike route lines",
-                    "downloadURL": "https://seshat.datasd.org/gis_bike_routes/bike_routes_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Existing bike route lines",
+                    "title": "Existing bike route lines topojson",
                     "downloadURL": "https://seshat.datasd.org/gis_bike_routes/bike_routes_datasd.topo.json",
                     "mediaType": "application/octet-stream",
                     "format": "topojson"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Existing bike route lines",
+                    "title": "Existing bike route lines shapefile",
                     "downloadURL": "https://seshat.datasd.org/gis_bike_routes/bike_routes_datasd.zip",
                     "mediaType": "application/octet-stream",
                     "format": "shp"
@@ -1782,7 +1686,8 @@
             ],
             "identifier": "gis_bike_routes",
             "issued": "2016-05-09",
-            "keyword": null,
+            "keyword": ["SanGIS","Geospatial","GIS","Transit","Bike"],
+            "landingPage": "https://geo.sandag.org/portal/home/item.html?id=3add7066b8654253af0745dc72bb7b16",
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-06T02:07:59-0800",
             "publisher": {
@@ -1850,7 +1755,7 @@
             ],
             "identifier": "gis_business_improvement_districts",
             "issued": "2016-05-09",
-            "keyword": null,
+            "keyword": ["Local businesses","GIS","Geospatial","District"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-06T02:15:12-0800",
             "publisher": {
@@ -1918,7 +1823,7 @@
             ],
             "identifier": "gis_cdbg_census_tracts",
             "issued": "2017-06-30",
-            "keyword": null,
+            "keyword": ["Local businesses","GIS","Geospatial"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-06T02:08:24-0800",
             "publisher": {
@@ -1986,7 +1891,7 @@
             ],
             "identifier": "gis_city_boundary",
             "issued": "2017-06-30",
-            "keyword": null,
+            "keyword": ["City limits","GIS","Geospatial","SanGIS","Boundary"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-06T02:14:48-0800",
             "publisher": {
@@ -2054,7 +1959,7 @@
             ],
             "identifier": "gis_city_council_districts",
             "issued": "2016-05-09",
-            "keyword": null,
+            "keyword": ["GIS","Geospatial","SanGIS","Boundary","District"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-06T02:07:41-0800",
             "publisher": {
@@ -2122,7 +2027,7 @@
             ],
             "identifier": "gis_community_planning_districts",
             "issued": "2016-05-09",
-            "keyword": null,
+            "keyword": ["GIS","Geospatial","SanGIS","Boundary","District"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-06T02:07:09-0800",
             "publisher": {
@@ -2190,7 +2095,7 @@
             ],
             "identifier": "gis_fire_battalion_districts",
             "issued": "2017-06-30",
-            "keyword": null,
+            "keyword": ["GIS","Geospatial","SanGIS","Boundary","District"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-06T02:17:52-0800",
             "publisher": {
@@ -2258,7 +2163,7 @@
             ],
             "identifier": "gis_fire_stations",
             "issued": "2016-05-09",
-            "keyword": null,
+            "keyword": ["GIS","Geospatial","SanGIS","Assets","Properties","Public safety"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-06T02:14:28-0800",
             "publisher": {
@@ -2326,7 +2231,7 @@
             ],
             "identifier": "gis_general_plan_land_use",
             "issued": "2016-05-09",
-            "keyword": null,
+            "keyword": ["GIS","Geospatial","SanGIS","Boundary"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-06T02:15:40-0800",
             "publisher": {
@@ -2394,7 +2299,7 @@
             ],
             "identifier": "gis_historical_districts",
             "issued": "2017-06-30",
-            "keyword": null,
+            "keyword": ["GIS","Geospatial","SanGIS","District"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-06T02:07:51-0800",
             "publisher": {
@@ -2462,7 +2367,7 @@
             ],
             "identifier": "gis_joint_use_parks",
             "issued": "2017-06-30",
-            "keyword": null,
+            "keyword": ["GIS","Geospatial","SanGIS","Assets","Properties"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-06T02:07:13-0800",
             "publisher": {
@@ -2530,7 +2435,7 @@
             ],
             "identifier": "gis_library_locations",
             "issued": "2016-05-09",
-            "keyword": null,
+            "keyword": ["GIS","Geospatial","SanGIS","Assets","Properties"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-06T02:14:46-0800",
             "publisher": {
@@ -2598,7 +2503,7 @@
             ],
             "identifier": "gis_lifeguard_stations",
             "issued": "2017-06-30",
-            "keyword": null,
+            "keyword": ["City limits","GIS","Geospatial","SanGIS","Assets","Properties","Public safety"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-06T02:07:12-0800",
             "publisher": {
@@ -2666,7 +2571,7 @@
             ],
             "identifier": "gis_maintenance_assessment_districts",
             "issued": "2017-06-30",
-            "keyword": null,
+            "keyword": ["GIS","Geospatial","SanGIS","District","Taxes and fees","Finances"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-06T02:07:54-0800",
             "publisher": {
@@ -2734,7 +2639,7 @@
             ],
             "identifier": "gis_mhpa_areas",
             "issued": "2017-06-30",
-            "keyword": null,
+            "keyword": ["GIS","Geospatial","SanGIS","Boundary"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-06T02:07:20-0800",
             "publisher": {
@@ -2802,7 +2707,7 @@
             ],
             "identifier": "gis_park_locations",
             "issued": "2016-06-17",
-            "keyword": null,
+            "keyword": ["GIS","Geospatial","SanGIS","Assets","Properties"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-06T02:08:03-0800",
             "publisher": {
@@ -2877,7 +2782,7 @@
             ],
             "identifier": "gis_police_beats",
             "issued": "2016-06-15",
-            "keyword": null,
+            "keyword": ["GIS","Geospatial","SanGIS","Boundary","Public safety"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-06T02:08:57-0800",
             "publisher": {
@@ -2947,7 +2852,7 @@
             ],
             "identifier": "gis_police_divisions",
             "issued": "2017-06-30",
-            "keyword": null,
+            "keyword": ["GIS","Geospatial","SanGIS","Boundary","Public safety"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-06T02:08:48-0800",
             "publisher": {
@@ -3015,7 +2920,7 @@
             ],
             "identifier": "gis_police_neighborhoods",
             "issued": "2017-06-30",
-            "keyword": null,
+            "keyword": ["GIS","Geospatial","SanGIS","Boundary","Public safety"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-06T02:09:00-0800",
             "publisher": {
@@ -3083,7 +2988,7 @@
             ],
             "identifier": "gis_promise_zone",
             "issued": "2017-06-30",
-            "keyword": null,
+            "keyword": ["GIS","Geospatial","SanGIS","Boundary"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-06T02:06:54-0800",
             "publisher": {
@@ -3151,7 +3056,7 @@
             ],
             "identifier": "gis_recreation_center",
             "issued": "2016-06-16",
-            "keyword": null,
+            "keyword": ["GIS","Geospatial","SanGIS","Assets","Properties"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-06T02:08:26-0800",
             "publisher": {
@@ -3219,7 +3124,7 @@
             ],
             "identifier": "gis_revolving_loan_fund_coverage",
             "issued": "2016-05-09",
-            "keyword": null,
+            "keyword": ["GIS","Geospatial","SanGIS","Boundary","Local businesses"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-06T02:07:23-0800",
             "publisher": {
@@ -3287,7 +3192,7 @@
             ],
             "identifier": "gis_roads_all",
             "issued": "2016-05-09",
-            "keyword": null,
+            "keyword": ["GIS","Geospatial","SanGIS","Transit"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-06T02:11:47-0800",
             "publisher": {
@@ -3355,7 +3260,7 @@
             ],
             "identifier": "gis_row",
             "issued": "2017-06-30",
-            "keyword": null,
+            "keyword": ["GIS","Geospatial","SanGIS","Parcels","Properties"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-06T02:12:11-0800",
             "publisher": {
@@ -3423,7 +3328,7 @@
             ],
             "identifier": "gis_streets_repair_segs",
             "issued": "2016-09-16",
-            "keyword": null,
+            "keyword": ["GIS","Geospatial","SanGIS","Transit","Assets"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-06T02:09:20-0800",
             "publisher": {
@@ -3491,7 +3396,7 @@
             ],
             "identifier": "gis_transit_routes",
             "issued": "2016-05-09",
-            "keyword": null,
+            "keyword": ["GIS","Geospatial","SanGIS","Transit"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-06T02:09:02-0800",
             "publisher": {
@@ -3559,7 +3464,7 @@
             ],
             "identifier": "gis_transit_stops",
             "issued": "2016-05-09",
-            "keyword": null,
+            "keyword": ["GIS","Geospatial","SanGIS","Transit"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-06T02:08:37-0800",
             "publisher": {
@@ -3627,7 +3532,7 @@
             ],
             "identifier": "gis_zoning",
             "issued": "2016-06-16",
-            "keyword": null,
+            "keyword": ["GIS","Geospatial","SanGIS","Boundary"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-06T02:07:19-0800",
             "publisher": {
@@ -3667,7 +3572,7 @@
             ],
             "identifier": "hate_crimes",
             "issued": "2018-11-08",
-            "keyword": null,
+            "keyword": ["Public safety","Crimes"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2022-11-29",
             "publisher": {
@@ -3707,7 +3612,7 @@
             ],
             "identifier": "monitoring_analytes_plant_effluent",
             "issued": "2020-12-14",
-            "keyword": null,
+            "keyword": ["Water quality","Drinking water"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-08T00:01:41-0800",
             "publisher": {
@@ -3747,7 +3652,7 @@
             ],
             "identifier": "monitoring_chem_params",
             "issued": "2016-05-11",
-            "keyword": null,
+            "keyword": ["Water quality","Drinking water"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-08T00:01:44-0800",
             "publisher": {
@@ -3797,7 +3702,7 @@
             ],
             "identifier": "monitoring_indicator_bacteria",
             "issued": "2016-05-11",
-            "keyword": null,
+            "keyword": ["Water quality","Drinking water"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-08T00:03:29-0800",
             "publisher": {
@@ -3846,7 +3751,7 @@
             ],
             "identifier": "monitoring_ocean_benthic_invertebrates",
             "issued": "2020-07-02",
-            "keyword": null,
+            "keyword": ["Water quality","Ocean water"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2022-07-25",
             "publisher": {
@@ -3895,7 +3800,7 @@
             ],
             "identifier": "monitoring_ocean_fish_tissue",
             "issued": "2022-11-15",
-            "keyword": null,
+            "keyword": ["Water quality","Ocean water"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2022-11-15",
             "publisher": {
@@ -3944,7 +3849,7 @@
             ],
             "identifier": "monitoring_ocean_rotv",
             "issued": "2022-11-15",
-            "keyword": null,
+            "keyword": ["Water quality","Ocean water"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2022-11-15",
             "publisher": {
@@ -4049,7 +3954,7 @@
             ],
             "identifier": "monitoring_ocean_rtoms_ocean_chemistry",
             "issued": "2023-08-14",
-            "keyword": null,
+            "keyword": ["Water quality","Ocean water"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2023-08-14",
             "publisher": {
@@ -4155,7 +4060,7 @@
             ],
             "identifier": "monitoring_ocean_rtoms_salinity",
             "issued": "2023-08-14",
-            "keyword": null,
+            "keyword": ["Water quality","Ocean water"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2023-08-14",
             "publisher": {
@@ -4261,7 +4166,7 @@
             ],
             "identifier": "monitoring_ocean_rtoms_water_quality",
             "issued": "2023-08-14",
-            "keyword": null,
+            "keyword": ["Water quality","Ocean water"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2023-08-14",
             "publisher": {
@@ -4367,7 +4272,7 @@
             ],
             "identifier": "monitoring_ocean_rtoms_water_temperature",
             "issued": "2023-08-14",
-            "keyword": null,
+            "keyword": ["Water quality","Ocean water"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2023-08-14",
             "publisher": {
@@ -4417,7 +4322,7 @@
             ],
             "identifier": "monitoring_ocean_sediment",
             "issued": "2022-11-15",
-            "keyword": null,
+            "keyword": ["Water quality","Ocean water"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2022-11-15",
             "publisher": {
@@ -4478,7 +4383,7 @@
             ],
             "identifier": "monitoring_ocean_trawl_fish",
             "issued": "2020-07-02",
-            "keyword": null,
+            "keyword": ["Water quality","Ocean water"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2022-07-25",
             "publisher": {
@@ -4527,7 +4432,7 @@
             ],
             "identifier": "monitoring_ocean_trawl_invertebrates",
             "issued": "2020-07-02",
-            "keyword": null,
+            "keyword": ["Water quality","Ocean water"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2022-07-25",
             "publisher": {
@@ -4597,7 +4502,7 @@
             ],
             "identifier": "monitoring_ocean_water_quality",
             "issued": "2020-07-02",
-            "keyword": null,
+            "keyword": ["Water quality","Ocean water"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2022-07-25",
             "publisher": {
@@ -4639,7 +4544,7 @@
             ],
             "identifier": "operating_actuals",
             "issued": "2018-10-15",
-            "keyword": null,
+            "keyword": ["Finances","Actuals"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2025-07-25T10:01:55-0700",
             "publisher": {
@@ -4679,7 +4584,7 @@
             ],
             "identifier": "operating_budget",
             "issued": "2017-06-30",
-            "keyword": null,
+            "keyword": ["Finances","Budget"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2025-07-25T10:01:45-0700",
             "publisher": {
@@ -4915,7 +4820,7 @@
             ],
             "identifier": "parking_citations",
             "issued": "2021-03-23",
-            "keyword": null,
+            "keyword": ["Public safety","Parking","Finances"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-08T13:51:49-0800",
             "publisher": {
@@ -4962,7 +4867,7 @@
             ],
             "identifier": "parking_meters_locations",
             "issued": "2016-05-18",
-            "keyword": null,
+            "keyword": ["GIS","Geospatial","Transit","Parking","Assets"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-08T11:00:57-0800",
             "publisher": {
@@ -5058,7 +4963,7 @@
             ],
             "identifier": "parking_meters_transactions",
             "issued": "2016-05-02",
-            "keyword": null,
+            "keyword": ["Transit","Parking","Finances"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-08T11:02:04-0800",
             "publisher": {
@@ -5154,7 +5059,7 @@
             ],
             "identifier": "parking_meters_transactions_monthly",
             "issued": "2016-05-02",
-            "keyword": null,
+            "keyword": ["Transit","Parking","Finances"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2023-09-08T12:01:19-0700",
             "publisher": {
@@ -5250,7 +5155,7 @@
             ],
             "identifier": "parking_meters_transactions_daily",
             "issued": "2016-05-02",
-            "keyword": null,
+            "keyword": ["Transit","Parking","Finances"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2023-09-08T12:01:19-0700",
             "publisher": {
@@ -5297,7 +5202,7 @@
             ],
             "identifier": "pavement_condition_assessment",
             "issued": "2019-04-16",
-            "keyword": null,
+            "keyword": ["Assets","Transit"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-02-22T14:33:35-0700",
             "publisher": {
@@ -5414,7 +5319,7 @@
             ],
             "identifier": "police_calls_for_service",
             "issued": "2016-05-02",
-            "keyword": null,
+            "keyword": ["911 calls","Public safety"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2025-02-27T16:01:57-0800",
             "publisher": {
@@ -5501,7 +5406,7 @@
             ],
             "identifier": "police_nibrs",
             "issued": "2024-04-18",
-            "keyword": null,
+            "keyword": ["Public safety","Crimes"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-08T06:04:56-0800",
             "publisher": {
@@ -5548,7 +5453,7 @@
             ],
             "identifier": "police_ripa_actions_taken",
             "issued": "2019-04-16",
-            "keyword": null,
+            "keyword": ["Public safety","RIPA","Police vehicle stops","Police stops"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2023-10-06T14:33:35-0700",
             "publisher": {
@@ -5595,7 +5500,7 @@
             ],
             "identifier": "police_ripa_contraband_evid",
             "issued": "2019-04-16",
-            "keyword": null,
+            "keyword": ["Public safety","RIPA","Police vehicle stops","Police stops"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2023-10-06T14:33:55-0700",
             "publisher": {
@@ -5642,7 +5547,7 @@
             ],
             "identifier": "police_ripa_disability",
             "issued": "2019-04-16",
-            "keyword": null,
+            "keyword": ["Public safety","RIPA","Police vehicle stops","Police stops"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2023-10-06T14:35:07-0700",
             "publisher": {
@@ -5682,7 +5587,7 @@
             ],
             "identifier": "police_ripa_force_actions",
             "issued": "2019-04-16",
-            "keyword": null,
+            "keyword": ["Public safety","RIPA","Police vehicle stops","Police stops"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-02-22T14:33:35-0700",
             "publisher": {
@@ -5729,7 +5634,7 @@
             ],
             "identifier": "police_ripa_gender",
             "issued": "2019-04-16",
-            "keyword": null,
+            "keyword": ["Public safety","RIPA","Police vehicle stops","Police stops"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2023-10-06T14:38:15-0700",
             "publisher": {
@@ -5769,7 +5674,7 @@
             ],
             "identifier": "police_ripa_nonforce_actions",
             "issued": "2019-04-16",
-            "keyword": null,
+            "keyword": ["Public safety","RIPA","Police vehicle stops","Police stops"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-02-22T14:33:35-0700",
             "publisher": {
@@ -5816,7 +5721,7 @@
             ],
             "identifier": "police_ripa_prop_seize_basis",
             "issued": "2019-04-16",
-            "keyword": null,
+            "keyword": ["Public safety","RIPA","Police vehicle stops","Police stops"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2023-10-06T14:36:49-0700",
             "publisher": {
@@ -5863,7 +5768,7 @@
             ],
             "identifier": "police_ripa_prop_seize_type",
             "issued": "2019-04-16",
-            "keyword": null,
+            "keyword": ["Public safety","RIPA","Police vehicle stops","Police stops"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2023-10-06T14:35:39-0700",
             "publisher": {
@@ -5910,7 +5815,7 @@
             ],
             "identifier": "police_ripa_race",
             "issued": "2019-04-16",
-            "keyword": null,
+            "keyword": ["Public safety","RIPA","Police vehicle stops","Police stops"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2024-02-09T11:27:39-0800",
             "publisher": {
@@ -5957,7 +5862,7 @@
             ],
             "identifier": "police_ripa_search_basis",
             "issued": "2019-04-16",
-            "keyword": null,
+            "keyword": ["Public safety","RIPA","Police vehicle stops","Police stops"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2023-10-06T14:34:52-0700",
             "publisher": {
@@ -6004,7 +5909,7 @@
             ],
             "identifier": "police_ripa_stop_reason",
             "issued": "2019-04-16",
-            "keyword": null,
+            "keyword": ["Public safety","RIPA","Police vehicle stops","Police stops"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2023-10-06T14:28:15-0700",
             "publisher": {
@@ -6051,7 +5956,7 @@
             ],
             "identifier": "police_ripa_stop_result",
             "issued": "2019-04-16",
-            "keyword": null,
+            "keyword": ["Public safety","RIPA","Police vehicle stops","Police stops"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2023-10-06T14:37:57-0700",
             "publisher": {
@@ -6098,7 +6003,7 @@
             ],
             "identifier": "police_ripa_stops",
             "issued": "2019-04-16",
-            "keyword": null,
+            "keyword": ["Public safety","RIPA","Police vehicle stops","Police stops"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2024-02-09T11:27:31-0800",
             "publisher": {
@@ -6173,7 +6078,7 @@
             ],
             "identifier": "police_vehicle_stops",
             "issued": "2016-11-14",
-            "keyword": null,
+            "keyword": ["Public safety","Police vehicle stops","Police stops"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2019-04-16",
             "publisher": {
@@ -6243,7 +6148,7 @@
             ],
             "identifier": "police_vehicle_stops_search_details",
             "issued": "2016-11-14",
-            "keyword": null,
+            "keyword": ["Public safety","Police vehicle stops","Police stops"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2019-04-16",
             "publisher": {
@@ -6285,7 +6190,7 @@
             ],
             "identifier": "projects_city_budget",
             "issued": "2017-06-30",
-            "keyword": null,
+            "keyword": ["Budget","CIP","Capital Improvements Program","Finances","Assets"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2023-08-16T12:07:28-0700",
             "publisher": {
@@ -6325,7 +6230,7 @@
             ],
             "identifier": "rtax_accounts",
             "issued": "2022-05-11",
-            "keyword": null,
+            "keyword": ["Local businesses","Taxes and fees","Finances"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-08T03:30:31-0800",
             "publisher": {
@@ -6365,7 +6270,7 @@
             ],
             "identifier": "special_events",
             "issued": "2016-05-09",
-            "keyword": null,
+            "keyword": ["Recreation"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2021-12-30",
             "publisher": {
@@ -6433,7 +6338,7 @@
             ],
             "identifier": "street_sweeping_schedule",
             "issued": "2016-05-18",
-            "keyword": null,
+            "keyword": ["GIS","Geospatial","Assets","Trash"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-06T02:06:58-0800",
             "publisher": {
@@ -6473,7 +6378,7 @@
             ],
             "identifier": "streets_repair_projects",
             "issued": "2016-09-16",
-            "keyword": null,
+            "keyword": ["CIP","Capital Improvements Program","Assets","Transit"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-08T16:01:46-0800",
             "publisher": {
@@ -6520,7 +6425,7 @@
             ],
             "identifier": "stro_licenses",
             "issued": "2023-01-19",
-            "keyword": null,
+            "keyword": ["Taxes and fees","Finances","Local businesses"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-08T17:07:49-0800",
             "publisher": {
@@ -6562,7 +6467,7 @@
             ],
             "identifier": "tot_establishments",
             "issued": "2022-05-11",
-            "keyword": null,
+            "keyword": ["Taxes and fees","Finances","Local businesses"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-08T04:00:57-0800",
             "publisher": {
@@ -6609,7 +6514,7 @@
             ],
             "identifier": "traffic_collision_details",
             "issued": "2020-08-12",
-            "keyword": null,
+            "keyword": ["Public safety","Transit"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-08T16:01:27-0800",
             "publisher": {
@@ -6651,7 +6556,7 @@
             ],
             "identifier": "traffic_collisions",
             "issued": "2017-05-03",
-            "keyword": null,
+            "keyword": ["Public safety","Transit"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-08T16:01:32-0800",
             "publisher": {
@@ -6691,7 +6596,7 @@
             ],
             "identifier": "traffic_adt_counts",
             "issued": "2016-05-17",
-            "keyword": null,
+            "keyword": ["Transit","Assets"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2023-03-25",
             "publisher": {
