@@ -1693,13 +1693,6 @@
                 {
                     "@type": "dcat:Distribution",
                     "title": "Bike Master Plan route lines",
-                    "downloadURL": "https://seshat.datasd.org/gis_bike_master_plan/bike_master_plan_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Bike Master Plan route lines",
                     "downloadURL": "https://seshat.datasd.org/gis_bike_master_plan/bike_master_plan_datasd.topo.json",
                     "mediaType": "application/octet-stream",
                     "format": "topojson"
@@ -1757,13 +1750,6 @@
                     "downloadURL": "https://seshat.datasd.org/gis_bike_routes/bike_routes_datasd.geojson",
                     "mediaType": "application/json",
                     "format": "geojson"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Existing bike route lines",
-                    "downloadURL": "https://seshat.datasd.org/gis_bike_routes/bike_routes_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -1829,13 +1815,6 @@
                 {
                     "@type": "dcat:Distribution",
                     "title": "Business improvement districts",
-                    "downloadURL": "https://seshat.datasd.org/gis_business_improvement_districts/bids_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Business improvement districts",
                     "downloadURL": "https://seshat.datasd.org/gis_business_improvement_districts/bids_datasd.topo.json",
                     "mediaType": "application/octet-stream",
                     "format": "topojson"
@@ -1893,13 +1872,6 @@
                     "downloadURL": "https://seshat.datasd.org/gis_cdbg_census_tracts/block_grants_datasd.geojson",
                     "mediaType": "application/json",
                     "format": "geojson"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Census tracts eligible for CDBG",
-                    "downloadURL": "https://seshat.datasd.org/gis_cdbg_census_tracts/block_grants_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -1965,13 +1937,6 @@
                 {
                     "@type": "dcat:Distribution",
                     "title": "San Diego boundary",
-                    "downloadURL": "https://seshat.datasd.org/gis_city_boundary/san_diego_boundary_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "San Diego boundary",
                     "downloadURL": "https://seshat.datasd.org/gis_city_boundary/san_diego_boundary_datasd.topo.json",
                     "mediaType": "application/octet-stream",
                     "format": "topojson"
@@ -2029,13 +1994,6 @@
                     "downloadURL": "https://seshat.datasd.org/gis_city_council_districts/council_districts_datasd.geojson",
                     "mediaType": "application/json",
                     "format": "geojson"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "City Council districts",
-                    "downloadURL": "https://seshat.datasd.org/gis_city_council_districts/council_districts_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -2101,13 +2059,6 @@
                 {
                     "@type": "dcat:Distribution",
                     "title": "Community planning districts",
-                    "downloadURL": "https://seshat.datasd.org/gis_community_planning_districts/cmty_plan_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Community planning districts",
                     "downloadURL": "https://seshat.datasd.org/gis_community_planning_districts/cmty_plan_datasd.topo.json",
                     "mediaType": "application/octet-stream",
                     "format": "topojson"
@@ -2165,13 +2116,6 @@
                     "downloadURL": "https://seshat.datasd.org/gis_fire_battalion_districts/fire_battalion_districts_datasd.geojson",
                     "mediaType": "application/json",
                     "format": "geojson"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Fire battalion districts",
-                    "downloadURL": "https://seshat.datasd.org/gis_fire_battalion_districts/fire_battalion_districts_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -2237,13 +2181,6 @@
                 {
                     "@type": "dcat:Distribution",
                     "title": "Fire station points",
-                    "downloadURL": "https://seshat.datasd.org/gis_fire_stations/fire_stations_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Fire station points",
                     "downloadURL": "https://seshat.datasd.org/gis_fire_stations/fire_stations_datasd.topo.json",
                     "mediaType": "application/octet-stream",
                     "format": "topojson"
@@ -2301,13 +2238,6 @@
                     "downloadURL": "https://seshat.datasd.org/gis_general_plan_land_use/gp_land_use_datasd.geojson",
                     "mediaType": "application/json",
                     "format": "geojson"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "General Plan polygons",
-                    "downloadURL": "https://seshat.datasd.org/gis_general_plan_land_use/gp_land_use_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -2373,13 +2303,6 @@
                 {
                     "@type": "dcat:Distribution",
                     "title": "Historical districts",
-                    "downloadURL": "https://seshat.datasd.org/gis_historical_districts/historic_districts_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Historical districts",
                     "downloadURL": "https://seshat.datasd.org/gis_historical_districts/historic_districts_datasd.topo.json",
                     "mediaType": "application/octet-stream",
                     "format": "topojson"
@@ -2437,13 +2360,6 @@
                     "downloadURL": "https://seshat.datasd.org/gis_joint_use_parks/joint_use_datasd.geojson",
                     "mediaType": "application/json",
                     "format": "geojson"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Joint use parks",
-                    "downloadURL": "https://seshat.datasd.org/gis_joint_use_parks/joint_use_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -2509,13 +2425,6 @@
                 {
                     "@type": "dcat:Distribution",
                     "title": "Library points",
-                    "downloadURL": "https://seshat.datasd.org/gis_library_locations/libraries_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Library points",
                     "downloadURL": "https://seshat.datasd.org/gis_library_locations/libraries_datasd.topo.json",
                     "mediaType": "application/octet-stream",
                     "format": "topojson"
@@ -2573,13 +2482,6 @@
                     "downloadURL": "https://seshat.datasd.org/gis_lifeguard_stations/lifeguard_stations_datasd.geojson",
                     "mediaType": "application/json",
                     "format": "geojson"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Lifeguard station points",
-                    "downloadURL": "https://seshat.datasd.org/gis_lifeguard_stations/lifeguard_stations_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -2645,13 +2547,6 @@
                 {
                     "@type": "dcat:Distribution",
                     "title": "Maintenance assessment districts",
-                    "downloadURL": "https://seshat.datasd.org/gis_maintenance_assessment_districts/maintenance_assessment_districts_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Maintenance assessment districts",
                     "downloadURL": "https://seshat.datasd.org/gis_maintenance_assessment_districts/maintenance_assessment_districts_datasd.topo.json",
                     "mediaType": "application/octet-stream",
                     "format": "topojson"
@@ -2713,13 +2608,6 @@
                 {
                     "@type": "dcat:Distribution",
                     "title": "MHPA",
-                    "downloadURL": "https://seshat.datasd.org/gis_mhpa_areas/mhpa_areas_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "MHPA",
                     "downloadURL": "https://seshat.datasd.org/gis_mhpa_areas/mhpa_areas_datasd.topo.json",
                     "mediaType": "application/octet-stream",
                     "format": "topojson"
@@ -2777,13 +2665,6 @@
                     "downloadURL": "https://seshat.datasd.org/gis_park_locations/parks_datasd.geojson",
                     "mediaType": "application/json",
                     "format": "geojson"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Park points",
-                    "downloadURL": "https://seshat.datasd.org/gis_park_locations/parks_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -2856,13 +2737,6 @@
                 {
                     "@type": "dcat:Distribution",
                     "title": "Police beats",
-                    "downloadURL": "https://seshat.datasd.org/gis_police_beats/pd_beats_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Police beats",
                     "downloadURL": "https://seshat.datasd.org/gis_police_beats/pd_beats_datasd.topo.json",
                     "mediaType": "application/octet-stream",
                     "format": "topojson"
@@ -2922,13 +2796,6 @@
                     "downloadURL": "https://seshat.datasd.org/gis_police_divisions/pd_divisions_datasd.geojson",
                     "mediaType": "application/json",
                     "format": "geojson"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Police divisions",
-                    "downloadURL": "https://seshat.datasd.org/gis_police_divisions/pd_divisions_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -2994,13 +2861,6 @@
                 {
                     "@type": "dcat:Distribution",
                     "title": "Police neighborhoods",
-                    "downloadURL": "https://seshat.datasd.org/gis_police_neighborhoods/pd_neighborhoods_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Police neighborhoods",
                     "downloadURL": "https://seshat.datasd.org/gis_police_neighborhoods/pd_neighborhoods_datasd.topo.json",
                     "mediaType": "application/octet-stream",
                     "format": "topojson"
@@ -3058,13 +2918,6 @@
                     "downloadURL": "https://seshat.datasd.org/gis_promise_zone/promise_zone_datasd.geojson",
                     "mediaType": "application/json",
                     "format": "geojson"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Promise Zone boundary",
-                    "downloadURL": "https://seshat.datasd.org/gis_promise_zone/promise_zone_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -3130,13 +2983,6 @@
                 {
                     "@type": "dcat:Distribution",
                     "title": "Recreation center points",
-                    "downloadURL": "https://seshat.datasd.org/gis_recreation_center/rec_centers_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Recreation center points",
                     "downloadURL": "https://seshat.datasd.org/gis_recreation_center/rec_centers_datasd.topo.json",
                     "mediaType": "application/octet-stream",
                     "format": "topojson"
@@ -3194,13 +3040,6 @@
                     "downloadURL": "https://seshat.datasd.org/gis_revolving_loan_fund_coverage/rev_loan_datasd.geojson",
                     "mediaType": "application/json",
                     "format": "geojson"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Revolving Loan Fund coverage boundaries",
-                    "downloadURL": "https://seshat.datasd.org/gis_revolving_loan_fund_coverage/rev_loan_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -3266,13 +3105,6 @@
                 {
                     "@type": "dcat:Distribution",
                     "title": "Roads lines",
-                    "downloadURL": "https://seshat.datasd.org/gis_roads_all/roads_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Roads lines",
                     "downloadURL": "https://seshat.datasd.org/gis_roads_all/roads_datasd.topo.json",
                     "mediaType": "application/octet-stream",
                     "format": "topojson"
@@ -3330,13 +3162,6 @@
                     "downloadURL": "https://seshat.datasd.org/gis_row/right_of_way_datasd.geojson",
                     "mediaType": "application/json",
                     "format": "geojson"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Right-of-way parcels",
-                    "downloadURL": "https://seshat.datasd.org/gis_row/right_of_way_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -3402,13 +3227,6 @@
                 {
                     "@type": "dcat:Distribution",
                     "title": "Street segment lines",
-                    "downloadURL": "https://seshat.datasd.org/gis_streets_repair_segs/sd_paving_segs_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Street segment lines",
                     "downloadURL": "https://seshat.datasd.org/gis_streets_repair_segs/sd_paving_segs_datasd.topo.json",
                     "mediaType": "application/octet-stream",
                     "format": "topojson"
@@ -3466,13 +3284,6 @@
                     "downloadURL": "https://seshat.datasd.org/gis_transit_routes/transit_routes_datasd.geojson",
                     "mediaType": "application/json",
                     "format": "geojson"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Transit routes",
-                    "downloadURL": "https://seshat.datasd.org/gis_transit_routes/transit_routes_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -3538,13 +3349,6 @@
                 {
                     "@type": "dcat:Distribution",
                     "title": "Transit Stops Locations",
-                    "downloadURL": "https://seshat.datasd.org/gis_transit_stops/transit_stops_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Transit Stops Locations",
                     "downloadURL": "https://seshat.datasd.org/gis_transit_stops/transit_stops_datasd.topo.json",
                     "mediaType": "application/octet-stream",
                     "format": "topojson"
@@ -3602,13 +3406,6 @@
                     "downloadURL": "https://seshat.datasd.org/gis_zoning/zoning_datasd.geojson",
                     "mediaType": "application/json",
                     "format": "geojson"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Zoning",
-                    "downloadURL": "https://seshat.datasd.org/gis_zoning/zoning_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
                 },
                 {
                     "@type": "dcat:Distribution",
@@ -6408,13 +6205,6 @@
                     "downloadURL": "https://seshat.datasd.org/gis_street_sweeping/street_sweeping_datasd.geojson",
                     "mediaType": "application/json",
                     "format": "json"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Street Sweeping schedule by street",
-                    "downloadURL": "https://seshat.datasd.org/gis_street_sweeping/street_sweeping_datasd.pbf",
-                    "mediaType": "application/octet-stream",
-                    "format": "pbf"
                 },
                 {
                     "@type": "dcat:Distribution",
