@@ -762,6 +762,53 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
+            "describedBy": "https://seshat.datasd.org/development_permits_set1/permits_set1_datasd_dict.csv",
+            "describedByType": "text/csv",
+            "description": "Approvals for permits, maps, agreements, and other applications processed by Development Services Department legacy permitting system. The legacy system contains applications submitted in paper or through a hybrid process. Approval types began migrating to the current cloud-based system in 2018.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Approved permits",
+                    "downloadURL": "development_permits-nested-milestone~Approved-year-2025.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Issued permits",
+                    "downloadURL": "development_permits-nested-milestone~Issued-year~2025.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                }
+            ],
+            "identifier": "development_permits",
+            "issued": "2020-03-10",
+            "keyword": null,
+            "license": "https://opendefinition.org/licenses/odc-pddl/",
+            "modified": "2026-01-08T04:39:23-0800",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Development Services",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "City of San Diego"
+                }
+            },
+            "references": null,
+            "rights": null,
+            "spatial": null,
+            "temporal": null,
+            "title": "Development Permits legacy data"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "R/P1D",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Data & Analytics",
+                "hasEmail": "data@sandiego.gov"
+            },
             "describedBy": "https://seshat.datasd.org/development_permits_set2/permits_set2_datasd_dict.csv",
             "describedByType": "text/csv",
             "description": "Approvals for permits, maps, agreements, and other applications processed by Development Services Department's current cloud-based permitting system. Approval types began migrating to the current system in 2018.",
@@ -1043,7 +1090,7 @@
             "issued": "2016-08-01",
             "keyword": null,
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2023-07-13",
+            "modified": "2027-07-13",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Information Technology",
