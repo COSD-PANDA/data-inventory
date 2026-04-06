@@ -56,7 +56,7 @@
             },
             "describedBy": "https://seshat.datasd.org/business_tax_certificates/sd_businesses_dictionary_datasd.csv",
             "describedByType": "text/csv",
-            "description": "All active and inactive business tax certificates issued since 1990.",
+            "description": "All active and inactive business tax certificates issued since 1990. Businesses that operate within San Diego must get a business tax certificate issued by the City Treasurer.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -308,7 +308,7 @@
             "modified": "2026-01-08T00:01:22-0800",
             "publisher": {
                 "@type": "org:Organization",
-                "name": "Department of Real Estate and Airport Management",
+                "name": "Economic Development",
                 "subOrganizationOf": {
                     "@type": "org:Organization",
                     "name": "City of San Diego"
@@ -348,7 +348,7 @@
             "modified": "2023-03-27",
             "publisher": {
                 "@type": "org:Organization",
-                "name": "Department of Real Estate and Airport Management",
+                "name": "Economic Development",
                 "subOrganizationOf": {
                     "@type": "org:Organization",
                     "name": "City of San Diego"
@@ -388,7 +388,7 @@
             "modified": "2023-03-27",
             "publisher": {
                 "@type": "org:Organization",
-                "name": "Department of Real Estate and Airport Management",
+                "name": "Economic Development",
                 "subOrganizationOf": {
                     "@type": "org:Organization",
                     "name": "City of San Diego"
@@ -428,7 +428,7 @@
             "modified": "2026-01-08T03:03:37-0800",
             "publisher": {
                 "@type": "org:Organization",
-                "name": "Arts and Culture",
+                "name": "Economic Development",
                 "subOrganizationOf": {
                     "@type": "org:Organization",
                     "name": "City of San Diego"
@@ -793,7 +793,7 @@
                     "format": "csv"
                 }
             ],
-            "identifier": "development_permits_tags",
+            "identifier": "development_projects_tags",
             "issued": "2020-03-10",
             "keyword": ["Construction","Permits","Housing"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
@@ -1363,7 +1363,7 @@
             ],
             "identifier": "get_it_done_potholes",
             "issued": "2017-06-13",
-            "keyword": ["311","Services","Surveys","Parking"],
+            "keyword": ["311","Services","Surveys"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-07T23:09:18-0800",
             "publisher": {
@@ -1480,7 +1480,7 @@
             ],
             "identifier": "get_it_done_reports",
             "issued": "2016-05-26",
-            "keyword": ["311","Services","Surveys","Parking"],
+            "keyword": ["311","Services","Surveys"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-07T23:08:58-0800",
             "publisher": {
@@ -4320,7 +4320,7 @@
                     "format": "csv"
                 }
             ],
-            "identifier": "monitoring_ocean_sediment",
+            "identifier": "monitoring_ocean_sediment_quality",
             "issued": "2022-11-15",
             "keyword": ["Water quality","Ocean water"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
@@ -4462,7 +4462,7 @@
             },
             "describedBy": "https://seshat.datasd.org/monitoring_ocean_water_quality/water_quality_dictionary_datasd.csv",
             "describedByType": "text/csv",
-            "description": "Ocean water quality data, including bacteriological sampling for fecal indicator bacteria as well as physical, chemical, and biological parameters observed throughout the region.",
+            "description": "Ocean water quality data, including bacteriological sampling for fecal indicator bacteria as well as physical, chemical, and biological parameters observed throughout the region",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -4532,7 +4532,7 @@
             },
             "describedBy": "https://seshat.datasd.org/operating_actuals/operating_actuals_dictionary_datasd.csv",
             "describedByType": "text/csv",
-            "description": "This dataset includes the City\u2019s operating actuals. This data is also visualized by our online budget tool at budget.sandiego.gov .",
+            "description": "Operating actuals by fiscal year",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -4572,7 +4572,7 @@
             },
             "describedBy": "https://seshat.datasd.org/operating_budget/operating_budget_dictionary_datasd.csv",
             "describedByType": "text/csv",
-            "description": "Operating budgets by fiscal year.",
+            "description": "Operating budgets by fiscal year",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -4848,7 +4848,7 @@
             },
             "describedBy": "https://seshat.datasd.org/parking_meters_locations/meters_locations_dictionary_datasd.csv",
             "describedByType": "text/csv",
-            "description": "Locations of parking meters with corresponding parking zones and areas.",
+            "description": "Locations of parking meters with corresponding parking zones and areas",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -4991,7 +4991,7 @@
             },
             "describedBy": "https://seshat.datasd.org/parking_meters_transactions/meters_transactions_dictionary_datasd.csv",
             "describedByType": "text/csv",
-            "description": "Parking meter monthly transaction totals",
+            "description": "Parking meter monthly revenue totals",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -5074,7 +5074,7 @@
             "rights": null,
             "spatial": null,
             "temporal": null,
-            "title": "Parking Meter Monthly Transaction Totals"
+            "title": "Parking Meter Monthly Revenue Totals"
         },
         {
             "@type": "dcat:Dataset",
@@ -5087,7 +5087,7 @@
             },
             "describedBy": "https://seshat.datasd.org/parking_meters_transactions/meters_transactions_dictionary_datasd.csv",
             "describedByType": "text/csv",
-            "description": "All parking meter transactions",
+            "description": "Parking meter daily revenue totals",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -5170,7 +5170,7 @@
             "rights": null,
             "spatial": null,
             "temporal": null,
-            "title": "Parking Meter Daily Transaction Totals"
+            "title": "Parking Meter Daily Revenue Totals"
         },
         {
             "@type": "dcat:Dataset",
@@ -5183,7 +5183,7 @@
             },
             "describedBy": "https://seshat.datasd.org/pavement_condition_assessment/pavement_condition_assessment_dictionary_datasd.csv",
             "describedByType": "text/csv",
-            "description": "The Pavement Condition Index (PCI) is the most widely used method for assessing and reporting street pavement conditions.",
+            "description": "Pavement condition scores for City-maintained streets",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -5352,7 +5352,7 @@
             },
             "describedBy": "https://seshat.datasd.org/police_nibrs/pd_nibrs_dictionary.csv",
             "describedByType": "text/csv",
-            "description": "In 2021, the San Diego Police Department began reporting to the FBI\u2019s National Incident-Based Reporting System (NIBRS) for statistics. NIBRS collects data on all crimes reported to law enforcement agencies, not just the highest charges within those crimes.",
+            "description": "Crime data reported to the FBI\u2019s National Incident-Based Reporting System (NIBRS) for statistics.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -5464,7 +5464,7 @@
                     "name": "City of San Diego"
                 }
             },
-            "references": null,
+            "references": ["https://oag.ca.gov/ab953"],
             "rights": null,
             "spatial": null,
             "temporal": null,
@@ -5984,7 +5984,7 @@
             },
             "describedBy": "https://seshat.datasd.org/police_ripa_stops/ripa_stops_dictionary_datasd.csv",
             "describedByType": "text/csv",
-            "description": "All stops made by the San Diego Police Department.",
+            "description": "All stops made by the San Diego Police Department from July 2018 to current.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -6031,7 +6031,7 @@
             },
             "describedBy": "https://seshat.datasd.org/police_vehicle_stops/vehicle_stops_dictionary.csv",
             "describedByType": "text/csv",
-            "description": "Vehicle stops made by the San Diego Police Department between 2014 and June 26, 2018.",
+            "description": "Vehicle stops made by the San Diego Police Department between 2014 and June 2018.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -6108,7 +6108,7 @@
             },
             "describedBy": "https://seshat.datasd.org/police_vehicle_stops_search_details/vehicle_stops_search_details_dictionary.csv",
             "describedByType": "text/csv",
-            "description": "Details on searches conducted during vehicle stops as well as outcomes for stops made by the San Diego Police Department between 2014 and June 26, 2018. For stops made after June 26, 2018, please see the Police RIPA Stops datasets .",
+            "description": "Details on searches conducted during vehicle stops as well as outcomes for stops made by the San Diego Police Department between 2014 and June 2018.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
