@@ -28,7 +28,12 @@
             ],
             "identifier": "accounts_city_budget",
             "issued": "2017-06-30",
-            "keyword": ["Budget","Capital Improvements Program","CIP","Finances"],
+            "keyword": [
+                "Budget",
+                "Capital Improvements Program",
+                "CIP",
+                "Finances"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2025-07-25T10:10:39-0700",
             "publisher": {
@@ -103,7 +108,11 @@
             ],
             "identifier": "business_tax_certificates",
             "issued": "2016-05-09",
-            "keyword": ["Local businesses","Taxes and fees","Finances"],
+            "keyword": [
+                "Local businesses",
+                "Taxes and fees",
+                "Finances"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-08T01:07:36-0800",
             "publisher": {
@@ -143,7 +152,12 @@
             ],
             "identifier": "cip_fy_actuals",
             "issued": "2018-10-15",
-            "keyword": ["Actuals","Capital Improvements Program","CIP","Finances"],
+            "keyword": [
+                "Actuals",
+                "Capital Improvements Program",
+                "CIP",
+                "Finances"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2025-07-25T10:01:50-0700",
             "publisher": {
@@ -183,7 +197,12 @@
             ],
             "identifier": "cip_ptd_actuals",
             "issued": "2018-10-15",
-            "keyword": ["Actuals","Capital Improvements Program","CIP","Finances"],
+            "keyword": [
+                "Actuals",
+                "Capital Improvements Program",
+                "CIP",
+                "Finances"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2025-07-25T10:07:53-0700",
             "publisher": {
@@ -223,7 +242,12 @@
             ],
             "identifier": "cip_fy_budget",
             "issued": "2017-06-30",
-            "keyword": ["Budget","Capital Improvements Program","CIP","Finances"],
+            "keyword": [
+                "Budget",
+                "Capital Improvements Program",
+                "CIP",
+                "Finances"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2025-07-25T10:00:58-0700",
             "publisher": {
@@ -263,7 +287,12 @@
             ],
             "identifier": "cip_ptd_budget",
             "issued": "2017-06-30",
-            "keyword": ["Budget","Capital Improvements Program","CIP","Finances"],
+            "keyword": [
+                "Budget",
+                "Capital Improvements Program",
+                "CIP",
+                "Finances"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2025-07-25T10:03:46-0700",
             "publisher": {
@@ -303,7 +332,9 @@
             ],
             "identifier": "city_owned_properties",
             "issued": "2016-06-01",
-            "keyword": ["Properties"],
+            "keyword": [
+                "Properties"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-08T00:01:22-0800",
             "publisher": {
@@ -343,7 +374,10 @@
             ],
             "identifier": "city_owned_properties_leases",
             "issued": "2016-06-01",
-            "keyword": ["Properties","Leases"],
+            "keyword": [
+                "Properties",
+                "Leases"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2023-03-27",
             "publisher": {
@@ -383,7 +417,10 @@
             ],
             "identifier": "city_owned_properties_parcels",
             "issued": "2016-06-01",
-            "keyword": ["Properties","Parcels"],
+            "keyword": [
+                "Properties",
+                "Parcels"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2023-03-27",
             "publisher": {
@@ -423,7 +460,10 @@
             ],
             "identifier": "civic_art_collection",
             "issued": "2018-09-11",
-            "keyword": ["Assets","Art"],
+            "keyword": [
+                "Assets",
+                "Art"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-08T03:03:37-0800",
             "publisher": {
@@ -459,25 +499,13 @@
                     "downloadURL": "https://seshat.datasd.org/code_enforcement_violations/code_enf_past_3_yr_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Complaint Type Codes",
-                    "downloadURL": "https://seshat.datasd.org/code_enforcement_violations/complaint_types_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Code Enforcement Remedies",
-                    "downloadURL": "https://seshat.datasd.org/code_enforcement_violations/code_enf_remedies_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
                 }
             ],
             "identifier": "code_enforcement_violations",
             "issued": "2016-06-21",
-            "keyword": ["Code enforcement"],
+            "keyword": [
+                "Code enforcement"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2018-01-19",
             "publisher": {
@@ -527,7 +555,11 @@
             ],
             "identifier": "cpp_complaints_evaluated",
             "issued": "2019-09-04",
-            "keyword": ["Commission on Police Practices","CPP","Police oversight"],
+            "keyword": [
+                "Commission on Police Practices",
+                "CPP",
+                "Police oversight"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2022-12-02",
             "publisher": {
@@ -574,7 +606,11 @@
             ],
             "identifier": "cpp_complaints_evaluated_allegations",
             "issued": "2019-09-04",
-            "keyword": ["Commission on Police Practices","CPP","Police oversight"],
+            "keyword": [
+                "Commission on Police Practices",
+                "CPP",
+                "Police oversight"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2022-12-02",
             "publisher": {
@@ -621,7 +657,12 @@
             ],
             "identifier": "cpp_complaints_evaluated_bwc",
             "issued": "2019-09-04",
-            "keyword": ["Commission on Police Practices","CPP","Police oversight","Body-worn cameras"],
+            "keyword": [
+                "Commission on Police Practices",
+                "CPP",
+                "Police oversight",
+                "Body-worn cameras"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2022-12-02",
             "publisher": {
@@ -668,7 +709,12 @@
             ],
             "identifier": "cpp_complaints_evaluated_complainants",
             "issued": "2019-09-04",
-            "keyword": ["Commission on Police Practices","CPP","Police oversight","Body-worn cameras"],
+            "keyword": [
+                "Commission on Police Practices",
+                "CPP",
+                "Police oversight",
+                "Body-worn cameras"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2022-12-02",
             "publisher": {
@@ -708,7 +754,11 @@
             ],
             "identifier": "departments_city_budget",
             "issued": "2017-06-30",
-            "keyword": ["Budget","Departments","Finances"],
+            "keyword": [
+                "Budget",
+                "Departments",
+                "Finances"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2025-07-25T10:00:51-0700",
             "publisher": {
@@ -755,7 +805,11 @@
             ],
             "identifier": "development_permits",
             "issued": "2020-03-10",
-            "keyword": ["Construction","Permits","Housing"],
+            "keyword": [
+                "Construction",
+                "Permits",
+                "Housing"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-08T04:30:36-0800",
             "publisher": {
@@ -795,7 +849,11 @@
             ],
             "identifier": "development_projects_tags",
             "issued": "2020-03-10",
-            "keyword": ["Construction","Permits","Housing"],
+            "keyword": [
+                "Construction",
+                "Permits",
+                "Housing"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-08T04:01:29-0800",
             "publisher": {
@@ -932,8 +990,12 @@
                 }
             ],
             "identifier": "election_committees_transactions",
-            "issued": "2017-06-14",
-            "keyword": ["Elections","Financial disclosure","Campaign finance"],
+            "issued": "2016-05-05",
+            "keyword": [
+                "Elections",
+                "Financial disclosure",
+                "Campaign finance"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2024-03-12T15:00:14-0700",
             "publisher": {
@@ -973,7 +1035,10 @@
             ],
             "identifier": "enterprise_system_information",
             "issued": "2016-08-01",
-            "keyword": ["Information technology","Software"],
+            "keyword": [
+                "Information technology",
+                "Software"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2027-07-13",
             "publisher": {
@@ -1013,7 +1078,10 @@
             ],
             "identifier": "fci_city_buildings",
             "issued": "2017-06-30",
-            "keyword": ["Assets","Properties"],
+            "keyword": [
+                "Assets",
+                "Properties"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2017-07-17",
             "publisher": {
@@ -1123,7 +1191,10 @@
             ],
             "identifier": "fire_ems_incidents",
             "issued": "2016-05-26",
-            "keyword": ["EMS","911 calls"],
+            "keyword": [
+                "EMS",
+                "911 calls"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-08T00:01:15-0800",
             "publisher": {
@@ -1163,7 +1234,10 @@
             ],
             "identifier": "fire_ems_problem_counts",
             "issued": "2019-01-09",
-            "keyword": ["EMS","911 calls"],
+            "keyword": [
+                "EMS",
+                "911 calls"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-08T00:01:26-0800",
             "publisher": {
@@ -1203,7 +1277,12 @@
             ],
             "identifier": "funds_city_budget",
             "issued": "2017-06-30",
-            "keyword": ["Budget","Capital Improvements Program","CIP","Finances"],
+            "keyword": [
+                "Budget",
+                "Capital Improvements Program",
+                "CIP",
+                "Finances"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2025-07-25T10:00:45-0700",
             "publisher": {
@@ -1243,7 +1322,11 @@
             ],
             "identifier": "get_it_done_graffiti",
             "issued": "2017-06-13",
-            "keyword": ["311","Services","Surveys"],
+            "keyword": [
+                "311",
+                "Services",
+                "Surveys"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-07T23:09:21-0800",
             "publisher": {
@@ -1283,7 +1366,12 @@
             ],
             "identifier": "get_it_done_illegal_dumping",
             "issued": "2017-06-13",
-            "keyword": ["311","Services","Surveys","Trash"],
+            "keyword": [
+                "311",
+                "Services",
+                "Surveys",
+                "Trash"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-07T23:09:23-0800",
             "publisher": {
@@ -1323,7 +1411,12 @@
             ],
             "identifier": "get_it_done_parking_violations",
             "issued": "2017-06-13",
-            "keyword": ["311","Services","Surveys","Parking"],
+            "keyword": [
+                "311",
+                "Services",
+                "Surveys",
+                "Parking"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2023-03-27",
             "publisher": {
@@ -1363,7 +1456,11 @@
             ],
             "identifier": "get_it_done_potholes",
             "issued": "2017-06-13",
-            "keyword": ["311","Services","Surveys"],
+            "keyword": [
+                "311",
+                "Services",
+                "Surveys"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-07T23:09:18-0800",
             "publisher": {
@@ -1480,7 +1577,11 @@
             ],
             "identifier": "get_it_done_reports",
             "issued": "2016-05-26",
-            "keyword": ["311","Services","Surveys"],
+            "keyword": [
+                "311",
+                "Services",
+                "Surveys"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-07T23:08:58-0800",
             "publisher": {
@@ -1506,52 +1607,57 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/gis_address_points_apn/address_apn_dictionary_datasd.csv",
-            "describedByType": "text/csv",
-            "description": "This dataset comprises SITUS address points (as opposed to owner or mailing addresses) for jurisdictions within the County of San Diego.",
+            "describedBy": "https://geo.sandag.org/server/rest/directories/downloads/Address_Points.pdf",
+            "describedByType": "application/pdf",
+            "description": "This dataset comprises SITUS address points (as opposed to owner or mailing addresses) for jurisdictions within the County of San Diego.  Addresses include the corresponding Assessor Parcel Number (APN).",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Address points attribute table",
-                    "downloadURL": "https://seshat.datasd.org/gis_address_points_apn/addrapn_datasd.csv",
+                    "title": "Address Points attribute table",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Address_Points.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Address points REST URL",
-                    "downloadURL":"https://geo.sandag.org/server/rest/services/Hosted/Address_Points/FeatureServer/query",
-                    "mediaType": "text/csv",
-                    "format": "API"
+                    "title": "Address Points shapefile",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Address_Points_shapefile.zip",
+                    "mediaType": "application/zip",
+                    "format": "shp"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Address points geojson",
-                    "downloadURL": "https://seshat.datasd.org/gis_address_points_apn/addrapn_datasd.geojson",
-                    "mediaType": "application/json",
+                    "title": "Address Points geojson",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Address_Points.geojson",
+                    "mediaType": "application/geo+json",
                     "format": "geojson"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Address points topojson",
-                    "downloadURL": "https://seshat.datasd.org/gis_address_points_apn/addrapn_datasd.topo.json",
-                    "mediaType": "application/octet-stream",
-                    "format": "topojson"
+                    "title": "Address Points REST URL",
+                    "downloadURL": "https://geo.sandag.org/server/rest/services/Hosted/Address_Points/FeatureServer/0/query?where=addrjur+%3D+%27SD%27&fullText=&objectIds=&uniqueIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&defaultSR=&spatialRel=esriSpatialRelIntersects&distance=&units=esriSRUnit_Foot&relationParam=&outFields=*&returnGeometry=true&maxAllowableOffset=&geometryPrecision=&outSR=&havingClause=&gdbVersion=&historicMoment=&returnDistinctValues=false&returnIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&multipatchOption=xyFootprint&resultOffset=&resultRecordCount=&returnTrueCurves=false&returnCentroid=false&timeReferenceUnknownClient=false&maxRecordCountFactor=&sqlFormat=none&resultType=&datumTransformation=&lodType=geohash&lod=&lodSR=&cacheHint=false&returnUniqueIdsOnly=false&f=pjson",
+                    "mediaType": "application/json",
+                    "format": "json"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Address points shapefile",
-                    "downloadURL": "https://seshat.datasd.org/gis_address_points_apn/addrapn_datasd.zip",
+                    "title": "Address Points file geodatabase",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Address_Points_filegdb.zip",
                     "mediaType": "application/octet-stream",
-                    "format": "shp"
+                    "format": "gdb"
                 }
             ],
             "identifier": "gis_address_points_apn",
             "issued": "2016-05-09",
-            "keyword": ["SanGIS","Geospatial","GIS","Parcels"],
-            "landingPage": ["https://geo.sandag.org/portal/home/item.html?id=e58eba41d6a349dd92e97e64b4e62074"],
+            "keyword": [
+                "SanGIS",
+                "Geospatial",
+                "GIS",
+                "Parcels"
+            ],
+            "landingPage": "https://geo.sandag.org/portal/home/item.html?id=e58eba41d6a349dd92e97e64b4e62074",
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-01-06T02:20:45-0800",
+            "modified": "2026-04-07",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "SanGIS",
@@ -1575,52 +1681,58 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/gis_bike_master_plan/bike_master_plan_dictionary_datasd.csv",
-            "describedByType": "text/csv",
-            "description": "Major infrastructure in the Bike Master Plan adopted in January 2014.",
+            "describedBy": "https://geo.sandag.org/server/rest/directories/downloads/Bike_Master_Plan_SD.pdf",
+            "describedByType": "application/pdf",
+            "description": "City of San Diego Bicycle Master Plan",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Bike Master Plan route lines attribute table",
-                    "downloadURL": "https://seshat.datasd.org/gis_bike_master_plan/bike_master_plan_datasd.csv",
+                    "title": "Bike Master Plan SD attribute table",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Bike_Master_Plan_SD.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Bike Master Plan route lines geojson",
-                    "downloadURL": "https://seshat.datasd.org/gis_bike_master_plan/bike_master_plan_datasd.geojson",
-                    "mediaType": "application/json",
+                    "title": "Bike Master Plan SD shapefile",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Bike_Master_Plan_SD_shapefile.zip",
+                    "mediaType": "application/zip",
+                    "format": "shp"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Bike Master Plan SD geojson",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Bike_Master_Plan_SD.geojson",
+                    "mediaType": "application/geo+json",
                     "format": "geojson"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Bike Master Plan route lines REST URL",
-                    "downloadURL": "https://geo.sandag.org/server/rest/services/Hosted/Bike_Master_Plan_SD/FeatureServer/query",
+                    "title": "Bike Master Plan SD REST URL",
+                    "downloadURL": "https://geo.sandag.org/server/rest/services/Hosted/Bike_Master_Plan_SD/FeatureServer/0/query?where=1%3D1&fullText=&objectIds=&uniqueIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&defaultSR=&spatialRel=esriSpatialRelIntersects&distance=&units=esriSRUnit_Foot&relationParam=&outFields=*&returnGeometry=true&maxAllowableOffset=&geometryPrecision=&outSR=&havingClause=&gdbVersion=&historicMoment=&returnDistinctValues=false&returnIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&multipatchOption=xyFootprint&resultOffset=&resultRecordCount=&returnTrueCurves=false&returnCentroid=false&returnEnvelope=false&timeReferenceUnknownClient=false&maxRecordCountFactor=&sqlFormat=none&resultType=&datumTransformation=&lodType=geohash&lod=&lodSR=&cacheHint=false&returnUniqueIdsOnly=false&f=pjson",
                     "mediaType": "application/json",
-                    "format": "API"
+                    "format": "json"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Bike Master Plan route lines",
-                    "downloadURL": "https://seshat.datasd.org/gis_bike_master_plan/bike_master_plan_datasd.topo.json",
+                    "title": "Bike Master Plan SD file geodatabase",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Bike_Master_Plan_SD_filegdb.zip",
                     "mediaType": "application/octet-stream",
-                    "format": "topojson"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Bike Master Plan route lines",
-                    "downloadURL": "https://seshat.datasd.org/gis_bike_master_plan/bike_master_plan_datasd.zip",
-                    "mediaType": "application/octet-stream",
-                    "format": "shp"
+                    "format": "gdb"
                 }
             ],
             "identifier": "gis_bike_master_plan",
             "issued": "2017-06-30",
-            "keyword": ["SanGIS","Geospatial","GIS","Transit","Bike"],
+            "keyword": [
+                "SanGIS",
+                "Geospatial",
+                "GIS",
+                "Transit",
+                "Bike"
+            ],
             "landingPage": "https://geo.sandag.org/portal/home/item.html?id=9d7cc43f3d9b47a89c1ecac691c19c8d",
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-01-06T02:08:15-0800",
+            "modified": "2020-12-11",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Planning",
@@ -1644,45 +1756,58 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/gis_bike_routes/bike_routes_dictionary_datasd.csv",
-            "describedByType": "text/csv",
-            "description": "Existing bike facilities in the San Diego Region. This dataset was developed for the primary purpose of updating the SANDAG San Diego Regional Bike Map and the interactive bike map on the iCommute website.",
+            "describedBy": "https://geo.sandag.org/server/rest/directories/downloads/Bikeways.pdf",
+            "describedByType": "application/pdf",
+            "description": "Bikeways in the San Diego region.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Existing bike route lines attribute table ",
-                    "downloadURL": "https://seshat.datasd.org/gis_bike_routes/bike_routes_datasd.csv",
+                    "title": "Bikeways attribute table",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Bikeways.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Existing bike route lines geojson",
-                    "downloadURL": "https://seshat.datasd.org/gis_bike_routes/bike_routes_datasd.geojson",
-                    "mediaType": "application/json",
+                    "title": "Bikeways shapefile",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Bikeways_shapefile.zip",
+                    "mediaType": "application/zip",
+                    "format": "shp"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Bikeways geojson",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Bikeways.geojson",
+                    "mediaType": "application/geo+json",
                     "format": "geojson"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Existing bike route lines topojson",
-                    "downloadURL": "https://seshat.datasd.org/gis_bike_routes/bike_routes_datasd.topo.json",
-                    "mediaType": "application/octet-stream",
-                    "format": "topojson"
+                    "title": "Bikeways REST URL",
+                    "downloadURL": "https://geo.sandag.org/server/rest/services/Hosted/Bikeways/FeatureServer/0/query?where=1%3D1&fullText=&objectIds=&uniqueIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&defaultSR=&spatialRel=esriSpatialRelIntersects&distance=&units=esriSRUnit_Foot&relationParam=&outFields=*&returnGeometry=true&maxAllowableOffset=&geometryPrecision=&outSR=&havingClause=&gdbVersion=&historicMoment=&returnDistinctValues=false&returnIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&multipatchOption=xyFootprint&resultOffset=&resultRecordCount=&returnTrueCurves=false&returnCentroid=false&returnEnvelope=false&timeReferenceUnknownClient=false&maxRecordCountFactor=&sqlFormat=none&resultType=&datumTransformation=&lodType=geohash&lod=&lodSR=&cacheHint=false&returnUniqueIdsOnly=false&f=pjson",
+                    "mediaType": "application/json",
+                    "format": "json"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Existing bike route lines shapefile",
-                    "downloadURL": "https://seshat.datasd.org/gis_bike_routes/bike_routes_datasd.zip",
+                    "title": "Bikeways file geodatabase",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Bikeways_filegdb.zip",
                     "mediaType": "application/octet-stream",
-                    "format": "shp"
+                    "format": "gdb"
                 }
             ],
             "identifier": "gis_bike_routes",
             "issued": "2016-05-09",
-            "keyword": ["SanGIS","Geospatial","GIS","Transit","Bike"],
+            "keyword": [
+                "SanGIS",
+                "Geospatial",
+                "GIS",
+                "Transit",
+                "Bike"
+            ],
             "landingPage": "https://geo.sandag.org/portal/home/item.html?id=3add7066b8654253af0745dc72bb7b16",
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-01-06T02:07:59-0800",
+            "modified": "2025-10-03",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Transportation Department",
@@ -1706,44 +1831,58 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/gis_business_improvement_districts/bids_dictionary_datasd.csv",
-            "describedByType": "text/csv",
-            "description": "A BID provides a business area with the resources to develop marketing campaigns, increase awareness and lobbying efforts, secure additional funding and enhance public improvement and beautification projects in partnership with the City.",
+            "describedBy": "https://geo.sandag.org/server/rest/directories/downloads/Business_Improvement_Districts_SD.pdf",
+            "describedByType": "application/pdf",
+            "description": "City Business Improvement Districts (BID)",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Business improvement districts attribute table",
-                    "downloadURL": "https://seshat.datasd.org/gis_business_improvement_districts/bids_datasd.csv",
+                    "title": "Business Improvement Districts SD attribute table",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Business_Improvement_Districts_SD.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Business improvement districts",
-                    "downloadURL": "https://seshat.datasd.org/gis_business_improvement_districts/bids_datasd.geojson",
-                    "mediaType": "application/json",
+                    "title": "Business Improvement Districts SD shapefile",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Business_Improvement_Districts_SD_shapefile.zip",
+                    "mediaType": "application/zip",
+                    "format": "shp"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Business Improvement Districts SD geojson",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Business_Improvement_Districts_SD.geojson",
+                    "mediaType": "application/geo+json",
                     "format": "geojson"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Business improvement districts",
-                    "downloadURL": "https://seshat.datasd.org/gis_business_improvement_districts/bids_datasd.topo.json",
-                    "mediaType": "application/octet-stream",
-                    "format": "topojson"
+                    "title": "Business Improvement Districts SD REST URL",
+                    "downloadURL": "https://geo.sandag.org/server/rest/services/Hosted/Business_Improvement_Districts_SD/FeatureServer/0/query?where=1%3D1&fullText=&objectIds=&uniqueIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&defaultSR=&spatialRel=esriSpatialRelIntersects&distance=&units=esriSRUnit_Foot&relationParam=&outFields=*&returnGeometry=true&maxAllowableOffset=&geometryPrecision=&outSR=&havingClause=&gdbVersion=&historicMoment=&returnDistinctValues=false&returnIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&multipatchOption=xyFootprint&resultOffset=&resultRecordCount=&returnTrueCurves=false&returnCentroid=false&returnEnvelope=false&timeReferenceUnknownClient=false&maxRecordCountFactor=&sqlFormat=none&resultType=&datumTransformation=&lodType=geohash&lod=&lodSR=&cacheHint=false&returnUniqueIdsOnly=false&f=pjson",
+                    "mediaType": "application/json",
+                    "format": "json"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Business improvement district",
-                    "downloadURL": "https://seshat.datasd.org/gis_business_improvement_districts/bids_datasd.zip",
+                    "title": "Business Improvement Districts SD file geodatabase",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Business_Improvement_Districts_SD_filegdb.zip",
                     "mediaType": "application/octet-stream",
-                    "format": "shp"
+                    "format": "gdb"
                 }
             ],
             "identifier": "gis_business_improvement_districts",
             "issued": "2016-05-09",
-            "keyword": ["Local businesses","SanGIS","GIS","Geospatial","District"],
+            "keyword": [
+                "Local businesses",
+                "SanGIS",
+                "GIS",
+                "Geospatial",
+                "District"
+            ],
+            "landingPage": "https://geo.sandag.org/portal/home/item.html?id=e4e44e631f2840b2bd1e1ad2e0da1a6d",
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-01-06T02:15:12-0800",
+            "modified": "2024-04-12",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Economic Development",
@@ -1781,8 +1920,12 @@
             ],
             "identifier": "gis_cdbg_census_tracts",
             "issued": "2017-06-30",
-            "keyword": ["Local businesses","GIS","Geospatial"],
-            "landingPage":"https://sandiego.maps.arcgis.com/home/item.html?id=09eceb08d95d429dae9f88fe39826bf1#overview",
+            "keyword": [
+                "Local businesses",
+                "GIS",
+                "Geospatial"
+            ],
+            "landingPage": "https://sandiego.maps.arcgis.com/home/item.html?id=09eceb08d95d429dae9f88fe39826bf1#overview",
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-04-06",
             "publisher": {
@@ -1808,44 +1951,58 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": null,
-            "describedByType": "text/csv",
-            "description": "Polygon representing the City of San Diego administrative boundary.",
+            "describedBy": "https://geo.sandag.org/server/rest/directories/downloads/Municipal_Boundaries.pdf",
+            "describedByType": "application/pdf",
+            "description": "This layer is used as an overlay to locate and identify parcels that correspond to their specific jurisdiction. The dataset will be updated when notified by the San Diego Local Agency Formation Commission (LAFCO) of a recorded annexation or detachment and",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "title": "San Diego boundary attribute table",
-                    "downloadURL": "https://seshat.datasd.org/gis_city_boundary/san_diego_boundary_datasd.csv",
+                    "title": "Municipal Boundaries attribute table",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Municipal_Boundaries.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "San Diego boundary",
-                    "downloadURL": "https://seshat.datasd.org/gis_city_boundary/san_diego_boundary_datasd.geojson",
-                    "mediaType": "application/json",
+                    "title": "Municipal Boundaries shapefile",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Municipal_Boundaries_shapefile.zip",
+                    "mediaType": "application/zip",
+                    "format": "shp"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Municipal Boundaries geojson",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Municipal_Boundaries.geojson",
+                    "mediaType": "application/geo+json",
                     "format": "geojson"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "San Diego boundary",
-                    "downloadURL": "https://seshat.datasd.org/gis_city_boundary/san_diego_boundary_datasd.topo.json",
-                    "mediaType": "application/octet-stream",
-                    "format": "topojson"
+                    "title": "Municipal Boundaries REST URL",
+                    "downloadURL": "https://geo.sandag.org/server/rest/services/Hosted/Municipal_Boundaries/FeatureServer/0/query?where=code+%3D+%27SD%27&fullText=&objectIds=&uniqueIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&defaultSR=&spatialRel=esriSpatialRelIntersects&distance=&units=esriSRUnit_Foot&relationParam=&outFields=*&returnGeometry=true&maxAllowableOffset=&geometryPrecision=&outSR=&havingClause=&gdbVersion=&historicMoment=&returnDistinctValues=false&returnIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&multipatchOption=xyFootprint&resultOffset=&resultRecordCount=&returnTrueCurves=false&returnCentroid=false&returnEnvelope=false&timeReferenceUnknownClient=false&maxRecordCountFactor=&sqlFormat=none&resultType=&datumTransformation=&lodType=geohash&lod=&lodSR=&cacheHint=false&returnUniqueIdsOnly=false&f=pjson",
+                    "mediaType": "application/json",
+                    "format": "json"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "San Diego boundary",
-                    "downloadURL": "https://seshat.datasd.org/gis_city_boundary/san_diego_boundary_datasd.zip",
+                    "title": "Municipal Boundaries file geodatabase",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Municipal_Boundaries_filegdb.zip",
                     "mediaType": "application/octet-stream",
-                    "format": "shp"
+                    "format": "gdb"
                 }
             ],
             "identifier": "gis_city_boundary",
             "issued": "2017-06-30",
-            "keyword": ["City limits","GIS","Geospatial","SanGIS","Boundary"],
+            "keyword": [
+                "City limits",
+                "GIS",
+                "Geospatial",
+                "SanGIS",
+                "Boundary"
+            ],
+            "landingPage": "https://geo.sandag.org/portal/home/item.html?id=c034e931bd83403892eea61fdae5a6ae",
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-01-06T02:14:48-0800",
+            "modified": "2026-04-07",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "SanGIS",
@@ -1869,44 +2026,58 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/gis_city_council_districts/council_districts_dictionary_datasd.csv",
-            "describedByType": "text/csv",
-            "description": "City of San Diego Council District Boundaries.",
+            "describedBy": "https://geo.sandag.org/server/rest/directories/downloads/Council_Districts.pdf",
+            "describedByType": "application/pdf",
+            "description": "This dataset represents a consolidation of council district datasets from incorporated cities within the County of San Diego where districting has occured. ",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "title": "City Council districts attribute table",
-                    "downloadURL": "https://seshat.datasd.org/gis_city_council_districts/council_districts_datasd.csv",
+                    "title": "Council Districts attribute table",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Council_Districts.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "City Council districts",
-                    "downloadURL": "https://seshat.datasd.org/gis_city_council_districts/council_districts_datasd.geojson",
-                    "mediaType": "application/json",
+                    "title": "Council Districts shapefile",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Council_Districts_shapefile.zip",
+                    "mediaType": "application/zip",
+                    "format": "shp"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Council Districts geojson",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Council_Districts.geojson",
+                    "mediaType": "application/geo+json",
                     "format": "geojson"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "City Council districts",
-                    "downloadURL": "https://seshat.datasd.org/gis_city_council_districts/council_districts_datasd.topo.json",
-                    "mediaType": "application/octet-stream",
-                    "format": "topojson"
+                    "title": "Council Districts REST URL",
+                    "downloadURL": "https://geo.sandag.org/server/rest/services/Hosted/Council_Districts/FeatureServer/0/query?where=code+%3D+%27SD%27&fullText=&objectIds=&uniqueIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&defaultSR=&spatialRel=esriSpatialRelIntersects&distance=&units=esriSRUnit_Foot&relationParam=&outFields=*&returnGeometry=true&maxAllowableOffset=&geometryPrecision=&outSR=&havingClause=&gdbVersion=&historicMoment=&returnDistinctValues=false&returnIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&multipatchOption=xyFootprint&resultOffset=&resultRecordCount=&returnTrueCurves=false&returnCentroid=false&returnEnvelope=false&timeReferenceUnknownClient=false&maxRecordCountFactor=&sqlFormat=none&resultType=&datumTransformation=&lodType=geohash&lod=&lodSR=&cacheHint=false&returnUniqueIdsOnly=false&f=pjson",
+                    "mediaType": "application/json",
+                    "format": "json"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "City Council districts",
-                    "downloadURL": "https://seshat.datasd.org/gis_city_council_districts/council_districts_datasd.zip",
+                    "title": "Council Districts file geodatabase",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Council_Districts_filegdb.zip",
                     "mediaType": "application/octet-stream",
-                    "format": "shp"
+                    "format": "gdb"
                 }
             ],
             "identifier": "gis_city_council_districts",
             "issued": "2016-05-09",
-            "keyword": ["GIS","Geospatial","SanGIS","Boundary","District"],
+            "keyword": [
+                "GIS",
+                "Geospatial",
+                "SanGIS",
+                "Boundary",
+                "District"
+            ],
+            "landingPage": "https://geo.sandag.org/portal/home/item.html?id=92715d6aefe94b10b07ec2dbf254a71e",
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-01-06T02:07:41-0800",
+            "modified": "2026-02-27",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "IT",
@@ -1930,44 +2101,58 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/gis_community_planning_districts/cmty_plan_dictionary_datasd.csv",
-            "describedByType": "text/csv",
-            "description": "Geographic boundaries for land use policy plans specific to these geographic areas.",
+            "describedBy": "https://geo.sandag.org/server/rest/directories/downloads/Community_Plan_SD.pdf",
+            "describedByType": "application/pdf",
+            "description": "City Community Plans represent the geographic boundaries for the City of San Diego community land use policy plans specific to these geographic areas.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Community planning districts attribute table",
-                    "downloadURL": "https://seshat.datasd.org/gis_community_planning_districts/cmty_plan_datasd.csv",
+                    "title": "Community Plan SD attribute table",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Community_Plan_SD.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Community planning districts",
-                    "downloadURL": "https://seshat.datasd.org/gis_community_planning_districts/cmty_plan_datasd.geojson",
-                    "mediaType": "application/json",
+                    "title": "Community Plan SD shapefile",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Community_Plan_SD_shapefile.zip",
+                    "mediaType": "application/zip",
+                    "format": "shp"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Community Plan SD geojson",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Community_Plan_SD.geojson",
+                    "mediaType": "application/geo+json",
                     "format": "geojson"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Community planning districts",
-                    "downloadURL": "https://seshat.datasd.org/gis_community_planning_districts/cmty_plan_datasd.topo.json",
-                    "mediaType": "application/octet-stream",
-                    "format": "topojson"
+                    "title": "Community Plan SD REST URL",
+                    "downloadURL": "https://geo.sandag.org/server/rest/services/Hosted/Community_Plan_SD/FeatureServer/0/query?where=1%3D1&fullText=&objectIds=&uniqueIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&defaultSR=&spatialRel=esriSpatialRelIntersects&distance=&units=esriSRUnit_Foot&relationParam=&outFields=*&returnGeometry=true&maxAllowableOffset=&geometryPrecision=&outSR=&havingClause=&gdbVersion=&historicMoment=&returnDistinctValues=false&returnIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&multipatchOption=xyFootprint&resultOffset=&resultRecordCount=&returnTrueCurves=false&returnCentroid=false&returnEnvelope=false&timeReferenceUnknownClient=false&maxRecordCountFactor=&sqlFormat=none&resultType=&datumTransformation=&lodType=geohash&lod=&lodSR=&cacheHint=false&returnUniqueIdsOnly=false&f=pjson",
+                    "mediaType": "application/json",
+                    "format": "json"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Community planning districts",
-                    "downloadURL": "https://seshat.datasd.org/gis_community_planning_districts/cmty_plan_datasd.zip",
+                    "title": "Community Plan SD file geodatabase",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Community_Plan_SD_filegdb.zip",
                     "mediaType": "application/octet-stream",
-                    "format": "shp"
+                    "format": "gdb"
                 }
             ],
             "identifier": "gis_community_planning_districts",
             "issued": "2016-05-09",
-            "keyword": ["GIS","Geospatial","SanGIS","Boundary","District"],
+            "keyword": [
+                "GIS",
+                "Geospatial",
+                "SanGIS",
+                "Boundary",
+                "District"
+            ],
+            "landingPage": "https://geo.sandag.org/portal/home/item.html?id=a25d40621ce840cea16578b836c32320",
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-01-06T02:07:09-0800",
+            "modified": "2026-02-27",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Planning",
@@ -1991,44 +2176,58 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/gis_fire_battalion_districts/fire_battalion_districts_dictionary_datasd.csv",
-            "describedByType": "text/csv",
-            "description": "Fire Battalion districts include 6 to 7 fire stations.",
+            "describedBy": "https://geo.sandag.org/server/rest/directories/downloads/Fire_Battalion_Districts.pdf",
+            "describedByType": "application/pdf",
+            "description": "Fire Battalion Districts",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Fire battalion districts attribute table",
-                    "downloadURL": "https://seshat.datasd.org/gis_fire_battalion_districts/fire_battalion_districts_datasd.csv",
+                    "title": "Fire Battalion Districts attribute table",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Fire_Battalion_Districts.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Fire battalion districts",
-                    "downloadURL": "https://seshat.datasd.org/gis_fire_battalion_districts/fire_battalion_districts_datasd.geojson",
-                    "mediaType": "application/json",
+                    "title": "Fire Battalion Districts shapefile",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Fire_Battalion_Districts_shapefile.zip",
+                    "mediaType": "application/zip",
+                    "format": "shp"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Fire Battalion Districts geojson",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Fire_Battalion_Districts.geojson",
+                    "mediaType": "application/geo+json",
                     "format": "geojson"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Fire battalion districts",
-                    "downloadURL": "https://seshat.datasd.org/gis_fire_battalion_districts/fire_battalion_districts_datasd.topo.json",
-                    "mediaType": "application/octet-stream",
-                    "format": "topojson"
+                    "title": "Fire Battalion Districts REST URL",
+                    "downloadURL": "https://geo.sandag.org/server/rest/services/Hosted/Fire_Battalion_Districts/FeatureServer/0/query?where=1%3D1&fullText=&objectIds=&uniqueIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&defaultSR=&spatialRel=esriSpatialRelIntersects&distance=&units=esriSRUnit_Foot&relationParam=&outFields=*&returnGeometry=true&maxAllowableOffset=&geometryPrecision=&outSR=&havingClause=&gdbVersion=&historicMoment=&returnDistinctValues=false&returnIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&multipatchOption=xyFootprint&resultOffset=&resultRecordCount=&returnTrueCurves=false&returnCentroid=false&returnEnvelope=false&timeReferenceUnknownClient=false&maxRecordCountFactor=&sqlFormat=none&resultType=&datumTransformation=&lodType=geohash&lod=&lodSR=&cacheHint=false&returnUniqueIdsOnly=false&f=pjson",
+                    "mediaType": "application/json",
+                    "format": "json"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Fire battalion districts",
-                    "downloadURL": "https://seshat.datasd.org/gis_fire_battalion_districts/fire_battalion_districts_datasd.zip",
+                    "title": "Fire Battalion Districts file geodatabase",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Fire_Battalion_Districts_filegdb.zip",
                     "mediaType": "application/octet-stream",
-                    "format": "shp"
+                    "format": "gdb"
                 }
             ],
             "identifier": "gis_fire_battalion_districts",
             "issued": "2017-06-30",
-            "keyword": ["GIS","Geospatial","SanGIS","Boundary","District"],
+            "keyword": [
+                "GIS",
+                "Geospatial",
+                "SanGIS",
+                "Boundary",
+                "District"
+            ],
+            "landingPage": "https://geo.sandag.org/portal/home/item.html?id=074ed4da42b1448d936877a583b23f5e",
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-01-06T02:17:52-0800",
+            "modified": "2017-08-29",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Fire-Rescue",
@@ -2052,44 +2251,59 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/gis_fire_stations/fire_stations_dictionary_datasd.csv",
-            "describedByType": "text/csv",
-            "description": "Location and status of incorporated and unincorporated Fire stations.",
+            "describedBy": "https://geo.sandag.org/server/rest/directories/downloads/Fire_Stations_CN.pdf",
+            "describedByType": "application/pdf",
+            "description": "County-wide Fire Stations (Contains only active stations  - seed = 'Y')",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Fire station points attribute table",
-                    "downloadURL": "https://seshat.datasd.org/gis_fire_stations/fire_stations_datasd.csv",
+                    "title": "Fire Stations CN attribute table",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Fire_Stations_CN.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Fire station points",
-                    "downloadURL": "https://seshat.datasd.org/gis_fire_stations/fire_stations_datasd.geojson",
-                    "mediaType": "application/json",
+                    "title": "Fire Stations CN shapefile",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Fire_Stations_CN_shapefile.zip",
+                    "mediaType": "application/zip",
+                    "format": "shp"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Fire Stations CN geojson",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Fire_Stations_CN.geojson",
+                    "mediaType": "application/geo+json",
                     "format": "geojson"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Fire station points",
-                    "downloadURL": "https://seshat.datasd.org/gis_fire_stations/fire_stations_datasd.topo.json",
-                    "mediaType": "application/octet-stream",
-                    "format": "topojson"
+                    "title": "Fire Stations CN REST URL",
+                    "downloadURL": "https://geo.sandag.org/server/rest/services/Hosted/Fire_Stations_CN/FeatureServer/0/query?where=juris+%3D+%27SD%27&fullText=&objectIds=&uniqueIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&defaultSR=&spatialRel=esriSpatialRelIntersects&distance=&units=esriSRUnit_Foot&relationParam=&outFields=*&returnGeometry=true&maxAllowableOffset=&geometryPrecision=&outSR=&havingClause=&gdbVersion=&historicMoment=&returnDistinctValues=false&returnIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&multipatchOption=xyFootprint&resultOffset=&resultRecordCount=&returnTrueCurves=false&returnCentroid=false&timeReferenceUnknownClient=false&maxRecordCountFactor=&sqlFormat=none&resultType=&datumTransformation=&lodType=geohash&lod=&lodSR=&cacheHint=false&returnUniqueIdsOnly=false&f=pjson",
+                    "mediaType": "application/json",
+                    "format": "json"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Fire station points",
-                    "downloadURL": "https://seshat.datasd.org/gis_fire_stations/fire_stations_datasd.zip",
+                    "title": "Fire Stations CN file geodatabase",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Fire_Stations_CN_filegdb.zip",
                     "mediaType": "application/octet-stream",
-                    "format": "shp"
+                    "format": "gdb"
                 }
             ],
             "identifier": "gis_fire_stations",
             "issued": "2016-05-09",
-            "keyword": ["GIS","Geospatial","SanGIS","Assets","Properties","Public safety"],
+            "keyword": [
+                "GIS",
+                "Geospatial",
+                "SanGIS",
+                "Assets",
+                "Properties",
+                "Public safety"
+            ],
+            "landingPage": "https://geo.sandag.org/portal/home/item.html?id=cce228cdd9a844c8941c5133862e852f",
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-01-06T02:14:28-0800",
+            "modified": "2024-11-29",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Fire-Rescue",
@@ -2113,44 +2327,57 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/gis_general_plan_land_use/gp_land_use_dictionary_datasd.csv",
-            "describedByType": "text/csv",
-            "description": "Adopted planned land use polygons for City community planning areas.",
+            "describedBy": "https://geo.sandag.org/server/rest/directories/downloads/General_Plan_Land_Use_SD.pdf",
+            "describedByType": "application/pdf",
+            "description": "City of San Diego General Plan Land Use adopted March 10, 2008",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "title": "General Plan polygons attribute table",
-                    "downloadURL": "https://seshat.datasd.org/gis_general_plan_land_use/gp_land_use_datasd.csv",
+                    "title": "General Plan Land Use SD attribute table",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/General_Plan_Land_Use_SD.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "General Plan polygons",
-                    "downloadURL": "https://seshat.datasd.org/gis_general_plan_land_use/gp_land_use_datasd.geojson",
-                    "mediaType": "application/json",
+                    "title": "General Plan Land Use SD shapefile",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/General_Plan_Land_Use_SD_shapefile.zip",
+                    "mediaType": "application/zip",
+                    "format": "shp"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "General Plan Land Use SD geojson",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/General_Plan_Land_Use_SD.geojson",
+                    "mediaType": "application/geo+json",
                     "format": "geojson"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "General Plan polygons",
-                    "downloadURL": "https://seshat.datasd.org/gis_general_plan_land_use/gp_land_use_datasd.topo.json",
-                    "mediaType": "application/octet-stream",
-                    "format": "topojson"
+                    "title": "General Plan Land Use SD REST URL",
+                    "downloadURL": "https://geo.sandag.org/server/rest/services/Hosted/General_Plan_Land_Use_SD/FeatureServer/0/query?where=1%3D1&fullText=&objectIds=&uniqueIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&defaultSR=&spatialRel=esriSpatialRelIntersects&distance=&units=esriSRUnit_Foot&relationParam=&outFields=*&returnGeometry=true&maxAllowableOffset=&geometryPrecision=&outSR=&havingClause=&gdbVersion=&historicMoment=&returnDistinctValues=false&returnIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&multipatchOption=xyFootprint&resultOffset=&resultRecordCount=&returnTrueCurves=false&returnCentroid=false&returnEnvelope=false&timeReferenceUnknownClient=false&maxRecordCountFactor=&sqlFormat=none&resultType=&datumTransformation=&lodType=geohash&lod=&lodSR=&cacheHint=false&returnUniqueIdsOnly=false&f=pjson",
+                    "mediaType": "application/json",
+                    "format": "json"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "General Plan polygons",
-                    "downloadURL": "https://seshat.datasd.org/gis_general_plan_land_use/gp_land_use_datasd.zip",
+                    "title": "General Plan Land Use SD file geodatabase",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/General_Plan_Land_Use_SD_filegdb.zip",
                     "mediaType": "application/octet-stream",
-                    "format": "shp"
+                    "format": "gdb"
                 }
             ],
             "identifier": "gis_general_plan_land_use",
             "issued": "2016-05-09",
-            "keyword": ["GIS","Geospatial","SanGIS","Boundary"],
+            "keyword": [
+                "GIS",
+                "Geospatial",
+                "SanGIS",
+                "Boundary"
+            ],
+            "landingPage": "https://geo.sandag.org/portal/home/item.html?id=18fc4f4f38274c518f560c48f2b87b82",
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-01-06T02:15:40-0800",
+            "modified": "2026-04-03",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Planning",
@@ -2174,44 +2401,57 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/gis_historical_districts/historic_districts_dictionary_datasd.csv",
-            "describedByType": "text/csv",
-            "description": "Historical districts contain multiple properties and/or objects that share historical significance. The City's Historical Resources Board can establish a district if the contributing resources meet one of six criteria.",
+            "describedBy": "https://geo.sandag.org/server/rest/directories/downloads/Historic_Districts_SD.pdf",
+            "describedByType": "application/pdf",
+            "description": "City of San Diego Historical Districts",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Historical districts attribute table",
-                    "downloadURL": "https://seshat.datasd.org/gis_historical_districts/historic_districts_datasd.csv",
+                    "title": "Historic Districts SD attribute table",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Historic_Districts_SD.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Historical districts",
-                    "downloadURL": "https://seshat.datasd.org/gis_historical_districts/historic_districts_datasd.geojson",
-                    "mediaType": "application/json",
+                    "title": "Historic Districts SD shapefile",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Historic_Districts_SD_shapefile.zip",
+                    "mediaType": "application/zip",
+                    "format": "shp"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Historic Districts SD geojson",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Historic_Districts_SD.geojson",
+                    "mediaType": "application/geo+json",
                     "format": "geojson"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Historical districts",
-                    "downloadURL": "https://seshat.datasd.org/gis_historical_districts/historic_districts_datasd.topo.json",
-                    "mediaType": "application/octet-stream",
-                    "format": "topojson"
+                    "title": "Historic Districts SD REST URL",
+                    "downloadURL": "https://geo.sandag.org/server/rest/services/Hosted/Historic_Districts_SD/FeatureServer/0/query?where=1%3D1&fullText=&objectIds=&uniqueIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&defaultSR=&spatialRel=esriSpatialRelIntersects&distance=&units=esriSRUnit_Foot&relationParam=&outFields=*&returnGeometry=true&maxAllowableOffset=&geometryPrecision=&outSR=&havingClause=&gdbVersion=&historicMoment=&returnDistinctValues=false&returnIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&multipatchOption=xyFootprint&resultOffset=&resultRecordCount=&returnTrueCurves=false&returnCentroid=false&returnEnvelope=false&timeReferenceUnknownClient=false&maxRecordCountFactor=&sqlFormat=none&resultType=&datumTransformation=&lodType=geohash&lod=&lodSR=&cacheHint=false&returnUniqueIdsOnly=false&f=pjson",
+                    "mediaType": "application/json",
+                    "format": "json"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Historical districts",
-                    "downloadURL": "https://seshat.datasd.org/gis_historical_districts/historic_districts_datasd.zip",
+                    "title": "Historic Districts SD file geodatabase",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Historic_Districts_SD_filegdb.zip",
                     "mediaType": "application/octet-stream",
-                    "format": "shp"
+                    "format": "gdb"
                 }
             ],
             "identifier": "gis_historical_districts",
             "issued": "2017-06-30",
-            "keyword": ["GIS","Geospatial","SanGIS","District"],
+            "keyword": [
+                "GIS",
+                "Geospatial",
+                "SanGIS",
+                "District"
+            ],
+            "landingPage": "https://geo.sandag.org/portal/home/item.html?id=ee0d67267a7e421da75cbb03ae298393",
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-01-06T02:07:51-0800",
+            "modified": "2026-04-03",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Development Services",
@@ -2264,13 +2504,18 @@
                     "@type": "dcat:Distribution",
                     "title": "Joint use parks",
                     "downloadURL": "https://seshat.datasd.org/gis_joint_use_parks/joint_use_datasd.zip",
-                    "mediaType": "application/octet-stream",
+                    "mediaType": "application/zip",
                     "format": "shp"
                 }
             ],
             "identifier": "gis_joint_use_parks",
             "issued": "2017-06-30",
-            "keyword": ["GIS","Geospatial","Assets","Properties"],
+            "keyword": [
+                "GIS",
+                "Geospatial",
+                "Assets",
+                "Properties"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-06T02:07:13-0800",
             "publisher": {
@@ -2296,44 +2541,58 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/gis_library_locations/libraries_dictionary_datasd.csv",
-            "describedByType": "text/csv",
-            "description": "Point feature layer of library locations.",
+            "describedBy": "https://geo.sandag.org/server/rest/directories/downloads/Library.pdf",
+            "describedByType": "application/pdf",
+            "description": "Libraries in the County of San Diego",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Library points attribute table",
-                    "downloadURL": "https://seshat.datasd.org/gis_library_locations/libraries_datasd.csv",
+                    "title": "Library attribute table",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Library.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Library points",
-                    "downloadURL": "https://seshat.datasd.org/gis_library_locations/libraries_datasd.geojson",
-                    "mediaType": "application/json",
+                    "title": "Library shapefile",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Library_shapefile.zip",
+                    "mediaType": "application/zip",
+                    "format": "shp"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Library geojson",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Library.geojson",
+                    "mediaType": "application/geo+json",
                     "format": "geojson"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Library points",
-                    "downloadURL": "https://seshat.datasd.org/gis_library_locations/libraries_datasd.topo.json",
-                    "mediaType": "application/octet-stream",
-                    "format": "topojson"
+                    "title": "Library REST URL",
+                    "downloadURL": "https://geo.sandag.org/server/rest/services/Hosted/Library/FeatureServer/0/query?where=district+%3D+%27San+Diego+Public+%28City%29%27&fullText=&objectIds=&uniqueIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&defaultSR=&spatialRel=esriSpatialRelIntersects&distance=&units=esriSRUnit_Foot&relationParam=&outFields=*&returnGeometry=true&maxAllowableOffset=&geometryPrecision=&outSR=&havingClause=&gdbVersion=&historicMoment=&returnDistinctValues=false&returnIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&multipatchOption=xyFootprint&resultOffset=&resultRecordCount=&returnTrueCurves=false&returnCentroid=false&timeReferenceUnknownClient=false&maxRecordCountFactor=&sqlFormat=none&resultType=&datumTransformation=&lodType=geohash&lod=&lodSR=&cacheHint=false&returnUniqueIdsOnly=false&f=pjson",
+                    "mediaType": "application/json",
+                    "format": "json"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Library points",
-                    "downloadURL": "https://seshat.datasd.org/gis_library_locations/libraries_datasd.zip",
+                    "title": "Library file geodatabase",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Library_filegdb.zip",
                     "mediaType": "application/octet-stream",
-                    "format": "shp"
+                    "format": "gdb"
                 }
             ],
             "identifier": "gis_library_locations",
             "issued": "2016-05-09",
-            "keyword": ["GIS","Geospatial","SanGIS","Assets","Properties"],
+            "keyword": [
+                "GIS",
+                "Geospatial",
+                "SanGIS",
+                "Assets",
+                "Properties"
+            ],
+            "landingPage": "https://geo.sandag.org/portal/home/item.html?id=ceb2c815e4794ee2828c28ee0c0ad3fa",
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-01-06T02:14:46-0800",
+            "modified": "2025-06-13",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Library",
@@ -2357,44 +2616,60 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/gis_lifeguard_stations/lifeguard_stations_dictionary_datasd.csv",
-            "describedByType": "text/csv",
-            "description": "Point locations for lifeguard stations on San Diego beaches. The City has nine permanent stations in Ocean Beach, Mission Beach, Pacific Beach, La Jolla, and Black's Beach as well as stations operated seasonally.",
+            "describedBy": "https://geo.sandag.org/server/rest/directories/downloads/Lifeguard_Stations_CN.pdf",
+            "describedByType": "application/pdf",
+            "description": "This Lifeguard stations layer is created to show locations of lifeguard stations in City beaches within San Diego County.  ",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Lifeguard station points attribute table",
-                    "downloadURL": "https://seshat.datasd.org/gis_lifeguard_stations/lifeguard_stations_datasd.csv",
+                    "title": "Lifeguard Stations CN attribute table",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Lifeguard_Stations_CN.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Lifeguard station points",
-                    "downloadURL": "https://seshat.datasd.org/gis_lifeguard_stations/lifeguard_stations_datasd.geojson",
-                    "mediaType": "application/json",
+                    "title": "Lifeguard Stations CN shapefile",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Lifeguard_Stations_CN_shapefile.zip",
+                    "mediaType": "application/zip",
+                    "format": "shp"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Lifeguard Stations CN geojson",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Lifeguard_Stations_CN.geojson",
+                    "mediaType": "application/geo+json",
                     "format": "geojson"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Lifeguard station points",
-                    "downloadURL": "https://seshat.datasd.org/gis_lifeguard_stations/lifeguard_stations_datasd.topo.json",
-                    "mediaType": "application/octet-stream",
-                    "format": "topojson"
+                    "title": "Lifeguard Stations CN REST URL",
+                    "downloadURL": "https://geo.sandag.org/server/rest/services/Hosted/Lifeguard_Stations_CN/FeatureServer/0/query?where=jur+%3D+%27SD%27&fullText=&objectIds=&uniqueIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&defaultSR=&spatialRel=esriSpatialRelIntersects&distance=&units=esriSRUnit_Foot&relationParam=&outFields=*&returnGeometry=true&maxAllowableOffset=&geometryPrecision=&outSR=&havingClause=&gdbVersion=&historicMoment=&returnDistinctValues=false&returnIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&multipatchOption=xyFootprint&resultOffset=&resultRecordCount=&returnTrueCurves=false&returnCentroid=false&timeReferenceUnknownClient=false&maxRecordCountFactor=&sqlFormat=none&resultType=&datumTransformation=&lodType=geohash&lod=&lodSR=&cacheHint=false&returnUniqueIdsOnly=false&f=pjson",
+                    "mediaType": "application/json",
+                    "format": "json"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Lifeguard station points",
-                    "downloadURL": "https://seshat.datasd.org/gis_lifeguard_stations/lifeguard_stations_datasd.zip",
+                    "title": "Lifeguard Stations CN file geodatabase",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Lifeguard_Stations_CN_filegdb.zip",
                     "mediaType": "application/octet-stream",
-                    "format": "shp"
+                    "format": "gdb"
                 }
             ],
             "identifier": "gis_lifeguard_stations",
             "issued": "2017-06-30",
-            "keyword": ["City limits","GIS","Geospatial","SanGIS","Assets","Properties","Public safety"],
+            "keyword": [
+                "City limits",
+                "GIS",
+                "Geospatial",
+                "SanGIS",
+                "Assets",
+                "Properties",
+                "Public safety"
+            ],
+            "landingPage": "https://geo.sandag.org/portal/home/item.html?id=9938890587174723aec0e35ed7d0db1c",
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-01-06T02:07:12-0800",
+            "modified": "2025-08-22",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Fire-Rescue",
@@ -2418,44 +2693,59 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/gis_maintenance_assessment_districts/maintenance_assessment_districts_dictionary_datasd.csv",
-            "describedByType": "text/csv",
-            "description": "A Maintenance Assessment District pays additional taxes to receive services beyond the general services the City provides to other areas. These services include landscape, lighting, and hardscape maintenance.",
+            "describedBy": "https://geo.sandag.org/server/rest/directories/downloads/Maintenance_Assessment_Districts_SD.pdf",
+            "describedByType": "application/pdf",
+            "description": "City Maintenance Assessment Districts",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Maintenance assessment districts attribute table",
-                    "downloadURL": "https://seshat.datasd.org/gis_maintenance_assessment_districts/maintenance_assessment_districts_datasd.csv",
+                    "title": "Maintenance Assessment Districts SD attribute table",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Maintenance_Assessment_Districts_SD.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Maintenance assessment districts",
-                    "downloadURL": "https://seshat.datasd.org/gis_maintenance_assessment_districts/maintenance_assessment_districts_datasd.geojson",
-                    "mediaType": "application/json",
+                    "title": "Maintenance Assessment Districts SD shapefile",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Maintenance_Assessment_Districts_SD_shapefile.zip",
+                    "mediaType": "application/zip",
+                    "format": "shp"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Maintenance Assessment Districts SD geojson",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Maintenance_Assessment_Districts_SD.geojson",
+                    "mediaType": "application/geo+json",
                     "format": "geojson"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Maintenance assessment districts",
-                    "downloadURL": "https://seshat.datasd.org/gis_maintenance_assessment_districts/maintenance_assessment_districts_datasd.topo.json",
-                    "mediaType": "application/octet-stream",
-                    "format": "topojson"
+                    "title": "Maintenance Assessment Districts SD REST URL",
+                    "downloadURL": "https://geo.sandag.org/server/rest/services/Hosted/Maintenance_Assessment_Districts_SD/FeatureServer/0/query?where=1%3D1&fullText=&objectIds=&uniqueIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&defaultSR=&spatialRel=esriSpatialRelIntersects&distance=&units=esriSRUnit_Foot&relationParam=&outFields=*&returnGeometry=true&maxAllowableOffset=&geometryPrecision=&outSR=&havingClause=&gdbVersion=&historicMoment=&returnDistinctValues=false&returnIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&multipatchOption=xyFootprint&resultOffset=&resultRecordCount=&returnTrueCurves=false&returnCentroid=false&returnEnvelope=false&timeReferenceUnknownClient=false&maxRecordCountFactor=&sqlFormat=none&resultType=&datumTransformation=&lodType=geohash&lod=&lodSR=&cacheHint=false&returnUniqueIdsOnly=false&f=pjson",
+                    "mediaType": "application/json",
+                    "format": "json"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Maintenance assessment districts",
-                    "downloadURL": "https://seshat.datasd.org/gis_maintenance_assessment_districts/maintenance_assessment_districts_datasd.zip",
+                    "title": "Maintenance Assessment Districts SD file geodatabase",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Maintenance_Assessment_Districts_SD_filegdb.zip",
                     "mediaType": "application/octet-stream",
-                    "format": "shp"
+                    "format": "gdb"
                 }
             ],
             "identifier": "gis_maintenance_assessment_districts",
             "issued": "2017-06-30",
-            "keyword": ["GIS","Geospatial","SanGIS","District","Taxes and fees","Finances"],
+            "keyword": [
+                "GIS",
+                "Geospatial",
+                "SanGIS",
+                "District",
+                "Taxes and fees",
+                "Finances"
+            ],
+            "landingPage": "https://geo.sandag.org/portal/home/item.html?id=d13f525444014494a0a63391581da11c",
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-01-06T02:07:54-0800",
+            "modified": "2026-04-03",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Park & Recreation",
@@ -2479,44 +2769,57 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/gis_mhpa_areas/mhpa_dictionary_datasd.csv",
-            "describedByType": "text/csv",
-            "description": "The Multi-Habitat Planning Area is planned habitat preserve.",
+            "describedBy": "https://geo.sandag.org/server/rest/directories/downloads/MHPA_SD.pdf",
+            "describedByType": "application/pdf",
+            "description": "City of San Diego Multiple Habitat Planning Areas",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "title": "MHPA attribute table",
-                    "downloadURL": "https://seshat.datasd.org/gis_mhpa_areas/mhpa_areas_datasd.csv",
+                    "title": "MHPA SD attribute table",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/MHPA_SD.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "MHPA",
-                    "downloadURL": "https://seshat.datasd.org/gis_mhpa_areas/mhpa_areas_datasd.geojson",
-                    "mediaType": "application/json",
+                    "title": "MHPA SD shapefile",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/MHPA_SD_shapefile.zip",
+                    "mediaType": "application/zip",
+                    "format": "shp"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "MHPA SD geojson",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/MHPA_SD.geojson",
+                    "mediaType": "application/geo+json",
                     "format": "geojson"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "MHPA",
-                    "downloadURL": "https://seshat.datasd.org/gis_mhpa_areas/mhpa_areas_datasd.topo.json",
-                    "mediaType": "application/octet-stream",
-                    "format": "topojson"
+                    "title": "MHPA SD REST URL",
+                    "downloadURL": "https://geo.sandag.org/server/rest/services/Hosted/MHPA_SD/FeatureServer/0/query?where=1%3D1&fullText=&objectIds=&uniqueIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&defaultSR=&spatialRel=esriSpatialRelIntersects&distance=&units=esriSRUnit_Foot&relationParam=&outFields=*&returnGeometry=true&maxAllowableOffset=&geometryPrecision=&outSR=&havingClause=&gdbVersion=&historicMoment=&returnDistinctValues=false&returnIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&multipatchOption=xyFootprint&resultOffset=&resultRecordCount=&returnTrueCurves=false&returnCentroid=false&returnEnvelope=false&timeReferenceUnknownClient=false&maxRecordCountFactor=&sqlFormat=none&resultType=&datumTransformation=&lodType=geohash&lod=&lodSR=&cacheHint=false&returnUniqueIdsOnly=false&f=pjson",
+                    "mediaType": "application/json",
+                    "format": "json"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "MHPA",
-                    "downloadURL": "https://seshat.datasd.org/gis_mhpa_areas/mhpa_areas_datasd.zip",
+                    "title": "MHPA SD file geodatabase",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/MHPA_SD_filegdb.zip",
                     "mediaType": "application/octet-stream",
-                    "format": "shp"
+                    "format": "gdb"
                 }
             ],
             "identifier": "gis_mhpa_areas",
             "issued": "2017-06-30",
-            "keyword": ["GIS","Geospatial","SanGIS","Boundary"],
+            "keyword": [
+                "GIS",
+                "Geospatial",
+                "SanGIS",
+                "Boundary"
+            ],
+            "landingPage": "https://geo.sandag.org/portal/home/item.html?id=3c243bd4c1c84cb4a05da49a77dca24d",
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-01-06T02:07:20-0800",
+            "modified": "2026-04-03",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Planning",
@@ -2540,44 +2843,58 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/gis_park_locations/parks_dictionary_datasd.csv",
-            "describedByType": "text/csv",
-            "description": "Properties managed by the City of San Diego Parks & Recreation Department.",
+            "describedBy": "https://geo.sandag.org/server/rest/directories/downloads/Parks_SD.pdf",
+            "describedByType": "application/pdf",
+            "description": "City of San Diego Park & Rec land. This includes public parks and Open Space parks within the CIty of San Diego. ",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Park points attribute table",
-                    "downloadURL": "https://seshat.datasd.org/gis_park_locations/parks_datasd.csv",
+                    "title": "Parks SD attribute table",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Parks_SD.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Park points",
-                    "downloadURL": "https://seshat.datasd.org/gis_park_locations/parks_datasd.geojson",
-                    "mediaType": "application/json",
+                    "title": "Parks SD shapefile",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Parks_SD_shapefile.zip",
+                    "mediaType": "application/zip",
+                    "format": "shp"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Parks SD geojson",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Parks_SD.geojson",
+                    "mediaType": "application/geo+json",
                     "format": "geojson"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Park points",
-                    "downloadURL": "https://seshat.datasd.org/gis_park_locations/parks_datasd.topo.json",
-                    "mediaType": "application/octet-stream",
-                    "format": "topojson"
+                    "title": "Parks SD REST URL",
+                    "downloadURL": "https://geo.sandag.org/server/rest/services/Hosted/Parks_SD/FeatureServer/0/query?where=1%3D1&fullText=&objectIds=&uniqueIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&defaultSR=&spatialRel=esriSpatialRelIntersects&distance=&units=esriSRUnit_Foot&relationParam=&outFields=*&returnGeometry=true&maxAllowableOffset=&geometryPrecision=&outSR=&havingClause=&gdbVersion=&historicMoment=&returnDistinctValues=false&returnIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&multipatchOption=xyFootprint&resultOffset=&resultRecordCount=&returnTrueCurves=false&returnCentroid=false&returnEnvelope=false&timeReferenceUnknownClient=false&maxRecordCountFactor=&sqlFormat=none&resultType=&datumTransformation=&lodType=geohash&lod=&lodSR=&cacheHint=false&returnUniqueIdsOnly=false&f=pjson",
+                    "mediaType": "application/json",
+                    "format": "json"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Park points",
-                    "downloadURL": "https://seshat.datasd.org/gis_park_locations/parks_datasd.zip",
+                    "title": "Parks SD file geodatabase",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Parks_SD_filegdb.zip",
                     "mediaType": "application/octet-stream",
-                    "format": "shp"
+                    "format": "gdb"
                 }
             ],
             "identifier": "gis_park_locations",
             "issued": "2016-06-17",
-            "keyword": ["GIS","Geospatial","SanGIS","Assets","Properties"],
+            "keyword": [
+                "GIS",
+                "Geospatial",
+                "SanGIS",
+                "Assets",
+                "Properties"
+            ],
+            "landingPage": "https://geo.sandag.org/portal/home/item.html?id=05c89939dbf2449693e09af9ff8af9d0",
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-01-06T02:08:03-0800",
+            "modified": "2024-05-03",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Park & Recreation",
@@ -2637,13 +2954,18 @@
                     "@type": "dcat:Distribution",
                     "title": "Police beats",
                     "downloadURL": "https://seshat.datasd.org/gis_police_beats/pd_beats_datasd.zip",
-                    "mediaType": "application/octet-stream",
+                    "mediaType": "application/zip",
                     "format": "shp"
                 }
             ],
             "identifier": "gis_police_beats",
             "issued": "2016-06-15",
-            "keyword": ["GIS","Geospatial","Boundary","Public safety"],
+            "keyword": [
+                "GIS",
+                "Geospatial",
+                "Boundary",
+                "Public safety"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-06T02:08:57-0800",
             "publisher": {
@@ -2700,13 +3022,18 @@
                     "@type": "dcat:Distribution",
                     "title": "Police divisions",
                     "downloadURL": "https://seshat.datasd.org/gis_police_divisions/pd_divisions_datasd.zip",
-                    "mediaType": "application/octet-stream",
+                    "mediaType": "application/zip",
                     "format": "shp"
                 }
             ],
             "identifier": "gis_police_divisions",
             "issued": "2017-06-30",
-            "keyword": ["GIS","Geospatial","Boundary","Public safety"],
+            "keyword": [
+                "GIS",
+                "Geospatial",
+                "Boundary",
+                "Public safety"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-06T02:08:48-0800",
             "publisher": {
@@ -2761,13 +3088,18 @@
                     "@type": "dcat:Distribution",
                     "title": "Police neighborhoods",
                     "downloadURL": "https://seshat.datasd.org/gis_police_neighborhoods/pd_neighborhoods_datasd.zip",
-                    "mediaType": "application/octet-stream",
+                    "mediaType": "application/zip",
                     "format": "shp"
                 }
             ],
             "identifier": "gis_police_neighborhoods",
             "issued": "2017-06-30",
-            "keyword": ["GIS","Geospatial","Boundary","Public safety"],
+            "keyword": [
+                "GIS",
+                "Geospatial",
+                "Boundary",
+                "Public safety"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-06T02:09:00-0800",
             "publisher": {
@@ -2793,44 +3125,57 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": null,
-            "describedByType": "text/csv",
-            "description": "Promise Zone is a federal designation for an area of San Diego that has high unemployment, poverty, low educational attainment, insufficient access to healthcare and healthy foods, rising crime rates, and/or the least affordable housing in the country.",
+            "describedBy": "https://geo.sandag.org/server/rest/directories/downloads/Promise_Zones_SD.pdf",
+            "describedByType": "application/pdf",
+            "description": "The San Diego Promise Zone (SDPZ) is characterized by high  unemployment, low educational attainment, insufficient access",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Promise Zone boundary attribute table",
-                    "downloadURL": "https://seshat.datasd.org/gis_promise_zone/promise_zone_datasd.csv",
+                    "title": "Promise Zones SD attribute table",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Promise_Zones_SD.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Promise Zone boundary",
-                    "downloadURL": "https://seshat.datasd.org/gis_promise_zone/promise_zone_datasd.geojson",
-                    "mediaType": "application/json",
+                    "title": "Promise Zones SD shapefile",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Promise_Zones_SD_shapefile.zip",
+                    "mediaType": "application/zip",
+                    "format": "shp"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Promise Zones SD geojson",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Promise_Zones_SD.geojson",
+                    "mediaType": "application/geo+json",
                     "format": "geojson"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Promise Zone boundary",
-                    "downloadURL": "https://seshat.datasd.org/gis_promise_zone/promise_zone_datasd.topo.json",
-                    "mediaType": "application/octet-stream",
-                    "format": "topojson"
+                    "title": "Promise Zones SD REST URL",
+                    "downloadURL": "https://geo.sandag.org/server/rest/services/Hosted/Promise_Zones_SD/FeatureServer/0/query?where=1%3D1&fullText=&objectIds=&uniqueIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&defaultSR=&spatialRel=esriSpatialRelIntersects&distance=&units=esriSRUnit_Foot&relationParam=&outFields=*&returnGeometry=true&maxAllowableOffset=&geometryPrecision=&outSR=&havingClause=&gdbVersion=&historicMoment=&returnDistinctValues=false&returnIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&multipatchOption=xyFootprint&resultOffset=&resultRecordCount=&returnTrueCurves=false&returnCentroid=false&returnEnvelope=false&timeReferenceUnknownClient=false&maxRecordCountFactor=&sqlFormat=none&resultType=&datumTransformation=&lodType=geohash&lod=&lodSR=&cacheHint=false&returnUniqueIdsOnly=false&f=pjson",
+                    "mediaType": "application/json",
+                    "format": "json"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Promise Zone boundary",
-                    "downloadURL": "https://seshat.datasd.org/gis_promise_zone/promise_zone_datasd.zip",
+                    "title": "Promise Zones SD file geodatabase",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Promise_Zones_SD_filegdb.zip",
                     "mediaType": "application/octet-stream",
-                    "format": "shp"
+                    "format": "gdb"
                 }
             ],
             "identifier": "gis_promise_zone",
             "issued": "2017-06-30",
-            "keyword": ["GIS","Geospatial","SanGIS","Boundary"],
+            "keyword": [
+                "GIS",
+                "Geospatial",
+                "SanGIS",
+                "Boundary"
+            ],
+            "landingPage": "https://geo.sandag.org/portal/home/item.html?id=c03d83e7dd3d4c36af0d3efb74886927",
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-01-06T02:06:54-0800",
+            "modified": "2024-04-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Economic Development",
@@ -2854,44 +3199,58 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": null,
-            "describedByType": "text/csv",
-            "description": "Recreation centers operated by the City of San Diego Park and Recreation Department for active and passive recreational opportunities.",
+            "describedBy": "https://geo.sandag.org/server/rest/directories/downloads/Recreation_Centers_SD.pdf",
+            "describedByType": "application/pdf",
+            "description": "Recreation Centers within the City of San Diego",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Recreation center points attribute table",
-                    "downloadURL": "https://seshat.datasd.org/gis_recreation_center/rec_centers_datasd.csv",
+                    "title": "Recreation Centers SD attribute table",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Recreation_Centers_SD.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Recreation center points",
-                    "downloadURL": "https://seshat.datasd.org/gis_recreation_center/rec_centers_datasd.geojson",
-                    "mediaType": "application/json",
+                    "title": "Recreation Centers SD shapefile",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Recreation_Centers_SD_shapefile.zip",
+                    "mediaType": "application/zip",
+                    "format": "shp"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Recreation Centers SD geojson",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Recreation_Centers_SD.geojson",
+                    "mediaType": "application/geo+json",
                     "format": "geojson"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Recreation center points",
-                    "downloadURL": "https://seshat.datasd.org/gis_recreation_center/rec_centers_datasd.topo.json",
-                    "mediaType": "application/octet-stream",
-                    "format": "topojson"
+                    "title": "Recreation Centers SD REST URL",
+                    "downloadURL": "https://geo.sandag.org/server/rest/services/Hosted/Recreation_Centers_SD/FeatureServer/0/query?where=1%3D1&fullText=&objectIds=&uniqueIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&defaultSR=&spatialRel=esriSpatialRelIntersects&distance=&units=esriSRUnit_Foot&relationParam=&outFields=*&returnGeometry=true&maxAllowableOffset=&geometryPrecision=&outSR=&havingClause=&gdbVersion=&historicMoment=&returnDistinctValues=false&returnIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&multipatchOption=xyFootprint&resultOffset=&resultRecordCount=&returnTrueCurves=false&returnCentroid=false&timeReferenceUnknownClient=false&maxRecordCountFactor=&sqlFormat=none&resultType=&datumTransformation=&lodType=geohash&lod=&lodSR=&cacheHint=false&returnUniqueIdsOnly=false&f=pjson",
+                    "mediaType": "application/json",
+                    "format": "json"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Recreation center points",
-                    "downloadURL": "https://seshat.datasd.org/gis_recreation_center/rec_centers_datasd.zip",
+                    "title": "Recreation Centers SD file geodatabase",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Recreation_Centers_SD_filegdb.zip",
                     "mediaType": "application/octet-stream",
-                    "format": "shp"
+                    "format": "gdb"
                 }
             ],
             "identifier": "gis_recreation_center",
             "issued": "2016-06-16",
-            "keyword": ["GIS","Geospatial","SanGIS","Assets","Properties"],
+            "keyword": [
+                "GIS",
+                "Geospatial",
+                "SanGIS",
+                "Assets",
+                "Properties"
+            ],
+            "landingPage": "https://geo.sandag.org/portal/home/item.html?id=8b89fe351cbd422291ccecb7abf136ab",
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-01-06T02:08:26-0800",
+            "modified": "2024-04-26",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Park & Recreation",
@@ -2944,13 +3303,18 @@
                     "@type": "dcat:Distribution",
                     "title": "Revolving Loan Fund coverage boundaries",
                     "downloadURL": "https://seshat.datasd.org/gis_revolving_loan_fund_coverage/rev_loan_datasd.zip",
-                    "mediaType": "application/octet-stream",
+                    "mediaType": "application/zip",
                     "format": "shp"
                 }
             ],
             "identifier": "gis_revolving_loan_fund_coverage",
             "issued": "2016-05-09",
-            "keyword": ["GIS","Geospatial","Boundary","Local businesses"],
+            "keyword": [
+                "GIS",
+                "Geospatial",
+                "Boundary",
+                "Local businesses"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-06T02:07:23-0800",
             "publisher": {
@@ -2976,44 +3340,57 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/gis_roads_all/roads_lines_dictionary_datasd.csv",
-            "describedByType": "text/csv",
+            "describedBy": "https://geo.sandag.org/server/rest/directories/downloads/Roads_All.pdf",
+            "describedByType": "application/pdf",
             "description": "This dataset comprises centerline segments for roads (both active and inactive, public and private, constructed or of record) in San Diego County based on data received from all official jurisdictions within the County (the County and 18 cities).",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Roads lines attribute table",
-                    "downloadURL": "https://seshat.datasd.org/gis_roads_all/roads_datasd.csv",
+                    "title": "Roads All attribute table",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Roads_All.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Roads lines",
-                    "downloadURL": "https://seshat.datasd.org/gis_roads_all/roads_datasd.geojson",
-                    "mediaType": "application/json",
+                    "title": "Roads All shapefile",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Roads_All_shapefile.zip",
+                    "mediaType": "application/zip",
+                    "format": "shp"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Roads All geojson",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Roads_All.geojson",
+                    "mediaType": "application/geo+json",
                     "format": "geojson"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Roads lines",
-                    "downloadURL": "https://seshat.datasd.org/gis_roads_all/roads_datasd.topo.json",
-                    "mediaType": "application/octet-stream",
-                    "format": "topojson"
+                    "title": "Roads All REST URL",
+                    "downloadURL": "https://geo.sandag.org/server/rest/services/Hosted/Roads_All/FeatureServer/0/query?where=ljurisdic+%3D+%27SD%27+or+rjurisdic+%3D+%27SD%27&fullText=&objectIds=&uniqueIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&defaultSR=&spatialRel=esriSpatialRelIntersects&distance=&units=esriSRUnit_Foot&relationParam=&outFields=*&returnGeometry=true&maxAllowableOffset=&geometryPrecision=&outSR=&havingClause=&gdbVersion=&historicMoment=&returnDistinctValues=false&returnIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&multipatchOption=xyFootprint&resultOffset=&resultRecordCount=&returnTrueCurves=false&returnCentroid=false&returnEnvelope=false&timeReferenceUnknownClient=false&maxRecordCountFactor=&sqlFormat=none&resultType=&datumTransformation=&lodType=geohash&lod=&lodSR=&cacheHint=false&returnUniqueIdsOnly=false&f=pjson",
+                    "mediaType": "application/json",
+                    "format": "json"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Roads lines",
-                    "downloadURL": "https://seshat.datasd.org/gis_roads_all/roads_datasd.zip",
+                    "title": "Roads All file geodatabase",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Roads_All_filegdb.zip",
                     "mediaType": "application/octet-stream",
-                    "format": "shp"
+                    "format": "gdb"
                 }
             ],
             "identifier": "gis_roads_all",
             "issued": "2016-05-09",
-            "keyword": ["GIS","Geospatial","SanGIS","Transit"],
+            "keyword": [
+                "GIS",
+                "Geospatial",
+                "SanGIS",
+                "Transit"
+            ],
+            "landingPage": "https://geo.sandag.org/portal/home/item.html?id=66ca42638c794646aa85f689a613a5f2",
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-01-06T02:11:47-0800",
+            "modified": "2026-04-07",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "SanGIS",
@@ -3037,44 +3414,58 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/gis_row/right_of_way_dictionary_datasd.csv",
-            "describedByType": "text/csv",
-            "description": "This is a subset of a countywide parcels dataset maintained by SanGIS . Right-of-way parcels are those that are legally dedicated to unhindered public travel.",
+            "describedBy": "https://geo.sandag.org/server/rest/directories/downloads/Right_of_Way.pdf",
+            "describedByType": "application/pdf",
+            "description": "This dataset consists of polygons showing dedicated rights-of-way (ROW) within the County of San Diego. The dataset is a subset of the Parcel dataset where sub-type=5. Rights-of-way are shown whether they are improved (constructed) or not build out.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Right-of-way parcels attribute table",
-                    "downloadURL": "https://seshat.datasd.org/gis_row/right_of_way_datasd.csv",
+                    "title": "Right of Way attribute table",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Right_of_Way.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Right-of-way parcels",
-                    "downloadURL": "https://seshat.datasd.org/gis_row/right_of_way_datasd.geojson",
-                    "mediaType": "application/json",
+                    "title": "Right of Way shapefile",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Right_of_Way_shapefile.zip",
+                    "mediaType": "application/zip",
+                    "format": "shp"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Right of Way geojson",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Right_of_Way.geojson",
+                    "mediaType": "application/geo+json",
                     "format": "geojson"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Right-of-way parcels",
-                    "downloadURL": "https://seshat.datasd.org/gis_row/right_of_way_datasd.topo.json",
-                    "mediaType": "application/octet-stream",
-                    "format": "topojson"
+                    "title": "Right of Way REST URL",
+                    "downloadURL": "https://geo.sandag.org/server/rest/services/Hosted/Right_of_Way/FeatureServer/0/query?where=overlay_juris+%3D+%27SD%27&fullText=&objectIds=&uniqueIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&defaultSR=&spatialRel=esriSpatialRelIntersects&distance=&units=esriSRUnit_Foot&relationParam=&outFields=*&returnGeometry=true&maxAllowableOffset=&geometryPrecision=&outSR=&havingClause=&gdbVersion=&historicMoment=&returnDistinctValues=false&returnIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&multipatchOption=xyFootprint&resultOffset=&resultRecordCount=&returnTrueCurves=false&returnCentroid=false&returnEnvelope=false&timeReferenceUnknownClient=false&maxRecordCountFactor=&sqlFormat=none&resultType=&datumTransformation=&lodType=geohash&lod=&lodSR=&cacheHint=false&returnUniqueIdsOnly=false&f=pjson",
+                    "mediaType": "application/json",
+                    "format": "json"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Right-of-way parcels",
-                    "downloadURL": "https://seshat.datasd.org/gis_row/right_of_way_datasd.zip",
+                    "title": "Right of Way file geodatabase",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Right_of_Way_filegdb.zip",
                     "mediaType": "application/octet-stream",
-                    "format": "shp"
+                    "format": "gdb"
                 }
             ],
             "identifier": "gis_row",
             "issued": "2017-06-30",
-            "keyword": ["GIS","Geospatial","SanGIS","Parcels","Properties"],
+            "keyword": [
+                "GIS",
+                "Geospatial",
+                "SanGIS",
+                "Parcels",
+                "Properties"
+            ],
+            "landingPage": "https://geo.sandag.org/portal/home/item.html?id=50ddd552137c416a8b67489df9bca199",
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-01-06T02:12:11-0800",
+            "modified": "2026-04-07",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "SanGIS",
@@ -3127,13 +3518,18 @@
                     "@type": "dcat:Distribution",
                     "title": "Street segment lines",
                     "downloadURL": "https://seshat.datasd.org/gis_streets_repair_segs/sd_paving_segs_datasd.zip",
-                    "mediaType": "application/octet-stream",
+                    "mediaType": "application/zip",
                     "format": "shp"
                 }
             ],
             "identifier": "gis_streets_repair_segs",
             "issued": "2016-09-16",
-            "keyword": ["GIS","Geospatial","Transit","Assets"],
+            "keyword": [
+                "GIS",
+                "Geospatial",
+                "Transit",
+                "Assets"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-06T02:09:20-0800",
             "publisher": {
@@ -3159,44 +3555,57 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/gis_transit_routes/transit_routes_dictionary_datasd.csv",
-            "describedByType": "text/csv",
-            "description": "Public transit routes covering the County of San Diego.",
+            "describedBy": "https://geo.sandag.org/server/rest/directories/downloads/Transit_Routes_GTFS.pdf",
+            "describedByType": "application/pdf",
+            "description": "Public transit routes covering the County of San Diego.  Data is developed from the General Transit Feed Specification (GTFS) data available from the GTFS Data Exchange.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Transit routes attribute table",
-                    "downloadURL": "https://seshat.datasd.org/gis_transit_routes/transit_routes_datasd.csv",
+                    "title": "Transit Routes GTFS attribute table",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Transit_Routes_GTFS.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Transit routes",
-                    "downloadURL": "https://seshat.datasd.org/gis_transit_routes/transit_routes_datasd.geojson",
-                    "mediaType": "application/json",
+                    "title": "Transit Routes GTFS shapefile",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Transit_Routes_GTFS_shapefile.zip",
+                    "mediaType": "application/zip",
+                    "format": "shp"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Transit Routes GTFS geojson",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Transit_Routes_GTFS.geojson",
+                    "mediaType": "application/geo+json",
                     "format": "geojson"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Transit routes",
-                    "downloadURL": "https://seshat.datasd.org/gis_transit_routes/transit_routes_datasd.topo.json",
-                    "mediaType": "application/octet-stream",
-                    "format": "topojson"
+                    "title": "Transit Routes GTFS REST URL",
+                    "downloadURL": "https://geo.sandag.org/server/rest/services/Hosted/Transit_Routes_GTFS/FeatureServer/0/query?where=1%3D1&fullText=&objectIds=&uniqueIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&defaultSR=&spatialRel=esriSpatialRelIntersects&distance=&units=esriSRUnit_Foot&relationParam=&outFields=*&returnGeometry=true&maxAllowableOffset=&geometryPrecision=&outSR=&havingClause=&gdbVersion=&historicMoment=&returnDistinctValues=false&returnIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&multipatchOption=xyFootprint&resultOffset=&resultRecordCount=&returnTrueCurves=false&returnCentroid=false&returnEnvelope=false&timeReferenceUnknownClient=false&maxRecordCountFactor=&sqlFormat=none&resultType=&datumTransformation=&lodType=geohash&lod=&lodSR=&cacheHint=false&returnUniqueIdsOnly=false&f=pjson",
+                    "mediaType": "application/json",
+                    "format": "json"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Transit routes",
-                    "downloadURL": "https://seshat.datasd.org/gis_transit_routes/transit_routes_datasd.zip",
+                    "title": "Transit Routes GTFS file geodatabase",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Transit_Routes_GTFS_filegdb.zip",
                     "mediaType": "application/octet-stream",
-                    "format": "shp"
+                    "format": "gdb"
                 }
             ],
             "identifier": "gis_transit_routes",
             "issued": "2016-05-09",
-            "keyword": ["GIS","Geospatial","SanGIS","Transit"],
+            "keyword": [
+                "GIS",
+                "Geospatial",
+                "SanGIS",
+                "Transit"
+            ],
+            "landingPage": "https://geo.sandag.org/portal/home/item.html?id=f360cf92975b41768f648f559d0cc041",
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-01-06T02:09:02-0800",
+            "modified": "2026-04-03",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "SanGIS",
@@ -3220,44 +3629,57 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/gis_transit_stops/gis_transit_stops_dictionary.csv",
-            "describedByType": "text/csv",
-            "description": "Public transit stops and stations covering the County of San Diego.",
+            "describedBy": "https://geo.sandag.org/server/rest/directories/downloads/Transit_Stops_GTFS.pdf",
+            "describedByType": "application/pdf",
+            "description": "Public transit stops and stations covering the County of San Diego.  Bus, commuter and light rail, and trolley stops managed by the San Diego County Metropolitan Transit System (MTS) and the North County Transit District (NCTD). ",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Transit Stops Attribute Table",
-                    "downloadURL": "https://seshat.datasd.org/gis_transit_stops/transit_stops_datasd.csv",
+                    "title": "Transit Stops GTFS attribute table",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Transit_Stops_GTFS.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Transit Stops Locations",
-                    "downloadURL": "https://seshat.datasd.org/gis_transit_stops/transit_stops_datasd.geojson",
-                    "mediaType": "application/json",
+                    "title": "Transit Stops GTFS shapefile",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Transit_Stops_GTFS_shapefile.zip",
+                    "mediaType": "application/zip",
+                    "format": "shp"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Transit Stops GTFS geojson",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Transit_Stops_GTFS.geojson",
+                    "mediaType": "application/geo+json",
                     "format": "geojson"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Transit Stops Locations",
-                    "downloadURL": "https://seshat.datasd.org/gis_transit_stops/transit_stops_datasd.topo.json",
-                    "mediaType": "application/octet-stream",
-                    "format": "topojson"
+                    "title": "Transit Stops GTFS REST URL",
+                    "downloadURL": "https://geo.sandag.org/server/rest/services/Hosted/Transit_Stops_GTFS/FeatureServer/0/query?where=1%3D1&fullText=&objectIds=&uniqueIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&defaultSR=&spatialRel=esriSpatialRelIntersects&distance=&units=esriSRUnit_Foot&relationParam=&outFields=*&returnGeometry=true&maxAllowableOffset=&geometryPrecision=&outSR=&havingClause=&gdbVersion=&historicMoment=&returnDistinctValues=false&returnIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&multipatchOption=xyFootprint&resultOffset=&resultRecordCount=&returnTrueCurves=false&returnCentroid=false&timeReferenceUnknownClient=false&maxRecordCountFactor=&sqlFormat=none&resultType=&datumTransformation=&lodType=geohash&lod=&lodSR=&cacheHint=false&returnUniqueIdsOnly=false&f=pjson",
+                    "mediaType": "application/json",
+                    "format": "json"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Transit Stops Locations",
-                    "downloadURL": "https://seshat.datasd.org/gis_transit_stops/transit_stops_datasd.zip",
+                    "title": "Transit Stops GTFS file geodatabase",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Transit_Stops_GTFS_filegdb.zip",
                     "mediaType": "application/octet-stream",
-                    "format": "shp"
+                    "format": "gdb"
                 }
             ],
             "identifier": "gis_transit_stops",
             "issued": "2016-05-09",
-            "keyword": ["GIS","Geospatial","SanGIS","Transit"],
+            "keyword": [
+                "GIS",
+                "Geospatial",
+                "SanGIS",
+                "Transit"
+            ],
+            "landingPage": "https://geo.sandag.org/portal/home/item.html?id=6ab86a90327d4592b259d7f1c453d092",
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-01-06T02:08:37-0800",
+            "modified": "2026-04-03",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "SanGIS",
@@ -3281,44 +3703,57 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/gis_zoning/zoning_dictionary_datasd.csv",
-            "describedByType": "text/csv",
-            "description": "Current base zone designations applied to property in the City of San Diego, as per the Official Zoning Map adopted by the City Council on February 28, 2006, and all subsequent updates.",
+            "describedBy": "https://geo.sandag.org/server/rest/directories/downloads/Zoning_Base_SD.pdf",
+            "describedByType": "application/pdf",
+            "description": "A map layer which depicts current base zone designations and boundaries in the City of San Diego. Updates are applied to the layer when zone designations and boundaries are changed by rezone actions.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Zoning attribute table",
-                    "downloadURL": "https://seshat.datasd.org/gis_zoning/zoning_datasd.csv",
+                    "title": "Zoning Base SD attribute table",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Zoning_Base_SD.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Zoning",
-                    "downloadURL": "https://seshat.datasd.org/gis_zoning/zoning_datasd.geojson",
-                    "mediaType": "application/json",
+                    "title": "Zoning Base SD shapefile",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Zoning_Base_SD_shapefile.zip",
+                    "mediaType": "application/zip",
+                    "format": "shp"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Zoning Base SD geojson",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Zoning_Base_SD.geojson",
+                    "mediaType": "application/geo+json",
                     "format": "geojson"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Zoning",
-                    "downloadURL": "https://seshat.datasd.org/gis_zoning/zoning_datasd.topo.json",
-                    "mediaType": "application/octet-stream",
-                    "format": "topojson"
+                    "title": "Zoning Base SD REST URL",
+                    "downloadURL": "https://geo.sandag.org/server/rest/services/Hosted/Zoning_Base_SD/FeatureServer/0/query?where=1%3D1&fullText=&objectIds=&uniqueIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&defaultSR=&spatialRel=esriSpatialRelIntersects&distance=&units=esriSRUnit_Foot&relationParam=&outFields=*&returnGeometry=true&maxAllowableOffset=&geometryPrecision=&outSR=&havingClause=&gdbVersion=&historicMoment=&returnDistinctValues=false&returnIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&multipatchOption=xyFootprint&resultOffset=&resultRecordCount=&returnTrueCurves=false&returnCentroid=false&returnEnvelope=false&timeReferenceUnknownClient=false&maxRecordCountFactor=&sqlFormat=none&resultType=&datumTransformation=&lodType=geohash&lod=&lodSR=&cacheHint=false&returnUniqueIdsOnly=false&f=pjson",
+                    "mediaType": "application/json",
+                    "format": "json"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Zoning",
-                    "downloadURL": "https://seshat.datasd.org/gis_zoning/zoning_datasd.zip",
+                    "title": "Zoning Base SD file geodatabase",
+                    "downloadURL": "https://geo.sandag.org/server/rest/directories/downloads/Zoning_Base_SD_filegdb.zip",
                     "mediaType": "application/octet-stream",
-                    "format": "shp"
+                    "format": "gdb"
                 }
             ],
             "identifier": "gis_zoning",
             "issued": "2016-06-16",
-            "keyword": ["GIS","Geospatial","SanGIS","Boundary"],
+            "keyword": [
+                "GIS",
+                "Geospatial",
+                "SanGIS",
+                "Boundary"
+            ],
+            "landingPage": "https://geo.sandag.org/portal/home/item.html?id=e99981214e6348de8ddc3674f799c75d",
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-01-06T02:07:19-0800",
+            "modified": "2026-03-27",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Planning",
@@ -3356,7 +3791,10 @@
             ],
             "identifier": "hate_crimes",
             "issued": "2018-11-08",
-            "keyword": ["Public safety","Crimes"],
+            "keyword": [
+                "Public safety",
+                "Crimes"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2022-11-29",
             "publisher": {
@@ -3396,7 +3834,10 @@
             ],
             "identifier": "monitoring_analytes_plant_effluent",
             "issued": "2020-12-14",
-            "keyword": ["Water quality","Drinking water"],
+            "keyword": [
+                "Water quality",
+                "Drinking water"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-08T00:01:41-0800",
             "publisher": {
@@ -3436,7 +3877,10 @@
             ],
             "identifier": "monitoring_chem_params",
             "issued": "2016-05-11",
-            "keyword": ["Water quality","Drinking water"],
+            "keyword": [
+                "Water quality",
+                "Drinking water"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-08T00:01:44-0800",
             "publisher": {
@@ -3486,7 +3930,10 @@
             ],
             "identifier": "monitoring_indicator_bacteria",
             "issued": "2016-05-11",
-            "keyword": ["Water quality","Drinking water"],
+            "keyword": [
+                "Water quality",
+                "Drinking water"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-08T00:03:29-0800",
             "publisher": {
@@ -3535,7 +3982,10 @@
             ],
             "identifier": "monitoring_ocean_benthic_invertebrates",
             "issued": "2020-07-02",
-            "keyword": ["Water quality","Ocean water"],
+            "keyword": [
+                "Water quality",
+                "Ocean water"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2022-07-25",
             "publisher": {
@@ -3584,7 +4034,10 @@
             ],
             "identifier": "monitoring_ocean_fish_tissue",
             "issued": "2022-11-15",
-            "keyword": ["Water quality","Ocean water"],
+            "keyword": [
+                "Water quality",
+                "Ocean water"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2022-11-15",
             "publisher": {
@@ -3633,7 +4086,10 @@
             ],
             "identifier": "monitoring_ocean_rotv",
             "issued": "2022-11-15",
-            "keyword": ["Water quality","Ocean water"],
+            "keyword": [
+                "Water quality",
+                "Ocean water"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2022-11-15",
             "publisher": {
@@ -3738,7 +4194,10 @@
             ],
             "identifier": "monitoring_ocean_rtoms_ocean_chemistry",
             "issued": "2023-08-14",
-            "keyword": ["Water quality","Ocean water"],
+            "keyword": [
+                "Water quality",
+                "Ocean water"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2023-08-14",
             "publisher": {
@@ -3844,7 +4303,10 @@
             ],
             "identifier": "monitoring_ocean_rtoms_salinity",
             "issued": "2023-08-14",
-            "keyword": ["Water quality","Ocean water"],
+            "keyword": [
+                "Water quality",
+                "Ocean water"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2023-08-14",
             "publisher": {
@@ -3950,7 +4412,10 @@
             ],
             "identifier": "monitoring_ocean_rtoms_water_quality",
             "issued": "2023-08-14",
-            "keyword": ["Water quality","Ocean water"],
+            "keyword": [
+                "Water quality",
+                "Ocean water"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2023-08-14",
             "publisher": {
@@ -4056,7 +4521,10 @@
             ],
             "identifier": "monitoring_ocean_rtoms_water_temperature",
             "issued": "2023-08-14",
-            "keyword": ["Water quality","Ocean water"],
+            "keyword": [
+                "Water quality",
+                "Ocean water"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2023-08-14",
             "publisher": {
@@ -4106,7 +4574,10 @@
             ],
             "identifier": "monitoring_ocean_sediment_quality",
             "issued": "2022-11-15",
-            "keyword": ["Water quality","Ocean water"],
+            "keyword": [
+                "Water quality",
+                "Ocean water"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2022-11-15",
             "publisher": {
@@ -4167,7 +4638,10 @@
             ],
             "identifier": "monitoring_ocean_trawl_fish",
             "issued": "2020-07-02",
-            "keyword": ["Water quality","Ocean water"],
+            "keyword": [
+                "Water quality",
+                "Ocean water"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2022-07-25",
             "publisher": {
@@ -4216,7 +4690,10 @@
             ],
             "identifier": "monitoring_ocean_trawl_invertebrates",
             "issued": "2020-07-02",
-            "keyword": ["Water quality","Ocean water"],
+            "keyword": [
+                "Water quality",
+                "Ocean water"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2022-07-25",
             "publisher": {
@@ -4286,7 +4763,10 @@
             ],
             "identifier": "monitoring_ocean_water_quality",
             "issued": "2020-07-02",
-            "keyword": ["Water quality","Ocean water"],
+            "keyword": [
+                "Water quality",
+                "Ocean water"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2022-07-25",
             "publisher": {
@@ -4328,7 +4808,10 @@
             ],
             "identifier": "operating_actuals",
             "issued": "2018-10-15",
-            "keyword": ["Finances","Actuals"],
+            "keyword": [
+                "Finances",
+                "Actuals"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2025-07-25T10:01:55-0700",
             "publisher": {
@@ -4368,7 +4851,10 @@
             ],
             "identifier": "operating_budget",
             "issued": "2017-06-30",
-            "keyword": ["Finances","Budget"],
+            "keyword": [
+                "Finances",
+                "Budget"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2025-07-25T10:01:45-0700",
             "publisher": {
@@ -4604,7 +5090,11 @@
             ],
             "identifier": "parking_citations",
             "issued": "2021-03-23",
-            "keyword": ["Public safety","Parking","Finances"],
+            "keyword": [
+                "Public safety",
+                "Parking",
+                "Finances"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-08T13:51:49-0800",
             "publisher": {
@@ -4651,7 +5141,13 @@
             ],
             "identifier": "parking_meters_locations",
             "issued": "2016-05-18",
-            "keyword": ["GIS","Geospatial","Transit","Parking","Assets"],
+            "keyword": [
+                "GIS",
+                "Geospatial",
+                "Transit",
+                "Parking",
+                "Assets"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-08T11:00:57-0800",
             "publisher": {
@@ -4747,7 +5243,11 @@
             ],
             "identifier": "parking_meters_transactions",
             "issued": "2016-05-02",
-            "keyword": ["Transit","Parking","Finances"],
+            "keyword": [
+                "Transit",
+                "Parking",
+                "Finances"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-08T11:02:04-0800",
             "publisher": {
@@ -4843,7 +5343,11 @@
             ],
             "identifier": "parking_meters_transactions_monthly",
             "issued": "2016-05-02",
-            "keyword": ["Transit","Parking","Finances"],
+            "keyword": [
+                "Transit",
+                "Parking",
+                "Finances"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2023-09-08T12:01:19-0700",
             "publisher": {
@@ -4939,7 +5443,11 @@
             ],
             "identifier": "parking_meters_transactions_daily",
             "issued": "2016-05-02",
-            "keyword": ["Transit","Parking","Finances"],
+            "keyword": [
+                "Transit",
+                "Parking",
+                "Finances"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2023-09-08T12:01:19-0700",
             "publisher": {
@@ -4985,8 +5493,11 @@
                 }
             ],
             "identifier": "pavement_condition_assessment",
-            "issued": "2019-01-16",
-            "keyword": ["Assets","Transit"],
+            "issued": "2019-04-16",
+            "keyword": [
+                "Assets",
+                "Transit"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-02-22T14:33:35-0700",
             "publisher": {
@@ -4996,7 +5507,7 @@
                     "@type": "org:Organization",
                     "name": "City of San Diego"
                 }
-            },            
+            },
             "references": null,
             "rights": null,
             "spatial": null,
@@ -5103,7 +5614,10 @@
             ],
             "identifier": "police_calls_for_service",
             "issued": "2016-05-02",
-            "keyword": ["911 calls","Public safety"],
+            "keyword": [
+                "911 calls",
+                "Public safety"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2025-02-27T16:01:57-0800",
             "publisher": {
@@ -5190,7 +5704,10 @@
             ],
             "identifier": "police_nibrs",
             "issued": "2024-04-18",
-            "keyword": ["Public safety","Crimes"],
+            "keyword": [
+                "Public safety",
+                "Crimes"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-08T06:04:56-0800",
             "publisher": {
@@ -5237,7 +5754,12 @@
             ],
             "identifier": "police_ripa_actions_taken",
             "issued": "2019-04-16",
-            "keyword": ["Public safety","RIPA","Police vehicle stops","Police stops"],
+            "keyword": [
+                "Public safety",
+                "RIPA",
+                "Police vehicle stops",
+                "Police stops"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2023-10-06T14:33:35-0700",
             "publisher": {
@@ -5248,7 +5770,9 @@
                     "name": "City of San Diego"
                 }
             },
-            "references": ["https://oag.ca.gov/ab953"],
+            "references": [
+                "https://oag.ca.gov/ab953"
+            ],
             "rights": null,
             "spatial": null,
             "temporal": null,
@@ -5284,7 +5808,12 @@
             ],
             "identifier": "police_ripa_contraband_evid",
             "issued": "2019-04-16",
-            "keyword": ["Public safety","RIPA","Police vehicle stops","Police stops"],
+            "keyword": [
+                "Public safety",
+                "RIPA",
+                "Police vehicle stops",
+                "Police stops"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2023-10-06T14:33:55-0700",
             "publisher": {
@@ -5331,7 +5860,12 @@
             ],
             "identifier": "police_ripa_disability",
             "issued": "2019-04-16",
-            "keyword": ["Public safety","RIPA","Police vehicle stops","Police stops"],
+            "keyword": [
+                "Public safety",
+                "RIPA",
+                "Police vehicle stops",
+                "Police stops"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2023-10-06T14:35:07-0700",
             "publisher": {
@@ -5371,7 +5905,12 @@
             ],
             "identifier": "police_ripa_force_actions",
             "issued": "2019-04-16",
-            "keyword": ["Public safety","RIPA","Police vehicle stops","Police stops"],
+            "keyword": [
+                "Public safety",
+                "RIPA",
+                "Police vehicle stops",
+                "Police stops"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-02-22T14:33:35-0700",
             "publisher": {
@@ -5381,7 +5920,7 @@
                     "@type": "org:Organization",
                     "name": "City of San Diego"
                 }
-            },            
+            },
             "references": null,
             "rights": null,
             "spatial": null,
@@ -5418,7 +5957,12 @@
             ],
             "identifier": "police_ripa_gender",
             "issued": "2019-04-16",
-            "keyword": ["Public safety","RIPA","Police vehicle stops","Police stops"],
+            "keyword": [
+                "Public safety",
+                "RIPA",
+                "Police vehicle stops",
+                "Police stops"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2023-10-06T14:38:15-0700",
             "publisher": {
@@ -5458,7 +6002,12 @@
             ],
             "identifier": "police_ripa_nonforce_actions",
             "issued": "2019-04-16",
-            "keyword": ["Public safety","RIPA","Police vehicle stops","Police stops"],
+            "keyword": [
+                "Public safety",
+                "RIPA",
+                "Police vehicle stops",
+                "Police stops"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-02-22T14:33:35-0700",
             "publisher": {
@@ -5468,7 +6017,7 @@
                     "@type": "org:Organization",
                     "name": "City of San Diego"
                 }
-            },            
+            },
             "references": null,
             "rights": null,
             "spatial": null,
@@ -5505,7 +6054,12 @@
             ],
             "identifier": "police_ripa_prop_seize_basis",
             "issued": "2019-04-16",
-            "keyword": ["Public safety","RIPA","Police vehicle stops","Police stops"],
+            "keyword": [
+                "Public safety",
+                "RIPA",
+                "Police vehicle stops",
+                "Police stops"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2023-10-06T14:36:49-0700",
             "publisher": {
@@ -5552,7 +6106,12 @@
             ],
             "identifier": "police_ripa_prop_seize_type",
             "issued": "2019-04-16",
-            "keyword": ["Public safety","RIPA","Police vehicle stops","Police stops"],
+            "keyword": [
+                "Public safety",
+                "RIPA",
+                "Police vehicle stops",
+                "Police stops"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2023-10-06T14:35:39-0700",
             "publisher": {
@@ -5599,7 +6158,12 @@
             ],
             "identifier": "police_ripa_race",
             "issued": "2019-04-16",
-            "keyword": ["Public safety","RIPA","Police vehicle stops","Police stops"],
+            "keyword": [
+                "Public safety",
+                "RIPA",
+                "Police vehicle stops",
+                "Police stops"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2024-02-09T11:27:39-0800",
             "publisher": {
@@ -5646,7 +6210,12 @@
             ],
             "identifier": "police_ripa_search_basis",
             "issued": "2019-04-16",
-            "keyword": ["Public safety","RIPA","Police vehicle stops","Police stops"],
+            "keyword": [
+                "Public safety",
+                "RIPA",
+                "Police vehicle stops",
+                "Police stops"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2023-10-06T14:34:52-0700",
             "publisher": {
@@ -5693,7 +6262,12 @@
             ],
             "identifier": "police_ripa_stop_reason",
             "issued": "2019-04-16",
-            "keyword": ["Public safety","RIPA","Police vehicle stops","Police stops"],
+            "keyword": [
+                "Public safety",
+                "RIPA",
+                "Police vehicle stops",
+                "Police stops"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2023-10-06T14:28:15-0700",
             "publisher": {
@@ -5740,7 +6314,12 @@
             ],
             "identifier": "police_ripa_stop_result",
             "issued": "2019-04-16",
-            "keyword": ["Public safety","RIPA","Police vehicle stops","Police stops"],
+            "keyword": [
+                "Public safety",
+                "RIPA",
+                "Police vehicle stops",
+                "Police stops"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2023-10-06T14:37:57-0700",
             "publisher": {
@@ -5787,7 +6366,12 @@
             ],
             "identifier": "police_ripa_stops",
             "issued": "2019-04-16",
-            "keyword": ["Public safety","RIPA","Police vehicle stops","Police stops"],
+            "keyword": [
+                "Public safety",
+                "RIPA",
+                "Police vehicle stops",
+                "Police stops"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2024-02-09T11:27:31-0800",
             "publisher": {
@@ -5862,7 +6446,11 @@
             ],
             "identifier": "police_vehicle_stops",
             "issued": "2016-11-14",
-            "keyword": ["Public safety","Police vehicle stops","Police stops"],
+            "keyword": [
+                "Public safety",
+                "Police vehicle stops",
+                "Police stops"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2019-04-16",
             "publisher": {
@@ -5932,7 +6520,11 @@
             ],
             "identifier": "police_vehicle_stops_search_details",
             "issued": "2016-11-14",
-            "keyword": ["Public safety","Police vehicle stops","Police stops"],
+            "keyword": [
+                "Public safety",
+                "Police vehicle stops",
+                "Police stops"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2019-04-16",
             "publisher": {
@@ -5974,7 +6566,13 @@
             ],
             "identifier": "projects_city_budget",
             "issued": "2017-06-30",
-            "keyword": ["Budget","CIP","Capital Improvements Program","Finances","Assets"],
+            "keyword": [
+                "Budget",
+                "CIP",
+                "Capital Improvements Program",
+                "Finances",
+                "Assets"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2023-08-16T12:07:28-0700",
             "publisher": {
@@ -6014,7 +6612,11 @@
             ],
             "identifier": "rtax_accounts",
             "issued": "2022-05-11",
-            "keyword": ["Local businesses","Taxes and fees","Finances"],
+            "keyword": [
+                "Local businesses",
+                "Taxes and fees",
+                "Finances"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-08T03:30:31-0800",
             "publisher": {
@@ -6054,7 +6656,9 @@
             ],
             "identifier": "special_events",
             "issued": "2016-05-09",
-            "keyword": ["Recreation"],
+            "keyword": [
+                "Recreation"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2021-12-30",
             "publisher": {
@@ -6102,20 +6706,25 @@
                     "@type": "dcat:Distribution",
                     "title": "Street Sweeping schedule by street",
                     "downloadURL": "https://seshat.datasd.org/gis_street_sweeping/street_sweeping_datasd.topo.json",
-                    "mediaType": "application/json",
-                    "format": "json"
+                    "mediaType": "application/octet-stream",
+                    "format": "topojson"
                 },
                 {
                     "@type": "dcat:Distribution",
                     "title": "Street Sweeping schedule by street",
                     "downloadURL": "https://seshat.datasd.org/gis_street_sweeping/street_sweeping_datasd.zip",
-                    "mediaType": "application/octet-stream",
+                    "mediaType": "application/zip",
                     "format": "shp"
                 }
             ],
             "identifier": "street_sweeping_schedule",
             "issued": "2016-05-18",
-            "keyword": ["GIS","Geospatial","Assets","Trash"],
+            "keyword": [
+                "GIS",
+                "Geospatial",
+                "Assets",
+                "Trash"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-06T02:06:58-0800",
             "publisher": {
@@ -6155,7 +6764,12 @@
             ],
             "identifier": "streets_repair_projects",
             "issued": "2016-09-16",
-            "keyword": ["CIP","Capital Improvements Program","Assets","Transit"],
+            "keyword": [
+                "CIP",
+                "Capital Improvements Program",
+                "Assets",
+                "Transit"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-08T16:01:46-0800",
             "publisher": {
@@ -6202,7 +6816,11 @@
             ],
             "identifier": "stro_licenses",
             "issued": "2023-01-19",
-            "keyword": ["Taxes and fees","Finances","Local businesses"],
+            "keyword": [
+                "Taxes and fees",
+                "Finances",
+                "Local businesses"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-08T17:07:49-0800",
             "publisher": {
@@ -6244,7 +6862,11 @@
             ],
             "identifier": "tot_establishments",
             "issued": "2022-05-11",
-            "keyword": ["Taxes and fees","Finances","Local businesses"],
+            "keyword": [
+                "Taxes and fees",
+                "Finances",
+                "Local businesses"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-08T04:00:57-0800",
             "publisher": {
@@ -6291,7 +6913,10 @@
             ],
             "identifier": "traffic_collision_details",
             "issued": "2020-08-12",
-            "keyword": ["Public safety","Transit"],
+            "keyword": [
+                "Public safety",
+                "Transit"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-08T16:01:27-0800",
             "publisher": {
@@ -6333,7 +6958,10 @@
             ],
             "identifier": "traffic_collisions",
             "issued": "2017-05-03",
-            "keyword": ["Public safety","Transit"],
+            "keyword": [
+                "Public safety",
+                "Transit"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-08T16:01:32-0800",
             "publisher": {
@@ -6373,7 +7001,10 @@
             ],
             "identifier": "traffic_adt_counts",
             "issued": "2016-05-17",
-            "keyword": ["Transit","Assets"],
+            "keyword": [
+                "Transit",
+                "Assets"
+            ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2023-03-25",
             "publisher": {
