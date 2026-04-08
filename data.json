@@ -974,7 +974,7 @@
                 }
             ],
             "identifier": "election_committees_transactions",
-            "issued": "2016-05-05",
+            "issued": "2017-06-14",
             "keyword": null,
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2024-03-12T15:00:14-0700",
@@ -5093,7 +5093,7 @@
                 }
             ],
             "identifier": "pavement_condition_assessment",
-            "issued": "2019-04-16",
+            "issued": "2019-01-16",
             "keyword": null,
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-02-22T14:33:35-0700",
