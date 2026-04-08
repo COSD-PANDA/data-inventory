@@ -363,7 +363,7 @@
         {
             "@type": "dcat:Dataset",
             "accessLevel": "public",
-            "accrualPeriodicity": null,
+            "accrualPeriodicity": "R/P1D",
             "contactPoint": {
                 "@type": "vcard:Contact",
                 "fn": "Data & Analytics",
@@ -3484,7 +3484,7 @@
         {
             "@type": "dcat:Dataset",
             "accessLevel": "public",
-            "accrualPeriodicity": null,
+            "accrualPeriodicity": "R/P1D",
             "contactPoint": {
                 "@type": "vcard:Contact",
                 "fn": "Data & Analytics",
@@ -4456,7 +4456,7 @@
         {
             "@type": "dcat:Dataset",
             "accessLevel": "public",
-            "accrualPeriodicity": null,
+            "accrualPeriodicity": "irregular",
             "contactPoint": {
                 "@type": "vcard:Contact",
                 "fn": "Data & Analytics",
@@ -5915,7 +5915,7 @@
         {
             "@type": "dcat:Dataset",
             "accessLevel": "public",
-            "accrualPeriodicity": null,
+            "accrualPeriodicity": "irregular",
             "contactPoint": {
                 "@type": "vcard:Contact",
                 "fn": "Data & Analytics",
@@ -5992,7 +5992,7 @@
         {
             "@type": "dcat:Dataset",
             "accessLevel": "public",
-            "accrualPeriodicity": null,
+            "accrualPeriodicity": "irregular",
             "contactPoint": {
                 "@type": "vcard:Contact",
                 "fn": "Data & Analytics",
