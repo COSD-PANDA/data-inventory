@@ -1741,7 +1741,7 @@
             ],
             "identifier": "gis_business_improvement_districts",
             "issued": "2016-05-09",
-            "keyword": ["Local businesses","GIS","Geospatial","District"],
+            "keyword": ["Local businesses","SanGIS","GIS","Geospatial","District"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-06T02:15:12-0800",
             "publisher": {
@@ -1767,44 +1767,24 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/gis_cdbg_census_tracts/block_grants_dictionary_datasd.csv",
+            "describedBy": "https://sandiego.maps.arcgis.com/home/item.html?id=09eceb08d95d429dae9f88fe39826bf1#overview",
             "describedByType": "text/csv",
-            "description": "Census Tract Block Groups where at least 51 percent of residents are considered low and moderate income, according to the U.S. Housing and Urban Development's Office of Community Planning and Development. CDBG funds are awarded for activities that benefit low- and moderate-income people.",
+            "description": "Census Tract Block Groups where at least 50 percent of residents are considered low and moderate income, according to the U.S. Housing and Urban Development's Office of Community Planning and Development. CDBG funds are awarded for activities that benefit low- and moderate-income people.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Census tracts eligible for CDBG attribute table",
-                    "downloadURL": "https://seshat.datasd.org/gis_cdbg_census_tracts/block_grants_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
                     "title": "Census tracts eligible for CDBG",
-                    "downloadURL": "https://seshat.datasd.org/gis_cdbg_census_tracts/block_grants_datasd.geojson",
+                    "accessURL": "https://services.arcgis.com/VTyQ9soqVukalItT/ArcGIS/rest/services/LOW_MOD_INCOME_BY_BG/FeatureServer/0/query",
                     "mediaType": "application/json",
-                    "format": "geojson"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Census tracts eligible for CDBG",
-                    "downloadURL": "https://seshat.datasd.org/gis_cdbg_census_tracts/block_grants_datasd.topo.json",
-                    "mediaType": "application/octet-stream",
-                    "format": "topojson"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Census tracts eligible for CDBG",
-                    "downloadURL": "https://seshat.datasd.org/gis_cdbg_census_tracts/block_grants_datasd.zip",
-                    "mediaType": "application/octet-stream",
-                    "format": "shp"
+                    "format": "json"
                 }
             ],
             "identifier": "gis_cdbg_census_tracts",
             "issued": "2017-06-30",
             "keyword": ["Local businesses","GIS","Geospatial"],
+            "landingPage":"https://sandiego.maps.arcgis.com/home/item.html?id=09eceb08d95d429dae9f88fe39826bf1#overview",
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-01-06T02:08:24-0800",
+            "modified": "2026-04-06",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Economic Development",
@@ -2290,7 +2270,7 @@
             ],
             "identifier": "gis_joint_use_parks",
             "issued": "2017-06-30",
-            "keyword": ["GIS","Geospatial","SanGIS","Assets","Properties"],
+            "keyword": ["GIS","Geospatial","Assets","Properties"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-06T02:07:13-0800",
             "publisher": {
@@ -2663,7 +2643,7 @@
             ],
             "identifier": "gis_police_beats",
             "issued": "2016-06-15",
-            "keyword": ["GIS","Geospatial","SanGIS","Boundary","Public safety"],
+            "keyword": ["GIS","Geospatial","Boundary","Public safety"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-06T02:08:57-0800",
             "publisher": {
@@ -2726,7 +2706,7 @@
             ],
             "identifier": "gis_police_divisions",
             "issued": "2017-06-30",
-            "keyword": ["GIS","Geospatial","SanGIS","Boundary","Public safety"],
+            "keyword": ["GIS","Geospatial","Boundary","Public safety"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-06T02:08:48-0800",
             "publisher": {
@@ -2787,7 +2767,7 @@
             ],
             "identifier": "gis_police_neighborhoods",
             "issued": "2017-06-30",
-            "keyword": ["GIS","Geospatial","SanGIS","Boundary","Public safety"],
+            "keyword": ["GIS","Geospatial","Boundary","Public safety"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-06T02:09:00-0800",
             "publisher": {
@@ -2970,7 +2950,7 @@
             ],
             "identifier": "gis_revolving_loan_fund_coverage",
             "issued": "2016-05-09",
-            "keyword": ["GIS","Geospatial","SanGIS","Boundary","Local businesses"],
+            "keyword": ["GIS","Geospatial","Boundary","Local businesses"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-06T02:07:23-0800",
             "publisher": {
@@ -3153,7 +3133,7 @@
             ],
             "identifier": "gis_streets_repair_segs",
             "issued": "2016-09-16",
-            "keyword": ["GIS","Geospatial","SanGIS","Transit","Assets"],
+            "keyword": ["GIS","Geospatial","Transit","Assets"],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2026-01-06T02:09:20-0800",
             "publisher": {
