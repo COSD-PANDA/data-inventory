@@ -790,21 +790,77 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Active approvals",
-                    "downloadURL": "https://seshat.datasd.org/development_permits_set2/permits_set2_active_datasd.csv",
+                    "title": "All approvals",
+                    "downloadURL": "https://seshat.datasd.org/development_permits/approvals_created_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Created approvals",
+                    "downloadURL": "https://seshat.datasd.org/development_permits/approvals_created_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Issued approvals",
+                    "downloadURL": "https://seshat.datasd.org/development_permits/approvals_issued_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
                     "@type": "dcat:Distribution",
                     "title": "Closed approvals",
-                    "downloadURL": "https://seshat.datasd.org/development_permits_set2/permits_set2_closed_datasd.csv",
+                    "downloadURL": "https://seshat.datasd.org/development_permits/approvals_closed_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Created approvals (2026)",
+                    "downloadURL": "https://seshat.datasd.org/development_permits/approvals_created_2026_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Created approvals (2025)",
+                    "downloadURL": "https://seshat.datasd.org/development_permits/approvals_created_2025_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Issued approvals (2026)",
+                    "downloadURL": "https://seshat.datasd.org/development_permits/approvals_issued_2026_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Issued approvals (2025)",
+                    "downloadURL": "https://seshat.datasd.org/development_permits/approvals_issued_2025_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Closed approvals (2026)",
+                    "downloadURL": "https://seshat.datasd.org/development_permits/approvals_closed_2026_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Closed approvals (2025)",
+                    "downloadURL": "https://seshat.datasd.org/development_permits/approvals_closed_2025_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 }
             ],
             "identifier": "development_permits",
-            "issued": "2020-03-10",
+            "issued": "2026-04-10",
             "keyword": [
                 "Construction",
                 "Permits",
@@ -824,7 +880,7 @@
             "rights": null,
             "spatial": null,
             "temporal": null,
-            "title": "Development Permits"
+            "title": "Approvals for development projects"
         },
         {
             "@type": "dcat:Dataset",
