@@ -507,7 +507,7 @@
                 "Code enforcement"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2023-09-09",
+            "modified": "2018-01-19",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Development Services",
@@ -1090,7 +1090,7 @@
                 }
             ],
             "identifier": "enterprise_system_information",
-            "issued": "2016-08-01",
+            "issued": "2023-07-20",
             "keyword": [
                 "Information technology",
                 "Software"
@@ -1139,7 +1139,7 @@
                 "Properties"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2023-09-06",
+            "modified": "2017-07-17",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "General Services",
@@ -1434,7 +1434,7 @@
             "modified": "2026-05-10",
             "publisher": {
                 "@type": "org:Organization",
-                "name": "Environmental Services",
+                "name": "Performance & Analytics",
                 "subOrganizationOf": {
                     "@type": "org:Organization",
                     "name": "City of San Diego"
@@ -1480,7 +1480,7 @@
             "modified": "2026-05-10",
             "publisher": {
                 "@type": "org:Organization",
-                "name": "Police",
+                "name": "Performance & Analytics",
                 "subOrganizationOf": {
                     "@type": "org:Organization",
                     "name": "City of San Diego"
@@ -2141,7 +2141,7 @@
             "modified": null,
             "publisher": {
                 "@type": "org:Organization",
-                "name": "IT",
+                "name": "SanGIS",
                 "subOrganizationOf": {
                     "@type": "org:Organization",
                     "name": "City of San Diego"
@@ -5560,7 +5560,7 @@
                 "Transit"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2024-06-28",
+            "modified": "2024-02-09",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Transportation Department",
@@ -5822,7 +5822,7 @@
                 "Police stops"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2025-02-12",
+            "modified": "2024-01-06",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -6049,14 +6049,14 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/police_ripa_nonforce_actions/ripa_nonforce_actions_dictionary_datasd.csv",
+            "describedBy": "https://seshat.datasd.org/police_ripa_non_force_actions/ripa_nonforce_actions_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "description": "Non-Force-Related Actions an officer took toward a person stopped by the San Diego Police Department.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
                     "title": "Non-Force Actions",
-                    "downloadURL": "https://seshat.datasd.org/police_ripa_nonforce_actions/ripa_nonforce_actions_datasd.csv",
+                    "downloadURL": "https://seshat.datasd.org/police_ripa_non_force_actions/ripa_nonforce_actions_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 }
@@ -6513,7 +6513,7 @@
                 "Police stops"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2023-09-10",
+            "modified": "2019-04-16",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -6587,7 +6587,7 @@
                 "Police stops"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2023-09-06",
+            "modified": "2019-04-16",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -6721,7 +6721,7 @@
                 "Recreation"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2023-09-10",
+            "modified": "2021-12-30",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Special Events & Filming",
@@ -6811,14 +6811,14 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/streets_repair_projects/sd_paving_dictionary_datasd.csv",
+            "describedBy": "https://seshat.datasd.org/streets_repair_projects/completed_paving_dictionary_datasd.csv",
             "describedByType": "text/csv",
-            "description": "Repair projects include City streets that have been repaired since\nJuly 1, 2013 (first full fiscal year comprehensive street repair data\nis readily available) and those that are currently scheduled for repair.",
+            "description": "Repair projects include City streets that have been repaired .",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
                     "title": "Streets Repair Projects",
-                    "downloadURL": "https://seshat.datasd.org/streets_repair_projects/sd_paving_datasd.csv",
+                    "downloadURL": "https://seshat.datasd.org/streets_repair_projects/completed_paving_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 }
@@ -7067,7 +7067,7 @@
                 "Assets"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2023-09-10",
+            "modified": "2023-04-01",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Transportation Department",
