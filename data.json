@@ -851,7 +851,6 @@
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
-                
                 {
                     "@type": "dcat:Distribution",
                     "title": "Issued approvals (2025)",
@@ -859,7 +858,6 @@
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
-                
                 {
                     "@type": "dcat:Distribution",
                     "title": "Closed approvals (2025)",
@@ -874,7 +872,6 @@
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
-                
                 {
                     "@type": "dcat:Distribution",
                     "title": "Issued approvals (2024)",
@@ -882,7 +879,6 @@
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
-                
                 {
                     "@type": "dcat:Distribution",
                     "title": "Closed approvals (2024)",
@@ -899,7 +895,7 @@
                 "Housing"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-04-10",
+            "modified": "2026-05-11",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Development Services",
@@ -5242,7 +5238,7 @@
                 "Assets"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-05-09",
+            "modified": "2026-05-10",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "City Treasurer",
@@ -5342,7 +5338,7 @@
                 "Finances"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-05-09",
+            "modified": "2026-05-10",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "City Treasurer",
@@ -5442,7 +5438,7 @@
                 "Finances"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-05-09",
+            "modified": "2026-05-10",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "City Treasurer",
@@ -5542,7 +5538,7 @@
                 "Finances"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-05-09",
+            "modified": "2026-05-10",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "City Treasurer",
@@ -5712,7 +5708,7 @@
                 "Public safety"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-05-10",
+            "modified": "2026-05-11",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -6864,7 +6860,7 @@
                 "Transit"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2023-11-10",
+            "modified": "2026-05-11",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Transportation Department",
@@ -6915,7 +6911,7 @@
                 "Local businesses"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-05-10",
+            "modified": "2026-05-11",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "City Treasurer",
@@ -7011,7 +7007,7 @@
                 "Transit"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-05-10",
+            "modified": "2026-05-11",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -7056,7 +7052,7 @@
                 "Transit"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-05-10",
+            "modified": "2026-05-11",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
