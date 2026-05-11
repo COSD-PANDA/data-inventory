@@ -790,15 +790,22 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "title": "All approvals",
-                    "downloadURL": "https://seshat.datasd.org/development_permits/approvals_created_datasd.csv",
+                    "title": "Created approvals (2026)",
+                    "downloadURL": "https://seshat.datasd.org/development_permits/approvals_created_2026_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Created approvals",
-                    "downloadURL": "https://seshat.datasd.org/development_permits/approvals_created_datasd.csv",
+                    "title": "Issued approvals (2026)",
+                    "downloadURL": "https://seshat.datasd.org/development_permits/approvals_issued_2026_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Closed approvals (2026)",
+                    "downloadURL": "https://seshat.datasd.org/development_permits/approvals_closed_2026_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
@@ -818,8 +825,15 @@
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Created approvals (2026)",
-                    "downloadURL": "https://seshat.datasd.org/development_permits/approvals_created_2026_datasd.csv",
+                    "title": "Created approvals",
+                    "downloadURL": "https://seshat.datasd.org/development_permits/approvals_created_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "All approvals",
+                    "downloadURL": "https://seshat.datasd.org/development_permits/approvals_created_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
@@ -830,13 +844,7 @@
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Issued approvals (2026)",
-                    "downloadURL": "https://seshat.datasd.org/development_permits/approvals_issued_2026_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
+                
                 {
                     "@type": "dcat:Distribution",
                     "title": "Issued approvals (2025)",
@@ -844,17 +852,34 @@
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
+                
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Closed approvals (2026)",
-                    "downloadURL": "https://seshat.datasd.org/development_permits/approvals_closed_2026_datasd.csv",
+                    "title": "Closed approvals (2025)",
+                    "downloadURL": "https://seshat.datasd.org/development_permits/approvals_closed_2025_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Closed approvals (2025)",
-                    "downloadURL": "https://seshat.datasd.org/development_permits/approvals_closed_2025_datasd.csv",
+                    "title": "Created approvals (2024)",
+                    "downloadURL": "https://seshat.datasd.org/development_permits/approvals_created_2024_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Issued approvals (2024)",
+                    "downloadURL": "https://seshat.datasd.org/development_permits/approvals_issued_2024_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Closed approvals (2024)",
+                    "downloadURL": "https://seshat.datasd.org/development_permits/approvals_closed_2024_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 }
