@@ -2016,7 +2016,7 @@
             ],
             "landingPage": "https://sandiego.maps.arcgis.com/home/item.html?id=09eceb08d95d429dae9f88fe39826bf1#overview",
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": null,
+            "modified": "2026-05-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Economic Development",
@@ -4668,7 +4668,7 @@
                 "Ocean water"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": null,
+            "modified": "2022-11-15",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Public Utilities",
@@ -6815,7 +6815,7 @@
                 "Trash"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": null,
+            "modified": "2026-05-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Storm Water Department",
