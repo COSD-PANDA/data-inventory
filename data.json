@@ -811,6 +811,13 @@
                 },
                 {
                     "@type": "dcat:Distribution",
+                    "title": "Active approvals",
+                    "downloadURL": "https://seshat.datasd.org/development_permits/approvals_active_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
                     "title": "Issued approvals",
                     "downloadURL": "https://seshat.datasd.org/development_permits/approvals_issued_datasd.csv",
                     "mediaType": "text/csv",
