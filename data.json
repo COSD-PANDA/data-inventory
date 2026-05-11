@@ -612,7 +612,7 @@
                 "Police oversight"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": null,
+            "modified": "2025-12-03",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Commission on Police Practices",
@@ -664,7 +664,7 @@
                 "Body-worn cameras"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": null,
+            "modified": "2025-12-03",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Commission on Police Practices",
@@ -716,7 +716,7 @@
                 "Body-worn cameras"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": null,
+            "modified": "2025-12-03",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Commission on Police Practices",
@@ -6089,8 +6089,8 @@
                     "format": "csv"
                 }
             ],
-            "identifier": "police_ripa_nonforce_actions",
-            "issued": "2019-04-16",
+            "identifier": "police_ripa_non_force_actions",
+            "issued": "2026-05-04",
             "keyword": [
                 "Public safety",
                 "RIPA",
@@ -6098,7 +6098,7 @@
                 "Police stops"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-02-05",
+            "modified": "",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
