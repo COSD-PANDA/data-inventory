@@ -3872,7 +3872,7 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Hate crimes 2025 to Present",
+                    "title": "Hate crimes 2025-present",
                     "downloadURL": "https://seshat.datasd.org/hate_crimes/hate_crimes_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
