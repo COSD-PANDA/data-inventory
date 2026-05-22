@@ -3868,24 +3868,24 @@
             },
             "describedBy": "https://seshat.datasd.org/hate_crimes/hate_crimes_dictionary_datasd.csv",
             "describedByType": "text/csv",
-            "description": "Hate crimes reported to the San Diego Police Department.",
+            "description": "Hate crimes reported to the San Diego Police Department from 2025-present.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Hate crimes 2016 through year-to-date",
+                    "title": "Hate crimes 2025-present",
                     "downloadURL": "https://seshat.datasd.org/hate_crimes/hate_crimes_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 }
             ],
             "identifier": "hate_crimes",
-            "issued": "2018-11-08",
+            "issued": "2026-05-21",
             "keyword": [
                 "Public safety",
                 "Crimes"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2025-08-12",
+            "modified": "2026-05-21",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -3898,7 +3898,50 @@
             "rights": null,
             "spatial": null,
             "temporal": null,
-            "title": "Hate Crimes"
+            "title": "Hate Crimes 2025-present"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "irregular",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Data & Analytics",
+                "hasEmail": "data@sandiego.gov"
+            },
+            "describedBy": "https://seshat.datasd.org/hate_crimes_historic/hate_crimes_historic_dictionary_datasd.csv",
+            "describedByType": "text/csv",
+            "description": "Hate crimes reported to the San Diego Police Department from 2016 through 2025.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Hate crimes 2016 through 2025",
+                    "downloadURL": "https://seshat.datasd.org/hate_crimes_historic/hate_crimes_historic_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                }
+            ],
+            "identifier": "hate_crimes_historic",
+            "issued": "2018-11-08",
+            "keyword": [
+                "Public safety",
+                "Crimes"
+            ],
+            "license": "https://opendefinition.org/licenses/odc-pddl/",
+            "modified": "2026-05-21",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Police",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "City of San Diego"
+                }
+            },
+            "references": null,
+            "rights": null,
+            "spatial": null,
+            "temporal": null,
+            "title": "Hate Crimes 2016 through 2025"
         },
         {
             "@type": "dcat:Dataset",
