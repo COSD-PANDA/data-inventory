@@ -6882,7 +6882,7 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/streets_planned_repair_projects/streets_planned_repair_projects_dictionary_datasd.csv",
+            "describedBy": "https://seshat.datasd.org/streets_planned_repair_projects/streets_planned_repair_projects_dictionary.csv",
             "describedByType": "text/csv",
             "description": "Planned paving projects, including overlay and slurry seal, for City-maintained streets.",
             "distribution": [
