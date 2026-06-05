@@ -114,7 +114,7 @@
                 "Finances"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-06-04",
+            "modified": "2026-06-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "City Treasurer",
@@ -336,7 +336,7 @@
                 "Properties"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-06-04",
+            "modified": "2026-06-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Economic Development",
@@ -379,7 +379,7 @@
                 "Leases"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-06-04",
+            "modified": "2026-06-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Economic Development",
@@ -422,7 +422,7 @@
                 "Parcels"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-06-04",
+            "modified": "2026-06-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Economic Development",
@@ -465,7 +465,7 @@
                 "Art"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-06-04",
+            "modified": "2026-06-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Economic Development",
@@ -895,7 +895,7 @@
                 "Housing"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-06-04",
+            "modified": "2026-06-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Development Services",
@@ -1280,7 +1280,7 @@
                 "911 calls"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-06-04",
+            "modified": "2026-06-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Fire-Rescue",
@@ -1323,7 +1323,7 @@
                 "911 calls"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-06-04",
+            "modified": "2026-06-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Fire-Rescue",
@@ -3620,7 +3620,7 @@
                 "Assets"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-06-02",
+            "modified": "2026-06-04",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Transportation Department",
@@ -3633,7 +3633,7 @@
             "rights": null,
             "spatial": null,
             "temporal": null,
-            "title": "City-maintained street line segments"
+            "title": "Streets Repair Line Segments"
         },
         {
             "@type": "dcat:Dataset",
@@ -5281,7 +5281,7 @@
                 "Assets"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-06-03",
+            "modified": "2026-06-04",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "City Treasurer",
@@ -5381,7 +5381,7 @@
                 "Finances"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-06-03",
+            "modified": "2026-06-04",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "City Treasurer",
@@ -5481,7 +5481,7 @@
                 "Finances"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-06-03",
+            "modified": "2026-06-04",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "City Treasurer",
@@ -5581,7 +5581,7 @@
                 "Finances"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-06-03",
+            "modified": "2026-06-04",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "City Treasurer",
@@ -5751,7 +5751,7 @@
                 "Public safety"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-06-04",
+            "modified": "2026-06-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -5841,7 +5841,7 @@
                 "Crimes"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-06-04",
+            "modified": "2026-06-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -5947,7 +5947,7 @@
                 "Police stops"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-06-04",
+            "modified": "2026-06-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -5999,7 +5999,7 @@
                 "Police stops"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-06-04",
+            "modified": "2026-06-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -6193,7 +6193,7 @@
                 "Police stops"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-06-04",
+            "modified": "2026-06-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -6245,7 +6245,7 @@
                 "Police stops"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-06-04",
+            "modified": "2026-06-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -6297,7 +6297,7 @@
                 "Police stops"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-06-04",
+            "modified": "2026-06-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -6349,7 +6349,7 @@
                 "Police stops"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-06-04",
+            "modified": "2026-06-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -6401,7 +6401,7 @@
                 "Police stops"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-06-04",
+            "modified": "2026-06-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -6453,7 +6453,7 @@
                 "Police stops"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-06-04",
+            "modified": "2026-06-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -6750,7 +6750,7 @@
                 "Finances"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-06-04",
+            "modified": "2026-06-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "City Treasurer",
@@ -6882,58 +6882,13 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/streets_planned_repair_projects/streets_planned_repair_projects_dictionary.csv",
-            "describedByType": "text/csv",
-            "description": "Planned paving projects, including overlay and slurry seal, for City-maintained streets.",
-            "distribution": [
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Planned paving projects",
-                    "downloadURL": "https://seshat.datasd.org/streets_planned_repair_projects/street_paving_plan_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                }
-            ],
-            "identifier": "streets_planned_repair_projects",
-            "issued": "2024-01-15",
-            "keyword": [
-                "CIP",
-                "Capital Improvements Program",
-                "Assets",
-                "Transit"
-            ],
-            "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-06-04",
-            "publisher": {
-                "@type": "org:Organization",
-                "name": "Transportation Department",
-                "subOrganizationOf": {
-                    "@type": "org:Organization",
-                    "name": "City of San Diego"
-                }
-            },
-            "references": null,
-            "rights": null,
-            "spatial": null,
-            "temporal": null,
-            "title": "Planned paving projects on City-maintained streets"
-        },
-        {
-            "@type": "dcat:Dataset",
-            "accessLevel": "public",
-            "accrualPeriodicity": "irregular",
-            "contactPoint": {
-                "@type": "vcard:Contact",
-                "fn": "Data & Analytics",
-                "hasEmail": "data@sandiego.gov"
-            },
             "describedBy": "https://seshat.datasd.org/streets_repair_projects/completed_paving_dictionary_datasd.csv",
             "describedByType": "text/csv",
-            "description": "Completed paving projects, including overlay and slurry seal, for City-maintained streets.",
+            "description": "Repair projects include City streets that have been repaired .",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Completed paving projects",
+                    "title": "Streets Repair Projects",
                     "downloadURL": "https://seshat.datasd.org/streets_repair_projects/completed_paving_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
@@ -6948,7 +6903,7 @@
                 "Transit"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-05-15",
+            "modified": "2026-06-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Transportation Department",
@@ -6961,7 +6916,7 @@
             "rights": null,
             "spatial": null,
             "temporal": null,
-            "title": "Completed paving projects on City-maintained streets"
+            "title": "Streets Repair Projects"
         },
         {
             "@type": "dcat:Dataset",
@@ -6999,7 +6954,7 @@
                 "Local businesses"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-06-04",
+            "modified": "2026-06-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "City Treasurer",
@@ -7045,7 +7000,7 @@
                 "Local businesses"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-06-04",
+            "modified": "2026-06-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "City Treasurer",
@@ -7095,7 +7050,7 @@
                 "Transit"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-06-04",
+            "modified": "2026-06-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -7140,7 +7095,7 @@
                 "Transit"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-06-04",
+            "modified": "2026-06-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
