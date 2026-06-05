@@ -3633,7 +3633,7 @@
             "rights": null,
             "spatial": null,
             "temporal": null,
-            "title": "Streets Repair Line Segments"
+            "title": "City-maintained street line segments"
         },
         {
             "@type": "dcat:Dataset",
@@ -6882,13 +6882,58 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/streets_repair_projects/completed_paving_dictionary_datasd.csv",
+            "describedBy": "https://seshat.datasd.org/streets_planned_repair_projects/streets_planned_repair_projects_dictionary.csv",
             "describedByType": "text/csv",
-            "description": "Repair projects include City streets that have been repaired .",
+            "description": "Planned paving projects, including overlay and slurry seal, for City-maintained streets.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Streets Repair Projects",
+                    "title": "Planned paving projects",
+                    "downloadURL": "https://seshat.datasd.org/streets_planned_repair_projects/street_paving_plan_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                }
+            ],
+            "identifier": "streets_planned_repair_projects",
+            "issued": "2024-01-15",
+            "keyword": [
+                "CIP",
+                "Capital Improvements Program",
+                "Assets",
+                "Transit"
+            ],
+            "license": "https://opendefinition.org/licenses/odc-pddl/",
+            "modified": "2026-06-04",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Transportation Department",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "City of San Diego"
+                }
+            },
+            "references": null,
+            "rights": null,
+            "spatial": null,
+            "temporal": null,
+            "title": "Planned paving projects on City-maintained streets"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "irregular",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Data & Analytics",
+                "hasEmail": "data@sandiego.gov"
+            },
+            "describedBy": "https://seshat.datasd.org/streets_repair_projects/completed_paving_dictionary_datasd.csv",
+            "describedByType": "text/csv",
+            "description": "Completed paving projects, including overlay and slurry seal, for City-maintained streets.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Completed paving projects",
                     "downloadURL": "https://seshat.datasd.org/streets_repair_projects/completed_paving_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
@@ -6916,7 +6961,7 @@
             "rights": null,
             "spatial": null,
             "temporal": null,
-            "title": "Streets Repair Projects"
+            "title": "Completed paving projects on City-maintained streets"
         },
         {
             "@type": "dcat:Dataset",
