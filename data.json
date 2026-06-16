@@ -7063,7 +7063,7 @@
         {
             "@type": "dcat:Dataset",
             "accessLevel": "public",
-            "accrualPeriodicity": null,
+            "accrualPeriodicity": "irregular",
             "contactPoint": {
                 "@type": "vcard:Contact",
                 "fn": "Data & Analytics",
