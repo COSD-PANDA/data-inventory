@@ -1601,6 +1601,69 @@
                 },
                 {
                     "@type": "dcat:Distribution",
+                    "title": "Get It Done Requests submitted in Council District (CD) 1",
+                    "downloadURL": "https://seshat.datasd.org/get_it_done_reports/get_it_done_requests_CD1_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Get It Done Requests submitted in Council District (CD) 2",
+                    "downloadURL": "https://seshat.datasd.org/get_it_done_reports/get_it_done_requests_CD2_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Get It Done Requests submitted in Council District (CD) 3",
+                    "downloadURL": "https://seshat.datasd.org/get_it_done_reports/get_it_done_requests_CD3_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Get It Done Requests submitted in Council District (CD) 4",
+                    "downloadURL": "https://seshat.datasd.org/get_it_done_reports/get_it_done_requests_CD4_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Get It Done Requests submitted in Council District (CD) 5",
+                    "downloadURL": "https://seshat.datasd.org/get_it_done_reports/get_it_done_requests_CD5_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Get It Done Requests submitted in Council District (CD) 6",
+                    "downloadURL": "https://seshat.datasd.org/get_it_done_reports/get_it_done_requests_CD6_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Get It Done Requests submitted in Council District (CD) 7",
+                    "downloadURL": "https://seshat.datasd.org/get_it_done_reports/get_it_done_requests_CD7_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Get It Done Requests submitted in Council District (CD) 8",
+                    "downloadURL": "https://seshat.datasd.org/get_it_done_reports/get_it_done_requests_CD8_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Get It Done Requests submitted in Council District (CD) 9",
+                    "downloadURL": "https://seshat.datasd.org/get_it_done_reports/get_it_done_requests_CD9_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
                     "title": "Get It Done Requests closed in 2024",
                     "downloadURL": "https://seshat.datasd.org/get_it_done_reports/get_it_done_requests_closed_2024_datasd.csv",
                     "mediaType": "text/csv",
