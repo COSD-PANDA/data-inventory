@@ -114,7 +114,7 @@
                 "Finances"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-07",
+            "modified": "2026-07-08",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "City Treasurer",
@@ -336,7 +336,7 @@
                 "Properties"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-07",
+            "modified": "2026-07-08",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Economic Development",
@@ -379,7 +379,7 @@
                 "Leases"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-07",
+            "modified": "2026-07-08",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Economic Development",
@@ -422,7 +422,7 @@
                 "Parcels"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-07",
+            "modified": "2026-07-08",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Economic Development",
@@ -465,7 +465,7 @@
                 "Art"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-07",
+            "modified": "2026-07-08",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Economic Development",
@@ -895,7 +895,7 @@
                 "Housing"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-07",
+            "modified": "2026-07-08",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Development Services",
@@ -1280,7 +1280,7 @@
                 "911 calls"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-07",
+            "modified": "2026-07-08",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Fire-Rescue",
@@ -1323,7 +1323,7 @@
                 "911 calls"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-07",
+            "modified": "2026-07-08",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Fire-Rescue",
@@ -1413,7 +1413,7 @@
                 "Get it Done"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-07",
+            "modified": "2026-07-08",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Performance & Analytics",
@@ -1459,7 +1459,7 @@
                 "Get it Done"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-07",
+            "modified": "2026-07-08",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Performance & Analytics",
@@ -1505,7 +1505,7 @@
                 "Get it Done"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-07",
+            "modified": "2026-07-08",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Performance & Analytics",
@@ -1550,7 +1550,7 @@
                 "Get it Done"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-07",
+            "modified": "2026-07-08",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Performance & Analytics",
@@ -1735,7 +1735,7 @@
                 "Get it Done"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-07",
+            "modified": "2026-07-08",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Performance & Analytics",
@@ -1809,7 +1809,7 @@
             ],
             "landingPage": "https://geo.sandag.org/portal/home/item.html?id=e58eba41d6a349dd92e97e64b4e62074",
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-06-01",
+            "modified": "2026-07-06",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "SanGIS",
@@ -2154,7 +2154,7 @@
             ],
             "landingPage": "https://geo.sandag.org/portal/home/item.html?id=c034e931bd83403892eea61fdae5a6ae",
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-06-01",
+            "modified": "2026-07-06",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "SanGIS",
@@ -2603,7 +2603,7 @@
             ],
             "landingPage": "https://geo.sandag.org/portal/home/item.html?id=ee0d67267a7e421da75cbb03ae298393",
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-04-03",
+            "modified": "2026-06-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Development Services",
@@ -2971,7 +2971,7 @@
             ],
             "landingPage": "https://geo.sandag.org/portal/home/item.html?id=3c243bd4c1c84cb4a05da49a77dca24d",
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-05-22",
+            "modified": "2026-07-06",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Planning",
@@ -3542,7 +3542,7 @@
             ],
             "landingPage": "https://geo.sandag.org/portal/home/item.html?id=66ca42638c794646aa85f689a613a5f2",
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-06-01",
+            "modified": "2026-07-06",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "SanGIS",
@@ -3617,7 +3617,7 @@
             ],
             "landingPage": "https://geo.sandag.org/portal/home/item.html?id=50ddd552137c416a8b67489df9bca199",
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-06-01",
+            "modified": "2026-07-06",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "SanGIS",
@@ -3757,7 +3757,7 @@
             ],
             "landingPage": "https://geo.sandag.org/portal/home/item.html?id=f360cf92975b41768f648f559d0cc041",
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-04-03",
+            "modified": "2026-07-06",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "SanGIS",
@@ -3831,7 +3831,7 @@
             ],
             "landingPage": "https://geo.sandag.org/portal/home/item.html?id=6ab86a90327d4592b259d7f1c453d092",
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-04-03",
+            "modified": "2026-07-06",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "SanGIS",
@@ -5344,7 +5344,7 @@
                 "Assets"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-06",
+            "modified": "2026-07-07",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "City Treasurer",
@@ -5814,7 +5814,7 @@
                 "Public safety"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-07",
+            "modified": "2026-07-08",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -5904,7 +5904,7 @@
                 "Crimes"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-07",
+            "modified": "2026-07-08",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -6010,7 +6010,7 @@
                 "Police stops"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-07",
+            "modified": "2026-07-08",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -6062,7 +6062,7 @@
                 "Police stops"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-07",
+            "modified": "2026-07-08",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -6256,7 +6256,7 @@
                 "Police stops"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-07",
+            "modified": "2026-07-08",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -6308,7 +6308,7 @@
                 "Police stops"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-07",
+            "modified": "2026-07-08",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -6360,7 +6360,7 @@
                 "Police stops"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-07",
+            "modified": "2026-07-08",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -6412,7 +6412,7 @@
                 "Police stops"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-07",
+            "modified": "2026-07-08",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -6464,7 +6464,7 @@
                 "Police stops"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-07",
+            "modified": "2026-07-08",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -6516,7 +6516,7 @@
                 "Police stops"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-07",
+            "modified": "2026-07-08",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -6813,7 +6813,7 @@
                 "Finances"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-07",
+            "modified": "2026-07-08",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "City Treasurer",
@@ -6966,7 +6966,7 @@
                 "Transit"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-07",
+            "modified": "2026-07-08",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Transportation Department",
@@ -7011,7 +7011,7 @@
                 "Transit"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-07",
+            "modified": "2026-07-08",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Transportation Department",
@@ -7062,7 +7062,7 @@
                 "Local businesses"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-07",
+            "modified": "2026-07-08",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "City Treasurer",
@@ -7108,7 +7108,7 @@
                 "Local businesses"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-07",
+            "modified": "2026-07-08",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "City Treasurer",
@@ -7158,7 +7158,7 @@
                 "Transit"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-07",
+            "modified": "2026-07-08",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -7203,7 +7203,7 @@
                 "Transit"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-07",
+            "modified": "2026-07-08",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
