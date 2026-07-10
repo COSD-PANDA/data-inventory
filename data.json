@@ -574,7 +574,7 @@
             "rights": null,
             "spatial": null,
             "temporal": null,
-            "title": "Commission on Police Practices Cases"
+            "title": "Commission on Police Practices Cases 2019-2024"
         },
         {
             "@type": "dcat:Dataset",
@@ -625,7 +625,7 @@
             "rights": null,
             "spatial": null,
             "temporal": null,
-            "title": "Commission on Police Practices Case Allegations"
+            "title": "Commission on Police Practices Case Allegations 2019-2024"
         },
         {
             "@type": "dcat:Dataset",
@@ -677,7 +677,7 @@
             "rights": null,
             "spatial": null,
             "temporal": null,
-            "title": "Commission on Police Practices Case Body-worn Camera Details"
+            "title": "Commission on Police Practices Case Body-worn Camera Details 2019-2024"
         },
         {
             "@type": "dcat:Dataset",
@@ -729,7 +729,7 @@
             "rights": null,
             "spatial": null,
             "temporal": null,
-            "title": "Commission on Police Practices Case Complainants"
+            "title": "Commission on Police Practices Case Complainants 2019-2024"
         },
         {
             "@type": "dcat:Dataset",
@@ -789,7 +789,7 @@
             "description": "Commission on Police Practices case allegations. CPP is an independent body that investigates officer-involved shootings, in-custody deaths, & other significant incidents in a process that is transparent and accountable to the community.",
             "distribution": [
                 {
-                    "title": "Allegations FY25",
+                    "title": "Allegations 2025",
                     "@type": "dcat:Distribution",
                     "downloadURL": "https://seshat.datasd.org/cpp_complaints_evaluated_allegations_2025/cpp_allegations_CY2025_datasd.csv",
                     "mediaType": "text/csv",
@@ -833,7 +833,7 @@
             "description": "Body-worn camera details in cases evaluated by the Commission on Police Practices. CPP is an independent body that investigates officer-involved shootings, in-custody deaths, & other significant incidents in a process that is transparent and accountable to the community.",
             "distribution": [
                 {
-                    "title": "Body worn camera details FY25",
+                    "title": "Body worn camera details 2025",
                     "@type": "dcat:Distribution",
                     "downloadURL": "https://seshat.datasd.org/cpp_complaints_evaluated_bwc_2025/cpp_bwc_CY2025_datasd.csv",
                     "mediaType": "text/csv",
@@ -878,7 +878,7 @@
             "description": "Complainants in cases evaluated by the Commission on Police Practices. CPP is an independent body that investigates officer-involved shootings, in-custody deaths, & other significant incidents in a process that is transparent and accountable to the community.",
             "distribution": [
                 {
-                    "title": "Complainants FY25",
+                    "title": "Complainants 2025",
                     "@type": "dcat:Distribution",
                     "downloadURL": "https://seshat.datasd.org/cpp_complaints_complainants/cpp_complainants_CY2025_datasd.csv",
                     "mediaType": "text/csv",
