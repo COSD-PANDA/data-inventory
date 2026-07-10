@@ -740,14 +740,14 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/cpp_complaints_evaluated/dictionary_cases_CY2025_datasd.csv",
+            "describedBy": "https://seshat.datasd.org/cpp_complaints_evaluated_2025/dictionary_cases_CY2025_datasd.csv",
             "describedByType": "text/csv",
             "description": "Commission on Police Practices cases. CPP is an independent body that investigates officer-involved shootings, in-custody deaths, & other significant incidents in a process that is transparent and accountable to the community.",
             "distribution": [
                 {
                     "title": "Cases 2025",
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_evaluated/cpp_cases_CY2025_datasd.csv",
+                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_evaluated_2025/cpp_cases_CY2025_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 }
@@ -784,14 +784,14 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/cpp_complaints_allegations/dictionary_allegations_CY2025_datasd.csv",
+            "describedBy": "https://seshat.datasd.org/cpp_complaints_evaluated_allegations_2025/dictionary_allegations_CY2025_datasd.csv",
             "describedByType": "text/csv",
             "description": "Commission on Police Practices case allegations. CPP is an independent body that investigates officer-involved shootings, in-custody deaths, & other significant incidents in a process that is transparent and accountable to the community.",
             "distribution": [
                 {
                     "title": "Allegations FY25",
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_allegations/cpp_allegations_CY2025_datasd.csv.csv",
+                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_evaluated_allegations_2025/cpp_allegations_CY2025_datasd.csv.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 }
@@ -828,14 +828,14 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/cpp_complaints_body_worn_camera/dictionary_bwc_CY2025_datasd.csv",
+            "describedBy": "https://seshat.datasd.org/cpp_complaints_evaluated_bwc_2025/dictionary_bwc_CY2025_datasd.csv",
             "describedByType": "text/csv",
             "description": "Body-worn camera details in cases evaluated by the Commission on Police Practices. CPP is an independent body that investigates officer-involved shootings, in-custody deaths, & other significant incidents in a process that is transparent and accountable to the community.",
             "distribution": [
                 {
                     "title": "Body worn camera details FY25",
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_body_worn_camera/cpp_bwc_CY2025_datasd.csv",
+                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_evaluated_bwc_2025/cpp_bwc_CY2025_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 }
