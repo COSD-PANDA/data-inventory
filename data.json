@@ -4983,6 +4983,92 @@
         {
             "@type": "dcat:Dataset",
             "accessLevel": "public",
+            "accrualPeriodicity": "R/P1M",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Data & Analytics",
+                "hasEmail": "data@sandiego.gov"
+            },
+            "describedBy": "https://seshat.datasd.org/monitoring_reservoir_quality_hodges/monitoring_reservoir_quality_hodges_dictionary.csv",
+            "describedByType": "text/csv",
+            "description": "Water quality sonde profiles",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Profiles report, March 2026",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_reservoir_quality_hodges/HGB_031626.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                }
+            ],
+            "identifier": "monitoring_reservoir_quality_hodges",
+            "issued": "2026-06-01",
+            "keyword": [
+                "Water quality",
+                "Reservoir lake water"
+            ],
+            "license": "https://opendefinition.org/licenses/odc-pddl/",
+            "modified": "2026-06-01",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Public Utilities",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "City of San Diego"
+                }
+            },
+            "references": null,
+            "rights": null,
+            "spatial": null,
+            "temporal": null,
+            "title": "Hodges Reservoir monthly water quality reports"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "R/P1M",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Data & Analytics",
+                "hasEmail": "data@sandiego.gov"
+            },
+            "describedBy": "https://seshat.datasd.org/monitoring_reservoir_quality_san_vicente/monitoring_reservoir_quality_san_vicente_dictionary.csv",
+            "describedByType": "text/csv",
+            "description": "Water quality sonde profiles",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Profiles report, March 2026",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_reservoir_quality_san_vicente/SVA_031726.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                }
+            ],
+            "identifier": "monitoring_reservoir_quality_san_vicente",
+            "issued": "2026-06-01",
+            "keyword": [
+                "Water quality",
+                "Reservoir lake water"
+            ],
+            "license": "https://opendefinition.org/licenses/odc-pddl/",
+            "modified": "2026-06-01",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Public Utilities",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "City of San Diego"
+                }
+            },
+            "references": null,
+            "rights": null,
+            "spatial": null,
+            "temporal": null,
+            "title": "San Vicente Reservoir monthly water quality reports"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
             "accrualPeriodicity": "irregular",
             "contactPoint": {
                 "@type": "vcard:Contact",
