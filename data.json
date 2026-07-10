@@ -791,7 +791,7 @@
                 {
                     "title": "Allegations FY25",
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_evaluated_allegations_2025/cpp_allegations_CY2025_datasd.csv.csv",
+                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_evaluated_allegations_2025/cpp_allegations_CY2025_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 }
