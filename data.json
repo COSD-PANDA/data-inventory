@@ -5718,11 +5718,11 @@
             },
             "describedBy": "",
             "describedByType": "text/csv",
-            "description": "Average occupancy results by site from the Parking Demand Management Study released in January 2025",
+            "description": "Average parking space occupancy for each site during the study time period",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Average occupancy study results",
+                    "title": "Average occupancy by site",
                     "downloadURL": "https://seshat.datasd.org/parking_study_summary/parking_study_summary_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
@@ -5749,7 +5749,7 @@
             "rights": null,
             "spatial": null,
             "temporal": null,
-            "title": "Parking study summary results"
+            "title": "Parking Study: average occupancy by site"
         },
         {
             "@type": "dcat:Dataset",
@@ -5762,7 +5762,7 @@
             },
             "describedBy": "",
             "describedByType": "text/csv",
-            "description": "Parking space inventory counts by site from the Parking Demand Management Study released in January 2025",
+            "description": "Counts of parking spaces by type for each site included in the study.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -5793,7 +5793,7 @@
             "rights": null,
             "spatial": null,
             "temporal": null,
-            "title": "Parking study inventory counts"
+            "title": "Parking Study: parking space inventory counts"
         },
         {
             "@type": "dcat:Dataset",
@@ -5806,7 +5806,7 @@
             },
             "describedBy": "",
             "describedByType": "text/csv",
-            "description": "Hourly tracking of parking activity by site from the Parking Demand Management Study released in January 2025",
+            "description": "Hourly tracking of parking activity for each site included in the study. Parking activity was interpreted for the calculation of occupancy statistics.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -5837,7 +5837,7 @@
             "rights": null,
             "spatial": null,
             "temporal": null,
-            "title": "Parking study raw data"
+            "title": "Parking Study: raw activity data"
         },
         {
             "@type": "dcat:Dataset",
@@ -5850,7 +5850,7 @@
             },
             "describedBy": "",
             "describedByType": "text/csv",
-            "description": "Count and percentage of occupied parking spaces by site from the Parking Demand Management Study released in January 2025",
+            "description": "Count and percentage of occupied parking spaces by site.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -5881,7 +5881,7 @@
             "rights": null,
             "spatial": null,
             "temporal": null,
-            "title": "Parking study occupancy"
+            "title": "Parking Study: counts and percentages of occupied parking spaces"
         },
          {
             "@type": "dcat:Dataset",
@@ -5894,7 +5894,7 @@
             },
             "describedBy": "",
             "describedByType": "text/csv",
-            "description": "Daily vehicle trips to Balboa Park sites from the Parking Demand Management Study released in January 2025",
+            "description": "Average daily vehicle trips to Balboa Park parking lots during the study time period",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -5925,7 +5925,7 @@
             "rights": null,
             "spatial": null,
             "temporal": null,
-            "title": "Parking study Balboa Park traffic counts"
+            "title": "Parking Study: Balboa Park traffic counts"
         },
         {
             "@type": "dcat:Dataset",
