@@ -5745,7 +5745,7 @@
                     "name": "City of San Diego"
                 }
             },
-            "references": ["https://seshat.datasd.org/parking_study_summary/FINAL%20San%20Diego_Parking%20Demand%20Management%20Study_01.21.2025.pdf"],
+            "references": ["https://sandiego.hylandcloud.com/211agendaonlinecomm/Documents/ViewDocument/FINAL%20San%20Diego_Parking%20Demand%20Management%20Study_01.21.2025.pdf.pdf?meetingId=6311&documentType=Agenda&itemId=242165&publishId=939139&isSection=false"],
             "rights": null,
             "spatial": null,
             "temporal": null,
@@ -5789,7 +5789,7 @@
                     "name": "City of San Diego"
                 }
             },
-            "references": ["https://seshat.datasd.org/parking_study_summary/FINAL%20San%20Diego_Parking%20Demand%20Management%20Study_01.21.2025.pdf"],
+            "references": ["https://sandiego.hylandcloud.com/211agendaonlinecomm/Documents/ViewDocument/FINAL%20San%20Diego_Parking%20Demand%20Management%20Study_01.21.2025.pdf.pdf?meetingId=6311&documentType=Agenda&itemId=242165&publishId=939139&isSection=false"],
             "rights": null,
             "spatial": null,
             "temporal": null,
@@ -5833,7 +5833,7 @@
                     "name": "City of San Diego"
                 }
             },
-            "references": ["https://seshat.datasd.org/parking_study_summary/FINAL%20San%20Diego_Parking%20Demand%20Management%20Study_01.21.2025.pdf"],
+            "references": ["https://sandiego.hylandcloud.com/211agendaonlinecomm/Documents/ViewDocument/FINAL%20San%20Diego_Parking%20Demand%20Management%20Study_01.21.2025.pdf.pdf?meetingId=6311&documentType=Agenda&itemId=242165&publishId=939139&isSection=false"],
             "rights": null,
             "spatial": null,
             "temporal": null,
@@ -5877,13 +5877,13 @@
                     "name": "City of San Diego"
                 }
             },
-            "references": ["https://seshat.datasd.org/parking_study_summary/FINAL%20San%20Diego_Parking%20Demand%20Management%20Study_01.21.2025.pdf"],
+            "references": ["https://sandiego.hylandcloud.com/211agendaonlinecomm/Documents/ViewDocument/FINAL%20San%20Diego_Parking%20Demand%20Management%20Study_01.21.2025.pdf.pdf?meetingId=6311&documentType=Agenda&itemId=242165&publishId=939139&isSection=false"],
             "rights": null,
             "spatial": null,
             "temporal": null,
             "title": "Parking Study: counts and percentages of occupied parking spaces"
         },
-         {
+        {
             "@type": "dcat:Dataset",
             "accessLevel": "public",
             "accrualPeriodicity": "R/P1D",
@@ -5921,11 +5921,69 @@
                     "name": "City of San Diego"
                 }
             },
-            "references": ["https://seshat.datasd.org/parking_study_summary/FINAL%20San%20Diego_Parking%20Demand%20Management%20Study_01.21.2025.pdf"],
+            "references": ["https://sandiego.hylandcloud.com/211agendaonlinecomm/Documents/ViewDocument/FINAL%20San%20Diego_Parking%20Demand%20Management%20Study_01.21.2025.pdf.pdf?meetingId=6311&documentType=Agenda&itemId=242165&publishId=939139&isSection=false"],
             "rights": null,
             "spatial": null,
             "temporal": null,
             "title": "Parking Study: Balboa Park traffic counts"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "R/P1D",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Data & Analytics",
+                "hasEmail": "data@sandiego.gov"
+            },
+            "describedBy": "",
+            "describedByType": "text/csv",
+            "description": "Locations of off-street public parking lots in Mission Bay and Balboa Park that were included in the study.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Parking lot locations",
+                    "downloadURL": "https://seshat.datasd.org/gis_parking_study_lots/parking_study_lots_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Parking lot locations",
+                    "downloadURL": "https://seshat.datasd.org/gis_parking_study_lots/parking_study_lots_datasd.geojson",
+                    "mediaType": "application/geo+json",
+                    "format": "json"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Parking lot locations",
+                    "downloadURL": "https://seshat.datasd.org/gis_parking_study_lots/parking_study_lots_datasd.zip",
+                    "mediaType": "application/zip",
+                    "format": "shp"
+                }
+            ],
+            "identifier": "gis_parking_study_lots",
+            "issued": "2026-07-15",
+            "keyword": [
+                "Transit",
+                "Parking",
+                "Parking Demand Management Study"
+            ],
+            "license": "https://opendefinition.org/licenses/odc-pddl/",
+            "modified": "2026-07-15",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Transportation Department",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "City of San Diego"
+                }
+            },
+            "references": ["https://sandiego.hylandcloud.com/211agendaonlinecomm/Documents/ViewDocument/FINAL%20San%20Diego_Parking%20Demand%20Management%20Study_01.21.2025.pdf.pdf?meetingId=6311&documentType=Agenda&itemId=242165&publishId=939139&isSection=false"],
+            "rights": null,
+            "spatial": null,
+            "temporal": null,
+            "title": "Parking Study: lot locations"
         },
         {
             "@type": "dcat:Dataset",
