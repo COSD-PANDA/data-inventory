@@ -5892,7 +5892,7 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "",
+            "describedBy": "https://seshat.datasd.org/gis_parking_study_lots/gis_parking_study_lots_dictionary.csv",
             "describedByType": "text/csv",
             "description": "Locations of off-street public parking lots in Mission Bay and Balboa Park that were included in the study.",
             "distribution": [
