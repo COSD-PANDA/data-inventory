@@ -2431,6 +2431,73 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
+            "describedBy": "",
+            "describedByType": "text/csv",
+            "description": "Community Parking Districts (CPD) are established by the San Diego City Council and provide a mechanism for communities to develop and implement neighborhood-specific strategies to meet their specific needs and address parking impacts. Council Policy 100-18 specifies the procedures for establishing and managing a CPD.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Community Parking Districts attribute table",
+                    "downloadURL": "https://seshat.datasd.org/gis_community_parking_district/community_parking_district_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Community Parking Districts shapefile",
+                    "downloadURL": "https://seshat.datasd.org/gis_community_parking_district/community_parking_district_datasd.zip",
+                    "mediaType": "application/zip",
+                    "format": "shp"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Community Parking Districts geojson",
+                    "downloadURL": "https://seshat.datasd.org/gis_community_parking_district/community_parking_district_datasd.geojson",
+                    "mediaType": "application/geo+json",
+                    "format": "geojson"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Community Parking Districts topojson",
+                    "downloadURL": "https://seshat.datasd.org/gis_community_parking_district/community_parking_district_datasd.topo.json",
+                    "mediaType": "application/geo+json",
+                    "format": "geojson"
+                }
+            ],
+            "identifier": "gis_community_parking_district",
+            "issued": "2026-07-06",
+            "keyword": [
+                "GIS",
+                "Geospatial",
+                "SanGIS",
+                "Boundary",
+                "District"
+            ],
+            "license": "https://opendefinition.org/licenses/odc-pddl/",
+            "modified": "2024-03-20",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Planning",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "City of San Diego"
+                }
+            },
+            "references": null,
+            "rights": null,
+            "spatial": null,
+            "temporal": null,
+            "title": "Community parking districts"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "R/P1W",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Data & Analytics",
+                "hasEmail": "data@sandiego.gov"
+            },
             "describedBy": "https://geo.sandag.org/server/rest/directories/downloads/Community_Plan_SD.pdf",
             "describedByType": "application/pdf",
             "description": "City Community Plans represent the geographic boundaries for the City of San Diego community land use policy plans specific to these geographic areas.",
@@ -5591,27 +5658,6 @@
                     "downloadURL": "https://seshat.datasd.org/parking_meters_transactions/treas_parking_payments_2021_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Parking meters transactions 2020",
-                    "downloadURL": "https://seshat.datasd.org/parking_meters_transactions/treas_parking_payments_2020_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Parking meters transactions 2019",
-                    "downloadURL": "https://seshat.datasd.org/parking_meters_transactions/treas_parking_payments_2019_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Parking meters transactions 2018",
-                    "downloadURL": "https://seshat.datasd.org/parking_meters_transactions/treas_parking_payments_2018_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
                 }
             ],
             "identifier": "parking_meters_transactions",
@@ -5646,9 +5692,9 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/parking_meters_transactions/meters_transactions_dictionary_datasd.csv",
+            "describedBy": "https://seshat.datasd.org/parking_meters_transactions/meters_transactions_monthly_dictionary_datasd.csv",
             "describedByType": "text/csv",
-            "description": "Parking meter monthly revenue totals",
+            "description": "Total dollar amounts and transaction counts by month and parking meter",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -5691,27 +5737,6 @@
                     "downloadURL": "https://seshat.datasd.org/parking_meters_transactions_monthly/treas_meters_2021_pole_by_month_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Parking meters transactions 2020",
-                    "downloadURL": "https://seshat.datasd.org/parking_meters_transactions_monthly/treas_meters_2020_pole_by_month_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Parking meters transactions 2019",
-                    "downloadURL": "https://seshat.datasd.org/parking_meters_transactions_monthly/treas_meters_2019_pole_by_month_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Parking meters transactions 2018",
-                    "downloadURL": "https://seshat.datasd.org/parking_meters_transactions_monthly/treas_meters_2018_pole_by_month_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
                 }
             ],
             "identifier": "parking_meters_transactions_monthly",
@@ -5735,7 +5760,7 @@
             "rights": null,
             "spatial": null,
             "temporal": null,
-            "title": "Parking Meter Monthly Revenue Totals"
+            "title": "Parking Meter Monthly Revenue Totals by Meter"
         },
         {
             "@type": "dcat:Dataset",
@@ -5746,9 +5771,9 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/parking_meters_transactions/meters_transactions_dictionary_datasd.csv",
+            "describedBy": "https://seshat.datasd.org/parking_meters_transactions/meters_transactions_daily_dictionary_datasd.csv",
             "describedByType": "text/csv",
-            "description": "Parking meter daily revenue totals",
+            "description": "Total dollar amounts and transaction counts by day and parking meter",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -5791,27 +5816,6 @@
                     "downloadURL": "https://seshat.datasd.org/parking_meters_transactions_daily/treas_meters_2021_pole_by_mo_day_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Parking meters transactions 2020",
-                    "downloadURL": "https://seshat.datasd.org/parking_meters_transactions_daily/treas_meters_2020_pole_by_mo_day_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Parking meters transactions 2019",
-                    "downloadURL": "https://seshat.datasd.org/parking_meters_transactions_daily/treas_meters_2019_pole_by_mo_day_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Parking meters transactions 2018",
-                    "downloadURL": "https://seshat.datasd.org/parking_meters_transactions_daily/treas_meters_2018_pole_by_mo_day_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
                 }
             ],
             "identifier": "parking_meters_transactions_daily",
@@ -5835,7 +5839,285 @@
             "rights": null,
             "spatial": null,
             "temporal": null,
-            "title": "Parking Meter Daily Revenue Totals"
+            "title": "Parking Meter Daily Revenue Totals by Meter"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "R/P1D",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Data & Analytics",
+                "hasEmail": "data@sandiego.gov"
+            },
+            "describedBy": "https://seshat.datasd.org/parking_meters_revenue_monthly/parking_revenue_monthly_by_area_dictionary_datasd.csv",
+            "describedByType": "text/csv",
+            "description": "Total dollar amounts and transaction counts by month and City block",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Monthly revenue by area for 12-month period",
+                    "downloadURL": "https://seshat.datasd.org/parking_meters_revenue_monthly/parking_revenue_monthly_by_area_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                }
+            ],
+            "identifier": "parking_meters_revenue_monthly",
+            "issued": "2016-05-02",
+            "keyword": [
+                "Transit",
+                "Parking",
+                "Finances"
+            ],
+            "license": "https://opendefinition.org/licenses/odc-pddl/",
+            "modified": "2026-06-30",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "City Treasurer",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "City of San Diego"
+                }
+            },
+            "references": null,
+            "rights": null,
+            "spatial": null,
+            "temporal": null,
+            "title": "Parking Meter Monthly Revenue Totals by Area"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "R/P1D",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Data & Analytics",
+                "hasEmail": "data@sandiego.gov"
+            },
+            "describedBy": "https://seshat.datasd.org/parking_study_summary/parking_study_summary_dictionary_datasd.csv",
+            "describedByType": "text/csv",
+            "description": "Average parking space occupancy for each site during the study time period",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Average occupancy by site",
+                    "downloadURL": "https://seshat.datasd.org/parking_study_summary/parking_study_summary_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                }
+            ],
+            "identifier": "parking_study_summary",
+            "issued": "2026-07-15",
+            "keyword": [
+                "Transit",
+                "Parking",
+                "Parking Demand Management Study"
+            ],
+            "license": "https://opendefinition.org/licenses/odc-pddl/",
+            "modified": "2026-07-15",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Transportation Department",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "City of San Diego"
+                }
+            },
+            "references": ["https://sandiego.hylandcloud.com/211agendaonlinecomm/Documents/ViewDocument/FINAL%20San%20Diego_Parking%20Demand%20Management%20Study_01.21.2025.pdf.pdf?meetingId=6311&documentType=Agenda&itemId=242165&publishId=939139&isSection=false"],
+            "rights": null,
+            "spatial": null,
+            "temporal": null,
+            "title": "Parking Study: average occupancy by site"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "R/P1D",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Data & Analytics",
+                "hasEmail": "data@sandiego.gov"
+            },
+            "describedBy": "https://seshat.datasd.org/parking_study_inventory/parking_study_inventory_dictionary_datasd.csv",
+            "describedByType": "text/csv",
+            "description": "Counts of parking spaces by type for each site included in the study.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Parking space inventory counts by type and site",
+                    "downloadURL": "https://seshat.datasd.org/parking_study_inventory/parking_study_inventory_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                }
+            ],
+            "identifier": "parking_study_inventory",
+            "issued": "2026-07-15",
+            "keyword": [
+                "Transit",
+                "Parking",
+                "Parking Demand Management Study"
+            ],
+            "license": "https://opendefinition.org/licenses/odc-pddl/",
+            "modified": "2026-07-15",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Transportation Department",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "City of San Diego"
+                }
+            },
+            "references": ["https://sandiego.hylandcloud.com/211agendaonlinecomm/Documents/ViewDocument/FINAL%20San%20Diego_Parking%20Demand%20Management%20Study_01.21.2025.pdf.pdf?meetingId=6311&documentType=Agenda&itemId=242165&publishId=939139&isSection=false"],
+            "rights": null,
+            "spatial": null,
+            "temporal": null,
+            "title": "Parking Study: parking space inventory counts"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "R/P1D",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Data & Analytics",
+                "hasEmail": "data@sandiego.gov"
+            },
+            "describedBy": "https://seshat.datasd.org/parking_study_raw_data/parking_study_raw_data_dictionary_datasd.csv",
+            "describedByType": "text/csv",
+            "description": "Hourly tracking of parking activity for each site included in the study. Parking activity was interpreted for the calculation of occupancy statistics.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Parking activity by parking space and hour",
+                    "downloadURL": "https://seshat.datasd.org/parking_study_raw_data/parking_study_raw_data_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                }
+            ],
+            "identifier": "parking_study_raw_data",
+            "issued": "2026-07-15",
+            "keyword": [
+                "Transit",
+                "Parking",
+                "Parking Demand Management Study"
+            ],
+            "license": "https://opendefinition.org/licenses/odc-pddl/",
+            "modified": "2026-07-15",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Transportation Department",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "City of San Diego"
+                }
+            },
+            "references": ["https://sandiego.hylandcloud.com/211agendaonlinecomm/Documents/ViewDocument/FINAL%20San%20Diego_Parking%20Demand%20Management%20Study_01.21.2025.pdf.pdf?meetingId=6311&documentType=Agenda&itemId=242165&publishId=939139&isSection=false"],
+            "rights": null,
+            "spatial": null,
+            "temporal": null,
+            "title": "Parking Study: raw activity data"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "R/P1D",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Data & Analytics",
+                "hasEmail": "data@sandiego.gov"
+            },
+            "describedBy": "https://seshat.datasd.org/parking_study_occupancy/parking_study_occupancy_dictionary_datasd.csv",
+            "describedByType": "text/csv",
+            "description": "Count and percentage of occupied parking spaces by site.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Parking space occupancy by hour",
+                    "downloadURL": "https://seshat.datasd.org/parking_study_occupancy/parking_study_occupancy_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                }
+            ],
+            "identifier": "parking_study_occupancy",
+            "issued": "2026-07-15",
+            "keyword": [
+                "Transit",
+                "Parking",
+                "Parking Demand Management Study"
+            ],
+            "license": "https://opendefinition.org/licenses/odc-pddl/",
+            "modified": "2026-07-15",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Transportation Department",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "City of San Diego"
+                }
+            },
+            "references": ["https://sandiego.hylandcloud.com/211agendaonlinecomm/Documents/ViewDocument/FINAL%20San%20Diego_Parking%20Demand%20Management%20Study_01.21.2025.pdf.pdf?meetingId=6311&documentType=Agenda&itemId=242165&publishId=939139&isSection=false"],
+            "rights": null,
+            "spatial": null,
+            "temporal": null,
+            "title": "Parking Study: counts and percentages of occupied parking spaces"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "R/P1D",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Data & Analytics",
+                "hasEmail": "data@sandiego.gov"
+            },
+            "describedBy": "https://seshat.datasd.org/gis_parking_study_lots/gis_parking_study_lots_dictionary.csv",
+            "describedByType": "text/csv",
+            "description": "Locations of off-street public parking lots in Mission Bay and Balboa Park that were included in the study.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Parking lot locations",
+                    "downloadURL": "https://seshat.datasd.org/gis_parking_study_lots/parking_study_lots_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Parking lot locations",
+                    "downloadURL": "https://seshat.datasd.org/gis_parking_study_lots/parking_study_lots_datasd.geojson",
+                    "mediaType": "application/geo+json",
+                    "format": "json"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Parking lot locations",
+                    "downloadURL": "https://seshat.datasd.org/gis_parking_study_lots/parking_study_lots_datasd.zip",
+                    "mediaType": "application/zip",
+                    "format": "shp"
+                }
+            ],
+            "identifier": "gis_parking_study_lots",
+            "issued": "2026-07-15",
+            "keyword": [
+                "Transit",
+                "Parking",
+                "Parking Demand Management Study"
+            ],
+            "license": "https://opendefinition.org/licenses/odc-pddl/",
+            "modified": "2026-07-15",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Transportation Department",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "City of San Diego"
+                }
+            },
+            "references": ["https://sandiego.hylandcloud.com/211agendaonlinecomm/Documents/ViewDocument/FINAL%20San%20Diego_Parking%20Demand%20Management%20Study_01.21.2025.pdf.pdf?meetingId=6311&documentType=Agenda&itemId=242165&publishId=939139&isSection=false"],
+            "rights": null,
+            "spatial": null,
+            "temporal": null,
+            "title": "Parking Study: lot locations"
         },
         {
             "@type": "dcat:Dataset",
