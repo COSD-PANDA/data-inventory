@@ -4496,6 +4496,20 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
+                    "title": "Point Loma Ocean Outfall (PLOO) 2024 RTOMS ocean chemistry measurements",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_ocean_chemistry/PLOO_ocean_chemistry_2024_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "South Bay Ocean Outfall (SBOO) 2024 RTOMS ocean chemistry measurements",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_ocean_chemistry/SBOO_ocean_chemistry_2024_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
                     "title": "Point Loma Ocean Outfall (PLOO) 2023 RTOMS ocean chemistry measurements",
                     "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_ocean_chemistry/PLOO_ocean_chemistry_2023_datasd.csv",
                     "mediaType": "text/csv",
@@ -4524,43 +4538,29 @@
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "PLOO 2021 RTOMS ocean chemistry measurements",
+                    "title": "Point Loma Ocean Outfall (PLOO) 2021 RTOMS ocean chemistry measurements",
                     "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_ocean_chemistry/PLOO_ocean_chemistry_2021_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "SBOO 2021 RTOMS ocean chemistry measurements",
+                    "title": "South Bay Ocean Outfall (SBOO) 2021 RTOMS ocean chemistry measurements",
                     "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_ocean_chemistry/SBOO_ocean_chemistry_2021_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "PLOO 2020 RTOMS ocean chemistry measurements",
+                    "title": "Point Loma Ocean Outfall (PLOO) 2020 RTOMS ocean chemistry measurements",
                     "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_ocean_chemistry/PLOO_ocean_chemistry_2020_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "SBOO 2020 RTOMS ocean chemistry measurements",
+                    "title": "South Bay Ocean Outfall (SBOO) 2020 RTOMS ocean chemistry measurements",
                     "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_ocean_chemistry/SBOO_ocean_chemistry_2020_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Parameter dictionary",
-                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms/rtoms_parameter_dictionary_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Qualifier dictionary",
-                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms/rtoms_qualifier_dictionary_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 }
