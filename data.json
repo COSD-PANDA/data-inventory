@@ -5046,7 +5046,6 @@
                         "mediaType": "text/csv",
                         "format": "csv"
                     }
-                ]        
             ],
             "identifier": "monitoring_acoustic_doppler_current_profilers_2019",
             "issued": "2017-06-30",
