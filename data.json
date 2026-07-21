@@ -4200,441 +4200,441 @@
               {
                 "@type": "dcat:Distribution",
                 "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (east) December deployment 3",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_eastNewQC_2020_12.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_eastNewQC_2020_12_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (nor) December deployment 3",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_norNewQC_2020_12.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_norNewQC_2020_12_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (ver) December deployment 3",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_verNewQC_2020_12.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_verNewQC_2020_12_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (east) November deployment 3",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_eastNewQC_2020_11.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_eastNewQC_2020_11_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (nor) November deployment 3",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_norNewQC_2020_11.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_norNewQC_2020_11_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (ver) November deployment 3",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_verNewQC_2020_11.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_verNewQC_2020_11_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (east) October deployment 3",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_eastNewQC_2020_10.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_eastNewQC_2020_10_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (nor) October deployment 3",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_norNewQC_2020_10.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_norNewQC_2020_10_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (ver) October deployment 3",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_verNewQC_2020_10.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_verNewQC_2020_10_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (east) September deployment 2",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_eastNewQC_2020_9.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_eastNewQC_2020_9_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (nor) September deployment 2",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_norNewQC_2020_9.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_norNewQC_2020_9_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (ver) September deployment 2",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_verNewQC_2020_9.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_verNewQC_2020_9_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (east) September deployment 3",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_eastNewQC_2020_9.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_eastNewQC_2020_9_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (nor) September deployment 3",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_norNewQC_2020_9.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_norNewQC_2020_9_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (ver) September deployment 3",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_verNewQC_2020_9.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_verNewQC_2020_9_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (east) August deployment 2",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_eastNewQC_2020_8.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_eastNewQC_2020_8_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (nor) August deployment 2",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_norNewQC_2020_8.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_norNewQC_2020_8_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (ver) August deployment 2",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_verNewQC_2020_8.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_verNewQC_2020_8_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (east) August deployment 3",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_eastNewQC_2020_8.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_eastNewQC_2020_8_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (nor) August deployment 3",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_norNewQC_2020_8.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_norNewQC_2020_8_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (ver) August deployment 3",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_verNewQC_2020_8.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_verNewQC_2020_8_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (east) July deployment 2",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_eastNewQC_2020_7.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_eastNewQC_2020_7_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (nor) July deployment 2",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_norNewQC_2020_7.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_norNewQC_2020_7_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (ver) July deployment 2",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_verNewQC_2020_7.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_verNewQC_2020_7_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (east) July deployment 3",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_eastNewQC_2020_7.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_eastNewQC_2020_7_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (nor) July deployment 3",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_norNewQC_2020_7.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_norNewQC_2020_7_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (ver) July deployment 3",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_verNewQC_2020_7.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_verNewQC_2020_7_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (east) June deployment 2",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_eastNewQC_2020_6.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_eastNewQC_2020_6_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (nor) June deployment 2",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_norNewQC_2020_6.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_norNewQC_2020_6_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (ver) June deployment 2",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_verNewQC_2020_6.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_verNewQC_2020_6_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (east) June deployment 3",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_eastNewQC_2020_6.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_eastNewQC_2020_6_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (nor) June deployment 3",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_norNewQC_2020_6.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_norNewQC_2020_6_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (ver) June deployment 3",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_verNewQC_2020_6.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_verNewQC_2020_6_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (east) May deployment 2",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_eastNewQC_2020_5.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_eastNewQC_2020_5_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (nor) May deployment 2",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_norNewQC_2020_5.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_norNewQC_2020_5_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (ver) May deployment 2",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_verNewQC_2020_5.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_verNewQC_2020_5_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (east) May deployment 3",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_eastNewQC_2020_5.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_eastNewQC_2020_5_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (nor) May deployment 3",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_norNewQC_2020_5.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_norNewQC_2020_5_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (ver) May deployment 3",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_verNewQC_2020_5.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_verNewQC_2020_5_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (east) April deployment 2",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_eastNewQC_2020_4.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_eastNewQC_2020_4_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (nor) April deployment 2",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_norNewQC_2020_4.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_norNewQC_2020_4_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (ver) April deployment 2",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_verNewQC_2020_4.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_verNewQC_2020_4_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (east) April deployment 3",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_eastNewQC_2020_4.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_eastNewQC_2020_4_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (nor) April deployment 3",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_norNewQC_2020_4.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_norNewQC_2020_4_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (ver) April deployment 3",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_verNewQC_2020_4.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_verNewQC_2020_4_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (east) March deployment 2",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_eastNewQC_2020_3.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_eastNewQC_2020_3_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (nor) March deployment 2",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_norNewQC_2020_3.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_norNewQC_2020_3_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (ver) March deployment 2",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_verNewQC_2020_3.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_verNewQC_2020_3_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (east) March deployment 3",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_eastNewQC_2020_3.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_eastNewQC_2020_3_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (nor) March deployment 3",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_norNewQC_2020_3.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_norNewQC_2020_3_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (ver) March deployment 3",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_verNewQC_2020_3.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_verNewQC_2020_3_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (east) February deployment 2",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_eastNewQC_2020_2.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_eastNewQC_2020_2_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (nor) February deployment 2",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_norNewQC_2020_2.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_norNewQC_2020_2_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (ver) February deployment 2",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_verNewQC_2020_2.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_verNewQC_2020_2_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (east) February deployment 3",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_eastNewQC_2020_2.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_eastNewQC_2020_2_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (nor) February deployment 3",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_norNewQC_2020_2.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_norNewQC_2020_2_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (ver) February deployment 3",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_verNewQC_2020_2.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_verNewQC_2020_2_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (east) January deployment 2",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_eastNewQC_2020_1.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_eastNewQC_2020_1_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (nor) January deployment 2",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_norNewQC_2020_1.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_norNewQC_2020_1_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (ver) January deployment 2",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_verNewQC_2020_1.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_02_verNewQC_2020_1_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (east) January deployment 3",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_eastNewQC_2020_1.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_eastNewQC_2020_1_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (nor) January deployment 3",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_norNewQC_2020_1.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_norNewQC_2020_1_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               },
               {
                 "@type": "dcat:Distribution",
                 "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (ver) January deployment 3",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_verNewQC_2020_1.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_03_verNewQC_2020_1_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
               }
@@ -4677,84 +4677,84 @@
             {
                 "@type": "dcat:Distribution",
                 "title": "Point Loma Ocean Outfall (PLOO) 2021 ADCP measurements (east) December deployment 3",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_03_eastNewQC_2021_12.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_03_eastNewQC_2021_12_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
             },
             {
                 "@type": "dcat:Distribution",
                 "title": "Point Loma Ocean Outfall (PLOO) 2021 ADCP measurements (nor) December deployment 3",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_03_norNewQC_2021_12.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_03_norNewQC_2021_12_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
             },
             {
                 "@type": "dcat:Distribution",
                 "title": "Point Loma Ocean Outfall (PLOO) 2021 ADCP measurements (ver) December deployment 3",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_03_verNewQC_2021_12.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_03_verNewQC_2021_12_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
             },
             {
                 "@type": "dcat:Distribution",
                 "title": "South Bay Ocean Outfall (SBOO) 2021 ADCP measurements (east) December deployment 4",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_04_eastNewQC_2021_12.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_04_eastNewQC_2021_12_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
             },
             {
                 "@type": "dcat:Distribution",
                 "title": "South Bay Ocean Outfall (SBOO) 2021 ADCP measurements (nor) December deployment 4",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_04_norNewQC_2021_12.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_04_norNewQC_2021_12_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
             },
             {
                 "@type": "dcat:Distribution",
                 "title": "South Bay Ocean Outfall (SBOO) 2021 ADCP measurements (ver) December deployment 4",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_04_verNewQC_2021_12.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_04_verNewQC_2021_12_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
             },
             {
                 "@type": "dcat:Distribution",
                 "title": "Point Loma Ocean Outfall (PLOO) 2021 ADCP measurements (east) November deployment 3",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_03_eastNewQC_2021_11.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_03_eastNewQC_2021_11_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
             },
             {
                 "@type": "dcat:Distribution",
                 "title": "Point Loma Ocean Outfall (PLOO) 2021 ADCP measurements (nor) November deployment 3",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_03_norNewQC_2021_11.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_03_norNewQC_2021_11_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
             },
             {
                 "@type": "dcat:Distribution",
                 "title": "Point Loma Ocean Outfall (PLOO) 2021 ADCP measurements (ver) November deployment 3",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_03_verNewQC_2021_11.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_03_verNewQC_2021_11_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
             },
             {
                 "@type": "dcat:Distribution",
                 "title": "South Bay Ocean Outfall (SBOO) 2021 ADCP measurements (east) November deployment 4",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_04_eastNewQC_2021_11.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_04_eastNewQC_2021_11_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
             },
             {
                 "@type": "dcat:Distribution",
                 "title": "South Bay Ocean Outfall (SBOO) 2021 ADCP measurements (nor) November deployment 4",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_04_norNewQC_2021_11.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_04_norNewQC_2021_11_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
             },
             {
                 "@type": "dcat:Distribution",
                 "title": "South Bay Ocean Outfall (SBOO) 2021 ADCP measurements (ver) November deployment 4",
-                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_04_verNewQC_2021_11.csv",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_04_verNewQC_2021_11_datasd.csv",
                 "mediaType": "text/csv",
                 "format": "csv"
             }
