@@ -4387,7 +4387,7 @@
                     "format": "csv"
                 }
             ],
-            "identifier": "acoustic_doppler_current_profilers_2017",
+            "identifier": "monitoring_acoustic_doppler_current_profilers_2017",
             "issued": "2017-06-30",
             "keyword": [
                 "Water quality",
@@ -4738,7 +4738,7 @@
                     "format": "csv"
                 }        
             ],
-            "identifier": "acoustic_doppler_current_profilers_2018",
+            "identifier": "monitoring_acoustic_doppler_current_profilers_2018",
             "issued": "2017-06-30",
             "keyword": [
                 "Water quality",
@@ -5049,7 +5049,7 @@
                     }
                 ]        
             ],
-            "identifier": "acoustic_doppler_current_profilers_2019",
+            "identifier": "monitoring_acoustic_doppler_current_profilers_2019",
             "issued": "2017-06-30",
             "keyword": [
                 "Water quality",
