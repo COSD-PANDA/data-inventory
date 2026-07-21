@@ -4773,7 +4773,6 @@
             "describedByType": "text/csv",
             "description": "Readings from static bottom-mounted acoustic doppler current profilers (ADCP). Due to filesize, the data is separated by location, direction and month.",
             "distribution": [
-                [
                     {
                         "@type": "dcat:Distribution",
                         "title": "PLOO_01_eastNewQC_2019_1_datasd",
