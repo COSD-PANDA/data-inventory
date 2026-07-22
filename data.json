@@ -4187,6 +4187,1490 @@
         {
             "@type": "dcat:Dataset",
             "accessLevel": "public",
+            "accrualPeriodicity": "irregular",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Data & Analytics",
+                "hasEmail": "data@sandiego.gov"
+            },
+            "describedBy": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/adcp_datasd_dict.csv",
+            "describedByType": "text/csv",
+            "description": "Readings from static bottom-mounted acoustic doppler current profilers (ADCP). Due to filesize, the data is separated by location, direction and month.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "SBOO_01_eastNewQC_2017_10_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2017/SBOO_01_eastNewQC_2017_10_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "SBOO_01_eastNewQC_2017_1_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2017/SBOO_01_eastNewQC_2017_1_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "SBOO_01_eastNewQC_2017_2_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2017/SBOO_01_eastNewQC_2017_2_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "SBOO_01_eastNewQC_2017_3_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2017/SBOO_01_eastNewQC_2017_3_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "SBOO_01_eastNewQC_2017_5_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2017/SBOO_01_eastNewQC_2017_5_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "SBOO_01_eastNewQC_2017_6_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2017/SBOO_01_eastNewQC_2017_6_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "SBOO_01_eastNewQC_2017_7_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2017/SBOO_01_eastNewQC_2017_7_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "SBOO_01_eastNewQC_2017_8_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2017/SBOO_01_eastNewQC_2017_8_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "SBOO_01_eastNewQC_2017_9_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2017/SBOO_01_eastNewQC_2017_9_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "SBOO_01_norNewQC_2017_10_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2017/SBOO_01_norNewQC_2017_10_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "SBOO_01_norNewQC_2017_1_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2017/SBOO_01_norNewQC_2017_1_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "SBOO_01_norNewQC_2017_2_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2017/SBOO_01_norNewQC_2017_2_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "SBOO_01_norNewQC_2017_3_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2017/SBOO_01_norNewQC_2017_3_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "SBOO_01_norNewQC_2017_5_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2017/SBOO_01_norNewQC_2017_5_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "SBOO_01_norNewQC_2017_6_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2017/SBOO_01_norNewQC_2017_6_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "SBOO_01_norNewQC_2017_7_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2017/SBOO_01_norNewQC_2017_7_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "SBOO_01_norNewQC_2017_8_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2017/SBOO_01_norNewQC_2017_8_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "SBOO_01_norNewQC_2017_9_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2017/SBOO_01_norNewQC_2017_9_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "SBOO_01_verNewQC_2017_10_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2017/SBOO_01_verNewQC_2017_10_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "SBOO_01_verNewQC_2017_1_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2017/SBOO_01_verNewQC_2017_1_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "SBOO_01_verNewQC_2017_2_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2017/SBOO_01_verNewQC_2017_2_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "SBOO_01_verNewQC_2017_3_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2017/SBOO_01_verNewQC_2017_3_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "SBOO_01_verNewQC_2017_5_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2017/SBOO_01_verNewQC_2017_5_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "SBOO_01_verNewQC_2017_6_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2017/SBOO_01_verNewQC_2017_6_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "SBOO_01_verNewQC_2017_7_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2017/SBOO_01_verNewQC_2017_7_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "SBOO_01_verNewQC_2017_8_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2017/SBOO_01_verNewQC_2017_8_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "SBOO_01_verNewQC_2017_9_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2017/SBOO_01_verNewQC_2017_9_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                }
+            ],
+            "identifier": "acoustic_doppler_current_profilers_2017",
+            "issued": "2017-06-30",
+            "keyword": [
+                "Water quality",
+                "Ocean water"
+            ],
+            "license": "https://opendefinition.org/licenses/odc-pddl/",
+            "modified": "2026-07-21",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Public Utilities",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "City of San Diego"
+                }
+            },
+            "references": null,
+            "rights": null,
+            "spatial": null,
+            "temporal": null,
+            "title": "Acoustic Doppler Current Profiler Measurements - Ocean Monitoring Program - 2017"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "irregular",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Data & Analytics",
+                "hasEmail": "data@sandiego.gov"
+            },
+            "describedBy": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/adcp_datasd_dict.csv",
+            "describedByType": "text/csv",
+            "description": "Readings from static bottom-mounted acoustic doppler current profilers (ADCP). Due to filesize, the data is separated by location, direction and month.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "PLOO_01_eastNewQC_2018_10_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2018/PLOO_01_eastNewQC_2018_10_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "PLOO_01_eastNewQC_2018_11_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2018/PLOO_01_eastNewQC_2018_11_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "PLOO_01_eastNewQC_2018_12_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2018/PLOO_01_eastNewQC_2018_12_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "PLOO_01_eastNewQC_2018_3_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2018/PLOO_01_eastNewQC_2018_3_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "PLOO_01_eastNewQC_2018_4_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2018/PLOO_01_eastNewQC_2018_4_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "PLOO_01_eastNewQC_2018_5_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2018/PLOO_01_eastNewQC_2018_5_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "PLOO_01_eastNewQC_2018_6_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2018/PLOO_01_eastNewQC_2018_6_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "PLOO_01_eastNewQC_2018_7_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2018/PLOO_01_eastNewQC_2018_7_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "PLOO_01_eastNewQC_2018_8_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2018/PLOO_01_eastNewQC_2018_8_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "PLOO_01_eastNewQC_2018_9_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2018/PLOO_01_eastNewQC_2018_9_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "PLOO_01_norNewQC_2018_10_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2018/PLOO_01_norNewQC_2018_10_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "PLOO_01_norNewQC_2018_11_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2018/PLOO_01_norNewQC_2018_11_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "PLOO_01_norNewQC_2018_12_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2018/PLOO_01_norNewQC_2018_12_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "PLOO_01_norNewQC_2018_3_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2018/PLOO_01_norNewQC_2018_3_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "PLOO_01_norNewQC_2018_4_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2018/PLOO_01_norNewQC_2018_4_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "PLOO_01_norNewQC_2018_5_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2018/PLOO_01_norNewQC_2018_5_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "PLOO_01_norNewQC_2018_6_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2018/PLOO_01_norNewQC_2018_6_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "PLOO_01_norNewQC_2018_7_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2018/PLOO_01_norNewQC_2018_7_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "PLOO_01_norNewQC_2018_8_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2018/PLOO_01_norNewQC_2018_8_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "PLOO_01_norNewQC_2018_9_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2018/PLOO_01_norNewQC_2018_9_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "PLOO_01_verNewQC_2018_10_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2018/PLOO_01_verNewQC_2018_10_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "PLOO_01_verNewQC_2018_11_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2018/PLOO_01_verNewQC_2018_11_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "PLOO_01_verNewQC_2018_12_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2018/PLOO_01_verNewQC_2018_12_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "PLOO_01_verNewQC_2018_3_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2018/PLOO_01_verNewQC_2018_3_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "PLOO_01_verNewQC_2018_4_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2018/PLOO_01_verNewQC_2018_4_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "PLOO_01_verNewQC_2018_5_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2018/PLOO_01_verNewQC_2018_5_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "PLOO_01_verNewQC_2018_6_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2018/PLOO_01_verNewQC_2018_6_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "PLOO_01_verNewQC_2018_7_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2018/PLOO_01_verNewQC_2018_7_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "PLOO_01_verNewQC_2018_8_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2018/PLOO_01_verNewQC_2018_8_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "PLOO_01_verNewQC_2018_9_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2018/PLOO_01_verNewQC_2018_9_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "SBOO_02_eastNewQC_2018_10_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2018/SBOO_02_eastNewQC_2018_10_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "SBOO_02_eastNewQC_2018_11_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2018/SBOO_02_eastNewQC_2018_11_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "SBOO_02_eastNewQC_2018_12_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2018/SBOO_02_eastNewQC_2018_12_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "SBOO_02_eastNewQC_2018_8_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2018/SBOO_02_eastNewQC_2018_8_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "SBOO_02_eastNewQC_2018_9_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2018/SBOO_02_eastNewQC_2018_9_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "SBOO_02_norNewQC_2018_10_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2018/SBOO_02_norNewQC_2018_10_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "SBOO_02_norNewQC_2018_11_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2018/SBOO_02_norNewQC_2018_11_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "SBOO_02_norNewQC_2018_12_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2018/SBOO_02_norNewQC_2018_12_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "SBOO_02_norNewQC_2018_8_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2018/SBOO_02_norNewQC_2018_8_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "SBOO_02_norNewQC_2018_9_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2018/SBOO_02_norNewQC_2018_9_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "SBOO_02_verNewQC_2018_10_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2018/SBOO_02_verNewQC_2018_10_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "SBOO_02_verNewQC_2018_11_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2018/SBOO_02_verNewQC_2018_11_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "SBOO_02_verNewQC_2018_12_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2018/SBOO_02_verNewQC_2018_12_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "SBOO_02_verNewQC_2018_8_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2018/SBOO_02_verNewQC_2018_8_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "SBOO_02_verNewQC_2018_9_datasd",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2018/SBOO_02_verNewQC_2018_9_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                }        
+            ],
+            "identifier": "acoustic_doppler_current_profilers_2018",
+            "issued": "2017-06-30",
+            "keyword": [
+                "Water quality",
+                "Ocean water"
+            ],
+            "license": "https://opendefinition.org/licenses/odc-pddl/",
+            "modified": "2026-07-21",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Public Utilities",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "City of San Diego"
+                }
+            },
+            "references": null,
+            "rights": null,
+            "spatial": null,
+            "temporal": null,
+            "title": "Acoustic Doppler Current Profiler Measurements - Ocean Monitoring Program - 2018"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "irregular",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Data & Analytics",
+                "hasEmail": "data@sandiego.gov"
+            },
+            "describedBy": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/adcp_datasd_dict.csv",
+            "describedByType": "text/csv",
+            "description": "Readings from static bottom-mounted acoustic doppler current profilers (ADCP). Due to filesize, the data is separated by location, direction and month.",
+            "distribution": [
+                [
+                    {
+                        "@type": "dcat:Distribution",
+                        "title": "PLOO_01_eastNewQC_2019_1_datasd",
+                        "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2019/PLOO_01_eastNewQC_2019_1_datasd.csv",
+                        "mediaType": "text/csv",
+                        "format": "csv"
+                    },
+                    {
+                        "@type": "dcat:Distribution",
+                        "title": "PLOO_01_norNewQC_2019_1_datasd",
+                        "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2019/PLOO_01_norNewQC_2019_1_datasd.csv",
+                        "mediaType": "text/csv",
+                        "format": "csv"
+                    },
+                    {
+                        "@type": "dcat:Distribution",
+                        "title": "PLOO_01_verNewQC_2019_1_datasd",
+                        "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2019/PLOO_01_verNewQC_2019_1_datasd.csv",
+                        "mediaType": "text/csv",
+                        "format": "csv"
+                    },
+                    {
+                        "@type": "dcat:Distribution",
+                        "title": "PLOO_02_eastNewQC_2019_10_datasd",
+                        "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2019/PLOO_02_eastNewQC_2019_10_datasd.csv",
+                        "mediaType": "text/csv",
+                        "format": "csv"
+                    },
+                    {
+                        "@type": "dcat:Distribution",
+                        "title": "PLOO_02_eastNewQC_2019_11_datasd",
+                        "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2019/PLOO_02_eastNewQC_2019_11_datasd.csv",
+                        "mediaType": "text/csv",
+                        "format": "csv"
+                    },
+                    {
+                        "@type": "dcat:Distribution",
+                        "title": "PLOO_02_eastNewQC_2019_12_datasd",
+                        "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2019/PLOO_02_eastNewQC_2019_12_datasd.csv",
+                        "mediaType": "text/csv",
+                        "format": "csv"
+                    },
+                    {
+                        "@type": "dcat:Distribution",
+                        "title": "PLOO_02_norNewQC_2019_10_datasd",
+                        "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2019/PLOO_02_norNewQC_2019_10_datasd.csv",
+                        "mediaType": "text/csv",
+                        "format": "csv"
+                    },
+                    {
+                        "@type": "dcat:Distribution",
+                        "title": "PLOO_02_norNewQC_2019_11_datasd",
+                        "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2019/PLOO_02_norNewQC_2019_11_datasd.csv",
+                        "mediaType": "text/csv",
+                        "format": "csv"
+                    },
+                    {
+                        "@type": "dcat:Distribution",
+                        "title": "PLOO_02_norNewQC_2019_12_datasd",
+                        "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2019/PLOO_02_norNewQC_2019_12_datasd.csv",
+                        "mediaType": "text/csv",
+                        "format": "csv"
+                    },
+                    {
+                        "@type": "dcat:Distribution",
+                        "title": "PLOO_02_verNewQC_2019_10_datasd",
+                        "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2019/PLOO_02_verNewQC_2019_10_datasd.csv",
+                        "mediaType": "text/csv",
+                        "format": "csv"
+                    },
+                    {
+                        "@type": "dcat:Distribution",
+                        "title": "PLOO_02_verNewQC_2019_11_datasd",
+                        "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2019/PLOO_02_verNewQC_2019_11_datasd.csv",
+                        "mediaType": "text/csv",
+                        "format": "csv"
+                    },
+                    {
+                        "@type": "dcat:Distribution",
+                        "title": "PLOO_02_verNewQC_2019_12_datasd",
+                        "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2019/PLOO_02_verNewQC_2019_12_datasd.csv",
+                        "mediaType": "text/csv",
+                        "format": "csv"
+                    },
+                    {
+                        "@type": "dcat:Distribution",
+                        "title": "SBOO_02_eastNewQC_2019_1_datasd",
+                        "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2019/SBOO_02_eastNewQC_2019_1_datasd.csv",
+                        "mediaType": "text/csv",
+                        "format": "csv"
+                    },
+                    {
+                        "@type": "dcat:Distribution",
+                        "title": "SBOO_02_eastNewQC_2019_2_datasd",
+                        "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2019/SBOO_02_eastNewQC_2019_2_datasd.csv",
+                        "mediaType": "text/csv",
+                        "format": "csv"
+                    },
+                    {
+                        "@type": "dcat:Distribution",
+                        "title": "SBOO_02_eastNewQC_2019_3_datasd",
+                        "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2019/SBOO_02_eastNewQC_2019_3_datasd.csv",
+                        "mediaType": "text/csv",
+                        "format": "csv"
+                    },
+                    {
+                        "@type": "dcat:Distribution",
+                        "title": "SBOO_02_eastNewQC_2019_4_datasd",
+                        "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2019/SBOO_02_eastNewQC_2019_4_datasd.csv",
+                        "mediaType": "text/csv",
+                        "format": "csv"
+                    },
+                    {
+                        "@type": "dcat:Distribution",
+                        "title": "SBOO_02_eastNewQC_2019_5_datasd",
+                        "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2019/SBOO_02_eastNewQC_2019_5_datasd.csv",
+                        "mediaType": "text/csv",
+                        "format": "csv"
+                    },
+                    {
+                        "@type": "dcat:Distribution",
+                        "title": "SBOO_02_eastNewQC_2019_6_datasd",
+                        "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2019/SBOO_02_eastNewQC_2019_6_datasd.csv",
+                        "mediaType": "text/csv",
+                        "format": "csv"
+                    },
+                    {
+                        "@type": "dcat:Distribution",
+                        "title": "SBOO_02_eastNewQC_2019_7_datasd",
+                        "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2019/SBOO_02_eastNewQC_2019_7_datasd.csv",
+                        "mediaType": "text/csv",
+                        "format": "csv"
+                    },
+                    {
+                        "@type": "dcat:Distribution",
+                        "title": "SBOO_02_eastNewQC_2019_8_datasd",
+                        "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2019/SBOO_02_eastNewQC_2019_8_datasd.csv",
+                        "mediaType": "text/csv",
+                        "format": "csv"
+                    },
+                    {
+                        "@type": "dcat:Distribution",
+                        "title": "SBOO_02_norNewQC_2019_1_datasd",
+                        "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2019/SBOO_02_norNewQC_2019_1_datasd.csv",
+                        "mediaType": "text/csv",
+                        "format": "csv"
+                    },
+                    {
+                        "@type": "dcat:Distribution",
+                        "title": "SBOO_02_norNewQC_2019_2_datasd",
+                        "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2019/SBOO_02_norNewQC_2019_2_datasd.csv",
+                        "mediaType": "text/csv",
+                        "format": "csv"
+                    },
+                    {
+                        "@type": "dcat:Distribution",
+                        "title": "SBOO_02_norNewQC_2019_3_datasd",
+                        "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2019/SBOO_02_norNewQC_2019_3_datasd.csv",
+                        "mediaType": "text/csv",
+                        "format": "csv"
+                    },
+                    {
+                        "@type": "dcat:Distribution",
+                        "title": "SBOO_02_norNewQC_2019_4_datasd",
+                        "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2019/SBOO_02_norNewQC_2019_4_datasd.csv",
+                        "mediaType": "text/csv",
+                        "format": "csv"
+                    },
+                    {
+                        "@type": "dcat:Distribution",
+                        "title": "SBOO_02_norNewQC_2019_5_datasd",
+                        "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2019/SBOO_02_norNewQC_2019_5_datasd.csv",
+                        "mediaType": "text/csv",
+                        "format": "csv"
+                    },
+                    {
+                        "@type": "dcat:Distribution",
+                        "title": "SBOO_02_norNewQC_2019_6_datasd",
+                        "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2019/SBOO_02_norNewQC_2019_6_datasd.csv",
+                        "mediaType": "text/csv",
+                        "format": "csv"
+                    },
+                    {
+                        "@type": "dcat:Distribution",
+                        "title": "SBOO_02_norNewQC_2019_7_datasd",
+                        "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2019/SBOO_02_norNewQC_2019_7_datasd.csv",
+                        "mediaType": "text/csv",
+                        "format": "csv"
+                    },
+                    {
+                        "@type": "dcat:Distribution",
+                        "title": "SBOO_02_norNewQC_2019_8_datasd",
+                        "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2019/SBOO_02_norNewQC_2019_8_datasd.csv",
+                        "mediaType": "text/csv",
+                        "format": "csv"
+                    },
+                    {
+                        "@type": "dcat:Distribution",
+                        "title": "SBOO_02_verNewQC_2019_1_datasd",
+                        "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2019/SBOO_02_verNewQC_2019_1_datasd.csv",
+                        "mediaType": "text/csv",
+                        "format": "csv"
+                    },
+                    {
+                        "@type": "dcat:Distribution",
+                        "title": "SBOO_02_verNewQC_2019_2_datasd",
+                        "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2019/SBOO_02_verNewQC_2019_2_datasd.csv",
+                        "mediaType": "text/csv",
+                        "format": "csv"
+                    },
+                    {
+                        "@type": "dcat:Distribution",
+                        "title": "SBOO_02_verNewQC_2019_3_datasd",
+                        "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2019/SBOO_02_verNewQC_2019_3_datasd.csv",
+                        "mediaType": "text/csv",
+                        "format": "csv"
+                    },
+                    {
+                        "@type": "dcat:Distribution",
+                        "title": "SBOO_02_verNewQC_2019_4_datasd",
+                        "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2019/SBOO_02_verNewQC_2019_4_datasd.csv",
+                        "mediaType": "text/csv",
+                        "format": "csv"
+                    },
+                    {
+                        "@type": "dcat:Distribution",
+                        "title": "SBOO_02_verNewQC_2019_5_datasd",
+                        "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2019/SBOO_02_verNewQC_2019_5_datasd.csv",
+                        "mediaType": "text/csv",
+                        "format": "csv"
+                    },
+                    {
+                        "@type": "dcat:Distribution",
+                        "title": "SBOO_02_verNewQC_2019_6_datasd",
+                        "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2019/SBOO_02_verNewQC_2019_6_datasd.csv",
+                        "mediaType": "text/csv",
+                        "format": "csv"
+                    },
+                    {
+                        "@type": "dcat:Distribution",
+                        "title": "SBOO_02_verNewQC_2019_7_datasd",
+                        "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2019/SBOO_02_verNewQC_2019_7_datasd.csv",
+                        "mediaType": "text/csv",
+                        "format": "csv"
+                    },
+                    {
+                        "@type": "dcat:Distribution",
+                        "title": "SBOO_02_verNewQC_2019_8_datasd",
+                        "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2019/SBOO_02_verNewQC_2019_8_datasd.csv",
+                        "mediaType": "text/csv",
+                        "format": "csv"
+                    },
+                    {
+                        "@type": "dcat:Distribution",
+                        "title": "SBOO_03_eastNewQC_2019_12_datasd",
+                        "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2019/SBOO_03_eastNewQC_2019_12_datasd.csv",
+                        "mediaType": "text/csv",
+                        "format": "csv"
+                    },
+                    {
+                        "@type": "dcat:Distribution",
+                        "title": "SBOO_03_norNewQC_2019_12_datasd",
+                        "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2019/SBOO_03_norNewQC_2019_12_datasd.csv",
+                        "mediaType": "text/csv",
+                        "format": "csv"
+                    },
+                    {
+                        "@type": "dcat:Distribution",
+                        "title": "SBOO_03_verNewQC_2019_12_datasd",
+                        "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2019/SBOO_03_verNewQC_2019_12_datasd.csv",
+                        "mediaType": "text/csv",
+                        "format": "csv"
+                    }
+                ]        
+            ],
+            "identifier": "acoustic_doppler_current_profilers_2019",
+            "issued": "2017-06-30",
+            "keyword": [
+                "Water quality",
+                "Ocean water"
+            ],
+            "license": "https://opendefinition.org/licenses/odc-pddl/",
+            "modified": "2026-07-21",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Public Utilities",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "City of San Diego"
+                }
+            },
+            "references": null,
+            "rights": null,
+            "spatial": null,
+            "temporal": null,
+            "title": "Acoustic Doppler Current Profiler Measurements - Ocean Monitoring Program - 2019"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "irregular",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Data & Analytics",
+                "hasEmail": "data@sandiego.gov"
+            },
+            "describedBy": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/adcp_datasd_dict.csv",
+            "describedByType": "text/csv",
+            "description": "Readings from static bottom-mounted acoustic doppler current profilers (ADCP). Due to filesize, the data is separated by location, direction and month.",
+            "distribution": [
+              {
+                "@type": "dcat:Distribution",
+                "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (east) December deployment 3",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/SBOO_03_eastNewQC_2020_12_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (nor) December deployment 3",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/SBOO_03_norNewQC_2020_12_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (ver) December deployment 3",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/SBOO_03_verNewQC_2020_12_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (east) November deployment 3",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/SBOO_03_eastNewQC_2020_11_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (nor) November deployment 3",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/SBOO_03_norNewQC_2020_11_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (ver) November deployment 3",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/SBOO_03_verNewQC_2020_11_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (east) October deployment 3",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/SBOO_03_eastNewQC_2020_10_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (nor) October deployment 3",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/SBOO_03_norNewQC_2020_10_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (ver) October deployment 3",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/SBOO_03_verNewQC_2020_10_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (east) September deployment 2",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/PLOO_02_eastNewQC_2020_9_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (nor) September deployment 2",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/PLOO_02_norNewQC_2020_9_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (ver) September deployment 2",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/PLOO_02_verNewQC_2020_9_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (east) September deployment 3",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/SBOO_03_eastNewQC_2020_9_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (nor) September deployment 3",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/SBOO_03_norNewQC_2020_9_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (ver) September deployment 3",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/SBOO_03_verNewQC_2020_9_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (east) August deployment 2",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/PLOO_02_eastNewQC_2020_8_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (nor) August deployment 2",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/PLOO_02_norNewQC_2020_8_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (ver) August deployment 2",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/PLOO_02_verNewQC_2020_8_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (east) August deployment 3",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/SBOO_03_eastNewQC_2020_8_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (nor) August deployment 3",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/SBOO_03_norNewQC_2020_8_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (ver) August deployment 3",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/SBOO_03_verNewQC_2020_8_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (east) July deployment 2",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/PLOO_02_eastNewQC_2020_7_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (nor) July deployment 2",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/PLOO_02_norNewQC_2020_7_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (ver) July deployment 2",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/PLOO_02_verNewQC_2020_7_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (east) July deployment 3",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/SBOO_03_eastNewQC_2020_7_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (nor) July deployment 3",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/SBOO_03_norNewQC_2020_7_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (ver) July deployment 3",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/SBOO_03_verNewQC_2020_7_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (east) June deployment 2",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/PLOO_02_eastNewQC_2020_6_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (nor) June deployment 2",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/PLOO_02_norNewQC_2020_6_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (ver) June deployment 2",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/PLOO_02_verNewQC_2020_6_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (east) June deployment 3",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/SBOO_03_eastNewQC_2020_6_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (nor) June deployment 3",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/SBOO_03_norNewQC_2020_6_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (ver) June deployment 3",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/SBOO_03_verNewQC_2020_6_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (east) May deployment 2",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/PLOO_02_eastNewQC_2020_5_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (nor) May deployment 2",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/PLOO_02_norNewQC_2020_5_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (ver) May deployment 2",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/PLOO_02_verNewQC_2020_5_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (east) May deployment 3",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/SBOO_03_eastNewQC_2020_5_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (nor) May deployment 3",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/SBOO_03_norNewQC_2020_5_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (ver) May deployment 3",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/SBOO_03_verNewQC_2020_5_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (east) April deployment 2",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/PLOO_02_eastNewQC_2020_4_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (nor) April deployment 2",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/PLOO_02_norNewQC_2020_4_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (ver) April deployment 2",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/PLOO_02_verNewQC_2020_4_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (east) April deployment 3",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/SBOO_03_eastNewQC_2020_4_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (nor) April deployment 3",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/SBOO_03_norNewQC_2020_4_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (ver) April deployment 3",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/SBOO_03_verNewQC_2020_4_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (east) March deployment 2",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/PLOO_02_eastNewQC_2020_3_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (nor) March deployment 2",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/PLOO_02_norNewQC_2020_3_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (ver) March deployment 2",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/PLOO_02_verNewQC_2020_3_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (east) March deployment 3",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/SBOO_03_eastNewQC_2020_3_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (nor) March deployment 3",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/SBOO_03_norNewQC_2020_3_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (ver) March deployment 3",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/SBOO_03_verNewQC_2020_3_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (east) February deployment 2",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/PLOO_02_eastNewQC_2020_2_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (nor) February deployment 2",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/PLOO_02_norNewQC_2020_2_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (ver) February deployment 2",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/PLOO_02_verNewQC_2020_2_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (east) February deployment 3",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/SBOO_03_eastNewQC_2020_2_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (nor) February deployment 3",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/SBOO_03_norNewQC_2020_2_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (ver) February deployment 3",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/SBOO_03_verNewQC_2020_2_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (east) January deployment 2",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/PLOO_02_eastNewQC_2020_1_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (nor) January deployment 2",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/PLOO_02_norNewQC_2020_1_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "Point Loma Ocean Outfall (PLOO) 2020 ADCP measurements (ver) January deployment 2",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/PLOO_02_verNewQC_2020_1_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (east) January deployment 3",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/SBOO_03_eastNewQC_2020_1_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (nor) January deployment 3",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/SBOO_03_norNewQC_2020_1_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              },
+              {
+                "@type": "dcat:Distribution",
+                "title": "South Bay Ocean Outfall (SBOO) 2020 ADCP measurements (ver) January deployment 3",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2020/SBOO_03_verNewQC_2020_1_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+              }
+            ],
+            "identifier": "monitoring_acoustic_doppler_current_profilers_2020",
+            "issued": "2017-06-30",
+            "keyword": [
+                "Water quality",
+                "Ocean water"
+            ],
+            "license": "https://opendefinition.org/licenses/odc-pddl/",
+            "modified": "2026-07-21",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Public Utilities",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "City of San Diego"
+                }
+            },
+            "references": null,
+            "rights": null,
+            "spatial": null,
+            "temporal": null,
+            "title": "Acoustic Doppler Current Profiler Measurements - Ocean Monitoring Program - 2020"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "irregular",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Data & Analytics",
+                "hasEmail": "data@sandiego.gov"
+            },
+            "describedBy": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/adcp_datasd_dict.csv",
+            "describedByType": "text/csv",
+            "description": "Readings from static bottom-mounted acoustic doppler current profilers (ADCP). Due to filesize, the data is separated by location, direction and month.",
+            "distribution": [
+            {
+                "@type": "dcat:Distribution",
+                "title": "Point Loma Ocean Outfall (PLOO) 2021 ADCP measurements (east) December deployment 3",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2021/PLOO_03_eastNewQC_2021_12_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+            },
+            {
+                "@type": "dcat:Distribution",
+                "title": "Point Loma Ocean Outfall (PLOO) 2021 ADCP measurements (nor) December deployment 3",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2021/PLOO_03_norNewQC_2021_12_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+            },
+            {
+                "@type": "dcat:Distribution",
+                "title": "Point Loma Ocean Outfall (PLOO) 2021 ADCP measurements (ver) December deployment 3",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2021/PLOO_03_verNewQC_2021_12_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+            },
+            {
+                "@type": "dcat:Distribution",
+                "title": "South Bay Ocean Outfall (SBOO) 2021 ADCP measurements (east) December deployment 4",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2021/SBOO_04_eastNewQC_2021_12_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+            },
+            {
+                "@type": "dcat:Distribution",
+                "title": "South Bay Ocean Outfall (SBOO) 2021 ADCP measurements (nor) December deployment 4",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2021/SBOO_04_norNewQC_2021_12_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+            },
+            {
+                "@type": "dcat:Distribution",
+                "title": "South Bay Ocean Outfall (SBOO) 2021 ADCP measurements (ver) December deployment 4",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2021/SBOO_04_verNewQC_2021_12_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+            },
+            {
+                "@type": "dcat:Distribution",
+                "title": "Point Loma Ocean Outfall (PLOO) 2021 ADCP measurements (east) November deployment 3",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2021/PLOO_03_eastNewQC_2021_11_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+            },
+            {
+                "@type": "dcat:Distribution",
+                "title": "Point Loma Ocean Outfall (PLOO) 2021 ADCP measurements (nor) November deployment 3",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2021/PLOO_03_norNewQC_2021_11_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+            },
+            {
+                "@type": "dcat:Distribution",
+                "title": "Point Loma Ocean Outfall (PLOO) 2021 ADCP measurements (ver) November deployment 3",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2021/PLOO_03_verNewQC_2021_11_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+            },
+            {
+                "@type": "dcat:Distribution",
+                "title": "South Bay Ocean Outfall (SBOO) 2021 ADCP measurements (east) November deployment 4",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2021/SBOO_04_eastNewQC_2021_11_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+            },
+            {
+                "@type": "dcat:Distribution",
+                "title": "South Bay Ocean Outfall (SBOO) 2021 ADCP measurements (nor) November deployment 4",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2021/SBOO_04_norNewQC_2021_11_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+            },
+            {
+                "@type": "dcat:Distribution",
+                "title": "South Bay Ocean Outfall (SBOO) 2021 ADCP measurements (ver) November deployment 4",
+                "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers_2021/SBOO_04_verNewQC_2021_11_datasd.csv",
+                "mediaType": "text/csv",
+                "format": "csv"
+            }
+            ],
+            "identifier": "monitoring_acoustic_doppler_current_profilers_2021",
+            "issued": "2017-06-30",
+            "keyword": [
+                "Water quality",
+                "Ocean water"
+            ],
+            "license": "https://opendefinition.org/licenses/odc-pddl/",
+            "modified": "2026-07-21",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Public Utilities",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "City of San Diego"
+                }
+            },
+            "references": null,
+            "rights": null,
+            "spatial": null,
+            "temporal": null,
+            "title": "Acoustic Doppler Current Profiler Measurements - Ocean Monitoring Program - 2021"
+        }, 
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
             "accrualPeriodicity": "R/P1D",
             "contactPoint": {
                 "@type": "vcard:Contact",
@@ -4496,6 +5980,20 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
+                    "title": "Point Loma Ocean Outfall (PLOO) 2024 RTOMS ocean chemistry measurements",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_ocean_chemistry/PLOO_ocean_chemistry_2024_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "South Bay Ocean Outfall (SBOO) 2024 RTOMS ocean chemistry measurements",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_ocean_chemistry/SBOO_ocean_chemistry_2024_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
                     "title": "Point Loma Ocean Outfall (PLOO) 2023 RTOMS ocean chemistry measurements",
                     "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_ocean_chemistry/PLOO_ocean_chemistry_2023_datasd.csv",
                     "mediaType": "text/csv",
@@ -4524,43 +6022,29 @@
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "PLOO 2021 RTOMS ocean chemistry measurements",
+                    "title": "Point Loma Ocean Outfall (PLOO) 2021 RTOMS ocean chemistry measurements",
                     "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_ocean_chemistry/PLOO_ocean_chemistry_2021_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "SBOO 2021 RTOMS ocean chemistry measurements",
+                    "title": "South Bay Ocean Outfall (SBOO) 2021 RTOMS ocean chemistry measurements",
                     "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_ocean_chemistry/SBOO_ocean_chemistry_2021_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "PLOO 2020 RTOMS ocean chemistry measurements",
+                    "title": "Point Loma Ocean Outfall (PLOO) 2020 RTOMS ocean chemistry measurements",
                     "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_ocean_chemistry/PLOO_ocean_chemistry_2020_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "SBOO 2020 RTOMS ocean chemistry measurements",
+                    "title": "South Bay Ocean Outfall (SBOO) 2020 RTOMS ocean chemistry measurements",
                     "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_ocean_chemistry/SBOO_ocean_chemistry_2020_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Parameter dictionary",
-                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms/rtoms_parameter_dictionary_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Qualifier dictionary",
-                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms/rtoms_qualifier_dictionary_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 }
@@ -4605,6 +6089,20 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
+                    "title": "Point Loma Ocean Outfall (PLOO) 2024 RTOMS salinity measurements",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_salinity/PLOO_salinity_2024_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "South Bay Ocean Outfall (SBOO) 2024 RTOMS salinity measurements",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_salinity/SBOO_salinity_2024_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
                     "title": "Point Loma Ocean Outfall (PLOO) 2023 RTOMS salinity measurements",
                     "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_salinity/PLOO_salinity_2023_datasd.csv",
                     "mediaType": "text/csv",
@@ -4633,43 +6131,29 @@
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "PLOO 2021 RTOMS salinity measurements",
+                    "title": "Point Loma Ocean Outfall (PLOO) 2021 RTOMS salinity measurements",
                     "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_salinity/PLOO_salinity_2021_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "SBOO 2021 RTOMS salinity measurements",
+                    "title": "South Bay Ocean Outfall (SBOO) 2021 RTOMS salinity measurements",
                     "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_salinity/SBOO_salinity_2021_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "PLOO 2020 RTOMS salinity measurements",
+                    "title": "Point Loma Ocean Outfall (PLOO) 2020 RTOMS salinity measurements",
                     "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_salinity/PLOO_salinity_2020_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "SBOO 2020 RTOMS salinity measurements",
+                    "title": "South Bay Ocean Outfall (SBOO) 2020 RTOMS salinity measurements",
                     "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_salinity/SBOO_salinity_2020_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Parameter dictionary",
-                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms/rtoms_parameter_dictionary_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Qualifier dictionary",
-                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms/rtoms_qualifier_dictionary_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 }
@@ -4714,6 +6198,20 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
+                    "title": "Point Loma Ocean Outfall (PLOO) 2024 RTOMS water quality measurements",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_water_quality/PLOO_water_quality_2024_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "South Bay Ocean Outfall (SBOO) 2024 RTOMS water quality measurements",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_water_quality/SBOO_water_quality_2024_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
                     "title": "Point Loma Ocean Outfall (PLOO) 2023 RTOMS water quality measurements",
                     "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_water_quality/PLOO_water_quality_2023_datasd.csv",
                     "mediaType": "text/csv",
@@ -4742,43 +6240,29 @@
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "PLOO 2021 RTOMS water quality measurements",
+                    "title": "Point Loma Ocean Outfall (PLOO) 2021 RTOMS water quality measurements",
                     "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_water_quality/PLOO_water_quality_2021_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "SBOO 2021 RTOMS water quality measurements",
+                    "title": "South Bay Ocean Outfall (SBOO) 2021 RTOMS water quality measurements",
                     "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_water_quality/SBOO_water_quality_2021_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "PLOO 2020 RTOMS water quality measurements",
+                    "title": "Point Loma Ocean Outfall (PLOO) 2020 RTOMS water quality measurements",
                     "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_water_quality/PLOO_water_quality_2020_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "SBOO 2020 RTOMS water quality measurements",
+                    "title": "South Bay Ocean Outfall (SBOO) 2020 RTOMS water quality measurements",
                     "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_water_quality/SBOO_water_quality_2020_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Parameter dictionary",
-                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms/rtoms_parameter_dictionary_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Qualifier dictionary",
-                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms/rtoms_qualifier_dictionary_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 }
@@ -4823,6 +6307,20 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
+                    "title": "Point Loma Ocean Outfall (PLOO) 2024 RTOMS water temperature measurements",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_water_temperature/PLOO_water_temperature_2024_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "South Bay Ocean Outfall (SBOO) 2024 RTOMS water temperature measurements",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_water_temperature/SBOO_water_temperature_2024_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
                     "title": "Point Loma Ocean Outfall (PLOO) 2023 RTOMS water temperature measurements",
                     "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_water_temperature/PLOO_water_temperature_2023_datasd.csv",
                     "mediaType": "text/csv",
@@ -4851,43 +6349,29 @@
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "PLOO 2021 RTOMS water temperature measurements",
+                    "title": "Point Loma Ocean Outfall (PLOO) 2021 RTOMS water temperature measurements",
                     "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_water_temperature/PLOO_water_temperature_2021_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "SBOO 2021 RTOMS water temperature measurements",
+                    "title": "South Bay Ocean Outfall (SBOO) 2021 RTOMS water temperature measurements",
                     "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_water_temperature/SBOO_water_temperature_2021_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "PLOO 2020 RTOMS water temperature measurements",
+                    "title": "Point Loma Ocean Outfall (PLOO) 2020 RTOMS water temperature measurements",
                     "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_water_temperature/PLOO_water_temperature_2020_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "SBOO 2020 RTOMS water temperature measurements",
+                    "title": "South Bay Ocean Outfall (SBOO) 2020 RTOMS water temperature measurements",
                     "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_water_temperature/SBOO_water_temperature_2020_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Parameter dictionary",
-                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms/rtoms_parameter_dictionary_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Qualifier dictionary",
-                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms/rtoms_qualifier_dictionary_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 }
