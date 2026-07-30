@@ -4926,7 +4926,7 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/monitoring_ocean_sediment/sediment_quality_dictionary_datasd.csv",
+            "describedBy": "https://seshat.datasd.org/monitoring_ocean_sediment_quality/sediment_quality_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "description": "Particle size and sediment chemistry concentrations in samples collected from benthic stations throughout the region.",
             "distribution": [
