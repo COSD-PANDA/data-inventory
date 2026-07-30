@@ -4936,13 +4936,6 @@
                     "downloadURL": "https://seshat.datasd.org/monitoring_ocean_sediment_quality/sediment_quality_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Sediment Quality Sampling Station Locations",
-                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_sediment_quality/reference_stations_sediment_quality.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
                 }
             ],
             "identifier": "monitoring_ocean_sediment_quality",
@@ -4961,7 +4954,9 @@
                     "name": "City of San Diego"
                 }
             },
-            "references": null,
+            "references": [
+                "https://seshat.datasd.org/monitoring_ocean_sediment_quality/reference_stations_sediment_quality.csv"
+            ],
             "rights": null,
             "spatial": null,
             "temporal": null,
