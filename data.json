@@ -4933,14 +4933,14 @@
                 {
                     "@type": "dcat:Distribution",
                     "title": "Sediment Quality Sample Results",
-                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_sediment/sediment_quality_datasd.csv",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_sediment_quality/sediment_quality_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
                     "@type": "dcat:Distribution",
                     "title": "Sediment Quality Sampling Station Locations",
-                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_sediment/reference_stations_sediment_quality.csv",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_sediment_quality/reference_stations_sediment_quality.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 }
