@@ -2470,13 +2470,15 @@
                 "GIS",
                 "Geospatial",
                 "Boundary",
-                "District"
+                "District",
+                "Transit",
+                "Parking"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
             "modified": "2024-03-20",
             "publisher": {
                 "@type": "org:Organization",
-                "name": "Planning",
+                "name": "Transportation",
                 "subOrganizationOf": {
                     "@type": "org:Organization",
                     "name": "City of San Diego"
