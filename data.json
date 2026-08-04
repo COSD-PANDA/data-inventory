@@ -35,7 +35,7 @@
                 "Finances"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-03",
+            "modified": "2026-07-31",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Department of Finance",
@@ -114,7 +114,7 @@
                 "Finances"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-06",
+            "modified": "2026-08-04",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "City Treasurer",
@@ -159,7 +159,7 @@
                 "Finances"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-03",
+            "modified": "2026-07-31",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Department of Finance",
@@ -204,7 +204,7 @@
                 "Finances"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-03",
+            "modified": "2026-07-31",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Department of Finance",
@@ -249,7 +249,7 @@
                 "Finances"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-03",
+            "modified": "2026-07-31",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Department of Finance",
@@ -294,7 +294,7 @@
                 "Finances"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-03",
+            "modified": "2026-07-31",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Department of Finance",
@@ -336,7 +336,7 @@
                 "Properties"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-06",
+            "modified": "2026-08-04",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Economic Development",
@@ -379,7 +379,7 @@
                 "Leases"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-06",
+            "modified": "2026-08-04",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Economic Development",
@@ -422,7 +422,7 @@
                 "Parcels"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-06",
+            "modified": "2026-08-04",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Economic Development",
@@ -465,7 +465,7 @@
                 "Art"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-06",
+            "modified": "2026-08-04",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Economic Development",
@@ -534,7 +534,7 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/cpp_complaints_evaluated/dictionary_FY25.csv",
+            "describedBy": "https://seshat.datasd.org/cpp_complaints_evaluated/cpp_cases_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "description": "Commission on Police Practices cases. CPP is an independent body that investigates officer-involved shootings, in-custody deaths, & other significant incidents in a process that is transparent and accountable to the community.",
             "distribution": [
@@ -574,7 +574,7 @@
             "rights": null,
             "spatial": null,
             "temporal": null,
-            "title": "Commission on Police Practices Cases"
+            "title": "Commission on Police Practices Cases 2019-2024"
         },
         {
             "@type": "dcat:Dataset",
@@ -585,7 +585,7 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/cpp_complaints_allegations/dictionary.csv",
+            "describedBy": "https://seshat.datasd.org/cpp_complaints_allegations/cpp_allegations_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "description": "Commission on Police Practices case allegations. CPP is an independent body that investigates officer-involved shootings, in-custody deaths, & other significant incidents in a process that is transparent and accountable to the community.",
             "distribution": [
@@ -625,7 +625,7 @@
             "rights": null,
             "spatial": null,
             "temporal": null,
-            "title": "Commission on Police Practices Case Allegations"
+            "title": "Commission on Police Practices Case Allegations 2019-2024"
         },
         {
             "@type": "dcat:Dataset",
@@ -636,7 +636,7 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/cpp_complaints_body_worn_camera/dictionary.csv",
+            "describedBy": "https://seshat.datasd.org/cpp_complaints_body_worn_camera/dictionary_bwc_CY2025_datasd.csv",
             "describedByType": "text/csv",
             "description": "Body-worn camera details in cases evaluated by the Commission on Police Practices. CPP is an independent body that investigates officer-involved shootings, in-custody deaths, & other significant incidents in a process that is transparent and accountable to the community.",
             "distribution": [
@@ -677,7 +677,7 @@
             "rights": null,
             "spatial": null,
             "temporal": null,
-            "title": "Commission on Police Practices Case Body-worn Camera Details"
+            "title": "Commission on Police Practices Case Body-worn Camera Details 2019-2024"
         },
         {
             "@type": "dcat:Dataset",
@@ -688,7 +688,7 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/cpp_complaints_complainants/dictionary.csv",
+            "describedBy": "https://seshat.datasd.org/cpp_complaints_complainants/cpp_complainants_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "description": "Complainants in cases evaluated by the Commission on Police Practices. CPP is an independent body that investigates officer-involved shootings, in-custody deaths, & other significant incidents in a process that is transparent and accountable to the community.",
             "distribution": [
@@ -729,7 +729,185 @@
             "rights": null,
             "spatial": null,
             "temporal": null,
-            "title": "Commission on Police Practices Case Complainants"
+            "title": "Commission on Police Practices Case Complainants 2019-2024"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "R/P1Y",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Data & Analytics",
+                "hasEmail": "data@sandiego.gov"
+            },
+            "describedBy": "https://seshat.datasd.org/cpp_complaints_evaluated_2025/dictionary_cases_CY2025_datasd.csv",
+            "describedByType": "text/csv",
+            "description": "Commission on Police Practices cases. CPP is an independent body that investigates officer-involved shootings, in-custody deaths, & other significant incidents in a process that is transparent and accountable to the community.",
+            "distribution": [
+                {
+                    "title": "Cases 2025",
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_evaluated_2025/cpp_cases_CY2025_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                }
+            ],
+            "identifier": "cpp_complaints_evaluated_2025",
+            "issued": "2026-07-16",
+            "keyword": [
+                "Commission on Police Practices",
+                "CPP",
+                "Police oversight"
+            ],
+            "license": "https://opendefinition.org/licenses/odc-pddl/",
+            "modified": "2026-07-10",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Commission on Police Practices",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "City of San Diego"
+                }
+            },
+            "references": null,
+            "rights": null,
+            "spatial": null,
+            "temporal": null,
+            "title": "Commission on Police Practices Cases 2025"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "R/P1Y",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Data & Analytics",
+                "hasEmail": "data@sandiego.gov"
+            },
+            "describedBy": "https://seshat.datasd.org/cpp_complaints_evaluated_allegations_2025/dictionary_allegations_CY2025_datasd.csv",
+            "describedByType": "text/csv",
+            "description": "Commission on Police Practices case allegations. CPP is an independent body that investigates officer-involved shootings, in-custody deaths, & other significant incidents in a process that is transparent and accountable to the community.",
+            "distribution": [
+                {
+                    "title": "Allegations 2025",
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_evaluated_allegations_2025/cpp_allegations_CY2025_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                }
+            ],
+            "identifier": "cpp_complaints_evaluated_allegations_2025",
+            "issued": "2026-07-16",
+            "keyword": [
+                "Commission on Police Practices",
+                "CPP",
+                "Police oversight"
+            ],
+            "license": "https://opendefinition.org/licenses/odc-pddl/",
+            "modified": "2026-07-16",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Commission on Police Practices",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "City of San Diego"
+                }
+            },
+            "references": null,
+            "rights": null,
+            "spatial": null,
+            "temporal": null,
+            "title": "Commission on Police Practices Case Allegations 2025"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "R/P1Y",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Data & Analytics",
+                "hasEmail": "data@sandiego.gov"
+            },
+            "describedBy": "https://seshat.datasd.org/cpp_complaints_evaluated_bwc_2025/dictionary_bwc_CY2025_datasd.csv",
+            "describedByType": "text/csv",
+            "description": "Body-worn camera details in cases evaluated by the Commission on Police Practices. CPP is an independent body that investigates officer-involved shootings, in-custody deaths, & other significant incidents in a process that is transparent and accountable to the community.",
+            "distribution": [
+                {
+                    "title": "Body worn camera details 2025",
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_evaluated_bwc_2025/cpp_bwc_CY2025_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                }
+            ],
+            "identifier": "cpp_complaints_evaluated_bwc_2025",
+            "issued": "2026-07-16",
+            "keyword": [
+                "Commission on Police Practices",
+                "CPP",
+                "Police oversight",
+                "Body-worn cameras"
+            ],
+            "license": "https://opendefinition.org/licenses/odc-pddl/",
+            "modified": "2026-07-10",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Commission on Police Practices",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "City of San Diego"
+                }
+            },
+            "references": null,
+            "rights": null,
+            "spatial": null,
+            "temporal": null,
+            "title": "Commission on Police Practices Case Body-worn Camera Details 2025"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "R/P1Y",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Data & Analytics",
+                "hasEmail": "data@sandiego.gov"
+            },
+            "describedBy": "https://seshat.datasd.org/cpp_complaints_complainants/dictionary_complainants_CY2025_datasd.csv",
+            "describedByType": "text/csv",
+            "description": "Complainants in cases evaluated by the Commission on Police Practices. CPP is an independent body that investigates officer-involved shootings, in-custody deaths, & other significant incidents in a process that is transparent and accountable to the community.",
+            "distribution": [
+                {
+                    "title": "Complainants 2025",
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_complainants/cpp_complainants_CY2025_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                }
+            ],
+            "identifier": "cpp_complaints_evaluated_complainants_2025",
+            "issued": "2026-07-16",
+            "keyword": [
+                "Commission on Police Practices",
+                "CPP",
+                "Police oversight",
+                "Body-worn cameras"
+            ],
+            "license": "https://opendefinition.org/licenses/odc-pddl/",
+            "modified": "2026-07-16",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Commission on Police Practices",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "City of San Diego"
+                }
+            },
+            "references": null,
+            "rights": null,
+            "spatial": null,
+            "temporal": null,
+            "title": "Commission on Police Practices Case Complainants 2025"
         },
         {
             "@type": "dcat:Dataset",
@@ -760,7 +938,7 @@
                 "Finances"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-03",
+            "modified": "2026-07-31",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Department of Finance",
@@ -895,7 +1073,7 @@
                 "Housing"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-06",
+            "modified": "2026-08-04",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Development Services",
@@ -1105,7 +1283,7 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": null,
+            "describedBy": "https://seshat.datasd.org/enterprise-system-information/it_sb272_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "description": "Catalog of City enterprise information technology systems.",
             "distribution": [
@@ -1280,7 +1458,7 @@
                 "911 calls"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-06",
+            "modified": "2026-08-04",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Fire-Rescue",
@@ -1304,7 +1482,7 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": null,
+            "describedBy": "https://seshat.datasd.org/fire_ems_problem_counts/fd_problem_nature_agg_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "description": "Monthly totals of problem types for Fire and EMS calls dispatched by the San Diego Fire Communications Center.",
             "distribution": [
@@ -1323,7 +1501,7 @@
                 "911 calls"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-06",
+            "modified": "2026-08-04",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Fire-Rescue",
@@ -1368,7 +1546,7 @@
                 "Finances"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-03",
+            "modified": "2026-07-31",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Department of Finance",
@@ -1413,7 +1591,7 @@
                 "Get it Done"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-06",
+            "modified": "2026-08-04",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Performance & Analytics",
@@ -1459,7 +1637,7 @@
                 "Get it Done"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-06",
+            "modified": "2026-08-04",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Performance & Analytics",
@@ -1505,7 +1683,7 @@
                 "Get it Done"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-06",
+            "modified": "2026-08-04",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Performance & Analytics",
@@ -1550,7 +1728,7 @@
                 "Get it Done"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-06",
+            "modified": "2026-08-04",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Performance & Analytics",
@@ -1735,7 +1913,7 @@
                 "Get it Done"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-06",
+            "modified": "2026-08-04",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Performance & Analytics",
@@ -1809,7 +1987,7 @@
             ],
             "landingPage": "https://geo.sandag.org/portal/home/item.html?id=e58eba41d6a349dd92e97e64b4e62074",
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-06-01",
+            "modified": "2026-07-06",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "SanGIS",
@@ -2154,7 +2332,7 @@
             ],
             "landingPage": "https://geo.sandag.org/portal/home/item.html?id=c034e931bd83403892eea61fdae5a6ae",
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-06-01",
+            "modified": "2026-07-06",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "SanGIS",
@@ -2670,7 +2848,7 @@
             ],
             "landingPage": "https://geo.sandag.org/portal/home/item.html?id=ee0d67267a7e421da75cbb03ae298393",
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-04-03",
+            "modified": "2026-06-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Development Services",
@@ -3038,7 +3216,7 @@
             ],
             "landingPage": "https://geo.sandag.org/portal/home/item.html?id=3c243bd4c1c84cb4a05da49a77dca24d",
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-05-22",
+            "modified": "2026-07-06",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Planning",
@@ -3186,7 +3364,7 @@
                 "Public safety"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-06-30",
+            "modified": "2026-08-04",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -3254,7 +3432,7 @@
                 "Public safety"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-06-30",
+            "modified": "2026-08-04",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -3320,7 +3498,7 @@
                 "Public safety"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-06-30",
+            "modified": "2026-08-04",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -3535,7 +3713,7 @@
                 "Local businesses"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-06-30",
+            "modified": "2026-08-04",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Economic Development",
@@ -3609,7 +3787,7 @@
             ],
             "landingPage": "https://geo.sandag.org/portal/home/item.html?id=66ca42638c794646aa85f689a613a5f2",
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-06-01",
+            "modified": "2026-07-06",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "SanGIS",
@@ -3684,7 +3862,7 @@
             ],
             "landingPage": "https://geo.sandag.org/portal/home/item.html?id=50ddd552137c416a8b67489df9bca199",
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-06-01",
+            "modified": "2026-07-06",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "SanGIS",
@@ -3750,7 +3928,7 @@
                 "Assets"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-06-30",
+            "modified": "2026-08-04",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Transportation Department",
@@ -3824,7 +4002,7 @@
             ],
             "landingPage": "https://geo.sandag.org/portal/home/item.html?id=f360cf92975b41768f648f559d0cc041",
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-04-03",
+            "modified": "2026-07-06",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "SanGIS",
@@ -3898,7 +4076,7 @@
             ],
             "landingPage": "https://geo.sandag.org/portal/home/item.html?id=6ab86a90327d4592b259d7f1c453d092",
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-04-03",
+            "modified": "2026-07-06",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "SanGIS",
@@ -4101,7 +4279,7 @@
                 "Drinking water"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-04-17",
+            "modified": "2026-08-04",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Public Utilities",
@@ -4144,7 +4322,7 @@
                 "Drinking water"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-04-17",
+            "modified": "2026-08-04",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Public Utilities",
@@ -4197,7 +4375,7 @@
                 "Drinking water"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-04-17",
+            "modified": "2026-08-04",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Public Utilities",
@@ -4231,13 +4409,6 @@
                     "@type": "dcat:Distribution",
                     "title": "Benthic Invertebrate Sample Results",
                     "downloadURL": "https://seshat.datasd.org/monitoring_ocean_benthic_invertebrates/benthic_invertebrates_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Sediment Quality Sampling Station Locations",
-                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_benthic_invertebrates/reference_stations_benthic.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 }
@@ -4285,13 +4456,6 @@
                     "downloadURL": "https://seshat.datasd.org/monitoring_ocean_fish_tissue/fish_tissue_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Fish Tissue Sampling Station Locations",
-                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_fish_tissue/reference_stations_fish_tissue.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
                 }
             ],
             "identifier": "monitoring_ocean_fish_tissue",
@@ -4335,13 +4499,6 @@
                     "@type": "dcat:Distribution",
                     "title": "ROTV Sample Results",
                     "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rotv/rotv_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "ROTV Parameter Definitions",
-                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rotv/rotv_parameter_definitions_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 }
@@ -4436,20 +4593,6 @@
                     "@type": "dcat:Distribution",
                     "title": "SBOO 2020 RTOMS ocean chemistry measurements",
                     "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_ocean_chemistry/SBOO_ocean_chemistry_2020_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Parameter dictionary",
-                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms/rtoms_parameter_dictionary_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Qualifier dictionary",
-                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms/rtoms_qualifier_dictionary_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 }
@@ -4547,20 +4690,6 @@
                     "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_salinity/SBOO_salinity_2020_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Parameter dictionary",
-                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms/rtoms_parameter_dictionary_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Qualifier dictionary",
-                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms/rtoms_qualifier_dictionary_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
                 }
             ],
             "identifier": "monitoring_ocean_rtoms_salinity",
@@ -4654,20 +4783,6 @@
                     "@type": "dcat:Distribution",
                     "title": "SBOO 2020 RTOMS water quality measurements",
                     "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_water_quality/SBOO_water_quality_2020_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Parameter dictionary",
-                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms/rtoms_parameter_dictionary_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Qualifier dictionary",
-                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms/rtoms_qualifier_dictionary_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 }
@@ -4765,20 +4880,6 @@
                     "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_water_temperature/SBOO_water_temperature_2020_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Parameter dictionary",
-                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms/rtoms_parameter_dictionary_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Qualifier dictionary",
-                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms/rtoms_qualifier_dictionary_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
                 }
             ],
             "identifier": "monitoring_ocean_rtoms_water_temperature",
@@ -4815,21 +4916,14 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/monitoring_ocean_sediment/sediment_quality_dictionary_datasd.csv",
+            "describedBy": "https://seshat.datasd.org/monitoring_ocean_sediment_quality/sediment_quality_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "description": "Particle size and sediment chemistry concentrations in samples collected from benthic stations throughout the region.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
                     "title": "Sediment Quality Sample Results",
-                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_sediment/sediment_quality_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Sediment Quality Sampling Station Locations",
-                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_sediment/reference_stations_sediment_quality.csv",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_sediment_quality/sediment_quality_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 }
@@ -4841,7 +4935,7 @@
                 "Ocean water"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2022-11-15",
+            "modified": "2026-07-30",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Public Utilities",
@@ -4850,7 +4944,9 @@
                     "name": "City of San Diego"
                 }
             },
-            "references": null,
+            "references": [
+                "https://seshat.datasd.org/monitoring_ocean_sediment_quality/reference_stations_sediment_quality.csv"
+            ],
             "rights": null,
             "spatial": null,
             "temporal": null,
@@ -4882,20 +4978,6 @@
                     "downloadURL": "https://seshat.datasd.org/monitoring_ocean_trawl_fish/trawl_fish_summary_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Fish Trawl Sampling Locations",
-                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_trawl_fish/reference_stations_fish_trawl.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Dictionary, class size",
-                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_trawl_fish/trawl_fish_dictionary_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
                 }
             ],
             "identifier": "monitoring_ocean_trawl_fish",
@@ -4905,7 +4987,7 @@
                 "Ocean water"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2024-08-21",
+            "modified": "2026-07-23",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Public Utilities",
@@ -4941,13 +5023,6 @@
                     "downloadURL": "https://seshat.datasd.org/monitoring_ocean_trawl_invertebrates/trawl_invertebrates_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Invertebrate Trawl Sampling Station Locations",
-                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_trawl_invertebrates/reference_stations_invertebrate_trawls.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
                 }
             ],
             "identifier": "monitoring_ocean_trawl_invertebrates",
@@ -4957,7 +5032,7 @@
                 "Ocean water"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2024-08-21",
+            "modified": "2026-07-23",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Public Utilities",
@@ -5014,13 +5089,6 @@
                     "downloadURL": "https://seshat.datasd.org/monitoring_ocean_water_quality/water_quality_1990_1999_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Parameter Testing Station Locations",
-                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_water_quality/reference_stations_water_quality.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
                 }
             ],
             "identifier": "monitoring_ocean_water_quality",
@@ -5075,7 +5143,7 @@
                 "Actuals"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-03",
+            "modified": "2026-07-31",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Department of Finance",
@@ -5118,7 +5186,7 @@
                 "Budget"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-03",
+            "modified": "2026-07-31",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Department of Finance",
@@ -5411,7 +5479,7 @@
                 "Assets"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-05",
+            "modified": "2026-08-03",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "City Treasurer",
@@ -5490,7 +5558,7 @@
                 "Finances"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-01",
+            "modified": "2026-07-16",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "City Treasurer",
@@ -5569,7 +5637,7 @@
                 "Finances"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-06-30",
+            "modified": "2026-07-25",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "City Treasurer",
@@ -5648,7 +5716,7 @@
                 "Finances"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-06-30",
+            "modified": "2026-07-16",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "City Treasurer",
@@ -6096,7 +6164,7 @@
                 "Public safety"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-06",
+            "modified": "2026-08-04",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -6186,7 +6254,7 @@
                 "Crimes"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-06",
+            "modified": "2026-08-04",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -6292,7 +6360,7 @@
                 "Police stops"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-06",
+            "modified": "2026-08-04",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -6344,7 +6412,7 @@
                 "Police stops"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-06",
+            "modified": "2026-08-04",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -6389,7 +6457,7 @@
                 "Police stops"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-06-27",
+            "modified": "2026-08-02",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -6486,7 +6554,7 @@
                 "Police stops"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-06-27",
+            "modified": "2026-08-02",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -6538,7 +6606,7 @@
                 "Police stops"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-06",
+            "modified": "2026-08-04",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -6590,7 +6658,7 @@
                 "Police stops"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-06",
+            "modified": "2026-08-04",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -6642,7 +6710,7 @@
                 "Police stops"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-06",
+            "modified": "2026-08-04",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -6694,7 +6762,7 @@
                 "Police stops"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-06",
+            "modified": "2026-08-04",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -6746,7 +6814,7 @@
                 "Police stops"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-06",
+            "modified": "2026-08-04",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -6798,7 +6866,7 @@
                 "Police stops"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-06",
+            "modified": "2026-08-04",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -6850,7 +6918,7 @@
                 "Police stops"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-06-27",
+            "modified": "2026-08-02",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -7051,7 +7119,7 @@
                 "Assets"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-03",
+            "modified": "2026-07-31",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Department of Finance",
@@ -7095,7 +7163,7 @@
                 "Finances"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-06",
+            "modified": "2026-08-04",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "City Treasurer",
@@ -7119,7 +7187,7 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": null,
+            "describedBy": "https://seshat.datasd.org/special_events/special_events_list_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "description": "Details on events from Special Event Permit Applications.",
             "distribution": [
@@ -7248,7 +7316,7 @@
                 "Transit"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-06",
+            "modified": "2026-08-04",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Transportation Department",
@@ -7293,7 +7361,7 @@
                 "Transit"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-06",
+            "modified": "2026-08-04",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Transportation Department",
@@ -7344,7 +7412,7 @@
                 "Local businesses"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-06",
+            "modified": "2026-08-04",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "City Treasurer",
@@ -7390,7 +7458,7 @@
                 "Local businesses"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-06",
+            "modified": "2026-08-04",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "City Treasurer",
@@ -7440,7 +7508,7 @@
                 "Transit"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-06",
+            "modified": "2026-08-04",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -7485,7 +7553,7 @@
                 "Transit"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-06",
+            "modified": "2026-08-04",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
