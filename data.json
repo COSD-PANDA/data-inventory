@@ -534,7 +534,7 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/cpp_complaints_evaluated/dictionary_FY25.csv",
+            "describedBy": "https://seshat.datasd.org/cpp_complaints_evaluated/cpp_cases_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "description": "Commission on Police Practices cases. CPP is an independent body that investigates officer-involved shootings, in-custody deaths, & other significant incidents in a process that is transparent and accountable to the community.",
             "distribution": [
@@ -585,7 +585,7 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/cpp_complaints_allegations/dictionary.csv",
+            "describedBy": "https://seshat.datasd.org/cpp_complaints_allegations/cpp_allegations_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "description": "Commission on Police Practices case allegations. CPP is an independent body that investigates officer-involved shootings, in-custody deaths, & other significant incidents in a process that is transparent and accountable to the community.",
             "distribution": [
@@ -636,7 +636,7 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/cpp_complaints_body_worn_camera/dictionary.csv",
+            "describedBy": "https://seshat.datasd.org/cpp_complaints_body_worn_camera/dictionary_bwc_CY2025_datasd.csv",
             "describedByType": "text/csv",
             "description": "Body-worn camera details in cases evaluated by the Commission on Police Practices. CPP is an independent body that investigates officer-involved shootings, in-custody deaths, & other significant incidents in a process that is transparent and accountable to the community.",
             "distribution": [
@@ -688,7 +688,7 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/cpp_complaints_complainants/dictionary.csv",
+            "describedBy": "https://seshat.datasd.org/cpp_complaints_complainants/cpp_complainants_dictionary_datasd.csv.csv",
             "describedByType": "text/csv",
             "description": "Complainants in cases evaluated by the Commission on Police Practices. CPP is an independent body that investigates officer-involved shootings, in-custody deaths, & other significant incidents in a process that is transparent and accountable to the community.",
             "distribution": [
@@ -1283,7 +1283,7 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": null,
+            "describedBy": "https://seshat.datasd.org/enterprise-system-information/it_sb272_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "description": "Catalog of City enterprise information technology systems.",
             "distribution": [
@@ -1482,7 +1482,7 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": null,
+            "describedBy": "https://seshat.datasd.org/fire_ems_problem_counts/fd_problem_nature_agg_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "description": "Monthly totals of problem types for Fire and EMS calls dispatched by the San Diego Fire Communications Center.",
             "distribution": [
@@ -6905,7 +6905,7 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": null,
+            "describedBy": "https://seshat.datasd.org/special_events/special_events_list_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "description": "Details on events from Special Event Permit Applications.",
             "distribution": [
