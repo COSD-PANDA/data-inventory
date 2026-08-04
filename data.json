@@ -688,7 +688,7 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/cpp_complaints_complainants/cpp_complainants_dictionary_datasd.csv.csv",
+            "describedBy": "https://seshat.datasd.org/cpp_complaints_complainants/cpp_complainants_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "description": "Complainants in cases evaluated by the Commission on Police Practices. CPP is an independent body that investigates officer-involved shootings, in-custody deaths, & other significant incidents in a process that is transparent and accountable to the community.",
             "distribution": [
