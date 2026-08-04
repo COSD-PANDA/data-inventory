@@ -5582,7 +5582,7 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/parking_meters_transactions/meters_transactions_monthly_dictionary_datasd.csv",
+            "describedBy": "https://seshat.datasd.org/parking_meters_transactions_monthly/meters_transactions_monthly_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "description": "Total dollar amounts and transaction counts by month and parking meter",
             "distribution": [
@@ -5661,7 +5661,7 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/parking_meters_transactions/meters_transactions_daily_dictionary_datasd.csv",
+            "describedBy": "https://seshat.datasd.org/parking_meters_transactions_daily/meters_transactions_daily_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "description": "Total dollar amounts and transaction counts by day and parking meter",
             "distribution": [
