@@ -114,7 +114,7 @@
                 "Finances"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-08-04",
+            "modified": "2026-08-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "City Treasurer",
@@ -336,7 +336,7 @@
                 "Properties"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-08-04",
+            "modified": "2026-08-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Economic Development",
@@ -379,7 +379,7 @@
                 "Leases"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-08-04",
+            "modified": "2026-08-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Economic Development",
@@ -422,7 +422,7 @@
                 "Parcels"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-08-04",
+            "modified": "2026-08-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Economic Development",
@@ -465,7 +465,7 @@
                 "Art"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-08-04",
+            "modified": "2026-08-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Economic Development",
@@ -1073,7 +1073,7 @@
                 "Housing"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-08-04",
+            "modified": "2026-08-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Development Services",
@@ -1458,7 +1458,7 @@
                 "911 calls"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-08-04",
+            "modified": "2026-08-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Fire-Rescue",
@@ -1501,7 +1501,7 @@
                 "911 calls"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-08-04",
+            "modified": "2026-08-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Fire-Rescue",
@@ -1591,7 +1591,7 @@
                 "Get it Done"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-08-04",
+            "modified": "2026-08-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Performance & Analytics",
@@ -1637,7 +1637,7 @@
                 "Get it Done"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-08-04",
+            "modified": "2026-08-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Performance & Analytics",
@@ -1683,7 +1683,7 @@
                 "Get it Done"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-08-04",
+            "modified": "2026-08-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Performance & Analytics",
@@ -1728,7 +1728,7 @@
                 "Get it Done"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-08-04",
+            "modified": "2026-08-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Performance & Analytics",
@@ -1913,7 +1913,7 @@
                 "Get it Done"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-08-04",
+            "modified": "2026-08-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Performance & Analytics",
@@ -2475,7 +2475,7 @@
                 "Parking"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2024-03-20",
+            "modified": "2026-07-06",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Transportation",
@@ -4280,7 +4280,7 @@
                 "Drinking water"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-08-04",
+            "modified": "2026-08-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Public Utilities",
@@ -4323,7 +4323,7 @@
                 "Drinking water"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-08-04",
+            "modified": "2026-08-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Public Utilities",
@@ -4376,7 +4376,7 @@
                 "Drinking water"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-08-04",
+            "modified": "2026-08-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Public Utilities",
@@ -4421,7 +4421,7 @@
                 "Ocean water"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2024-08-21",
+            "modified": "2026-08-04",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Public Utilities",
@@ -5427,7 +5427,7 @@
                 "Finances"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-05",
+            "modified": "2026-08-04",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "City Treasurer",
@@ -5480,7 +5480,7 @@
                 "Assets"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-08-03",
+            "modified": "2026-08-04",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "City Treasurer",
@@ -5761,7 +5761,7 @@
                 "Finances"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-06-30",
+            "modified": "2026-07-14",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "City Treasurer",
@@ -5805,7 +5805,7 @@
                 "Parking Demand Management Study"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-15",
+            "modified": "2025-03-25",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Transportation Department",
@@ -5814,7 +5814,9 @@
                     "name": "City of San Diego"
                 }
             },
-            "references": ["https://sandiego.hylandcloud.com/211agendaonlinecomm/Documents/ViewDocument/FINAL%20San%20Diego_Parking%20Demand%20Management%20Study_01.21.2025.pdf.pdf?meetingId=6311&documentType=Agenda&itemId=242165&publishId=939139&isSection=false"],
+            "references": [
+                "https://sandiego.hylandcloud.com/211agendaonlinecomm/Documents/ViewDocument/FINAL%20San%20Diego_Parking%20Demand%20Management%20Study_01.21.2025.pdf.pdf?meetingId=6311&documentType=Agenda&itemId=242165&publishId=939139&isSection=false"
+            ],
             "rights": null,
             "spatial": null,
             "temporal": null,
@@ -5849,7 +5851,7 @@
                 "Parking Demand Management Study"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-15",
+            "modified": "2025-03-25",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Transportation Department",
@@ -5858,7 +5860,9 @@
                     "name": "City of San Diego"
                 }
             },
-            "references": ["https://sandiego.hylandcloud.com/211agendaonlinecomm/Documents/ViewDocument/FINAL%20San%20Diego_Parking%20Demand%20Management%20Study_01.21.2025.pdf.pdf?meetingId=6311&documentType=Agenda&itemId=242165&publishId=939139&isSection=false"],
+            "references": [
+                "https://sandiego.hylandcloud.com/211agendaonlinecomm/Documents/ViewDocument/FINAL%20San%20Diego_Parking%20Demand%20Management%20Study_01.21.2025.pdf.pdf?meetingId=6311&documentType=Agenda&itemId=242165&publishId=939139&isSection=false"
+            ],
             "rights": null,
             "spatial": null,
             "temporal": null,
@@ -5893,7 +5897,7 @@
                 "Parking Demand Management Study"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-15",
+            "modified": "2025-03-25",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Transportation Department",
@@ -5902,7 +5906,9 @@
                     "name": "City of San Diego"
                 }
             },
-            "references": ["https://sandiego.hylandcloud.com/211agendaonlinecomm/Documents/ViewDocument/FINAL%20San%20Diego_Parking%20Demand%20Management%20Study_01.21.2025.pdf.pdf?meetingId=6311&documentType=Agenda&itemId=242165&publishId=939139&isSection=false"],
+            "references": [
+                "https://sandiego.hylandcloud.com/211agendaonlinecomm/Documents/ViewDocument/FINAL%20San%20Diego_Parking%20Demand%20Management%20Study_01.21.2025.pdf.pdf?meetingId=6311&documentType=Agenda&itemId=242165&publishId=939139&isSection=false"
+            ],
             "rights": null,
             "spatial": null,
             "temporal": null,
@@ -5937,7 +5943,7 @@
                 "Parking Demand Management Study"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-15",
+            "modified": "2025-03-25",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Transportation Department",
@@ -5946,7 +5952,9 @@
                     "name": "City of San Diego"
                 }
             },
-            "references": ["https://sandiego.hylandcloud.com/211agendaonlinecomm/Documents/ViewDocument/FINAL%20San%20Diego_Parking%20Demand%20Management%20Study_01.21.2025.pdf.pdf?meetingId=6311&documentType=Agenda&itemId=242165&publishId=939139&isSection=false"],
+            "references": [
+                "https://sandiego.hylandcloud.com/211agendaonlinecomm/Documents/ViewDocument/FINAL%20San%20Diego_Parking%20Demand%20Management%20Study_01.21.2025.pdf.pdf?meetingId=6311&documentType=Agenda&itemId=242165&publishId=939139&isSection=false"
+            ],
             "rights": null,
             "spatial": null,
             "temporal": null,
@@ -5995,7 +6003,7 @@
                 "Parking Demand Management Study"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-15",
+            "modified": "2026-07-17",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Transportation Department",
@@ -6004,7 +6012,9 @@
                     "name": "City of San Diego"
                 }
             },
-            "references": ["https://sandiego.hylandcloud.com/211agendaonlinecomm/Documents/ViewDocument/FINAL%20San%20Diego_Parking%20Demand%20Management%20Study_01.21.2025.pdf.pdf?meetingId=6311&documentType=Agenda&itemId=242165&publishId=939139&isSection=false"],
+            "references": [
+                "https://sandiego.hylandcloud.com/211agendaonlinecomm/Documents/ViewDocument/FINAL%20San%20Diego_Parking%20Demand%20Management%20Study_01.21.2025.pdf.pdf?meetingId=6311&documentType=Agenda&itemId=242165&publishId=939139&isSection=false"
+            ],
             "rights": null,
             "spatial": null,
             "temporal": null,
@@ -6165,7 +6175,7 @@
                 "Public safety"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-08-04",
+            "modified": "2026-08-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -6255,7 +6265,7 @@
                 "Crimes"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-08-04",
+            "modified": "2026-08-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -6361,7 +6371,7 @@
                 "Police stops"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-08-04",
+            "modified": "2026-08-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -6413,7 +6423,7 @@
                 "Police stops"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-08-04",
+            "modified": "2026-08-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -6607,7 +6617,7 @@
                 "Police stops"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-08-04",
+            "modified": "2026-08-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -6659,7 +6669,7 @@
                 "Police stops"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-08-04",
+            "modified": "2026-08-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -6711,7 +6721,7 @@
                 "Police stops"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-08-04",
+            "modified": "2026-08-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -6763,7 +6773,7 @@
                 "Police stops"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-08-04",
+            "modified": "2026-08-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -6815,7 +6825,7 @@
                 "Police stops"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-08-04",
+            "modified": "2026-08-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -6867,7 +6877,7 @@
                 "Police stops"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-08-04",
+            "modified": "2026-08-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -7164,7 +7174,7 @@
                 "Finances"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-08-04",
+            "modified": "2026-08-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "City Treasurer",
@@ -7317,7 +7327,7 @@
                 "Transit"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-08-04",
+            "modified": "2026-08-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Transportation Department",
@@ -7362,7 +7372,7 @@
                 "Transit"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-08-04",
+            "modified": "2026-08-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Transportation Department",
@@ -7413,7 +7423,7 @@
                 "Local businesses"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-08-04",
+            "modified": "2026-08-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "City Treasurer",
@@ -7459,7 +7469,7 @@
                 "Local businesses"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-08-04",
+            "modified": "2026-08-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "City Treasurer",
@@ -7509,7 +7519,7 @@
                 "Transit"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-08-04",
+            "modified": "2026-08-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -7554,7 +7564,7 @@
                 "Transit"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-08-04",
+            "modified": "2026-08-05",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
