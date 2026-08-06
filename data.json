@@ -5417,6 +5417,13 @@
                     "downloadURL": "https://seshat.datasd.org/parking_citations/parking_citations_2026_part1_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Parking Citations 2026, July-Dec",
+                    "downloadURL": "https://seshat.datasd.org/parking_citations/parking_citations_2026_part2_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
                 }
             ],
             "identifier": "parking_citations",
