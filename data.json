@@ -2431,7 +2431,7 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "",
+            "describedBy": "https://seshat.datasd.org/gis_community_parking_district/community_parking_district_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "description": "Community Parking Districts (CPD) are established by the San Diego City Council and provide a mechanism for communities to develop and implement neighborhood-specific strategies to meet their specific needs and address parking impacts. Council Policy 100-18 specifies the procedures for establishing and managing a CPD.",
             "distribution": [
@@ -3672,7 +3672,7 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": null,
+            "describedBy": "https://seshat.datasd.org/gis_revolving_loan_fund_coverage/rev_loan_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "description": "The San Diego Regional Revolving Loan Fund operates in San Diego and Chula Vista to provide small business assistance and generate neighborhood commercial district revitalization.",
             "distribution": [
@@ -3887,7 +3887,7 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": null,
+            "describedBy": "https://seshat.datasd.org/gis_streets_repair_segs/sd_paving_segs_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "description": "Shapefile of the City's street network. This shapefile contains the street segments identified in our streets repair projects and Overall Condition Index datasets.",
             "distribution": [
