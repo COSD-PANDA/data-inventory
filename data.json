@@ -7628,6 +7628,267 @@
             "spatial": null,
             "temporal": null,
             "title": "Traffic Counts"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "R/P6M",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Data & Analytics",
+                "hasEmail": "data@sandiego.gov"
+            },
+            "describedBy": "https://seshat.datasd.org/campaign_finance_monetary_contributions_received/form_460a_dictionary_datasd.csv",
+            "describedByType": "text/csv",
+            "description": "Monetary contributions received by election committees from financial supporters.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Monetary Contributions Received by Election Committees (2026)",
+                    "downloadURL": "https://seshat.datasd.org/campaign_finance_monetary_contributions_received/form_460a_2026_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Monetary Contributions Received by Election Committees (2025)",
+                    "downloadURL": "https://seshat.datasd.org/campaign_finance_monetary_contributions_received/form_460a_2025_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Monetary Contributions Received by Election Committees (2024)",
+                    "downloadURL": "https://seshat.datasd.org/campaign_finance_monetary_contributions_received/form_460a_2024_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Monetary Contributions Received by Election Committees (2023)",
+                    "downloadURL": "https://seshat.datasd.org/campaign_finance_monetary_contributions_received/form_460a_2023_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Monetary Contributions Received by Election Committees (2022)",
+                    "downloadURL": "https://seshat.datasd.org/campaign_finance_monetary_contributions_received/form_460a_2022_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Monetary Contributions Received by Election Committees (2021)",
+                    "downloadURL": "https://seshat.datasd.org/campaign_finance_monetary_contributions_received/form_460a_2021_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Monetary Contributions Received by Election Committees (2020)",
+                    "downloadURL": "https://seshat.datasd.org/campaign_finance_monetary_contributions_received/form_460a_2020_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                }
+            ],
+            "identifier": "campaign_finance_monetary_contributions_received",
+            "issued": "2020-01-01",
+            "keyword": [
+                "Elections",
+                "Financial disclosure",
+                "Campaign finance",
+                "Monetary contributions"
+            ],
+            "license": "https://opendefinition.org/licenses/odc-pddl/",
+            "modified": "2026-08-21",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "City Clerk",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "City of San Diego"
+                }
+            },
+            "references": null,
+            "rights": null,
+            "spatial": null,
+            "temporal": null,
+            "title": "FPPC Form 460 Schedule A: Monetary Contributions Received by Election Committees"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "R/P6M",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Data & Analytics",
+                "hasEmail": "data@sandiego.gov"
+            },
+            "describedBy": "https://seshat.datasd.org/campaign_finance_loans_received/form_460b_dictionary_datasd.csv",
+            "describedByType": "text/csv",
+            "description": "Loans received by election committees from financial supporters.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Loans Received by Election Committees (2026)",
+                    "downloadURL": "https://seshat.datasd.org/campaign_finance_loans_received/form_460b_2026_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Loans Received by Election Committees (2025)",
+                    "downloadURL": "https://seshat.datasd.org/campaign_finance_loans_received/form_460b_2025_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Loans Received by Election Committees (2024)",
+                    "downloadURL": "https://seshat.datasd.org/campaign_finance_loans_received/form_460b_2024_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Loans Received by Election Committees (2023)",
+                    "downloadURL": "https://seshat.datasd.org/campaign_finance_loans_received/form_460b_2023_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Loans Received by Election Committees (2022)",
+                    "downloadURL": "https://seshat.datasd.org/campaign_finance_loans_received/form_460b_2022_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Loans Received by Election Committees (2021)",
+                    "downloadURL": "https://seshat.datasd.org/campaign_finance_loans_received/form_460b_2021_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Loans Received by Election Committees (2020)",
+                    "downloadURL": "https://seshat.datasd.org/campaign_finance_loans_received/form_460b_2020_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                }
+            ],
+            "identifier": "campaign_finance_loans_received",
+            "issued": "2020-01-01",
+            "keyword": [
+                "Elections",
+                "Financial disclosure",
+                "Campaign finance",
+                "Monetary contributions"
+            ],
+            "license": "https://opendefinition.org/licenses/odc-pddl/",
+            "modified": "2026-08-21",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "City Clerk",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "City of San Diego"
+                }
+            },
+            "references": null,
+            "rights": null,
+            "spatial": null,
+            "temporal": null,
+            "title": "FPPC Form 460 Schedule B: Loans Received by Election Committees"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "R/P6M",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Data & Analytics",
+                "hasEmail": "data@sandiego.gov"
+            },
+            "describedBy": "https://seshat.datasd.org/campaign_finance_nonmonetary_contributions_received/form_460c_dictionary_datasd.csv",
+            "describedByType": "text/csv",
+            "description": "Nonmonetary contributions received by election committees from financial supporters.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Nonmonetary Contributions Received by Election Committees (2026)",
+                    "downloadURL": "https://seshat.datasd.org/campaign_finance_nonmonetary_contributions_received/form_460c_2026_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Nonmonetary Contributions Received by Election Committees (2025)",
+                    "downloadURL": "https://seshat.datasd.org/campaign_finance_nonmonetary_contributions_received/form_460c_2025_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Nonmonetary Contributions Received by Election Committees (2024)",
+                    "downloadURL": "https://seshat.datasd.org/campaign_finance_nonmonetary_contributions_received/form_460c_2024_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Nonmonetary Contributions Received by Election Committees (2023)",
+                    "downloadURL": "https://seshat.datasd.org/campaign_finance_nonmonetary_contributions_received/form_460c_2023_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Nonmonetary Contributions Received by Election Committees (2022)",
+                    "downloadURL": "https://seshat.datasd.org/campaign_finance_nonmonetary_contributions_received/form_460c_2022_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Nonmonetary Contributions Received by Election Committees (2021)",
+                    "downloadURL": "https://seshat.datasd.org/campaign_finance_nonmonetary_contributions_received/form_460c_2021_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Nonmonetary Contributions Received by Election Committees (2020)",
+                    "downloadURL": "https://seshat.datasd.org/campaign_finance_nonmonetary_contributions_received/form_460c_2020_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                }
+            ],
+            "identifier": "campaign_finance_nonmonetary_contributions_received",
+            "issued": "2020-01-01",
+            "keyword": [
+                "Elections",
+                "Financial disclosure",
+                "Campaign finance",
+                "Nonmonetary contributions"
+            ],
+            "license": "https://opendefinition.org/licenses/odc-pddl/",
+            "modified": "2026-08-21",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "City Clerk",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "City of San Diego"
+                }
+            },
+            "references": null,
+            "rights": null,
+            "spatial": null,
+            "temporal": null,
+            "title": "FPPC Form 460 Schedule C: Nonmonetary Contributions Received by Election Committees"
         }
     ]
 }
