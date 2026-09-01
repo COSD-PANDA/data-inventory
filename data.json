@@ -7510,13 +7510,6 @@
                     "downloadURL": "https://seshat.datasd.org/traffic_collision_details/pd_collisions_details_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "person_veh_type dictionary",
-                    "downloadURL": "https://seshat.datasd.org/traffic_collision_details/person_veh_type_dictionary_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
                 }
             ],
             "identifier": "traffic_collision_details",
