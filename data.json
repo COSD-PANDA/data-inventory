@@ -6195,7 +6195,8 @@
                 "https://seshat.datasd.org/police_calls_for_service/pd_dispo_codes_historical_datasd.csv",
                 "https://seshat.datasd.org/police_calls_for_service/pd_dispo_codes_datasd.csv",
                 "https://seshat.datasd.org/police_calls_for_service/pd_cfs_calltypes_historical_datasd.csv",
-                "https://seshat.datasd.org/police_calls_for_service/pd_cfs_calltypes_datasd.csv"
+                "https://seshat.datasd.org/police_calls_for_service/pd_cfs_calltypes_datasd.csv",
+                "https://seshat.datasd.org/police_calls_for_service/pd_cfs_priority_defs_datasd.pdf"
             ],
             "rights": null,
             "spatial": null,
