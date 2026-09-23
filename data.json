@@ -388,7 +388,10 @@
                     "name": "City of San Diego"
                 }
             },
-            "references": null,
+            "references": [
+                "https://seshat.datasd.org/city_owned_properties_leases/leases_rent_code_dictionary_datasd.csv",
+                "https://seshat.datasd.org/city_owned_properties_leases/leases_rent_code_components_datasd.csv"
+            ],
             "rights": null,
             "spatial": null,
             "temporal": null,
