@@ -4501,8 +4501,36 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "title": "ROTV Sample Results",
-                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rotv/rotv_datasd.csv",
+                    "title": "ROTV 2025",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rotv/scanfish_rotv_2025_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "ROTV 2024",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rotv/scanfish_rotv_2024_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "ROTV 2022",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rotv/scanfish_rotv_2022_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "ROTV 2021",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rotv/scanfish_rotv_2021_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "ROTV 2020",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rotv/scanfish_rotv_2020_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 }
@@ -4514,7 +4542,7 @@
                 "Ocean water"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2023-09-10",
+            "modified": "2026-09-24",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Public Utilities",
@@ -4523,9 +4551,7 @@
                     "name": "City of San Diego"
                 }
             },
-            "references": [
-                "https://seshat.datasd.org/monitoring_ocean_rotv/rotv_parameter_definitions_datasd.csv"
-            ],
+            "references": null,
             "rights": null,
             "spatial": null,
             "temporal": null,
