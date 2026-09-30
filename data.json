@@ -4434,7 +4434,8 @@
                 }
             },
             "references": [
-                "https://seshat.datasd.org/monitoring_ocean_benthic_invertebrates/reference_stations_benthic.csv"
+                "https://seshat.datasd.org/monitoring_ocean_benthic_invertebrates/reference_stations_benthic.csv",
+                "https://seshat.datasd.org/monitoring_ocean_benthic_invertebrates/benthic_invertebrates_species_list_datasd.csv"
             ],
             "rights": null,
             "spatial": null,
