@@ -7625,6 +7625,95 @@
             "spatial": null,
             "temporal": null,
             "title": "Traffic Counts"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "R/P1W",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Data & Analytics",
+                "hasEmail": "data@sandiego.gov"
+            },
+            "describedBy": "https://seshat.datasd.org/purchasing_contracting/goods_and_services_contract_spend_dictionary_datasd.csv",
+            "describedByType": "text/csv",
+            "description": "Contracts for Goods and Services Purchased by the City of San Diego.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Goods and Services Contract Spending",
+                    "downloadURL": "https://seshat.datasd.org/purchasing_contracting/goods_and_services_contract_spend_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                }
+            ],
+            "identifier": "goods_and_services_contract_spend",
+            "issued": "2016-05-17",
+            "keyword": [
+                "Goods and services expenditures",
+                "Vendor contracts",
+                "Procurement",
+                "Municipal Spending"
+            ],
+            "license": "https://opendefinition.org/licenses/odc-pddl/",
+            "modified": "2023-04-01",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Purchasing & Contracting",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "City of San Diego"
+                }
+            },
+            "references": null,
+            "rights": null,
+            "spatial": null,
+            "temporal": null,
+            "title": "Goods and Services Contract Spending"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "R/P1W",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Data & Analytics",
+                "hasEmail": "data@sandiego.gov"
+            },
+            "describedBy": "https://seshat.datasd.org/purchasing_contracting/purchase_order_vendors_dictionary_datasd.csv",
+            "describedByType": "text/csv",
+            "description": "Purchase order details including vendor information.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Purchase Order Vendors",
+                    "downloadURL": "https://seshat.datasd.org/purchasing_contracting/purchase_order_vendors_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                }
+            ],
+            "identifier": "purchase_order_vendors",
+            "issued": "2016-05-17",
+            "keyword": [
+                "Vendor contracts",
+                "Procurement",
+                "Municipal Spending"
+            ],
+            "license": "https://opendefinition.org/licenses/odc-pddl/",
+            "modified": "2023-04-01",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Purchasing & Contracting",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "City of San Diego"
+                }
+            },
+            "references": null,
+            "rights": null,
+            "spatial": null,
+            "temporal": null,
+            "title": "Purchase Order Vendors"
         }
     ]
 }
