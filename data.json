@@ -4573,6 +4573,34 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
+                    "title": "Point Loma Ocean Outfall (PLOO) 2025 RTOMS ocean chemistry measurements",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_ocean_chemistry/PLOO_ocean_chemistry_2025_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "South Bay Ocean Outfall (SBOO) 2025 RTOMS ocean chemistry measurements",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_ocean_chemistry/SBOO_ocean_chemistry_2025_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Point Loma Ocean Outfall (PLOO) 2024 RTOMS ocean chemistry measurements",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_ocean_chemistry/PLOO_ocean_chemistry_2024_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "South Bay Ocean Outfall (SBOO) 2024 RTOMS ocean chemistry measurements",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_ocean_chemistry/SBOO_ocean_chemistry_2024_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
                     "title": "Point Loma Ocean Outfall (PLOO) 2023 RTOMS ocean chemistry measurements",
                     "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_ocean_chemistry/PLOO_ocean_chemistry_2023_datasd.csv",
                     "mediaType": "text/csv",
@@ -4666,6 +4694,34 @@
             "describedByType": "text/csv",
             "description": "Salinity measurements collected by Real-time Oceanographic Mooring System (RTOMS).",
             "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Point Loma Ocean Outfall (PLOO) 2025 RTOMS salinity measurements",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_salinity/PLOO_salinity_2025_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "South Bay Ocean Outfall (SBOO) 2025 RTOMS salinity measurements",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_salinity/SBOO_salinity_2025_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Point Loma Ocean Outfall (PLOO) 2024 RTOMS salinity measurements",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_salinity/PLOO_salinity_2024_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "South Bay Ocean Outfall (SBOO) 2024 RTOMS salinity measurements",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_salinity/SBOO_salinity_2024_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
                 {
                     "@type": "dcat:Distribution",
                     "title": "Point Loma Ocean Outfall (PLOO) 2023 RTOMS salinity measurements",
@@ -4763,6 +4819,34 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
+                    "title": "Point Loma Ocean Outfall (PLOO) 2025 RTOMS water quality measurements",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_water_quality/PLOO_water_quality_2025_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "South Bay Ocean Outfall (SBOO) 2025 RTOMS water quality measurements",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_water_quality/SBOO_water_quality_2025_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Point Loma Ocean Outfall (PLOO) 2024 RTOMS water quality measurements",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_water_quality/PLOO_water_quality_2024_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "South Bay Ocean Outfall (SBOO) 2024 RTOMS water quality measurements",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_water_quality/SBOO_water_quality_2024_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
                     "title": "Point Loma Ocean Outfall (PLOO) 2023 RTOMS water quality measurements",
                     "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_water_quality/PLOO_water_quality_2023_datasd.csv",
                     "mediaType": "text/csv",
@@ -4856,6 +4940,34 @@
             "describedByType": "text/csv",
             "description": "Water temperature measurements collected by Real-time Oceanographic Mooring System (RTOMS).",
             "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Point Loma Ocean Outfall (PLOO) 2025 RTOMS water temperature measurements",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_water_temperature/PLOO_water_temperature_2025_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "South Bay Ocean Outfall (SBOO) 2025 RTOMS water temperature measurements",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_water_temperature/SBOO_water_temperature_2025_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Point Loma Ocean Outfall (PLOO) 2024 RTOMS water temperature measurements",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_water_temperature/PLOO_water_temperature_2024_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "South Bay Ocean Outfall (SBOO) 2024 RTOMS water temperature measurements",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_ocean_rtoms_water_temperature/SBOO_water_temperature_2024_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
                 {
                     "@type": "dcat:Distribution",
                     "title": "Point Loma Ocean Outfall (PLOO) 2023 RTOMS water temperature measurements",
