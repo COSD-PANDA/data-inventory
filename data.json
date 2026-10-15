@@ -362,7 +362,7 @@
             },
             "describedBy": "https://seshat.datasd.org/city_owned_properties_leases/city_property_leases_dictionary_datasd.csv",
             "describedByType": "text/csv",
-            "description": "Leases for City-owned properties, including lessee names, property locations and uses, lease status, effective and scheduled termination dates, and rent amounts.",
+            "description": "Leases for City-owned properties, including lessee names, property locations, lease status, effective and scheduled termination dates, and rent amounts.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
