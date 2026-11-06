@@ -7629,7 +7629,7 @@
         {
             "@type": "dcat:Dataset",
             "accessLevel": "public",
-            "accrualPeriodicity": "R/P1W",
+            "accrualPeriodicity": "R/P1D",
             "contactPoint": {
                 "@type": "vcard:Contact",
                 "fn": "Data & Analytics",
@@ -7648,7 +7648,7 @@
                 }
             ],
             "identifier": "goods_and_services_contract_spend",
-            "issued": "2016-05-17",
+            "issued": "2026-11-06",
             "keyword": [
                 "Goods and services expenditures",
                 "Vendor contracts",
@@ -7656,7 +7656,7 @@
                 "Municipal Spending"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2023-04-01",
+            "modified": "2026-11-06",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Purchasing & Contracting",
@@ -7674,7 +7674,7 @@
         {
             "@type": "dcat:Dataset",
             "accessLevel": "public",
-            "accrualPeriodicity": "R/P1W",
+            "accrualPeriodicity": "R/P1D",
             "contactPoint": {
                 "@type": "vcard:Contact",
                 "fn": "Data & Analytics",
@@ -7693,14 +7693,14 @@
                 }
             ],
             "identifier": "purchase_order_vendors",
-            "issued": "2016-05-17",
+            "issued": "2026-11-06",
             "keyword": [
                 "Vendor contracts",
                 "Procurement",
                 "Municipal Spending"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2023-04-01",
+            "modified": "2026-11-06",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Purchasing & Contracting",
