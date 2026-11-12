@@ -7664,7 +7664,7 @@
             },
             "describedBy": "https://seshat.datasd.org/purchasing_contracting/goods_and_services_contract_spend_dictionary_datasd.csv",
             "describedByType": "text/csv",
-            "description": "Contracts for Goods and Services Purchased by the City of San Diego.",
+            "description": "Contracts issued to vendors by the City of San Diego.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -7709,7 +7709,7 @@
             },
             "describedBy": "https://seshat.datasd.org/purchasing_contracting/purchase_order_vendors_dictionary_datasd.csv",
             "describedByType": "text/csv",
-            "description": "Purchase order details including vendor information.",
+            "description": "Purchase orders issued to vendors by the City of San Diego.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
