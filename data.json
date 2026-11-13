@@ -7741,6 +7741,85 @@
             "spatial": null,
             "temporal": null,
             "title": "Purchase Order Vendors"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "R/P1Y",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Data & Analytics",
+                "hasEmail": "data@sandiego.gov"
+            },
+            "describedBy": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/adcp_datasd_dict.csv",
+            "describedByType": "text/csv",
+            "description": "Readings from static bottom-mounted acoustic doppler current profilers (ADCP).",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "SBOO_adcp_vertical_datasd.csv",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_adcp_vertical_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "SBOO_adcp_north_datasd.csv",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_adcp_north_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "SBOO_adcp_east_datasd.csv",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_adcp_east_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "PLOO_adcp_vertical_datasd.csv",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_adcp_vertical_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "PLOO_adcp_north_datasd.csv",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_adcp_north_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "PLOO_adcp_east_datasd.csv",
+                    "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_adcp_east_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                }
+            ],
+            "identifier": "monitoring_acoustic_doppler_current_profilers",
+            "issued": "2026-11-13",
+            "keyword": [
+                "Water quality",
+                "Ocean water",
+                "RTOMS"
+            ],
+            "license": "https://opendefinition.org/licenses/odc-pddl/",
+            "modified": "2026-11-13",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Public Utilities",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "City of San Diego"
+                }
+            },
+            "references": null,
+            "rights": null,
+            "spatial": null,
+            "temporal": null,
+            "title": "Acoustic Doppler Current Profiler Measurements - Ocean Monitoring Program"
         }
     ]
 }
