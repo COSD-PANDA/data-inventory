@@ -897,7 +897,7 @@
                 "Body-worn cameras"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-16",
+            "modified": "2026-07-10",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Commission on Police Practices",
@@ -1120,7 +1120,7 @@
                 "Housing"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-05-11",
+            "modified": "2026-11-12",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Development Services",
@@ -3932,7 +3932,7 @@
                 "Assets"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-11-12",
+            "modified": "2026-11-13",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Transportation Department",
@@ -5596,7 +5596,7 @@
                 "Finances"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-11-11",
+            "modified": "2026-11-12",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "City Treasurer",
@@ -5675,7 +5675,7 @@
                 "Finances"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-11-11",
+            "modified": "2026-11-12",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "City Treasurer",
@@ -5754,7 +5754,7 @@
                 "Finances"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-11-11",
+            "modified": "2026-11-12",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "City Treasurer",
@@ -5798,7 +5798,7 @@
                 "Finances"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-11-11",
+            "modified": "2026-11-12",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "City Treasurer",
@@ -6212,7 +6212,7 @@
                 "Public safety"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-11-12",
+            "modified": "2026-11-13",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -7320,7 +7320,7 @@
                 "Trash"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-05-05",
+            "modified": "2026-11-13",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Storm Water Department",
@@ -7410,7 +7410,7 @@
                 "Transit"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-11-12",
+            "modified": "2026-11-13",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Transportation Department",
@@ -7461,7 +7461,7 @@
                 "Local businesses"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-11-12",
+            "modified": "2026-11-13",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "City Treasurer",
@@ -7550,7 +7550,7 @@
                 "Transit"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-11-12",
+            "modified": "2026-11-13",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -7595,7 +7595,7 @@
                 "Transit"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-11-12",
+            "modified": "2026-11-13",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -7664,7 +7664,7 @@
             },
             "describedBy": "https://seshat.datasd.org/purchasing_contracting/goods_and_services_contract_spend_dictionary_datasd.csv",
             "describedByType": "text/csv",
-            "description": "Contracts issued to vendors by the City of San Diego.",
+            "description": "Contracts for Goods and Services Purchased by the City of San Diego.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -7683,7 +7683,7 @@
                 "Municipal Spending"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-11-06",
+            "modified": "2026-10-31",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Purchasing & Contracting",
@@ -7709,7 +7709,7 @@
             },
             "describedBy": "https://seshat.datasd.org/purchasing_contracting/purchase_order_vendors_dictionary_datasd.csv",
             "describedByType": "text/csv",
-            "description": "Purchase orders issued to vendors by the City of San Diego.",
+            "description": "Purchase order details including vendor information.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -7727,7 +7727,7 @@
                 "Municipal Spending"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-11-06",
+            "modified": "2026-11-12",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Purchasing & Contracting",
