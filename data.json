@@ -7272,7 +7272,7 @@
         {
             "@type": "dcat:Dataset",
             "accessLevel": "public",
-            "accrualPeriodicity": "irregular",
+            "accrualPeriodicity": "R/P1W",
             "contactPoint": {
                 "@type": "vcard:Contact",
                 "fn": "Data & Analytics",
