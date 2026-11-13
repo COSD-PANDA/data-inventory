@@ -114,7 +114,7 @@
                 "Finances"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-11-12",
+            "modified": "2026-11-13",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "City Treasurer",
@@ -336,7 +336,7 @@
                 "Properties"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-11-12",
+            "modified": "2026-11-13",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Economic Development",
@@ -379,7 +379,7 @@
                 "Leases"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-11-12",
+            "modified": "2026-11-13",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Economic Development",
@@ -425,7 +425,7 @@
                 "Parcels"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-11-12",
+            "modified": "2026-11-13",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Economic Development",
@@ -468,7 +468,7 @@
                 "Art"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-11-12",
+            "modified": "2026-11-13",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Economic Development",
@@ -1076,7 +1076,7 @@
                 "Housing"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-11-12",
+            "modified": "2026-11-13",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Development Services",
@@ -1120,7 +1120,7 @@
                 "Housing"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-11-12",
+            "modified": "2026-11-13",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Development Services",
@@ -1461,7 +1461,7 @@
                 "911 calls"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-11-12",
+            "modified": "2026-11-13",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Fire-Rescue",
@@ -1504,7 +1504,7 @@
                 "911 calls"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-11-12",
+            "modified": "2026-11-13",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Fire-Rescue",
@@ -1594,7 +1594,7 @@
                 "Get it Done"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-11-12",
+            "modified": "2026-11-13",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Performance & Analytics",
@@ -1640,7 +1640,7 @@
                 "Get it Done"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-11-12",
+            "modified": "2026-11-13",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Performance & Analytics",
@@ -1686,7 +1686,7 @@
                 "Get it Done"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-11-12",
+            "modified": "2026-11-13",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Performance & Analytics",
@@ -1731,7 +1731,7 @@
                 "Get it Done"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-11-12",
+            "modified": "2026-11-13",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Performance & Analytics",
@@ -1916,7 +1916,7 @@
                 "Get it Done"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-11-12",
+            "modified": "2026-11-13",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Performance & Analytics",
@@ -4283,7 +4283,7 @@
                 "Drinking water"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-11-12",
+            "modified": "2026-11-13",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Public Utilities",
@@ -4326,7 +4326,7 @@
                 "Drinking water"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-11-12",
+            "modified": "2026-11-13",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Public Utilities",
@@ -4379,7 +4379,7 @@
                 "Drinking water"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-11-12",
+            "modified": "2026-11-13",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Public Utilities",
@@ -5517,7 +5517,7 @@
                 "Assets"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-11-12",
+            "modified": "2026-11-13",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "City Treasurer",
@@ -6303,7 +6303,7 @@
                 "Crimes"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-11-12",
+            "modified": "2026-11-13",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -6409,7 +6409,7 @@
                 "Police stops"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-11-12",
+            "modified": "2026-11-13",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -6461,7 +6461,7 @@
                 "Police stops"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-11-12",
+            "modified": "2026-11-13",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -6655,7 +6655,7 @@
                 "Police stops"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-11-12",
+            "modified": "2026-11-13",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -6707,7 +6707,7 @@
                 "Police stops"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-11-12",
+            "modified": "2026-11-13",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -6759,7 +6759,7 @@
                 "Police stops"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-11-12",
+            "modified": "2026-11-13",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -6811,7 +6811,7 @@
                 "Police stops"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-11-12",
+            "modified": "2026-11-13",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -6863,7 +6863,7 @@
                 "Police stops"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-11-12",
+            "modified": "2026-11-13",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -6915,7 +6915,7 @@
                 "Police stops"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-11-12",
+            "modified": "2026-11-13",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Police",
@@ -7212,7 +7212,7 @@
                 "Finances"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-11-12",
+            "modified": "2026-11-13",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "City Treasurer",
@@ -7507,7 +7507,7 @@
                 "Local businesses"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-11-12",
+            "modified": "2026-11-13",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "City Treasurer",
