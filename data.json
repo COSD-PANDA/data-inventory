@@ -7757,42 +7757,42 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "title": "SBOO_adcp_vertical_datasd.csv",
+                    "title": "SBOO Vertical",
                     "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_adcp_vertical_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "SBOO_adcp_north_datasd.csv",
+                    "title": "SBOO North.csv",
                     "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_adcp_north_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "SBOO_adcp_east_datasd.csv",
+                    "title": "SBOO East.csv",
                     "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/SBOO_adcp_east_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "PLOO_adcp_vertical_datasd.csv",
+                    "title": "PLOO Vertical.csv",
                     "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_adcp_vertical_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "PLOO_adcp_north_datasd.csv",
+                    "title": "PLOO North.csv",
                     "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_adcp_north_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "title": "PLOO_adcp_east_datasd.csv",
+                    "title": "PLOO East.csv",
                     "downloadURL": "https://seshat.datasd.org/monitoring_acoustic_doppler_current_profilers/PLOO_adcp_east_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
