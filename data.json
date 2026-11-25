@@ -183,51 +183,6 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/cip_ptd_actuals/capital_actuals_ptd_dictionary_datasd.csv",
-            "describedByType": "text/csv",
-            "description": "Actual expenditures for the City's Capital Improvements Program by project.",
-            "distribution": [
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Project-to-date CIP Actuals",
-                    "downloadURL": "https://seshat.datasd.org/cip_ptd_actuals/actuals_capital_ptd_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                }
-            ],
-            "identifier": "cip_ptd_actuals",
-            "issued": "2018-10-15",
-            "keyword": [
-                "Actuals",
-                "Capital Improvements Program",
-                "CIP",
-                "Finances"
-            ],
-            "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-31",
-            "publisher": {
-                "@type": "org:Organization",
-                "name": "Department of Finance",
-                "subOrganizationOf": {
-                    "@type": "org:Organization",
-                    "name": "City of San Diego"
-                }
-            },
-            "references": null,
-            "rights": null,
-            "spatial": null,
-            "temporal": null,
-            "title": "Capital Improvements Program (CIP) Actuals project to date"
-        },
-        {
-            "@type": "dcat:Dataset",
-            "accessLevel": "public",
-            "accrualPeriodicity": "irregular",
-            "contactPoint": {
-                "@type": "vcard:Contact",
-                "fn": "Data & Analytics",
-                "hasEmail": "data@sandiego.gov"
-            },
             "describedBy": "https://seshat.datasd.org/cip_fy_budget/capital_budget_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "description": "Adopted budgets for the City's Capital Improvements Program by fiscal year.",
@@ -263,6 +218,51 @@
             "spatial": null,
             "temporal": null,
             "title": "Capital Improvements Program (CIP) Budget by fiscal year"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "irregular",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Data & Analytics",
+                "hasEmail": "data@sandiego.gov"
+            },
+            "describedBy": "https://seshat.datasd.org/cip_ptd_actuals/capital_actuals_ptd_dictionary_datasd.csv",
+            "describedByType": "text/csv",
+            "description": "Actual expenditures for the City's Capital Improvements Program by project.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Project-to-date CIP Actuals",
+                    "downloadURL": "https://seshat.datasd.org/cip_ptd_actuals/actuals_capital_ptd_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                }
+            ],
+            "identifier": "cip_ptd_actuals",
+            "issued": "2018-10-15",
+            "keyword": [
+                "Actuals",
+                "Capital Improvements Program",
+                "CIP",
+                "Finances"
+            ],
+            "license": "https://opendefinition.org/licenses/odc-pddl/",
+            "modified": "2026-07-31",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Department of Finance",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "City of San Diego"
+                }
+            },
+            "references": null,
+            "rights": null,
+            "spatial": null,
+            "temporal": null,
+            "title": "Capital Improvements Program (CIP) Actuals project to date"
         },
         {
             "@type": "dcat:Dataset",
@@ -588,6 +588,50 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
+            "describedBy": "https://seshat.datasd.org/cpp_complaints_evaluated_2025/dictionary_cases_CY2025_datasd.csv",
+            "describedByType": "text/csv",
+            "description": "Commission on Police Practices cases. CPP is an independent body that investigates officer-involved shootings, in-custody deaths, & other significant incidents in a process that is transparent and accountable to the community.",
+            "distribution": [
+                {
+                    "title": "Cases 2025",
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_evaluated_2025/cpp_cases_CY2025_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                }
+            ],
+            "identifier": "cpp_complaints_evaluated_2025",
+            "issued": "2026-07-16",
+            "keyword": [
+                "Commission on Police Practices",
+                "CPP",
+                "Police oversight"
+            ],
+            "license": "https://opendefinition.org/licenses/odc-pddl/",
+            "modified": "2026-07-10",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Commission on Police Practices",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "City of San Diego"
+                }
+            },
+            "references": null,
+            "rights": null,
+            "spatial": null,
+            "temporal": null,
+            "title": "Commission on Police Practices Cases 2025"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "R/P1Y",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Data & Analytics",
+                "hasEmail": "data@sandiego.gov"
+            },
             "describedBy": "https://seshat.datasd.org/cpp_complaints_allegations/cpp_allegations_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "description": "Commission on Police Practices case allegations. CPP is an independent body that investigates officer-involved shootings, in-custody deaths, & other significant incidents in a process that is transparent and accountable to the community.",
@@ -629,6 +673,50 @@
             "spatial": null,
             "temporal": null,
             "title": "Commission on Police Practices Case Allegations 2019-2024"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "R/P1Y",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Data & Analytics",
+                "hasEmail": "data@sandiego.gov"
+            },
+            "describedBy": "https://seshat.datasd.org/cpp_complaints_evaluated_allegations_2025/dictionary_allegations_CY2025_datasd.csv",
+            "describedByType": "text/csv",
+            "description": "Commission on Police Practices case allegations. CPP is an independent body that investigates officer-involved shootings, in-custody deaths, & other significant incidents in a process that is transparent and accountable to the community.",
+            "distribution": [
+                {
+                    "title": "Allegations 2025",
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_evaluated_allegations_2025/cpp_allegations_CY2025_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                }
+            ],
+            "identifier": "cpp_complaints_evaluated_allegations_2025",
+            "issued": "2026-07-16",
+            "keyword": [
+                "Commission on Police Practices",
+                "CPP",
+                "Police oversight"
+            ],
+            "license": "https://opendefinition.org/licenses/odc-pddl/",
+            "modified": "2026-07-16",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Commission on Police Practices",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "City of San Diego"
+                }
+            },
+            "references": null,
+            "rights": null,
+            "spatial": null,
+            "temporal": null,
+            "title": "Commission on Police Practices Case Allegations 2025"
         },
         {
             "@type": "dcat:Dataset",
@@ -691,6 +779,51 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
+            "describedBy": "https://seshat.datasd.org/cpp_complaints_evaluated_bwc_2025/dictionary_bwc_CY2025_datasd.csv",
+            "describedByType": "text/csv",
+            "description": "Body-worn camera details in cases evaluated by the Commission on Police Practices. CPP is an independent body that investigates officer-involved shootings, in-custody deaths, & other significant incidents in a process that is transparent and accountable to the community.",
+            "distribution": [
+                {
+                    "title": "Body worn camera details 2025",
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_evaluated_bwc_2025/cpp_bwc_CY2025_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                }
+            ],
+            "identifier": "cpp_complaints_evaluated_bwc_2025",
+            "issued": "2026-07-16",
+            "keyword": [
+                "Commission on Police Practices",
+                "CPP",
+                "Police oversight",
+                "Body-worn cameras"
+            ],
+            "license": "https://opendefinition.org/licenses/odc-pddl/",
+            "modified": "2026-07-10",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Commission on Police Practices",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "City of San Diego"
+                }
+            },
+            "references": null,
+            "rights": null,
+            "spatial": null,
+            "temporal": null,
+            "title": "Commission on Police Practices Case Body-worn Camera Details 2025"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "R/P1Y",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Data & Analytics",
+                "hasEmail": "data@sandiego.gov"
+            },
             "describedBy": "https://seshat.datasd.org/cpp_complaints_complainants/cpp_complainants_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "description": "Complainants in cases evaluated by the Commission on Police Practices. CPP is an independent body that investigates officer-involved shootings, in-custody deaths, & other significant incidents in a process that is transparent and accountable to the community.",
@@ -733,139 +866,6 @@
             "spatial": null,
             "temporal": null,
             "title": "Commission on Police Practices Case Complainants 2019-2024"
-        },
-        {
-            "@type": "dcat:Dataset",
-            "accessLevel": "public",
-            "accrualPeriodicity": "R/P1Y",
-            "contactPoint": {
-                "@type": "vcard:Contact",
-                "fn": "Data & Analytics",
-                "hasEmail": "data@sandiego.gov"
-            },
-            "describedBy": "https://seshat.datasd.org/cpp_complaints_evaluated_2025/dictionary_cases_CY2025_datasd.csv",
-            "describedByType": "text/csv",
-            "description": "Commission on Police Practices cases. CPP is an independent body that investigates officer-involved shootings, in-custody deaths, & other significant incidents in a process that is transparent and accountable to the community.",
-            "distribution": [
-                {
-                    "title": "Cases 2025",
-                    "@type": "dcat:Distribution",
-                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_evaluated_2025/cpp_cases_CY2025_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                }
-            ],
-            "identifier": "cpp_complaints_evaluated_2025",
-            "issued": "2026-07-16",
-            "keyword": [
-                "Commission on Police Practices",
-                "CPP",
-                "Police oversight"
-            ],
-            "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-10",
-            "publisher": {
-                "@type": "org:Organization",
-                "name": "Commission on Police Practices",
-                "subOrganizationOf": {
-                    "@type": "org:Organization",
-                    "name": "City of San Diego"
-                }
-            },
-            "references": null,
-            "rights": null,
-            "spatial": null,
-            "temporal": null,
-            "title": "Commission on Police Practices Cases 2025"
-        },
-        {
-            "@type": "dcat:Dataset",
-            "accessLevel": "public",
-            "accrualPeriodicity": "R/P1Y",
-            "contactPoint": {
-                "@type": "vcard:Contact",
-                "fn": "Data & Analytics",
-                "hasEmail": "data@sandiego.gov"
-            },
-            "describedBy": "https://seshat.datasd.org/cpp_complaints_evaluated_allegations_2025/dictionary_allegations_CY2025_datasd.csv",
-            "describedByType": "text/csv",
-            "description": "Commission on Police Practices case allegations. CPP is an independent body that investigates officer-involved shootings, in-custody deaths, & other significant incidents in a process that is transparent and accountable to the community.",
-            "distribution": [
-                {
-                    "title": "Allegations 2025",
-                    "@type": "dcat:Distribution",
-                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_evaluated_allegations_2025/cpp_allegations_CY2025_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                }
-            ],
-            "identifier": "cpp_complaints_evaluated_allegations_2025",
-            "issued": "2026-07-16",
-            "keyword": [
-                "Commission on Police Practices",
-                "CPP",
-                "Police oversight"
-            ],
-            "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-16",
-            "publisher": {
-                "@type": "org:Organization",
-                "name": "Commission on Police Practices",
-                "subOrganizationOf": {
-                    "@type": "org:Organization",
-                    "name": "City of San Diego"
-                }
-            },
-            "references": null,
-            "rights": null,
-            "spatial": null,
-            "temporal": null,
-            "title": "Commission on Police Practices Case Allegations 2025"
-        },
-        {
-            "@type": "dcat:Dataset",
-            "accessLevel": "public",
-            "accrualPeriodicity": "R/P1Y",
-            "contactPoint": {
-                "@type": "vcard:Contact",
-                "fn": "Data & Analytics",
-                "hasEmail": "data@sandiego.gov"
-            },
-            "describedBy": "https://seshat.datasd.org/cpp_complaints_evaluated_bwc_2025/dictionary_bwc_CY2025_datasd.csv",
-            "describedByType": "text/csv",
-            "description": "Body-worn camera details in cases evaluated by the Commission on Police Practices. CPP is an independent body that investigates officer-involved shootings, in-custody deaths, & other significant incidents in a process that is transparent and accountable to the community.",
-            "distribution": [
-                {
-                    "title": "Body worn camera details 2025",
-                    "@type": "dcat:Distribution",
-                    "downloadURL": "https://seshat.datasd.org/cpp_complaints_evaluated_bwc_2025/cpp_bwc_CY2025_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                }
-            ],
-            "identifier": "cpp_complaints_evaluated_bwc_2025",
-            "issued": "2026-07-16",
-            "keyword": [
-                "Commission on Police Practices",
-                "CPP",
-                "Police oversight",
-                "Body-worn cameras"
-            ],
-            "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-10",
-            "publisher": {
-                "@type": "org:Organization",
-                "name": "Commission on Police Practices",
-                "subOrganizationOf": {
-                    "@type": "org:Organization",
-                    "name": "City of San Diego"
-                }
-            },
-            "references": null,
-            "rights": null,
-            "spatial": null,
-            "temporal": null,
-            "title": "Commission on Police Practices Case Body-worn Camera Details 2025"
         },
         {
             "@type": "dcat:Dataset",
@@ -3313,6 +3313,66 @@
         {
             "@type": "dcat:Dataset",
             "accessLevel": "public",
+            "accrualPeriodicity": "R/P1D",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Data & Analytics",
+                "hasEmail": "data@sandiego.gov"
+            },
+            "describedBy": "https://seshat.datasd.org/gis_parking_study_lots/gis_parking_study_lots_dictionary.csv",
+            "describedByType": "text/csv",
+            "description": "Locations of off-street public parking lots in Mission Bay and Balboa Park that were included in the study.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Parking lot locations",
+                    "downloadURL": "https://seshat.datasd.org/gis_parking_study_lots/parking_study_lots_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Parking lot locations",
+                    "downloadURL": "https://seshat.datasd.org/gis_parking_study_lots/parking_study_lots_datasd.geojson",
+                    "mediaType": "application/geo+json",
+                    "format": "json"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Parking lot locations",
+                    "downloadURL": "https://seshat.datasd.org/gis_parking_study_lots/parking_study_lots_datasd.zip",
+                    "mediaType": "application/zip",
+                    "format": "shp"
+                }
+            ],
+            "identifier": "gis_parking_study_lots",
+            "issued": "2026-07-15",
+            "keyword": [
+                "Transit",
+                "Parking",
+                "Parking Demand Management Study"
+            ],
+            "license": "https://opendefinition.org/licenses/odc-pddl/",
+            "modified": "2026-07-17",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Transportation Department",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "City of San Diego"
+                }
+            },
+            "references": [
+                "https://sandiego.hylandcloud.com/211agendaonlinecomm/Documents/ViewDocument/FINAL%20San%20Diego_Parking%20Demand%20Management%20Study_01.21.2025.pdf.pdf?meetingId=6311&documentType=Agenda&itemId=242165&publishId=939139&isSection=false"
+            ],
+            "rights": null,
+            "spatial": null,
+            "temporal": null,
+            "title": "Parking Study: lot locations"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
             "accrualPeriodicity": "R/P1W",
             "contactPoint": {
                 "@type": "vcard:Contact",
@@ -4168,6 +4228,51 @@
             "spatial": null,
             "temporal": null,
             "title": "Zoning"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "R/P1D",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Data & Analytics",
+                "hasEmail": "data@sandiego.gov"
+            },
+            "describedBy": "https://seshat.datasd.org/purchasing_contracting/goods_and_services_contract_spend_dictionary_datasd.csv",
+            "describedByType": "text/csv",
+            "description": "Contracts for Goods and Services Purchased by the City of San Diego.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Goods and Services Contract Spending",
+                    "downloadURL": "https://seshat.datasd.org/purchasing_contracting/goods_and_services_contract_spend_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                }
+            ],
+            "identifier": "goods_and_services_contract_spend",
+            "issued": "2026-11-06",
+            "keyword": [
+                "Goods and services expenditures",
+                "Vendor contracts",
+                "Procurement",
+                "Municipal Spending"
+            ],
+            "license": "https://opendefinition.org/licenses/odc-pddl/",
+            "modified": "2026-11-24",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Purchasing & Contracting",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "City of San Diego"
+                }
+            },
+            "references": null,
+            "rights": null,
+            "spatial": null,
+            "temporal": null,
+            "title": "Goods and Services Contract Spending"
         },
         {
             "@type": "dcat:Dataset",
@@ -5541,6 +5646,50 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
+            "describedBy": "https://seshat.datasd.org/parking_meters_revenue_monthly/parking_revenue_monthly_by_area_dictionary_datasd.csv",
+            "describedByType": "text/csv",
+            "description": "Total dollar amounts and transaction counts by month and City block",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Monthly revenue by area for 12-month period",
+                    "downloadURL": "https://seshat.datasd.org/parking_meters_revenue_monthly/parking_revenue_monthly_by_area_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                }
+            ],
+            "identifier": "parking_meters_revenue_monthly",
+            "issued": "2016-05-02",
+            "keyword": [
+                "Transit",
+                "Parking",
+                "Finances"
+            ],
+            "license": "https://opendefinition.org/licenses/odc-pddl/",
+            "modified": "2026-11-24",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "City Treasurer",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "City of San Diego"
+                }
+            },
+            "references": null,
+            "rights": null,
+            "spatial": null,
+            "temporal": null,
+            "title": "Parking Meter Monthly Revenue Totals by Area"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "R/P1D",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Data & Analytics",
+                "hasEmail": "data@sandiego.gov"
+            },
             "describedBy": "https://seshat.datasd.org/parking_meters_transactions/meters_transactions_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "description": "All parking meter transactions",
@@ -5610,85 +5759,6 @@
             "spatial": null,
             "temporal": null,
             "title": "Parking Meters Transactions"
-        },
-        {
-            "@type": "dcat:Dataset",
-            "accessLevel": "public",
-            "accrualPeriodicity": "R/P1D",
-            "contactPoint": {
-                "@type": "vcard:Contact",
-                "fn": "Data & Analytics",
-                "hasEmail": "data@sandiego.gov"
-            },
-            "describedBy": "https://seshat.datasd.org/parking_meters_transactions_monthly/meters_transactions_monthly_dictionary_datasd.csv",
-            "describedByType": "text/csv",
-            "description": "Total dollar amounts and transaction counts by month and parking meter",
-            "distribution": [
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Parking meters transactions 2026",
-                    "downloadURL": "https://seshat.datasd.org/parking_meters_transactions_monthly/treas_meters_2026_pole_by_month_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Parking meters transactions 2025",
-                    "downloadURL": "https://seshat.datasd.org/parking_meters_transactions_monthly/treas_meters_2025_pole_by_month_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Parking meters transactions 2024",
-                    "downloadURL": "https://seshat.datasd.org/parking_meters_transactions_monthly/treas_meters_2024_pole_by_month_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Parking meters transactions 2023",
-                    "downloadURL": "https://seshat.datasd.org/parking_meters_transactions_monthly/treas_meters_2023_pole_by_month_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Parking meters transactions 2022",
-                    "downloadURL": "https://seshat.datasd.org/parking_meters_transactions_monthly/treas_meters_2022_pole_by_month_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Parking meters transactions 2021",
-                    "downloadURL": "https://seshat.datasd.org/parking_meters_transactions_monthly/treas_meters_2021_pole_by_month_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                }
-            ],
-            "identifier": "parking_meters_transactions_monthly",
-            "issued": "2016-05-02",
-            "keyword": [
-                "Transit",
-                "Parking",
-                "Finances"
-            ],
-            "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-11-24",
-            "publisher": {
-                "@type": "org:Organization",
-                "name": "City Treasurer",
-                "subOrganizationOf": {
-                    "@type": "org:Organization",
-                    "name": "City of San Diego"
-                }
-            },
-            "references": null,
-            "rights": null,
-            "spatial": null,
-            "temporal": null,
-            "title": "Parking Meter Monthly Revenue Totals by Meter"
         },
         {
             "@type": "dcat:Dataset",
@@ -5778,19 +5848,54 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/parking_meters_revenue_monthly/parking_revenue_monthly_by_area_dictionary_datasd.csv",
+            "describedBy": "https://seshat.datasd.org/parking_meters_transactions_monthly/meters_transactions_monthly_dictionary_datasd.csv",
             "describedByType": "text/csv",
-            "description": "Total dollar amounts and transaction counts by month and City block",
+            "description": "Total dollar amounts and transaction counts by month and parking meter",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Monthly revenue by area for 12-month period",
-                    "downloadURL": "https://seshat.datasd.org/parking_meters_revenue_monthly/parking_revenue_monthly_by_area_datasd.csv",
+                    "title": "Parking meters transactions 2026",
+                    "downloadURL": "https://seshat.datasd.org/parking_meters_transactions_monthly/treas_meters_2026_pole_by_month_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Parking meters transactions 2025",
+                    "downloadURL": "https://seshat.datasd.org/parking_meters_transactions_monthly/treas_meters_2025_pole_by_month_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Parking meters transactions 2024",
+                    "downloadURL": "https://seshat.datasd.org/parking_meters_transactions_monthly/treas_meters_2024_pole_by_month_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Parking meters transactions 2023",
+                    "downloadURL": "https://seshat.datasd.org/parking_meters_transactions_monthly/treas_meters_2023_pole_by_month_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Parking meters transactions 2022",
+                    "downloadURL": "https://seshat.datasd.org/parking_meters_transactions_monthly/treas_meters_2022_pole_by_month_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Parking meters transactions 2021",
+                    "downloadURL": "https://seshat.datasd.org/parking_meters_transactions_monthly/treas_meters_2021_pole_by_month_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
                 }
             ],
-            "identifier": "parking_meters_revenue_monthly",
+            "identifier": "parking_meters_transactions_monthly",
             "issued": "2016-05-02",
             "keyword": [
                 "Transit",
@@ -5811,53 +5916,7 @@
             "rights": null,
             "spatial": null,
             "temporal": null,
-            "title": "Parking Meter Monthly Revenue Totals by Area"
-        },
-        {
-            "@type": "dcat:Dataset",
-            "accessLevel": "public",
-            "accrualPeriodicity": "R/P1D",
-            "contactPoint": {
-                "@type": "vcard:Contact",
-                "fn": "Data & Analytics",
-                "hasEmail": "data@sandiego.gov"
-            },
-            "describedBy": "https://seshat.datasd.org/parking_study_summary/parking_study_summary_dictionary_datasd.csv",
-            "describedByType": "text/csv",
-            "description": "Average parking space occupancy for each site during the study time period",
-            "distribution": [
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Average occupancy by site",
-                    "downloadURL": "https://seshat.datasd.org/parking_study_summary/parking_study_summary_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                }
-            ],
-            "identifier": "parking_study_summary",
-            "issued": "2026-07-15",
-            "keyword": [
-                "Transit",
-                "Parking",
-                "Parking Demand Management Study"
-            ],
-            "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2025-03-25",
-            "publisher": {
-                "@type": "org:Organization",
-                "name": "Transportation Department",
-                "subOrganizationOf": {
-                    "@type": "org:Organization",
-                    "name": "City of San Diego"
-                }
-            },
-            "references": [
-                "https://sandiego.hylandcloud.com/211agendaonlinecomm/Documents/ViewDocument/FINAL%20San%20Diego_Parking%20Demand%20Management%20Study_01.21.2025.pdf.pdf?meetingId=6311&documentType=Agenda&itemId=242165&publishId=939139&isSection=false"
-            ],
-            "rights": null,
-            "spatial": null,
-            "temporal": null,
-            "title": "Parking Study: average occupancy by site"
+            "title": "Parking Meter Monthly Revenue Totals by Meter"
         },
         {
             "@type": "dcat:Dataset",
@@ -5914,52 +5973,6 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/parking_study_raw_data/parking_study_raw_data_dictionary_datasd.csv",
-            "describedByType": "text/csv",
-            "description": "Hourly tracking of parking activity for each site included in the study. Parking activity was interpreted for the calculation of occupancy statistics.",
-            "distribution": [
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Parking activity by parking space and hour",
-                    "downloadURL": "https://seshat.datasd.org/parking_study_raw_data/parking_study_raw_data_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                }
-            ],
-            "identifier": "parking_study_raw_data",
-            "issued": "2026-07-15",
-            "keyword": [
-                "Transit",
-                "Parking",
-                "Parking Demand Management Study"
-            ],
-            "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2025-03-25",
-            "publisher": {
-                "@type": "org:Organization",
-                "name": "Transportation Department",
-                "subOrganizationOf": {
-                    "@type": "org:Organization",
-                    "name": "City of San Diego"
-                }
-            },
-            "references": [
-                "https://sandiego.hylandcloud.com/211agendaonlinecomm/Documents/ViewDocument/FINAL%20San%20Diego_Parking%20Demand%20Management%20Study_01.21.2025.pdf.pdf?meetingId=6311&documentType=Agenda&itemId=242165&publishId=939139&isSection=false"
-            ],
-            "rights": null,
-            "spatial": null,
-            "temporal": null,
-            "title": "Parking Study: raw activity data"
-        },
-        {
-            "@type": "dcat:Dataset",
-            "accessLevel": "public",
-            "accrualPeriodicity": "R/P1D",
-            "contactPoint": {
-                "@type": "vcard:Contact",
-                "fn": "Data & Analytics",
-                "hasEmail": "data@sandiego.gov"
-            },
             "describedBy": "https://seshat.datasd.org/parking_study_occupancy/parking_study_occupancy_dictionary_datasd.csv",
             "describedByType": "text/csv",
             "description": "Count and percentage of occupied parking spaces by site.",
@@ -6006,33 +6019,19 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
-            "describedBy": "https://seshat.datasd.org/gis_parking_study_lots/gis_parking_study_lots_dictionary.csv",
+            "describedBy": "https://seshat.datasd.org/parking_study_raw_data/parking_study_raw_data_dictionary_datasd.csv",
             "describedByType": "text/csv",
-            "description": "Locations of off-street public parking lots in Mission Bay and Balboa Park that were included in the study.",
+            "description": "Hourly tracking of parking activity for each site included in the study. Parking activity was interpreted for the calculation of occupancy statistics.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "title": "Parking lot locations",
-                    "downloadURL": "https://seshat.datasd.org/gis_parking_study_lots/parking_study_lots_datasd.csv",
+                    "title": "Parking activity by parking space and hour",
+                    "downloadURL": "https://seshat.datasd.org/parking_study_raw_data/parking_study_raw_data_datasd.csv",
                     "mediaType": "text/csv",
                     "format": "csv"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Parking lot locations",
-                    "downloadURL": "https://seshat.datasd.org/gis_parking_study_lots/parking_study_lots_datasd.geojson",
-                    "mediaType": "application/geo+json",
-                    "format": "json"
-                },
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Parking lot locations",
-                    "downloadURL": "https://seshat.datasd.org/gis_parking_study_lots/parking_study_lots_datasd.zip",
-                    "mediaType": "application/zip",
-                    "format": "shp"
                 }
             ],
-            "identifier": "gis_parking_study_lots",
+            "identifier": "parking_study_raw_data",
             "issued": "2026-07-15",
             "keyword": [
                 "Transit",
@@ -6040,7 +6039,7 @@
                 "Parking Demand Management Study"
             ],
             "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-07-17",
+            "modified": "2025-03-25",
             "publisher": {
                 "@type": "org:Organization",
                 "name": "Transportation Department",
@@ -6055,7 +6054,53 @@
             "rights": null,
             "spatial": null,
             "temporal": null,
-            "title": "Parking Study: lot locations"
+            "title": "Parking Study: raw activity data"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "R/P1D",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Data & Analytics",
+                "hasEmail": "data@sandiego.gov"
+            },
+            "describedBy": "https://seshat.datasd.org/parking_study_summary/parking_study_summary_dictionary_datasd.csv",
+            "describedByType": "text/csv",
+            "description": "Average parking space occupancy for each site during the study time period",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Average occupancy by site",
+                    "downloadURL": "https://seshat.datasd.org/parking_study_summary/parking_study_summary_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                }
+            ],
+            "identifier": "parking_study_summary",
+            "issued": "2026-07-15",
+            "keyword": [
+                "Transit",
+                "Parking",
+                "Parking Demand Management Study"
+            ],
+            "license": "https://opendefinition.org/licenses/odc-pddl/",
+            "modified": "2025-03-25",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Transportation Department",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "City of San Diego"
+                }
+            },
+            "references": [
+                "https://sandiego.hylandcloud.com/211agendaonlinecomm/Documents/ViewDocument/FINAL%20San%20Diego_Parking%20Demand%20Management%20Study_01.21.2025.pdf.pdf?meetingId=6311&documentType=Agenda&itemId=242165&publishId=939139&isSection=false"
+            ],
+            "rights": null,
+            "spatial": null,
+            "temporal": null,
+            "title": "Parking Study: average occupancy by site"
         },
         {
             "@type": "dcat:Dataset",
@@ -6118,7 +6163,7 @@
             },
             "describedBy": "https://seshat.datasd.org/police_calls_for_service/pd_calls_for_service_dictionary_datasd.csv",
             "describedByType": "text/csv",
-            "description": "Calls dispatched by the San Diego Police Department\u2019s communications\ndispatch center.",
+            "description": "Calls dispatched by the San Diego Police Department’s communications\ndispatch center.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -6244,7 +6289,7 @@
             },
             "describedBy": "https://seshat.datasd.org/police_nibrs/pd_nibrs_dictionary.csv",
             "describedByType": "text/csv",
-            "description": "Crime data reported to the FBI\u2019s National Incident-Based Reporting System (NIBRS) for statistics.",
+            "description": "Crime data reported to the FBI’s National Incident-Based Reporting System (NIBRS) for statistics.",
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
@@ -7192,6 +7237,50 @@
                 "fn": "Data & Analytics",
                 "hasEmail": "data@sandiego.gov"
             },
+            "describedBy": "https://seshat.datasd.org/purchasing_contracting/purchase_order_vendors_dictionary_datasd.csv",
+            "describedByType": "text/csv",
+            "description": "Purchase order details including vendor information.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Purchase Order Vendors",
+                    "downloadURL": "https://seshat.datasd.org/purchasing_contracting/purchase_order_vendors_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                }
+            ],
+            "identifier": "purchase_order_vendors",
+            "issued": "2026-11-06",
+            "keyword": [
+                "Vendor contracts",
+                "Procurement",
+                "Municipal Spending"
+            ],
+            "license": "https://opendefinition.org/licenses/odc-pddl/",
+            "modified": "2026-11-24",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Purchasing & Contracting",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "City of San Diego"
+                }
+            },
+            "references": null,
+            "rights": null,
+            "spatial": null,
+            "temporal": null,
+            "title": "Purchase Order Vendors"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "accrualPeriodicity": "R/P1D",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Data & Analytics",
+                "hasEmail": "data@sandiego.gov"
+            },
             "describedBy": "https://seshat.datasd.org/rtax_accounts/rtax_accounts_datasd_dict.csv",
             "describedByType": "text/csv",
             "description": "Account number and property address for Rental Unit Business Tax accounts that have a balance of $0 as a result of payment of Rental Unit Business Taxes or currently has an exemption on file.",
@@ -7525,6 +7614,49 @@
         {
             "@type": "dcat:Dataset",
             "accessLevel": "public",
+            "accrualPeriodicity": "R/P1W",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Data & Analytics",
+                "hasEmail": "data@sandiego.gov"
+            },
+            "describedBy": "https://seshat.datasd.org/traffic_adt_counts/traffic_counts_dictionary_datasd.csv",
+            "describedByType": "text/csv",
+            "description": "The census count of vehicles on city streets is normally reported in the form of Average Daily Traffic (ADT) counts.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Traffic Counts",
+                    "downloadURL": "https://seshat.datasd.org/traffic_adt_counts/traffic_counts_datasd.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv"
+                }
+            ],
+            "identifier": "traffic_adt_counts",
+            "issued": "2016-05-17",
+            "keyword": [
+                "Transit",
+                "Assets"
+            ],
+            "license": "https://opendefinition.org/licenses/odc-pddl/",
+            "modified": "2023-04-01",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Transportation Department",
+                "subOrganizationOf": {
+                    "@type": "org:Organization",
+                    "name": "City of San Diego"
+                }
+            },
+            "references": null,
+            "rights": null,
+            "spatial": null,
+            "temporal": null,
+            "title": "Traffic Counts"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
             "accrualPeriodicity": null,
             "contactPoint": {
                 "@type": "vcard:Contact",
@@ -7609,138 +7741,6 @@
             "spatial": null,
             "temporal": null,
             "title": "Traffic collisions - basic reports"
-        },
-        {
-            "@type": "dcat:Dataset",
-            "accessLevel": "public",
-            "accrualPeriodicity": "R/P1W",
-            "contactPoint": {
-                "@type": "vcard:Contact",
-                "fn": "Data & Analytics",
-                "hasEmail": "data@sandiego.gov"
-            },
-            "describedBy": "https://seshat.datasd.org/traffic_adt_counts/traffic_counts_dictionary_datasd.csv",
-            "describedByType": "text/csv",
-            "description": "The census count of vehicles on city streets is normally reported in the form of Average Daily Traffic (ADT) counts.",
-            "distribution": [
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Traffic Counts",
-                    "downloadURL": "https://seshat.datasd.org/traffic_adt_counts/traffic_counts_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                }
-            ],
-            "identifier": "traffic_adt_counts",
-            "issued": "2016-05-17",
-            "keyword": [
-                "Transit",
-                "Assets"
-            ],
-            "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2023-04-01",
-            "publisher": {
-                "@type": "org:Organization",
-                "name": "Transportation Department",
-                "subOrganizationOf": {
-                    "@type": "org:Organization",
-                    "name": "City of San Diego"
-                }
-            },
-            "references": null,
-            "rights": null,
-            "spatial": null,
-            "temporal": null,
-            "title": "Traffic Counts"
-        },
-        {
-            "@type": "dcat:Dataset",
-            "accessLevel": "public",
-            "accrualPeriodicity": "R/P1D",
-            "contactPoint": {
-                "@type": "vcard:Contact",
-                "fn": "Data & Analytics",
-                "hasEmail": "data@sandiego.gov"
-            },
-            "describedBy": "https://seshat.datasd.org/purchasing_contracting/goods_and_services_contract_spend_dictionary_datasd.csv",
-            "describedByType": "text/csv",
-            "description": "Contracts for Goods and Services Purchased by the City of San Diego.",
-            "distribution": [
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Goods and Services Contract Spending",
-                    "downloadURL": "https://seshat.datasd.org/purchasing_contracting/goods_and_services_contract_spend_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                }
-            ],
-            "identifier": "goods_and_services_contract_spend",
-            "issued": "2026-11-06",
-            "keyword": [
-                "Goods and services expenditures",
-                "Vendor contracts",
-                "Procurement",
-                "Municipal Spending"
-            ],
-            "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-11-24",
-            "publisher": {
-                "@type": "org:Organization",
-                "name": "Purchasing & Contracting",
-                "subOrganizationOf": {
-                    "@type": "org:Organization",
-                    "name": "City of San Diego"
-                }
-            },
-            "references": null,
-            "rights": null,
-            "spatial": null,
-            "temporal": null,
-            "title": "Goods and Services Contract Spending"
-        },
-        {
-            "@type": "dcat:Dataset",
-            "accessLevel": "public",
-            "accrualPeriodicity": "R/P1D",
-            "contactPoint": {
-                "@type": "vcard:Contact",
-                "fn": "Data & Analytics",
-                "hasEmail": "data@sandiego.gov"
-            },
-            "describedBy": "https://seshat.datasd.org/purchasing_contracting/purchase_order_vendors_dictionary_datasd.csv",
-            "describedByType": "text/csv",
-            "description": "Purchase order details including vendor information.",
-            "distribution": [
-                {
-                    "@type": "dcat:Distribution",
-                    "title": "Purchase Order Vendors",
-                    "downloadURL": "https://seshat.datasd.org/purchasing_contracting/purchase_order_vendors_datasd.csv",
-                    "mediaType": "text/csv",
-                    "format": "csv"
-                }
-            ],
-            "identifier": "purchase_order_vendors",
-            "issued": "2026-11-06",
-            "keyword": [
-                "Vendor contracts",
-                "Procurement",
-                "Municipal Spending"
-            ],
-            "license": "https://opendefinition.org/licenses/odc-pddl/",
-            "modified": "2026-11-24",
-            "publisher": {
-                "@type": "org:Organization",
-                "name": "Purchasing & Contracting",
-                "subOrganizationOf": {
-                    "@type": "org:Organization",
-                    "name": "City of San Diego"
-                }
-            },
-            "references": null,
-            "rights": null,
-            "spatial": null,
-            "temporal": null,
-            "title": "Purchase Order Vendors"
         }
     ]
 }
